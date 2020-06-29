@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-06-13T03:27:22+00:00",
+  "lastUpdated": "2020-06-28T10:25:54+00:00",
   "providerName": "CARTOON BLAST!",
   "language": "en-US",
   "movies": [
@@ -25,8 +25,7 @@
       "shortDescription": "Robotix  The Movie (1985) (1)",
       "longDescription": "Robotix  The Movie (1985) (1)",
       "tags": [
-        "animated",
-        "anime"
+        "Robotix"
       ]
     },
     {
@@ -51,8 +50,7 @@
       "shortDescription": "BigfootAndTheMuscleMachinesMovie-full",
       "longDescription": "BigfootAndTheMuscleMachinesMovie-full",
       "tags": [
-        "animated",
-        "anime"
+        "Bigfoot"
       ]
     },
     {
@@ -77,8 +75,7 @@
       "shortDescription": "CaptainFutureAndTheSpaceEmperor",
       "longDescription": "CaptainFutureAndTheSpaceEmperor",
       "tags": [
-        "animated",
-        "anime"
+        "CaptainFuture"
       ]
     },
     {
@@ -103,8 +100,8 @@
       "shortDescription": "Ultraman USA",
       "longDescription": "Ultraman USA",
       "tags": [
-        "animated",
-        "anime"
+        "anime",
+        "ultraman"
       ]
     },
     {
@@ -129,8 +126,8 @@
       "shortDescription": "Ultraman II_ Episode 2",
       "longDescription": "Ultraman II_ Episode 2",
       "tags": [
-        "animated",
-        "anime"
+        "anime",
+        "ultraman"
       ]
     },
     {
@@ -155,8 +152,8 @@
       "shortDescription": "Ultraman II_ Episode 1",
       "longDescription": "Ultraman II_ Episode 1",
       "tags": [
-        "animated",
-        "anime"
+        "anime",
+        "ultraman"
       ]
     },
     {
@@ -519,7 +516,6 @@
       "shortDescription": "14 The Mummy Strikes",
       "longDescription": "14 The Mummy Strikes",
       "tags": [
-        "animated",
         "SUPERMAN"
       ]
     },
@@ -545,7 +541,6 @@
       "shortDescription": "13 Destruction, Inc.",
       "longDescription": "13 Destruction, Inc.",
       "tags": [
-        "animated",
         "SUPERMAN"
       ]
     },
@@ -571,8 +566,7 @@
       "shortDescription": "12 Eleventh Hour",
       "longDescription": "12 Eleventh Hour",
       "tags": [
-        "animated",
-        "anime"
+        "superman"
       ]
     },
     {
@@ -598,8 +592,7 @@
       "shortDescription": "11 Showdown",
       "longDescription": "11 Showdown",
       "tags": [
-        "animated",
-        "anime"
+        "superman"
       ]
     },
     {
@@ -624,8 +617,7 @@
       "shortDescription": "10 Japoteurs",
       "longDescription": "10 Japoteurs",
       "tags": [
-        "animated",
-        "anime"
+        "superman"
       ]
     },
     {
@@ -650,8 +642,7 @@
       "shortDescription": "9 Terror on the Midway",
       "longDescription": "9 Terror on the Midway",
       "tags": [
-        "animated",
-        "anime"
+        "superman"
       ]
     },
     {
@@ -676,8 +667,7 @@
       "shortDescription": "8 Volcano",
       "longDescription": "8 Volcano",
       "tags": [
-        "animated",
-        "anime"
+        "superman"
       ]
     },
     {
@@ -702,8 +692,7 @@
       "shortDescription": "7 Electric Earthquake",
       "longDescription": "7 Electric Earthquake",
       "tags": [
-        "animated",
-        "anime"
+        "superman"
       ]
     },
     {
@@ -728,8 +717,7 @@
       "shortDescription": "6 The Magnetic Telescope",
       "longDescription": "6 The Magnetic Telescope",
       "tags": [
-        "animated",
-        "anime"
+        "superman"
       ]
     },
     {
@@ -754,8 +742,7 @@
       "shortDescription": "5 The Bulleteers",
       "longDescription": "5 The Bulleteers",
       "tags": [
-        "animated",
-        "anime"
+        "superman"
       ]
     },
     {
@@ -780,8 +767,7 @@
       "shortDescription": "4 The Arctic Giant",
       "longDescription": "4 The Arctic Giant",
       "tags": [
-        "animated",
-        "anime"
+        "superman"
       ]
     },
     {
@@ -806,8 +792,7 @@
       "shortDescription": "3 Billion Dollar Limited",
       "longDescription": "3 Billion Dollar Limited",
       "tags": [
-        "animated",
-        "anime"
+        "superman"
       ]
     },
     {
@@ -832,8 +817,7 @@
       "shortDescription": "2 The Mechanical Monsters",
       "longDescription": "2 The Mechanical Monsters",
       "tags": [
-        "animated",
-        "anime"
+        "superman"
       ]
     },
     {
@@ -859,7 +843,8 @@
       "longDescription": "1 The Mad Scientist",
       "tags": [
         "animated",
-        "anime"
+        "anime",
+        "superman"
       ]
     },
     {
@@ -1303,6 +1288,464 @@
       "tags": [
         "animated",
         "anime"
+      ]
+    },
+    {
+      "id": "420481346",
+      "title": "MASK - S01E01 - The Deathstone (Pilot Episode)",
+      "content": {
+        "dateAdded": "2020-05-26T15:35:02-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420481346.sd.mp4?s=5a4b234d111e8539edd9760a06dd94cf181aa5d2&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1333
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895738988_800x450.png",
+      "releaseDate": "2020-05-19T19:00:25-04:00",
+      "shortDescription": "MASK - S01E01 - The Deathstone (Pilot Episode)",
+      "longDescription": "MASK - S01E01 - The Deathstone (Pilot Episode)",
+      "tags": [
+        "MASK"
+      ]
+    },
+    {
+      "id": "420481164",
+      "title": "MASK - S01E02 - The Star Chariot",
+      "content": {
+        "dateAdded": "2020-05-26T15:35:02-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420481164.sd.mp4?s=b76de16389d82b6ce0040de85f7c4ea27bf1a825&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1332
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895738989_800x450.png",
+      "releaseDate": "2020-05-19T18:59:39-04:00",
+      "shortDescription": "MASK - S01E02 - The Star Chariot",
+      "longDescription": "MASK - S01E02 - The Star Chariot",
+      "tags": [
+        "MASK"
+      ]
+    },
+    {
+      "id": "420481027",
+      "title": "MASK  S01E03 - Book Of Power",
+      "content": {
+        "dateAdded": "2020-06-08T00:30:12-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420481027.sd.mp4?s=3e7a2f729e59240625ec8ad4770d5e12e0788306&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1333
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895738508_800x450.png",
+      "releaseDate": "2020-05-19T18:59:05-04:00",
+      "shortDescription": "MASK  S01E03 - Book Of Power",
+      "longDescription": "MASK  S01E03 - Book Of Power",
+      "tags": [
+        "MASK"
+      ]
+    },
+    {
+      "id": "420480882",
+      "title": "MASK  S01E04 - Highway To Terror",
+      "content": {
+        "dateAdded": "2020-06-08T00:30:12-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420480882.sd.mp4?s=7d8c228c48d3175cebeae7116ada34f0db912518&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1335
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895738286_800x450.png",
+      "releaseDate": "2020-05-19T18:58:25-04:00",
+      "shortDescription": "MASK  S01E04 - Highway To Terror",
+      "longDescription": "MASK  S01E04 - Highway To Terror",
+      "tags": [
+        "MASK"
+      ]
+    },
+    {
+      "id": "420480754",
+      "title": "MASK  S01E05 - Video VENOM",
+      "content": {
+        "dateAdded": "2020-06-08T00:30:12-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420480754.sd.mp4?s=4db381b4253407ce3fab507fa6db5cfd9c2df9b6&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1334
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895738193_800x450.png",
+      "releaseDate": "2020-05-19T18:57:45-04:00",
+      "shortDescription": "MASK  S01E05 - Video VENOM",
+      "longDescription": "MASK  S01E05 - Video VENOM",
+      "tags": [
+        "MASK"
+      ]
+    },
+    {
+      "id": "420482203",
+      "title": "Ep01 Spiral Zone Holographic Zone Battle",
+      "content": {
+        "dateAdded": "2020-05-26T15:35:02-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420482203.sd.mp4?s=d2f8bdb32506356be315237afc2a38a72caeddab&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1361
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895740143_800x450.png",
+      "releaseDate": "2020-05-19T19:04:26-04:00",
+      "shortDescription": "Ep01 Spiral Zone Holographic Zone Battle",
+      "longDescription": "Ep01 Spiral Zone Holographic Zone Battle",
+      "tags": [
+        "SpiralZone"
+      ]
+    },
+    {
+      "id": "420482053",
+      "title": "Ep02 Spiral Zone  King of the Skies",
+      "content": {
+        "dateAdded": "2020-05-26T15:35:02-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420482053.sd.mp4?s=e498f670a046e3b2e8da908bf2ac62465fbc85ed&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1326
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895740079_800x450.png",
+      "releaseDate": "2020-05-19T19:03:42-04:00",
+      "shortDescription": "Ep02 Spiral Zone  King of the Skies",
+      "longDescription": "Ep02 Spiral Zone  King of the Skies",
+      "tags": [
+        "SpiralZone"
+      ]
+    },
+    {
+      "id": "420481827",
+      "title": "Ep03 Spiral Zone  Errand of Mercy",
+      "content": {
+        "dateAdded": "2020-06-08T00:30:12-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420481827.sd.mp4?s=7740b7dec2de2507cff88509669d88ea424494a7&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1370
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895739853_800x450.png",
+      "releaseDate": "2020-05-19T19:02:38-04:00",
+      "shortDescription": "Ep03 Spiral Zone  Errand of Mercy",
+      "longDescription": "Ep03 Spiral Zone  Errand of Mercy",
+      "tags": [
+        "SpiralZone"
+      ]
+    },
+    {
+      "id": "420481655",
+      "title": "Ep04  Spiral Zone Mission Into Evil",
+      "content": {
+        "dateAdded": "2020-06-08T00:30:12-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420481655.sd.mp4?s=fe8e639cc229ab5288303dd92b79800ef87f59c8&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1362
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895739507_800x450.png",
+      "releaseDate": "2020-05-19T19:01:50-04:00",
+      "shortDescription": "Ep04  Spiral Zone Mission Into Evil",
+      "longDescription": "Ep04  Spiral Zone Mission Into Evil",
+      "tags": [
+        "SpiralZone"
+      ]
+    },
+    {
+      "id": "420481489",
+      "title": "Ep05  Spiral Zone  Back To The Stone Age",
+      "content": {
+        "dateAdded": "2020-06-08T00:30:12-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420481489.sd.mp4?s=7c3189b01cc3dc369012e22dac280935427fcbb0&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1366
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895739663_800x450.png",
+      "releaseDate": "2020-05-19T19:01:08-04:00",
+      "shortDescription": "Ep05  Spiral Zone  Back To The Stone Age",
+      "longDescription": "Ep05  Spiral Zone  Back To The Stone Age",
+      "tags": [
+        "SpiralZone"
+      ]
+    },
+    {
+      "id": "420480575",
+      "title": "Visionaries Knights of the Magical Light E 10 [380p]",
+      "content": {
+        "dateAdded": "2020-06-13T08:11:57-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420480575.sd.mp4?s=423560cdefa93c115d3cab8d1db12a67ede7ef5b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1523
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895737932_800x450.png",
+      "releaseDate": "2020-05-19T18:57:02-04:00",
+      "shortDescription": "Visionaries Knights of the Magical Light E 10 [380p]",
+      "longDescription": "Visionaries Knights of the Magical Light E 10 [380p]",
+      "tags": [
+        "action",
+        "Visionaries"
+      ]
+    },
+    {
+      "id": "420468617",
+      "title": "Visionaries Knights Of The Magical Light S01 E13 [380p]",
+      "content": {
+        "dateAdded": "2020-06-13T08:11:57-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420468617.sd.mp4?s=765a5dcfd12ae76d2ad3aa76b4c160412dca0a55&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1306
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895721317_800x450.png",
+      "releaseDate": "2020-05-19T18:08:31-04:00",
+      "shortDescription": "Visionaries Knights Of The Magical Light S01 E13 [380p]",
+      "longDescription": "Visionaries Knights Of The Magical Light S01 E13 [380p]",
+      "tags": [
+        "action",
+        "Visionaries"
+      ]
+    },
+    {
+      "id": "420468468",
+      "title": "Visionaries Knights Of The Magical Light S01 E12 [380p]",
+      "content": {
+        "dateAdded": "2020-06-13T08:11:57-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420468468.sd.mp4?s=51b435ab76aabc8fc0176de6fb0af6e837293ade&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1274
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895721095_800x450.png",
+      "releaseDate": "2020-05-19T18:07:49-04:00",
+      "shortDescription": "Visionaries Knights Of The Magical Light S01 E12 [380p]",
+      "longDescription": "Visionaries Knights Of The Magical Light S01 E12 [380p]",
+      "tags": [
+        "action",
+        "Visionaries"
+      ]
+    },
+    {
+      "id": "420468329",
+      "title": "Visionaries Knights Of The Magical Light S01 E09 [380p]",
+      "content": {
+        "dateAdded": "2020-06-13T08:11:57-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420468329.sd.mp4?s=041b5c02300d33bc818a41a69d3a72fe4a01b9ce&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1272
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895720887_800x450.png",
+      "releaseDate": "2020-05-19T18:07:15-04:00",
+      "shortDescription": "Visionaries Knights Of The Magical Light S01 E09 [380p]",
+      "longDescription": "Visionaries Knights Of The Magical Light S01 E09 [380p]",
+      "tags": [
+        "action",
+        "Visionaries"
+      ]
+    },
+    {
+      "id": "420468194",
+      "title": "Visionaries Knights Of The Magical Light S01 E08 [380p]",
+      "content": {
+        "dateAdded": "2020-06-13T08:11:57-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420468194.sd.mp4?s=2bf9779c5310f5a2f554bbc685f0903d9d90bdfb&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1270
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895720795_800x450.png",
+      "releaseDate": "2020-05-19T18:06:42-04:00",
+      "shortDescription": "Visionaries Knights Of The Magical Light S01 E08 [380p]",
+      "longDescription": "Visionaries Knights Of The Magical Light S01 E08 [380p]",
+      "tags": [
+        "action",
+        "Visionaries"
+      ]
+    },
+    {
+      "id": "420468037",
+      "title": "Visionaries Knights Of The Magical Light S01 E05 [380p]",
+      "content": {
+        "dateAdded": "2020-06-13T08:11:57-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420468037.sd.mp4?s=4e55b566f8d04da46445879760b87bd0007967a6&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1269
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895720675_800x450.png",
+      "releaseDate": "2020-05-19T18:06:09-04:00",
+      "shortDescription": "Visionaries Knights Of The Magical Light S01 E05 [380p]",
+      "longDescription": "Visionaries Knights Of The Magical Light S01 E05 [380p]",
+      "tags": [
+        "action",
+        "Visionaries"
+      ]
+    },
+    {
+      "id": "420467931",
+      "title": "Visionaries Knights Of The Magical Light S01 E04 [380p]",
+      "content": {
+        "dateAdded": "2020-06-13T08:11:57-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420467931.sd.mp4?s=1263100a5da25a9167115e8f5e1144d8d2d34333&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1267
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895720332_800x450.png",
+      "releaseDate": "2020-05-19T18:05:45-04:00",
+      "shortDescription": "Visionaries Knights Of The Magical Light S01 E04 [380p]",
+      "longDescription": "Visionaries Knights Of The Magical Light S01 E04 [380p]",
+      "tags": [
+        "action",
+        "Visionaries"
+      ]
+    },
+    {
+      "id": "420464615",
+      "title": "Visionaries - 01 - The Age of Magic Begi [380p]",
+      "content": {
+        "dateAdded": "2020-06-13T08:11:57-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420464615.sd.mp4?s=457534bf63cfcca65571638f599f96c3f2dc6a54&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1335
+      },
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895715923_800x450.png",
+      "releaseDate": "2020-05-19T17:53:17-04:00",
+      "shortDescription": "Visionaries - 01 - The Age of Magic Begi [380p]",
+      "longDescription": "Visionaries - 01 - The Age of Magic Begi [380p]",
+      "tags": [
+        "action",
+        "Visionaries"
       ]
     }
   ]
