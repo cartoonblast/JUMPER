@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-07-08T05:55:23+00:00",
+  "lastUpdated": "2020-07-29T09:28:46+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -3610,6 +3610,131 @@
       "tags": [
         "action",
         "Visionaries"
+      ]
+    },
+    {
+      "id": "442279310",
+      "title": "SATURDAY SUPER EPS1",
+      "content": {
+        "dateAdded": "2020-07-28T20:39:58-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/442279310.hd.mp4?s=f87c0178f3ef73e4b72587ec9b2784b89ae18ef7&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2919
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/931114879_800x450.png",
+      "releaseDate": "2020-07-28T03:38:34-04:00",
+      "shortDescription": "SATURDAY SUPER EPS1",
+      "longDescription": "SATURDAY SUPER EPS1",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "442276467",
+      "title": "8THMAN AFTER-MOVIE",
+      "content": {
+        "dateAdded": "2020-07-28T20:39:58-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/442276467.hd.mp4?s=2ebb645ac0a3f87f15d4e5e8e4d053668efccdc5&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 6092
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/931112544_800x450.png",
+      "releaseDate": "2020-07-28T03:23:25-04:00",
+      "shortDescription": "8THMAN AFTER-MOVIE",
+      "longDescription": "8THMAN AFTER-MOVIE",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "441676327",
+      "title": "XMEN01",
+      "content": {
+        "dateAdded": "2020-07-28T20:39:58-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/441676327.hd.mp4?s=7f6f184b1e4a4c6a80329fb4a568f61356d1752f&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1301
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/930019181_800x450.png",
+      "releaseDate": "2020-07-25T18:13:23-04:00",
+      "shortDescription": "XMEN TV PILOT",
+      "longDescription": "XMEN TV PILOT",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "441675495",
+      "title": "BATTLE TOADS EP 1",
+      "content": {
+        "dateAdded": "2020-07-28T20:39:58-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/441675495.hd.mp4?s=2f22be9ac4f23e4efd085100697d574aaf34bf2b&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1312
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/930016804_800x450.png",
+      "releaseDate": "2020-07-25T18:05:38-04:00",
+      "shortDescription": "BATTLE TOADS TV PILOT",
+      "longDescription": "BATTLE TOADS TV PILOT",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "442811215",
+      "title": "Saturday blast mix01",
+      "content": {
+        "dateAdded": "2020-07-29T20:36:34-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/442811215.hd.mp4?s=5795be8342132dd37a35b1857e1e922a5f3d41f9&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9506
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/932119749_800x450.png",
+      "releaseDate": "2020-07-29T15:05:27-04:00",
+      "shortDescription": "Saturday blast mix01",
+      "longDescription": "Saturday blast mix01",
+      "tags": [
+        "special"
       ]
     }
   ]
