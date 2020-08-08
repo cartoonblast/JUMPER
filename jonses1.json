@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-07-29T09:28:46+00:00",
+  "lastUpdated": "2020-08-08T01:44:03+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -3630,6 +3630,131 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/931114879_800x450.png",
+      "releaseDate": "2020-07-28",
+      "shortDescription": "SATURDAY SUPER EPS1",
+      "longDescription": "SATURDAY SUPER EPS1",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "442276467",
+      "title": "8THMAN AFTER-MOVIE",
+      "content": {
+        "dateAdded": "2020-07-28T20:39:58-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/442276467.hd.mp4?s=2ebb645ac0a3f87f15d4e5e8e4d053668efccdc5&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 6092
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/931112544_800x450.png",
+      "releaseDate": "2020-07-28",
+      "shortDescription": "8THMAN AFTER-MOVIE",
+      "longDescription": "8THMAN AFTER-MOVIE",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "441676327",
+      "title": "XMEN01",
+      "content": {
+        "dateAdded": "2020-07-28T20:39:58-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/441676327.hd.mp4?s=7f6f184b1e4a4c6a80329fb4a568f61356d1752f&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1301
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/930019181_800x450.png",
+      "releaseDate": "2020-07-25",
+      "shortDescription": "XMEN TV PILOT",
+      "longDescription": "XMEN TV PILOT",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "441675495",
+      "title": "BATTLE TOADS EP 1",
+      "content": {
+        "dateAdded": "2020-07-28T20:39:58-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/441675495.hd.mp4?s=2f22be9ac4f23e4efd085100697d574aaf34bf2b&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1312
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/930016804_800x450.png",
+      "releaseDate": "2020-07-25",
+      "shortDescription": "BATTLE TOADS TV PILOT",
+      "longDescription": "BATTLE TOADS TV PILOT",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "442811215",
+      "title": "Saturday blast mix01",
+      "content": {
+        "dateAdded": "2020-07-29T20:36:34-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/442811215.hd.mp4?s=5795be8342132dd37a35b1857e1e922a5f3d41f9&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9506
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/932119749_800x450.png",
+      "releaseDate": "2020-07-29",
+      "shortDescription": "Saturday blast mix01",
+      "longDescription": "Saturday blast mix01",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "442279310",
+      "title": "SATURDAY SUPER EPS1",
+      "content": {
+        "dateAdded": "2020-07-28T20:39:58-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/442279310.hd.mp4?s=f87c0178f3ef73e4b72587ec9b2784b89ae18ef7&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2919
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/931114879_800x450.png",
       "releaseDate": "2020-07-28T03:38:34-04:00",
       "shortDescription": "SATURDAY SUPER EPS1",
       "longDescription": "SATURDAY SUPER EPS1",
@@ -3733,6 +3858,131 @@
       "releaseDate": "2020-07-29T15:05:27-04:00",
       "shortDescription": "Saturday blast mix01",
       "longDescription": "Saturday blast mix01",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "444747458",
+      "title": "Saturday blast mix02",
+      "content": {
+        "dateAdded": "2020-08-07T17:49:04-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/444747458.hd.mp4?s=3a9f4fa9c42fd96c708757ffbd5196802dcc4cb8&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 6560
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/935254253_800x450.png",
+      "releaseDate": "2020-08-04T22:13:19-04:00",
+      "shortDescription": "mix of random cartoons",
+      "longDescription": "mix of random cartoons",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "442811214",
+      "title": "Saturday blast mix03",
+      "content": {
+        "dateAdded": "2020-08-07T17:49:43-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/442811214.hd.mp4?s=e2bf9c3b49b44faebc7fb1acb1a69ca9747078d4&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 7110
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/936454630_800x450.png",
+      "releaseDate": "2020-07-29T15:05:27-04:00",
+      "shortDescription": "Saturday blast mix03",
+      "longDescription": "Saturday blast mix03",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "445242126",
+      "title": "Saturday Blast Mix06",
+      "content": {
+        "dateAdded": "2020-08-07T17:49:04-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/445242126.hd.mp4?s=0396860b71f0fa8f2642c101d84cd924337615a5&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 10442
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/936448642_800x450.png",
+      "releaseDate": "2020-08-06T10:37:40-04:00",
+      "shortDescription": "Saturday Blast Mix06",
+      "longDescription": "Saturday Blast Mix06",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "441759175",
+      "title": "MacronOne DarkStars Revenge Fighting For Truth And Justice",
+      "content": {
+        "dateAdded": "2020-08-07T17:49:04-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/441759175.sd.mp4?s=57b9d82d48d71599537b23739b875283151cb966&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 6119
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/930196653_800x450.png",
+      "releaseDate": "2020-07-26T06:50:51-04:00",
+      "shortDescription": "MacronOne DarkStars Revenge Fighting For Truth And Justice",
+      "longDescription": "MacronOne DarkStars Revenge Fighting For Truth And Justice",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "441759011",
+      "title": "MacronOne Dark  Discovery Flight Of The Battle Robots",
+      "content": {
+        "dateAdded": "2020-08-07T17:49:04-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/441759011.sd.mp4?s=c944b400f473770a1724a268b8cbb8875d31ea9a&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 6126
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/930196210_800x450.png",
+      "releaseDate": "2020-07-26T06:49:18-04:00",
+      "shortDescription": "MacronOne Dark  Discovery Flight Of The Battle Robots",
+      "longDescription": "MacronOne Dark  Discovery Flight Of The Battle Robots",
       "tags": [
         "special"
       ]
