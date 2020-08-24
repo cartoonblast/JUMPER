@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-08-08T01:57:29+00:00",
+  "lastUpdated": "2020-08-23T02:57:15+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -3155,131 +3155,6 @@
       ]
     },
     {
-      "id": "420481346",
-      "title": "MASK - S01E01 - The Deathstone (Pilot Episode)",
-      "content": {
-        "dateAdded": "2020-05-26T15:35:02-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/420481346.sd.mp4?s=5a4b234d111e8539edd9760a06dd94cf181aa5d2&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1333
-      },
-      "genres": [
-        "action"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/895738988_800x450.png",
-      "releaseDate": "2020-05-19",
-      "shortDescription": "MASK - S01E01 - The Deathstone (Pilot Episode)",
-      "longDescription": "MASK - S01E01 - The Deathstone (Pilot Episode)",
-      "tags": [
-        "MASK"
-      ]
-    },
-    {
-      "id": "420481164",
-      "title": "MASK - S01E02 - The Star Chariot",
-      "content": {
-        "dateAdded": "2020-05-26T15:35:02-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/420481164.sd.mp4?s=b76de16389d82b6ce0040de85f7c4ea27bf1a825&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1332
-      },
-      "genres": [
-        "action"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/895738989_800x450.png",
-      "releaseDate": "2020-05-19",
-      "shortDescription": "MASK - S01E02 - The Star Chariot",
-      "longDescription": "MASK - S01E02 - The Star Chariot",
-      "tags": [
-        "MASK"
-      ]
-    },
-    {
-      "id": "420481027",
-      "title": "MASK  S01E03 - Book Of Power",
-      "content": {
-        "dateAdded": "2020-06-08T00:30:12-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/420481027.sd.mp4?s=3e7a2f729e59240625ec8ad4770d5e12e0788306&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1333
-      },
-      "genres": [
-        "action"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/895738508_800x450.png",
-      "releaseDate": "2020-05-19",
-      "shortDescription": "MASK  S01E03 - Book Of Power",
-      "longDescription": "MASK  S01E03 - Book Of Power",
-      "tags": [
-        "MASK"
-      ]
-    },
-    {
-      "id": "420480882",
-      "title": "MASK  S01E04 - Highway To Terror",
-      "content": {
-        "dateAdded": "2020-06-08T00:30:12-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/420480882.sd.mp4?s=7d8c228c48d3175cebeae7116ada34f0db912518&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1335
-      },
-      "genres": [
-        "action"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/895738286_800x450.png",
-      "releaseDate": "2020-05-19",
-      "shortDescription": "MASK  S01E04 - Highway To Terror",
-      "longDescription": "MASK  S01E04 - Highway To Terror",
-      "tags": [
-        "MASK"
-      ]
-    },
-    {
-      "id": "420480754",
-      "title": "MASK  S01E05 - Video VENOM",
-      "content": {
-        "dateAdded": "2020-06-08T00:30:12-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/420480754.sd.mp4?s=4db381b4253407ce3fab507fa6db5cfd9c2df9b6&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1334
-      },
-      "genres": [
-        "action"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/895738193_800x450.png",
-      "releaseDate": "2020-05-19",
-      "shortDescription": "MASK  S01E05 - Video VENOM",
-      "longDescription": "MASK  S01E05 - Video VENOM",
-      "tags": [
-        "MASK"
-      ]
-    },
-    {
       "id": "420482203",
       "title": "Ep01 Spiral Zone Holographic Zone Battle",
       "content": {
@@ -3860,6 +3735,433 @@
       "longDescription": "MacronOne Dark  Discovery Flight Of The Battle Robots",
       "tags": [
         "special"
+      ]
+    }
+  ],
+  "shortFormVideos": [
+    {
+      "id": "446905289",
+      "title": "The Flash - 1967 Cartoon 3",
+      "content": {
+        "dateAdded": "2020-08-23T13:05:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/446905289.sd.mp4?s=76de8f94a7bfcb847b56e0acf05de5e7e9909cce&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 424
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/938754066_800x450.png",
+      "shortDescription": "The Flash - 1967 Cartoon 3",
+      "releaseDate": "2020-08-11T14:48:42-04:00",
+      "longDescription": "The Flash - 1967 Cartoon 3",
+      "tags": [
+        "miniseries"
+      ],
+      "genres": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "446905169",
+      "title": "The Flash - 1967 Cartoon 2",
+      "content": {
+        "dateAdded": "2020-08-23T13:05:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/446905169.sd.mp4?s=0f29c5c0689da89542f8c558e9a4ffb2e7ce389f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 423
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/938753902_800x450.png",
+      "shortDescription": "The Flash - 1967 Cartoon 2",
+      "releaseDate": "2020-08-11T14:48:20-04:00",
+      "longDescription": "The Flash - 1967 Cartoon 2",
+      "tags": [
+        "miniseries"
+      ],
+      "genres": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "446905033",
+      "title": "The Flash - 1967 Cartoon 1",
+      "content": {
+        "dateAdded": "2020-08-23T13:05:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/446905033.sd.mp4?s=c5a7be6f007a1dae54cb02fe1ddcdcf6d833df50&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 420
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/938753880_800x450.png",
+      "shortDescription": "The Flash - 1967 Cartoon 1",
+      "releaseDate": "2020-08-11T14:47:55-04:00",
+      "longDescription": "The Flash - 1967 Cartoon 1",
+      "tags": [
+        "miniseries"
+      ],
+      "genres": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "446904906",
+      "title": "Teen Titans - 1967 Filmation 3",
+      "content": {
+        "dateAdded": "2020-08-23T13:05:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/446904906.sd.mp4?s=e9fd78341bcae41aa76fc25acc0decd463539af5&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 423
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/938753679_800x450.png",
+      "shortDescription": "Teen Titans - 1967 Filmation 3",
+      "releaseDate": "2020-08-11T14:47:32-04:00",
+      "longDescription": "Teen Titans - 1967 Filmation 3",
+      "tags": [
+        "miniseries"
+      ],
+      "genres": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "446904761",
+      "title": "Teen Titans - 1967 Filmation 2",
+      "content": {
+        "dateAdded": "2020-08-23T13:05:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/446904761.sd.mp4?s=a23dfc19ed8476d3ea26fd5db81da9f45b080ba9&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 423
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/938753606_800x450.png",
+      "shortDescription": "Teen Titans - 1967 Filmation 2",
+      "releaseDate": "2020-08-11T14:47:03-04:00",
+      "longDescription": "Teen Titans - 1967 Filmation 2",
+      "tags": [
+        "miniseries"
+      ],
+      "genres": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "446904642",
+      "title": "Teen Titans - 1967 Filmation 1",
+      "content": {
+        "dateAdded": "2020-08-23T13:05:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/446904642.sd.mp4?s=c731c131e8d9a7c512b1d40be99b266cdd15a30f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 423
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/938753331_800x450.png",
+      "shortDescription": "Teen Titans - 1967 Filmation 1",
+      "releaseDate": "2020-08-11T14:46:39-04:00",
+      "longDescription": "Teen Titans - 1967 Filmation 1",
+      "tags": [
+        "miniseries"
+      ],
+      "genres": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "446904517",
+      "title": "Hawkman 1960-s Cartoon - 3",
+      "content": {
+        "dateAdded": "2020-08-23T13:05:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/446904517.sd.mp4?s=b8c1b4fed9e6d9f3048ad3430eab481ac5916b6d&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 425
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/938752915_800x450.png",
+      "shortDescription": "Hawkman 1960-s Cartoon - 3",
+      "releaseDate": "2020-08-11T14:46:12-04:00",
+      "longDescription": "Hawkman 1960-s Cartoon - 3",
+      "tags": [
+        "miniseries"
+      ],
+      "genres": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "446904387",
+      "title": "Hawkman 1960-s Cartoon - 2",
+      "content": {
+        "dateAdded": "2020-08-23T13:05:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/446904387.sd.mp4?s=99a85b45054dafba88099278d981b03358258bd9&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 424
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/938752686_800x450.png",
+      "shortDescription": "Hawkman 1960-s Cartoon - 2",
+      "releaseDate": "2020-08-11T14:45:47-04:00",
+      "longDescription": "Hawkman 1960-s Cartoon - 2",
+      "tags": [
+        "miniseries"
+      ],
+      "genres": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "446904265",
+      "title": "Hawkman 1960-s Cartoon - 1",
+      "content": {
+        "dateAdded": "2020-08-23T13:05:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/446904265.sd.mp4?s=e871e1df83574e9cd5eac3c6d014237dce2c5c8e&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 423
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/938752822_800x450.png",
+      "shortDescription": "Hawkman 1960-s Cartoon - 1",
+      "releaseDate": "2020-08-11T14:45:23-04:00",
+      "longDescription": "Hawkman 1960-s Cartoon - 1",
+      "tags": [
+        "miniseries"
+      ],
+      "genres": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "446904147",
+      "title": "1967 Justice League of America - 3",
+      "content": {
+        "dateAdded": "2020-08-23T13:05:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/446904147.sd.mp4?s=aca6a4bafbd221652aefde849883dda572631915&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 424
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/938752260_800x450.png",
+      "shortDescription": "1967 Justice League of America - 3",
+      "releaseDate": "2020-08-11T14:44:58-04:00",
+      "longDescription": "1967 Justice League of America - 3",
+      "tags": [
+        "miniseries"
+      ],
+      "genres": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "446904012",
+      "title": "1967 Justice League of America - 1",
+      "content": {
+        "dateAdded": "2020-08-23T13:05:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/446904012.sd.mp4?s=98618f3f98769d2b035889ffbb06361cd98f413b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 424
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/938752066_800x450.png",
+      "shortDescription": "1967 Justice League of America - 1",
+      "releaseDate": "2020-08-11T14:44:32-04:00",
+      "longDescription": "1967 Justice League of America - 1",
+      "tags": [
+        "miniseries"
+      ],
+      "genres": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "446903692",
+      "title": "1967 Green Lantern Cartoon - 3",
+      "content": {
+        "dateAdded": "2020-08-23T13:05:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/446903692.sd.mp4?s=42c5afc61857120196dfdfe1b143e3532c12e680&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 425
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/938751980_800x450.png",
+      "shortDescription": "1967 Green Lantern Cartoon - 3",
+      "releaseDate": "2020-08-11T14:43:24-04:00",
+      "longDescription": "1967 Green Lantern Cartoon - 3",
+      "tags": [
+        "miniseries"
+      ],
+      "genres": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "446903584",
+      "title": "1967 Green Lantern Cartoon - 2",
+      "content": {
+        "dateAdded": "2020-08-23T13:05:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/446903584.sd.mp4?s=55a06c886f92053495690da2c2c2dc37be2f0009&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 427
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/938751311_800x450.png",
+      "shortDescription": "1967 Green Lantern Cartoon - 2",
+      "releaseDate": "2020-08-11T14:43:05-04:00",
+      "longDescription": "1967 Green Lantern Cartoon - 2",
+      "tags": [
+        "miniseries"
+      ],
+      "genres": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "446903438",
+      "title": "1967 Green Lantern Cartoon - 1",
+      "content": {
+        "dateAdded": "2020-08-23T13:05:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/446903438.sd.mp4?s=e3497477e1c8ca315e3ba9d82b6833764c4825aa&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 420
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/938751241_800x450.png",
+      "shortDescription": "1967 Green Lantern Cartoon - 1",
+      "releaseDate": "2020-08-11T14:42:40-04:00",
+      "longDescription": "1967 Green Lantern Cartoon - 1",
+      "tags": [
+        "miniseries"
+      ],
+      "genres": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "446903324",
+      "title": "1967 Atom Cartoon - 3",
+      "content": {
+        "dateAdded": "2020-08-23T13:05:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/446903324.sd.mp4?s=1259a9d871f2b685e205f7270f847e8c76d87d7e&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 424
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/938750970_800x450.png",
+      "shortDescription": "1967 Atom Cartoon - 3",
+      "releaseDate": "2020-08-11T14:42:19-04:00",
+      "longDescription": "1967 Atom Cartoon - 3",
+      "tags": [
+        "miniseries"
+      ],
+      "genres": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "446903152",
+      "title": "1967 Atom Cartoon - 2",
+      "content": {
+        "dateAdded": "2020-08-23T13:05:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/446903152.sd.mp4?s=59762c5200fc27c096755fee4e617dc6cd24d137&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 430
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/938750822_800x450.png",
+      "shortDescription": "1967 Atom Cartoon - 2",
+      "releaseDate": "2020-08-11T14:41:51-04:00",
+      "longDescription": "1967 Atom Cartoon - 2",
+      "tags": [
+        "miniseries"
+      ],
+      "genres": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "446903005",
+      "title": "1967 Atom Cartoon - 1",
+      "content": {
+        "dateAdded": "2020-08-23T13:05:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/446903005.sd.mp4?s=08df2b79c4290823d63320904e4fecb8469124a0&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 422
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/938750781_800x450.png",
+      "shortDescription": "1967 Atom Cartoon - 1",
+      "releaseDate": "2020-08-11T14:41:27-04:00",
+      "longDescription": "1967 Atom Cartoon - 1",
+      "tags": [
+        "miniseries"
+      ],
+      "genres": [
+        "miniseries"
       ]
     }
   ]
