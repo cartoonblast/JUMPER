@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-08-23T02:57:15+00:00",
+  "lastUpdated": "2020-09-03T09:40:42+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -3736,6 +3736,56 @@
       "tags": [
         "special"
       ]
+    },
+    {
+      "id": "453327844",
+      "title": "SATURDAY BLAST GIRLS MIX",
+      "content": {
+        "dateAdded": "2020-09-02T18:17:30-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/453327844.hd.mp4?s=58c50e22176bf7a3a97eba1f3a677280cbf4b517&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 18327
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/949637382_800x450.png",
+      "releaseDate": "2020-08-31T11:18:42-04:00",
+      "shortDescription": "MIX OF GIRLS THEME CARTOONS",
+      "longDescription": "MIX OF GIRLS THEME CARTOONS",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "447147675",
+      "title": "Saturday Blast Mix04",
+      "content": {
+        "dateAdded": "2020-09-02T18:17:30-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/447147675.hd.mp4?s=de7bca2facfa8bff343652b372046b3ba56a8645&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 13280
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/939342976_800x450.png",
+      "releaseDate": "2020-08-12T09:55:26-04:00",
+      "shortDescription": "Saturday Blast Mix04",
+      "longDescription": "Saturday Blast Mix04",
+      "tags": [
+        "special"
+      ]
     }
   ],
   "shortFormVideos": [
@@ -3755,7 +3805,7 @@
       },
       "thumbnail": "https://i.vimeocdn.com/video/938754066_800x450.png",
       "shortDescription": "The Flash - 1967 Cartoon 3",
-      "releaseDate": "2020-08-11T14:48:42-04:00",
+      "releaseDate": "2020-08-11",
       "longDescription": "The Flash - 1967 Cartoon 3",
       "tags": [
         "miniseries"
@@ -3780,7 +3830,7 @@
       },
       "thumbnail": "https://i.vimeocdn.com/video/938753902_800x450.png",
       "shortDescription": "The Flash - 1967 Cartoon 2",
-      "releaseDate": "2020-08-11T14:48:20-04:00",
+      "releaseDate": "2020-08-11",
       "longDescription": "The Flash - 1967 Cartoon 2",
       "tags": [
         "miniseries"
@@ -3805,7 +3855,7 @@
       },
       "thumbnail": "https://i.vimeocdn.com/video/938753880_800x450.png",
       "shortDescription": "The Flash - 1967 Cartoon 1",
-      "releaseDate": "2020-08-11T14:47:55-04:00",
+      "releaseDate": "2020-08-11",
       "longDescription": "The Flash - 1967 Cartoon 1",
       "tags": [
         "miniseries"
@@ -3830,7 +3880,7 @@
       },
       "thumbnail": "https://i.vimeocdn.com/video/938753679_800x450.png",
       "shortDescription": "Teen Titans - 1967 Filmation 3",
-      "releaseDate": "2020-08-11T14:47:32-04:00",
+      "releaseDate": "2020-08-11",
       "longDescription": "Teen Titans - 1967 Filmation 3",
       "tags": [
         "miniseries"
@@ -3855,7 +3905,7 @@
       },
       "thumbnail": "https://i.vimeocdn.com/video/938753606_800x450.png",
       "shortDescription": "Teen Titans - 1967 Filmation 2",
-      "releaseDate": "2020-08-11T14:47:03-04:00",
+      "releaseDate": "2020-08-11",
       "longDescription": "Teen Titans - 1967 Filmation 2",
       "tags": [
         "miniseries"
@@ -3880,7 +3930,7 @@
       },
       "thumbnail": "https://i.vimeocdn.com/video/938753331_800x450.png",
       "shortDescription": "Teen Titans - 1967 Filmation 1",
-      "releaseDate": "2020-08-11T14:46:39-04:00",
+      "releaseDate": "2020-08-11",
       "longDescription": "Teen Titans - 1967 Filmation 1",
       "tags": [
         "miniseries"
@@ -3905,7 +3955,7 @@
       },
       "thumbnail": "https://i.vimeocdn.com/video/938752915_800x450.png",
       "shortDescription": "Hawkman 1960-s Cartoon - 3",
-      "releaseDate": "2020-08-11T14:46:12-04:00",
+      "releaseDate": "2020-08-11",
       "longDescription": "Hawkman 1960-s Cartoon - 3",
       "tags": [
         "miniseries"
@@ -3930,7 +3980,7 @@
       },
       "thumbnail": "https://i.vimeocdn.com/video/938752686_800x450.png",
       "shortDescription": "Hawkman 1960-s Cartoon - 2",
-      "releaseDate": "2020-08-11T14:45:47-04:00",
+      "releaseDate": "2020-08-11",
       "longDescription": "Hawkman 1960-s Cartoon - 2",
       "tags": [
         "miniseries"
@@ -3955,7 +4005,7 @@
       },
       "thumbnail": "https://i.vimeocdn.com/video/938752822_800x450.png",
       "shortDescription": "Hawkman 1960-s Cartoon - 1",
-      "releaseDate": "2020-08-11T14:45:23-04:00",
+      "releaseDate": "2020-08-11",
       "longDescription": "Hawkman 1960-s Cartoon - 1",
       "tags": [
         "miniseries"
@@ -3980,7 +4030,7 @@
       },
       "thumbnail": "https://i.vimeocdn.com/video/938752260_800x450.png",
       "shortDescription": "1967 Justice League of America - 3",
-      "releaseDate": "2020-08-11T14:44:58-04:00",
+      "releaseDate": "2020-08-11",
       "longDescription": "1967 Justice League of America - 3",
       "tags": [
         "miniseries"
@@ -4005,7 +4055,7 @@
       },
       "thumbnail": "https://i.vimeocdn.com/video/938752066_800x450.png",
       "shortDescription": "1967 Justice League of America - 1",
-      "releaseDate": "2020-08-11T14:44:32-04:00",
+      "releaseDate": "2020-08-11",
       "longDescription": "1967 Justice League of America - 1",
       "tags": [
         "miniseries"
@@ -4030,7 +4080,7 @@
       },
       "thumbnail": "https://i.vimeocdn.com/video/938751980_800x450.png",
       "shortDescription": "1967 Green Lantern Cartoon - 3",
-      "releaseDate": "2020-08-11T14:43:24-04:00",
+      "releaseDate": "2020-08-11",
       "longDescription": "1967 Green Lantern Cartoon - 3",
       "tags": [
         "miniseries"
@@ -4055,7 +4105,7 @@
       },
       "thumbnail": "https://i.vimeocdn.com/video/938751311_800x450.png",
       "shortDescription": "1967 Green Lantern Cartoon - 2",
-      "releaseDate": "2020-08-11T14:43:05-04:00",
+      "releaseDate": "2020-08-11",
       "longDescription": "1967 Green Lantern Cartoon - 2",
       "tags": [
         "miniseries"
@@ -4080,7 +4130,7 @@
       },
       "thumbnail": "https://i.vimeocdn.com/video/938751241_800x450.png",
       "shortDescription": "1967 Green Lantern Cartoon - 1",
-      "releaseDate": "2020-08-11T14:42:40-04:00",
+      "releaseDate": "2020-08-11",
       "longDescription": "1967 Green Lantern Cartoon - 1",
       "tags": [
         "miniseries"
@@ -4105,7 +4155,7 @@
       },
       "thumbnail": "https://i.vimeocdn.com/video/938750970_800x450.png",
       "shortDescription": "1967 Atom Cartoon - 3",
-      "releaseDate": "2020-08-11T14:42:19-04:00",
+      "releaseDate": "2020-08-11",
       "longDescription": "1967 Atom Cartoon - 3",
       "tags": [
         "miniseries"
@@ -4130,7 +4180,7 @@
       },
       "thumbnail": "https://i.vimeocdn.com/video/938750822_800x450.png",
       "shortDescription": "1967 Atom Cartoon - 2",
-      "releaseDate": "2020-08-11T14:41:51-04:00",
+      "releaseDate": "2020-08-11",
       "longDescription": "1967 Atom Cartoon - 2",
       "tags": [
         "miniseries"
@@ -4155,7 +4205,7 @@
       },
       "thumbnail": "https://i.vimeocdn.com/video/938750781_800x450.png",
       "shortDescription": "1967 Atom Cartoon - 1",
-      "releaseDate": "2020-08-11T14:41:27-04:00",
+      "releaseDate": "2020-08-11",
       "longDescription": "1967 Atom Cartoon - 1",
       "tags": [
         "miniseries"
