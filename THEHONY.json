@@ -1,0 +1,1607 @@
+{
+  "lastUpdated": "2020-09-06T03:39:06+00:00",
+  "providerName": "BRICKCITY STUDIO",
+  "language": "en-US",
+  "movies": [
+    {
+      "id": "421572075",
+      "title": "Honeymooners S1E01 TV or Not TV",
+      "content": {
+        "dateAdded": "2020-05-22T12:21:02-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/421572075.sd.mp4?s=200355b760c560e71bce731856acda29ec67fbe7&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1562
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/897270707_800x450.png",
+      "releaseDate": "2020-05-22",
+      "shortDescription": "Honeymooners S1E01 TV or Not TV",
+      "longDescription": "Honeymooners S1E01 TV or Not TV",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "423824968",
+      "title": "The Gleason Show 09",
+      "content": {
+        "dateAdded": "2020-05-28T23:51:09-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/423824968.sd.mp4?s=c40153ece091d511f0631fc69600b35ffb95ce1e&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 643
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/900438342_800x450.png",
+      "releaseDate": "2020-05-28",
+      "shortDescription": "The Gleason Show 09",
+      "longDescription": "The Gleason Show 09",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "423825990",
+      "title": "The Gleason Show 10",
+      "content": {
+        "dateAdded": "2020-05-28T23:51:09-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/423825990.sd.mp4?s=d712aae9d9a58f2b339a54f65e2edb1fe99dc5fd&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 669
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/900440104_800x450.png",
+      "releaseDate": "2020-05-28",
+      "shortDescription": "The Gleason Show 10",
+      "longDescription": "The Gleason Show 10",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "423827426",
+      "title": "The Gleason Show 11",
+      "content": {
+        "dateAdded": "2020-05-28T23:51:09-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/423827426.sd.mp4?s=79cf118e4f09f5e3682a7c75d5ca7b8b96798186&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2361
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/900441947_800x450.png",
+      "releaseDate": "2020-05-28",
+      "shortDescription": "The Gleason Show 11",
+      "longDescription": "The Gleason Show 11",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "423830933",
+      "title": "The Gleason Show 12",
+      "content": {
+        "dateAdded": "2020-05-28T23:51:09-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/423830933.sd.mp4?s=a0a822849f20b1b65c684eb8783e5e1176f34bb0&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 598
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/900446667_800x450.png",
+      "releaseDate": "2020-05-28",
+      "shortDescription": "The Gleason Show 12",
+      "longDescription": "The Gleason Show 12",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "423832274",
+      "title": "The Gleason Show 13",
+      "content": {
+        "dateAdded": "2020-05-28T23:51:09-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/423832274.sd.mp4?s=22707b53a9885b0b06049f7e6545789d3804bf8d&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 616
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/900448606_800x450.png",
+      "releaseDate": "2020-05-28",
+      "shortDescription": "The Gleason Show 13",
+      "longDescription": "The Gleason Show 13",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "423833441",
+      "title": "The Gleason Show 14",
+      "content": {
+        "dateAdded": "2020-05-28T23:51:09-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/423833441.sd.mp4?s=a5a9c5f709ad9f84989866954ceb11939a58a578&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2216
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/900450487_800x450.png",
+      "releaseDate": "2020-05-28",
+      "shortDescription": "The Gleason Show 14",
+      "longDescription": "The Gleason Show 14",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "424685025",
+      "title": "The Gleason Show 15",
+      "content": {
+        "dateAdded": "2020-06-02T15:48:00-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/424685025.sd.mp4?s=4cabd3b1f99ee583152c7b0e6b0aa9c62d0e2eba&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1871
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/901790003_800x450.png",
+      "releaseDate": "2020-06-01",
+      "shortDescription": "The Gleason Show 15",
+      "longDescription": "The Gleason Show 15",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "424688877",
+      "title": "The Gleason Show 16",
+      "content": {
+        "dateAdded": "2020-06-02T15:48:00-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/424688877.sd.mp4?s=30c4dc78ef1e9e92a765b7a44e3ac0de2d78cf2c&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 781
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/901795545_800x450.png",
+      "releaseDate": "2020-06-01",
+      "shortDescription": "The Gleason Show 16",
+      "longDescription": "The Gleason Show 16",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "424691400",
+      "title": "The Gleason Show 18",
+      "content": {
+        "dateAdded": "2020-06-02T15:48:00-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/424691400.sd.mp4?s=6f70da34619f1fb0ba3cd67e24b03c59ffc42ec7&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2047
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/901799686_800x450.png",
+      "releaseDate": "2020-06-01",
+      "shortDescription": "The Gleason Show 18",
+      "longDescription": "The Gleason Show 18",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "424690183",
+      "title": "The Gleason Show 17",
+      "content": {
+        "dateAdded": "2020-06-02T15:48:00-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/424690183.sd.mp4?s=0ce36fa0e6dff67589f4c13ee976c1eb0948b890&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 568
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/901797730_800x450.png",
+      "releaseDate": "2020-06-01",
+      "shortDescription": "The Gleason Show 17",
+      "longDescription": "The Gleason Show 17",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "424694656",
+      "title": "The Gleason Show 19",
+      "content": {
+        "dateAdded": "2020-06-02T15:48:00-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/424694656.sd.mp4?s=69ec4bb89d1ec8816ba23b88ce2361be9ccb42cc&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 636
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/901804962_800x450.png",
+      "releaseDate": "2020-06-01",
+      "shortDescription": "The Gleason Show 19",
+      "longDescription": "The Gleason Show 19",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "424695463",
+      "title": "The Gleason Show 20",
+      "content": {
+        "dateAdded": "2020-06-02T15:48:00-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/424695463.sd.mp4?s=6ba03e193d7afc98e78bf495f6b8b7d679a2fff4&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2240
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/901806463_800x450.png",
+      "releaseDate": "2020-06-01",
+      "shortDescription": "The Gleason Show 20",
+      "longDescription": "The Gleason Show 20",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "424698445",
+      "title": "The Gleason Show 21",
+      "content": {
+        "dateAdded": "2020-06-02T15:48:00-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/424698445.sd.mp4?s=2338e7009fa5e8684a893c74ee9a123b1d0db6fd&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2308
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/901811200_800x450.png",
+      "releaseDate": "2020-06-01",
+      "shortDescription": "The Gleason Show 21",
+      "longDescription": "The Gleason Show 21",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "424703244",
+      "title": "The Gleason Show 22",
+      "content": {
+        "dateAdded": "2020-06-02T15:48:00-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/424703244.sd.mp4?s=0c10806e6b5539f16d9652b4e2b06cc47126aaeb&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1995
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/901818423_800x450.png",
+      "releaseDate": "2020-06-01",
+      "shortDescription": "The Gleason Show 22",
+      "longDescription": "The Gleason Show 22",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "424705761",
+      "title": "The Gleason Show 23",
+      "content": {
+        "dateAdded": "2020-06-02T15:48:00-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/424705761.sd.mp4?s=9f4329d96074f9f064f89479eeaf006ab66f6e30&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 469
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/901821951_800x450.png",
+      "releaseDate": "2020-06-01",
+      "shortDescription": "The Gleason Show 23",
+      "longDescription": "The Gleason Show 23",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "424706305",
+      "title": "The Gleason Show 24",
+      "content": {
+        "dateAdded": "2020-06-02T15:48:00-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/424706305.sd.mp4?s=1e7dfe9fd1503163ede4496ca62240832b88f59e&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 721
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/901822816_800x450.png",
+      "releaseDate": "2020-06-01",
+      "shortDescription": "The Gleason Show 24",
+      "longDescription": "The Gleason Show 24",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "424707145",
+      "title": "The Gleason Show 25",
+      "content": {
+        "dateAdded": "2020-06-02T15:48:00-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/424707145.sd.mp4?s=5c0c836440155333296a6f070804688682bd038e&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2359
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/901824580_800x450.png",
+      "releaseDate": "2020-06-01",
+      "shortDescription": "The Gleason Show 25",
+      "longDescription": "The Gleason Show 25",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "428273567",
+      "title": "The Gleason Show 26",
+      "content": {
+        "dateAdded": "2020-06-11T17:50:28-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/428273567.sd.mp4?s=7fbe29fae6d0951fd2f0b5e6b45aaf9433f23731&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2169
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/907607275_800x450.png",
+      "releaseDate": "2020-06-11",
+      "shortDescription": "The Gleason Show 26",
+      "longDescription": "The Gleason Show 26",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "428292516",
+      "title": "The Gleason Show 36",
+      "content": {
+        "dateAdded": "2020-06-13T22:30:04-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/428292516.sd.mp4?s=feadc1c6490afd6032286fe675671e205c65af7e&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1928
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/907634503_800x450.png",
+      "releaseDate": "2020-06-11",
+      "shortDescription": "The Gleason Show 36",
+      "longDescription": "The Gleason Show 36",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "428292872",
+      "title": "The Gleason Show 37",
+      "content": {
+        "dateAdded": "2020-06-13T22:30:04-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/428292872.sd.mp4?s=eaedf1bb37e2f58dbae8af233bfda81fe04cf1d9&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 956
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/907634974_800x450.png",
+      "releaseDate": "2020-06-11",
+      "shortDescription": "The Gleason Show 37",
+      "longDescription": "The Gleason Show 37",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "428293181",
+      "title": "The Gleason Show 38",
+      "content": {
+        "dateAdded": "2020-06-13T22:30:04-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/428293181.sd.mp4?s=74ecf8dc8e6ea9d5c12eccaf5adc7ab3b7d8897a&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2350
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/907635639_800x450.png",
+      "releaseDate": "2020-06-11",
+      "shortDescription": "The Gleason Show 38",
+      "longDescription": "The Gleason Show 38",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "428293519",
+      "title": "The Gleason Show 39",
+      "content": {
+        "dateAdded": "2020-06-13T22:30:04-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/428293519.sd.mp4?s=a2a4145e0209f527272ab8602cabd8bb8bfb5584&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 589
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/907635831_800x450.png",
+      "releaseDate": "2020-06-11",
+      "shortDescription": "The Gleason Show 39",
+      "longDescription": "The Gleason Show 39",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "428293689",
+      "title": "The Gleason Show 40",
+      "content": {
+        "dateAdded": "2020-06-13T22:30:04-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/428293689.sd.mp4?s=a788af06f9d0d9e21c81b6728934615d87c9de2c&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 823
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/907635959_800x450.png",
+      "releaseDate": "2020-06-11",
+      "shortDescription": "The Gleason Show 40",
+      "longDescription": "The Gleason Show 40",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "428292045",
+      "title": "Honeymooners S1E09 Brother Ralph",
+      "content": {
+        "dateAdded": "2020-06-13T22:30:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/428292045.sd.mp4?s=f228b74d40e661c85d7e1fdce64c2cb20d68b810&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1051
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/907633641_800x450.png",
+      "releaseDate": "2020-06-11",
+      "shortDescription": "Honeymooners S1E09 Brother Ralph",
+      "longDescription": "Honeymooners S1E09 Brother Ralph",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "428292285",
+      "title": "Honeymooners S1E10 Hello Mom",
+      "content": {
+        "dateAdded": "2020-06-13T22:30:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/428292285.sd.mp4?s=8b50da0df28a9abb58af5898296e8a1169f9cf8f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1561
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/907633815_800x450.png",
+      "releaseDate": "2020-06-11",
+      "shortDescription": "Honeymooners S1E10 Hello Mom",
+      "longDescription": "Honeymooners S1E10 Hello Mom",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "421606655",
+      "title": "The Gleason Show 08",
+      "content": {
+        "dateAdded": "2020-08-16T11:53:40-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/421606655.sd.mp4?s=f10e4b27738149e606c92c243fa63fbe5f8320b2&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1048
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/897314161_800x450.png",
+      "releaseDate": "2020-05-22",
+      "shortDescription": "The Gleason Show 08",
+      "longDescription": "The Gleason Show 08",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "421602862",
+      "title": "The Gleason Show 06",
+      "content": {
+        "dateAdded": "2020-08-16T11:53:40-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/421602862.sd.mp4?s=83fb4c624d3ceae09694415b3b2ff4c08c5507fe&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 429
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/897308990_800x450.png",
+      "releaseDate": "2020-05-22",
+      "shortDescription": "The Gleason Show 06",
+      "longDescription": "The Gleason Show 06",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "421598722",
+      "title": "The Gleason Show 05",
+      "content": {
+        "dateAdded": "2020-08-16T11:53:40-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/421598722.sd.mp4?s=9b7f97c06bc960d641e684781d08cf3a106fc4d2&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2256
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/default_800x450",
+      "releaseDate": "2020-05-22",
+      "shortDescription": "The Gleason Show 05",
+      "longDescription": "The Gleason Show 05",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "421596087",
+      "title": "The Gleason Show 04",
+      "content": {
+        "dateAdded": "2020-08-16T11:53:40-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/421596087.sd.mp4?s=643af1f115a885494cf1bb44540434e40428b9e0&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2407
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/897300724_800x450.png",
+      "releaseDate": "2020-05-22",
+      "shortDescription": "The Gleason Show 04",
+      "longDescription": "The Gleason Show 04",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "421594417",
+      "title": "The Gleason Show 03",
+      "content": {
+        "dateAdded": "2020-08-16T11:53:40-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/421594417.sd.mp4?s=58315b239f2d67d22103229f03f7cf320e803726&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2217
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/897299527_800x450.png",
+      "releaseDate": "2020-05-22",
+      "shortDescription": "The Gleason Show 03",
+      "longDescription": "The Gleason Show 03",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "421589975",
+      "title": "The Gleason Show 02",
+      "content": {
+        "dateAdded": "2020-08-16T11:53:40-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/421589975.sd.mp4?s=65b140bca79e84f45d227ee0ee301629a9c0b5f4&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2345
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/897293052_800x450.png",
+      "releaseDate": "2020-05-22",
+      "shortDescription": "The Gleason Show 02",
+      "longDescription": "The Gleason Show 02",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "421585215",
+      "title": "The Gleason Show 01",
+      "content": {
+        "dateAdded": "2020-08-16T11:53:40-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/421585215.sd.mp4?s=bdf8f434757a13cb1c034fa0433893c2aa7334d9&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2217
+      },
+      "genres": [
+        "comedy"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/897287927_800x450.png",
+      "releaseDate": "2020-05-22",
+      "shortDescription": "The Gleason Show 01",
+      "longDescription": "The Gleason Show 01",
+      "tags": [
+        "comedy"
+      ]
+    },
+    {
+      "id": "455179306",
+      "title": "Gleason_Show_37",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455179306.sd.mp4?s=a0e64ae7e5c8251851e5f2cf3383969ed466716e&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 534
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952751828_800x450.png",
+      "releaseDate": "2020-09-06T03:41:34-04:00",
+      "shortDescription": "Gleason_Show_37",
+      "longDescription": "Gleason_Show_37",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455179494",
+      "title": "Gleason_Show_39",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455179494.sd.mp4?s=f49be9952f3ab800b6fd2fe88440a53ebb457172&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 424
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952752030_800x450.png",
+      "releaseDate": "2020-09-06T03:43:06-04:00",
+      "shortDescription": "Gleason_Show_39",
+      "longDescription": "Gleason_Show_39",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455179631",
+      "title": "Gleason_Show_40",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455179631.sd.mp4?s=93e3e8645bcd9445092f0a100af3b358430b05eb&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 679
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952752682_800x450.png",
+      "releaseDate": "2020-09-06T03:44:22-04:00",
+      "shortDescription": "Gleason_Show_40",
+      "longDescription": "Gleason_Show_40",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455179836",
+      "title": "Gleason_Show_43",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455179836.sd.mp4?s=16aebe64583fddb7e0033a185c32ae79748e4df5&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2306
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952754203_800x450.png",
+      "releaseDate": "2020-09-06T03:46:05-04:00",
+      "shortDescription": "Gleason_Show_43",
+      "longDescription": "Gleason_Show_43",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455180591",
+      "title": "Gleason_Show_45",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455180591.sd.mp4?s=3dcf570bbae16abd734954af4af920e6548a6342&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 977
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952754689_800x450.png",
+      "releaseDate": "2020-09-06T03:52:22-04:00",
+      "shortDescription": "Gleason_Show_45",
+      "longDescription": "Gleason_Show_45",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455180900",
+      "title": "Gleason_Show_46",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455180900.sd.mp4?s=5d4425d3ae8566a8789d001e501368c6b3974965&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 897
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952755201_800x450.png",
+      "releaseDate": "2020-09-06T03:54:42-04:00",
+      "shortDescription": "Gleason_Show_46",
+      "longDescription": "Gleason_Show_46",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455181136",
+      "title": "Gleason_Show_49",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455181136.sd.mp4?s=118f1eb026f37a4ade3d76dfb45e039fc33f96c6&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 499
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952755550_800x450.png",
+      "releaseDate": "2020-09-06T03:56:42-04:00",
+      "shortDescription": "Gleason_Show_49",
+      "longDescription": "Gleason_Show_49",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455181334",
+      "title": "Gleason_Show_50",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455181334.sd.mp4?s=f828ca90fa5d6b985beb976a7bcf454bbfc01fbf&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1928
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952756219_800x450.png",
+      "releaseDate": "2020-09-06T03:58:17-04:00",
+      "shortDescription": "Gleason_Show_50",
+      "longDescription": "Gleason_Show_50",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455181672",
+      "title": "Gleason_Show_55",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455181672.sd.mp4?s=f9dc6f4c4c8bae5f1a688524d1b40300ff164974&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 956
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952756672_800x450.png",
+      "releaseDate": "2020-09-06T04:00:58-04:00",
+      "shortDescription": "Gleason_Show_55",
+      "longDescription": "Gleason_Show_55",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455181863",
+      "title": "Gleason_Show_56",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455181863.sd.mp4?s=711fb2d1d5930c6c36474e297cf088597836931b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2350
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952757220_800x450.png",
+      "releaseDate": "2020-09-06T04:02:35-04:00",
+      "shortDescription": "Gleason_Show_56",
+      "longDescription": "Gleason_Show_56",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455182195",
+      "title": "Gleason_Show_58",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455182195.sd.mp4?s=5159b80b8a06e5a113871186274c460ef9a56ad7&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 589
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952757562_800x450.png",
+      "releaseDate": "2020-09-06T04:05:23-04:00",
+      "shortDescription": "Gleason_Show_58",
+      "longDescription": "Gleason_Show_58",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455182361",
+      "title": "Gleason_Show_59",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455182361.sd.mp4?s=b569d10cd47e5d1d37cbda8f034e6c615cf5979a&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 429
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952757927_800x450.png",
+      "releaseDate": "2020-09-06T04:06:34-04:00",
+      "shortDescription": "Gleason_Show_59",
+      "longDescription": "Gleason_Show_59",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455182528",
+      "title": "Gleason_Show_61",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455182528.sd.mp4?s=961c5fedc680a8221ad528c10e346ec64cde7994&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 592
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952758207_800x450.png",
+      "releaseDate": "2020-09-06T04:07:46-04:00",
+      "shortDescription": "Gleason_Show_61",
+      "longDescription": "Gleason_Show_61",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455182730",
+      "title": "Gleason_Show_62",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455182730.sd.mp4?s=117c8a9cdbad2b8cdb3835e5c852898a2f35f311&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1048
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952758660_800x450.png",
+      "releaseDate": "2020-09-06T04:09:14-04:00",
+      "shortDescription": "Gleason_Show_62",
+      "longDescription": "Gleason_Show_62",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455182930",
+      "title": "Gleason_Show_64",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455182930.sd.mp4?s=4dcaa0a4efc095a0799ca202574abd6e38eca6eb&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 643
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952758987_800x450.png",
+      "releaseDate": "2020-09-06T04:11:04-04:00",
+      "shortDescription": "Gleason_Show_64",
+      "longDescription": "Gleason_Show_64",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455183086",
+      "title": "Gleason_Show_68",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455183086.sd.mp4?s=28219d6fb53d335f5cf40356498133929c164dd8&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 669
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/default_800x450",
+      "releaseDate": "2020-09-06T04:12:16-04:00",
+      "shortDescription": "Gleason_Show_68",
+      "longDescription": "Gleason_Show_68",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455183244",
+      "title": "Gleason_Show_69",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455183244.sd.mp4?s=e92b2c56d5669af949c6c67cb919f89781060a3b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2361
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952759849_800x450.png",
+      "releaseDate": "2020-09-06T04:13:37-04:00",
+      "shortDescription": "Gleason_Show_69",
+      "longDescription": "Gleason_Show_69",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455183561",
+      "title": "Gleason_Show_70",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455183561.sd.mp4?s=dd9418c36bf0e1f4b3615efd24715a7a28580b3a&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 598
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952760220_800x450.png",
+      "releaseDate": "2020-09-06T04:16:02-04:00",
+      "shortDescription": "Gleason_Show_70",
+      "longDescription": "Gleason_Show_70",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455183684",
+      "title": "Gleason_Show_72",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455183684.sd.mp4?s=d0ff64d2849da4e2fe178e6939c67bbc0554f823&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 616
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952760481_800x450.png",
+      "releaseDate": "2020-09-06T04:17:06-04:00",
+      "shortDescription": "Gleason_Show_72",
+      "longDescription": "Gleason_Show_72",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455183889",
+      "title": "Gleason_Show_75",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455183889.sd.mp4?s=aa07b6de02b3259815593ab438f51d19eee14de7&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2216
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952761396_800x450.png",
+      "releaseDate": "2020-09-06T04:18:24-04:00",
+      "shortDescription": "Gleason_Show_75",
+      "longDescription": "Gleason_Show_75",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455184383",
+      "title": "Gleason_Show_77",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455184383.sd.mp4?s=c1eae4410757be74810b53f0cba80b6778eb69a6&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1871
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952762023_800x450.png",
+      "releaseDate": "2020-09-06T04:21:26-04:00",
+      "shortDescription": "Gleason_Show_77",
+      "longDescription": "Gleason_Show_77",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455184772",
+      "title": "Gleason_Show_79",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455184772.sd.mp4?s=9f2de3f2b38d25bd7e9afbf14c96fd264d8b33c7&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 781
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952762430_800x450.png",
+      "releaseDate": "2020-09-06T04:24:12-04:00",
+      "shortDescription": "Gleason_Show_79",
+      "longDescription": "Gleason_Show_79",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455185003",
+      "title": "Gleason_Show_80",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455185003.sd.mp4?s=008ca12604f46b1134d8193805059fa90fe1a42c&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 568
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952762976_800x450.png",
+      "releaseDate": "2020-09-06T04:26:07-04:00",
+      "shortDescription": "Gleason_Show_80",
+      "longDescription": "Gleason_Show_80",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455185216",
+      "title": "Gleason_Show_82",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455185216.sd.mp4?s=a44f47c2db4b79ec280e90bd462e656ee23f5d9a&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2047
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952763728_800x450.png",
+      "releaseDate": "2020-09-06T04:27:45-04:00",
+      "shortDescription": "Gleason_Show_82",
+      "longDescription": "Gleason_Show_82",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455185601",
+      "title": "Gleason_Show_85",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455185601.sd.mp4?s=744b2716ab213d8309780f64dcfdf0b6a16ef220&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 636
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952764253_800x450.png",
+      "releaseDate": "2020-09-06T04:31:05-04:00",
+      "shortDescription": "Gleason_Show_85",
+      "longDescription": "Gleason_Show_85",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455185842",
+      "title": "Gleason_Show_88",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455185842.sd.mp4?s=160536d699f620d0899a8ff3d18af598de27b247&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2240
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952764656_800x450.png",
+      "releaseDate": "2020-09-06T04:32:42-04:00",
+      "shortDescription": "Gleason_Show_88",
+      "longDescription": "Gleason_Show_88",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455186100",
+      "title": "Gleason_Show_89",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455186100.sd.mp4?s=86cf0f0f93e0eafbcbc835a1c1a91dda18f9cbc2&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 823
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952764983_800x450.png",
+      "releaseDate": "2020-09-06T04:34:52-04:00",
+      "shortDescription": "Gleason_Show_89",
+      "longDescription": "Gleason_Show_89",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455186254",
+      "title": "Gleason_Show_90",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455186254.sd.mp4?s=e216a27993a298d80385d6714e79ed16dc9a5658&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2061
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952765537_800x450.png",
+      "releaseDate": "2020-09-06T04:36:04-04:00",
+      "shortDescription": "Gleason_Show_90",
+      "longDescription": "Gleason_Show_90",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455186509",
+      "title": "Gleason_Show_93",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455186509.sd.mp4?s=45d215c1dd6eb51cd091dfef6033b75d1ce23e51&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 470
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952765754_800x450.png",
+      "releaseDate": "2020-09-06T04:38:02-04:00",
+      "shortDescription": "Gleason_Show_93",
+      "longDescription": "Gleason_Show_93",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455186708",
+      "title": "Gleason_Show_95",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455186708.sd.mp4?s=07733e9c701db1531c735fe613feaba1e7686f1d&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2089
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952766208_800x450.png",
+      "releaseDate": "2020-09-06T04:39:13-04:00",
+      "shortDescription": "Gleason_Show_95",
+      "longDescription": "Gleason_Show_95",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "455186980",
+      "title": "Gleason_Show_96",
+      "content": {
+        "dateAdded": "2020-09-06T05:17:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455186980.sd.mp4?s=00ad4c289a768e22543c96ae130fb3adca2f7460&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 547
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/952766594_800x450.png",
+      "releaseDate": "2020-09-06T04:41:02-04:00",
+      "shortDescription": "Gleason_Show_96",
+      "longDescription": "Gleason_Show_96",
+      "tags": [
+        "special"
+      ]
+    }
+  ]
+}
