@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-09-03T09:40:42+00:00",
+  "lastUpdated": "2020-09-19T03:12:09+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -3755,7 +3755,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/949637382_800x450.png",
-      "releaseDate": "2020-08-31T11:18:42-04:00",
+      "releaseDate": "2020-08-31",
       "shortDescription": "MIX OF GIRLS THEME CARTOONS",
       "longDescription": "MIX OF GIRLS THEME CARTOONS",
       "tags": [
@@ -3780,9 +3780,59 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/939342976_800x450.png",
-      "releaseDate": "2020-08-12T09:55:26-04:00",
+      "releaseDate": "2020-08-12",
       "shortDescription": "Saturday Blast Mix04",
       "longDescription": "Saturday Blast Mix04",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "457210791",
+      "title": "cartoon blast mix 07",
+      "content": {
+        "dateAdded": "2020-09-19T02:10:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/457210791.hd.mp4?s=294aead555c554a60e04b08cca0d82fc887d86d3&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 12459
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
+      "releaseDate": "2020-09-12T05:43:54-04:00",
+      "shortDescription": "cartoon blast mix 07",
+      "longDescription": "cartoon blast mix 07",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "459612366",
+      "title": "SATURDAY BLAST MIX08",
+      "content": {
+        "dateAdded": "2020-09-19T02:10:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/459612366.sd.mp4?s=fcf5b2863f4784e0dcca7a507ff48727b3136d35&profile_id=164",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 14902
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/960258485_800x450.png",
+      "releaseDate": "2020-09-19T01:09:42-04:00",
+      "shortDescription": "SATURDAY BLAST MIX08",
+      "longDescription": "SATURDAY BLAST MIX08",
       "tags": [
         "special"
       ]
