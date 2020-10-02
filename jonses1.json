@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-09-19T03:12:09+00:00",
+  "lastUpdated": "2020-10-02T07:19:20+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -465,296 +465,6 @@
       "longDescription": "01 Sectaurs Mini Series ep 01 Spidrax Attacks",
       "tags": [
         "fantasy"
-      ]
-    },
-    {
-      "id": "434538891",
-      "title": "Spiral Zone Episode 20 The Shuttle Engine",
-      "content": {
-        "dateAdded": "2020-07-01T20:44:10-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/434538891.sd.mp4?s=29e6888ffd5be79111c2372fbeeb461134aa17bc&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1364
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/917712825_800x450.png",
-      "releaseDate": "2020-07-01",
-      "shortDescription": "Spiral Zone Episode 20 The Shuttle Engine",
-      "longDescription": "Spiral Zone Episode 20 The Shuttle Engine",
-      "tags": [
-        "spiralzone"
-      ]
-    },
-    {
-      "id": "434538808",
-      "title": "Spiral Zone Episode 19 Island In The Zone",
-      "content": {
-        "dateAdded": "2020-07-01T20:44:10-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/434538808.sd.mp4?s=a351f2e7fe88f71408d247ece98271f79ac75bb6&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1355
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/917712395_800x450.png",
-      "releaseDate": "2020-07-01",
-      "shortDescription": "Spiral Zone Episode 19 Island In The Zone",
-      "longDescription": "Spiral Zone Episode 19 Island In The Zone",
-      "tags": [
-        "spiralzone"
-      ]
-    },
-    {
-      "id": "434538731",
-      "title": "Spiral Zone e18 When The Cat-s Away",
-      "content": {
-        "dateAdded": "2020-07-01T20:44:10-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/434538731.sd.mp4?s=5bc306a82a0a420d66d8aa5d89107354a6816530&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1358
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/917712245_800x450.png",
-      "releaseDate": "2020-07-01",
-      "shortDescription": "Spiral Zone e18 When The Cat-s Away",
-      "longDescription": "Spiral Zone e18 When The Cat-s Away",
-      "tags": [
-        "spiralzone"
-      ]
-    },
-    {
-      "id": "434538657",
-      "title": "Spiral Zone e17 Breakout",
-      "content": {
-        "dateAdded": "2020-07-01T20:44:10-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/434538657.sd.mp4?s=950b268eb37b7829550f655bee8243ccd2aaeb30&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1360
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/917712159_800x450.png",
-      "releaseDate": "2020-07-01",
-      "shortDescription": "Spiral Zone e17 Breakout",
-      "longDescription": "Spiral Zone e17 Breakout",
-      "tags": [
-        "spiralzone"
-      ]
-    },
-    {
-      "id": "434538568",
-      "title": "Spiral Zone e16 Zone Train",
-      "content": {
-        "dateAdded": "2020-07-01T20:44:10-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/434538568.sd.mp4?s=969af2b1c9dcf5a23bf282a79d34dae4a2256074&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1360
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/917712055_800x450.png",
-      "releaseDate": "2020-07-01",
-      "shortDescription": "Spiral Zone e16 Zone Train",
-      "longDescription": "Spiral Zone e16 Zone Train",
-      "tags": [
-        "spiralzone"
-      ]
-    },
-    {
-      "id": "434538492",
-      "title": "Spiral Zone e15 The Sands Of Amaran",
-      "content": {
-        "dateAdded": "2020-07-01T20:44:10-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/434538492.sd.mp4?s=1ef4877953df3bda9c5d293bfa6a71c796a963cb&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1358
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/917711886_800x450.png",
-      "releaseDate": "2020-07-01",
-      "shortDescription": "Spiral Zone e15 The Sands Of Amaran",
-      "longDescription": "Spiral Zone e15 The Sands Of Amaran",
-      "tags": [
-        "spiralzone"
-      ]
-    },
-    {
-      "id": "434538417",
-      "title": "Spiral Zone E14 Overlord-s Mystery Woman",
-      "content": {
-        "dateAdded": "2020-07-01T20:44:10-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/434538417.sd.mp4?s=375e2abea3028fca6b83d2c4f92f26535e944381&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1354
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/917711762_800x450.png",
-      "releaseDate": "2020-07-01",
-      "shortDescription": "Spiral Zone E14 Overlord-s Mystery Woman",
-      "longDescription": "Spiral Zone E14 Overlord-s Mystery Woman",
-      "tags": [
-        "spiralzone"
-      ]
-    },
-    {
-      "id": "434538323",
-      "title": "Spiral Zone e13 The Hacker",
-      "content": {
-        "dateAdded": "2020-07-01T20:44:10-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/434538323.sd.mp4?s=a00d8d16758edf2b654b6dd7529dcb9d150bdcef&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1355
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/917711676_800x450.png",
-      "releaseDate": "2020-07-01",
-      "shortDescription": "Spiral Zone e13 The Hacker",
-      "longDescription": "Spiral Zone e13 The Hacker",
-      "tags": [
-        "spiralzone"
-      ]
-    },
-    {
-      "id": "434538265",
-      "title": "Spiral Zone E12 The Imposter",
-      "content": {
-        "dateAdded": "2020-07-01T20:44:10-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/434538265.sd.mp4?s=426f9d2911273aed0cd81be87e610d068daf8b4c&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1360
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/917711531_800x450.png",
-      "releaseDate": "2020-07-01",
-      "shortDescription": "Spiral Zone E12 The Imposter",
-      "longDescription": "Spiral Zone E12 The Imposter",
-      "tags": [
-        "spiralzone"
-      ]
-    },
-    {
-      "id": "434538191",
-      "title": "Spiral Zone E11 Duel In Paradise",
-      "content": {
-        "dateAdded": "2020-07-01T20:44:10-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/434538191.sd.mp4?s=4415e3eb9e7cf2942bcf881d4169a973442b0427&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1356
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/917711402_800x450.png",
-      "releaseDate": "2020-07-01",
-      "shortDescription": "Spiral Zone E11 Duel In Paradise",
-      "longDescription": "Spiral Zone E11 Duel In Paradise",
-      "tags": [
-        "spiralzone"
       ]
     },
     {
@@ -3805,7 +3515,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
-      "releaseDate": "2020-09-12T05:43:54-04:00",
+      "releaseDate": "2020-09-12",
       "shortDescription": "cartoon blast mix 07",
       "longDescription": "cartoon blast mix 07",
       "tags": [
@@ -3830,11 +3540,1999 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/960258485_800x450.png",
-      "releaseDate": "2020-09-19T01:09:42-04:00",
+      "releaseDate": "2020-09-19",
       "shortDescription": "SATURDAY BLAST MIX08",
       "longDescription": "SATURDAY BLAST MIX08",
       "tags": [
         "special"
+      ]
+    },
+    {
+      "id": "464356052",
+      "title": "Spiral Zone E09 Ride The Whirlwind",
+      "content": {
+        "dateAdded": "2020-10-02T18:34:02-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/464356052.sd.mp4?s=3ce201c6dabd210b14bf3376132e61b839b306dc&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1361
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/968353218_800x450.png",
+      "releaseDate": "2020-10-02T16:25:54-04:00",
+      "shortDescription": "Spiral Zone E09 Ride The Whirlwind",
+      "longDescription": "Spiral Zone E09 Ride The Whirlwind",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "464355941",
+      "title": "Spiral Zone E10 The Unexploded Pod",
+      "content": {
+        "dateAdded": "2020-10-02T18:34:02-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/464355941.sd.mp4?s=cd43220f413b523888a90d7a41c99e35bbc0ffe4&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1362
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/968352820_800x450.png",
+      "releaseDate": "2020-10-02T16:25:25-04:00",
+      "shortDescription": "Spiral Zone E10 The Unexploded Pod",
+      "longDescription": "Spiral Zone E10 The Unexploded Pod",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440164342",
+      "title": "Spiral Zone Episode 58 The Final Weapon",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440164342.sd.mp4?s=aa179f2003e704341485d0abf812b980a638d176&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1357
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927438301_800x450.png",
+      "releaseDate": "2020-07-20T20:14:48-04:00",
+      "shortDescription": "Spiral Zone Episode 58 The Final Weapon",
+      "longDescription": "Spiral Zone Episode 58 The Final Weapon",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440163983",
+      "title": "Spiral Zone Episode 57  Conflict Of Duty",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440163983.sd.mp4?s=db8353186fca7ed6aed4b7a6fa254f02a7040836&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1355
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927437667_800x450.png",
+      "releaseDate": "2020-07-20T20:12:51-04:00",
+      "shortDescription": "Spiral Zone Episode 57 ♥ Conflict Of Duty",
+      "longDescription": "Spiral Zone Episode 57 ♥ Conflict Of Duty",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440163631",
+      "title": "Spiral Zone Episode 56  They Zone By Night",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440163631.sd.mp4?s=cb48c07a0ff6c9f201e3a58d14cb9e53faf0551a&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1358
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927437114_800x450.png",
+      "releaseDate": "2020-07-20T20:11:02-04:00",
+      "shortDescription": "Spiral Zone Episode 56 ♥ They Zone By Night",
+      "longDescription": "Spiral Zone Episode 56 ♥ They Zone By Night",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440163303",
+      "title": "Spiral Zone Episode 55  Assault On The Rock",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440163303.sd.mp4?s=11ee5273750e0c834c5bf923484bbe7304400610&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1359
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927436447_800x450.png",
+      "releaseDate": "2020-07-20T20:09:10-04:00",
+      "shortDescription": "Spiral Zone Episode 55 ♥ Assault On The Rock",
+      "longDescription": "Spiral Zone Episode 55 ♥ Assault On The Rock",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440162993",
+      "title": "Spiral Zone Episode 54  Oversight",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440162993.sd.mp4?s=1c2cb2a3d71f09ed43282ef32cc9ac99481ac064&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1361
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927435940_800x450.png",
+      "releaseDate": "2020-07-20T20:07:25-04:00",
+      "shortDescription": "Spiral Zone Episode 54 ♥ Oversight",
+      "longDescription": "Spiral Zone Episode 54 ♥ Oversight",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440162634",
+      "title": "Spiral Zone Episode 53  Duchess Treat",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440162634.sd.mp4?s=da9554b10c8f52f13cd4b4e37981ac04811a5835&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1360
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927435375_800x450.png",
+      "releaseDate": "2020-07-20T20:05:29-04:00",
+      "shortDescription": "Spiral Zone Episode 53 ♥ Duchess Treat",
+      "longDescription": "Spiral Zone Episode 53 ♥ Duchess Treat",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440162335",
+      "title": "Spiral Zone Episode 52  Power Play",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440162335.sd.mp4?s=08a1b629cdc27ca3aea3e5e1f0312f218fdaeee8&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1356
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927434717_800x450.png",
+      "releaseDate": "2020-07-20T20:03:44-04:00",
+      "shortDescription": "Spiral Zone Episode 52 ♥ Power Play",
+      "longDescription": "Spiral Zone Episode 52 ♥ Power Play",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440162018",
+      "title": "Spiral Zone Episode 51 The Darkness Within",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440162018.sd.mp4?s=4eb62ba5166c2c1c7fc20f235b23f9a57dc0caf8&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1362
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927434302_800x450.png",
+      "releaseDate": "2020-07-20T20:02:04-04:00",
+      "shortDescription": "Spiral Zone Episode 51 ♥ The Darkness Within",
+      "longDescription": "Spiral Zone Episode 51 ♥ The Darkness Within",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440161560",
+      "title": "Spiral Zone Episode 50",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440161560.sd.mp4?s=368ac7e299eaadc65181f7451c267f29cd7ef335&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1357
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927433583_800x450.png",
+      "releaseDate": "2020-07-20T19:59:52-04:00",
+      "shortDescription": "Spiral Zone Episode 50",
+      "longDescription": "Spiral Zone Episode 50",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440161266",
+      "title": "Spiral Zone Episode 49",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440161266.sd.mp4?s=9ba72f8e55cb7966d503fa6fb01b3e1e68f604dd&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1358
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927432933_800x450.png",
+      "releaseDate": "2020-07-20T19:58:07-04:00",
+      "shortDescription": "Spiral Zone Episode 49",
+      "longDescription": "Spiral Zone Episode 49",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440160901",
+      "title": "Spiral Zone Episode 48",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440160901.sd.mp4?s=78cef93f4314cc422e0fc4aa918466727a69c802&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1358
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927432379_800x450.png",
+      "releaseDate": "2020-07-20T19:55:59-04:00",
+      "shortDescription": "Spiral Zone Episode 48",
+      "longDescription": "Spiral Zone Episode 48",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440160613",
+      "title": "Spiral Zone Episode 47",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440160613.sd.mp4?s=6c305f595e0727b10fd74c25b7bac84ed86c284f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1356
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927431569_800x450.png",
+      "releaseDate": "2020-07-20T19:54:18-04:00",
+      "shortDescription": "Spiral Zone Episode 47",
+      "longDescription": "Spiral Zone Episode 47",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440160264",
+      "title": "Spiral Zone Episode 46",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440160264.sd.mp4?s=31338370b9515c9e4d67985d2a3ca1c6644ec409&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1356
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927431057_800x450.png",
+      "releaseDate": "2020-07-20T19:52:10-04:00",
+      "shortDescription": "Spiral Zone Episode 46",
+      "longDescription": "Spiral Zone Episode 46",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440159876",
+      "title": "Spiral Zone Episode 45",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440159876.sd.mp4?s=654f4c48c3fa408af24a9af5edc3f87c66dec624&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1359
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927430463_800x450.png",
+      "releaseDate": "2020-07-20T19:50:15-04:00",
+      "shortDescription": "Spiral Zone Episode 45",
+      "longDescription": "Spiral Zone Episode 45",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440159508",
+      "title": "Spiral Zone Episode 44",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440159508.sd.mp4?s=69c0ac8bee0ede4b2ea4da785b79380bcb6ea1ea&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1355
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927429795_800x450.png",
+      "releaseDate": "2020-07-20T19:48:20-04:00",
+      "shortDescription": "Spiral Zone Episode 44",
+      "longDescription": "Spiral Zone Episode 44",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440159160",
+      "title": "Spiral Zone Episode 43",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440159160.sd.mp4?s=0706fe0c560a5d54168eac80d7c00bb25700e776&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1346
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927429306_800x450.png",
+      "releaseDate": "2020-07-20T19:46:28-04:00",
+      "shortDescription": "Spiral Zone Episode 43",
+      "longDescription": "Spiral Zone Episode 43",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440158840",
+      "title": "Spiral Zone Episode 42",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440158840.sd.mp4?s=6f900515091ab2e8b81d39362f0c8841bc55b1b7&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1360
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927428576_800x450.png",
+      "releaseDate": "2020-07-20T19:44:31-04:00",
+      "shortDescription": "Spiral Zone Episode 42",
+      "longDescription": "Spiral Zone Episode 42",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440158561",
+      "title": "Spiral Zone Episode 41",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440158561.sd.mp4?s=6877c2b2c47c6618db7a7534952c5112d82ab690&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1357
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927428078_800x450.png",
+      "releaseDate": "2020-07-20T19:43:01-04:00",
+      "shortDescription": "Spiral Zone Episode 41",
+      "longDescription": "Spiral Zone Episode 41",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440158177",
+      "title": "Spiral Zone Episode 40",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440158177.sd.mp4?s=a2a024cda310b926b350a272d1942660cbd1918e&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1345
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927427581_800x450.png",
+      "releaseDate": "2020-07-20T19:41:03-04:00",
+      "shortDescription": "Spiral Zone Episode 40",
+      "longDescription": "Spiral Zone Episode 40",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440157822",
+      "title": "Spiral Zone Episode 39",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440157822.sd.mp4?s=92b2543a4ff6d2b1fcac0323c819f2b7e63bdb9e&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1344
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927426809_800x450.png",
+      "releaseDate": "2020-07-20T19:39:21-04:00",
+      "shortDescription": "Spiral Zone Episode 39",
+      "longDescription": "Spiral Zone Episode 39",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440157431",
+      "title": "Spiral Zone Episode 38",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440157431.sd.mp4?s=e43161b8f1797f7e5f5252b829827dd3a95ad2e6&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1343
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927426216_800x450.png",
+      "releaseDate": "2020-07-20T19:37:15-04:00",
+      "shortDescription": "Spiral Zone Episode 38",
+      "longDescription": "Spiral Zone Episode 38",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440157133",
+      "title": "Spiral Zone Episode 37",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440157133.sd.mp4?s=768733330e58f89ce6114ce684b0b1f9d732a69b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1344
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927425710_800x450.png",
+      "releaseDate": "2020-07-20T19:35:37-04:00",
+      "shortDescription": "Spiral Zone Episode 37",
+      "longDescription": "Spiral Zone Episode 37",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440156811",
+      "title": "Spiral Zone Episode 36",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440156811.sd.mp4?s=7874714bcfc0fd467c55e99098ed195aa9ba46d8&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1346
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927425037_800x450.png",
+      "releaseDate": "2020-07-20T19:33:53-04:00",
+      "shortDescription": "Spiral Zone Episode 36",
+      "longDescription": "Spiral Zone Episode 36",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440156500",
+      "title": "Spiral zone Episode 35",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440156500.sd.mp4?s=77d2529faff8da1cb47cbb833da6f9af8a7ca967&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1343
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927424605_800x450.png",
+      "releaseDate": "2020-07-20T19:32:16-04:00",
+      "shortDescription": "Spiral zone Episode 35",
+      "longDescription": "Spiral zone Episode 35",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440156173",
+      "title": "Spiral Zone Episode 34",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440156173.sd.mp4?s=80950b4a38d5d07c575aa893af528e5edc8f6929&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1343
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927424000_800x450.png",
+      "releaseDate": "2020-07-20T19:30:30-04:00",
+      "shortDescription": "Spiral Zone Episode 34",
+      "longDescription": "Spiral Zone Episode 34",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440155888",
+      "title": "Spiral Zone Episode 33",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440155888.sd.mp4?s=1812496fa0a4cb657211bc02f452efcca810f39a&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1342
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927423322_800x450.png",
+      "releaseDate": "2020-07-20T19:28:58-04:00",
+      "shortDescription": "Spiral Zone Episode 33",
+      "longDescription": "Spiral Zone Episode 33",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440155495",
+      "title": "Spiral zone episode 32",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440155495.sd.mp4?s=640fe71a82f0b272176b69b3119c9632a2080699&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1344
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927422825_800x450.png",
+      "releaseDate": "2020-07-20T19:26:54-04:00",
+      "shortDescription": "Spiral zone episode 32",
+      "longDescription": "Spiral zone episode 32",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440155182",
+      "title": "Spiral Zone episode 31",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440155182.sd.mp4?s=4d35f690b7576563b8367f7052f68f3813a8c672&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1347
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927422419_800x450.png",
+      "releaseDate": "2020-07-20T19:25:13-04:00",
+      "shortDescription": "Spiral Zone episode 31",
+      "longDescription": "Spiral Zone episode 31",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440154885",
+      "title": "Spiral Zone Episode 30",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440154885.sd.mp4?s=86af14d623103394b3acc12e01c1160a3fb1985b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1358
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927421582_800x450.png",
+      "releaseDate": "2020-07-20T19:23:47-04:00",
+      "shortDescription": "Spiral Zone Episode 30",
+      "longDescription": "Spiral Zone Episode 30",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440154511",
+      "title": "Spiral Zone Episode 29",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440154511.sd.mp4?s=b0e026e15de336dcf53e482979f8f30baccb50ba&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1358
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927421284_800x450.png",
+      "releaseDate": "2020-07-20T19:22:00-04:00",
+      "shortDescription": "Spiral Zone Episode 29",
+      "longDescription": "Spiral Zone Episode 29",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440154161",
+      "title": "Spiral Zone Episode 28",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440154161.sd.mp4?s=4ce46517e0feb61caf666cddb3fcbde6c0b6bf5b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1357
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927420475_800x450.png",
+      "releaseDate": "2020-07-20T19:20:24-04:00",
+      "shortDescription": "Spiral Zone Episode 28",
+      "longDescription": "Spiral Zone Episode 28",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440153791",
+      "title": "Spiral Zone Episode 27 --",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440153791.sd.mp4?s=df8ddcebff69f7dbb504b8933b689f7b8df5ed96&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1358
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927419873_800x450.png",
+      "releaseDate": "2020-07-20T19:18:33-04:00",
+      "shortDescription": "Spiral Zone Episode 27 -FINALLY-",
+      "longDescription": "Spiral Zone Episode 27 -FINALLY-",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440153465",
+      "title": "Spiral Zone Episode 26 -Full Episode- English-",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440153465.sd.mp4?s=c47d8ef35edcf1ac385181789f5b2e3275eceb7b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1345
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927419310_800x450.png",
+      "releaseDate": "2020-07-20T19:16:59-04:00",
+      "shortDescription": "Spiral Zone Episode 26 -Full Episode- English-",
+      "longDescription": "Spiral Zone Episode 26 -Full Episode- English-",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440153169",
+      "title": "Spiral Zone Episode 25  The Way Of The Samurai",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440153169.sd.mp4?s=bc7f15e660a336e84bb21aa0efd9c0636f3c83d0&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1362
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927418772_800x450.png",
+      "releaseDate": "2020-07-20T19:15:24-04:00",
+      "shortDescription": "Spiral Zone Episode 25 ♥ The Way Of The Samurai",
+      "longDescription": "Spiral Zone Episode 25 ♥ The Way Of The Samurai",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440152865",
+      "title": "Spiral Zone Episode 20 The Shuttle Engine",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440152865.sd.mp4?s=0db7a10deb24c189859941358f19528cfc495334&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1364
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927418308_800x450.png",
+      "releaseDate": "2020-07-20T19:13:44-04:00",
+      "shortDescription": "Spiral Zone Episode 20 The Shuttle Engine",
+      "longDescription": "Spiral Zone Episode 20 The Shuttle Engine",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440152582",
+      "title": "Spiral Zone Episode 19 Island In The Zone",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440152582.sd.mp4?s=19271adf985023df0247745148424d29309a3113&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1355
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927417753_800x450.png",
+      "releaseDate": "2020-07-20T19:12:12-04:00",
+      "shortDescription": "Spiral Zone Episode 19 Island In The Zone",
+      "longDescription": "Spiral Zone Episode 19 Island In The Zone",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440152272",
+      "title": "Spiral Zone E65 Countdown",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440152272.sd.mp4?s=39ccee8647e07ae24908c830694604bbca85ae5b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1361
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927417263_800x450.png",
+      "releaseDate": "2020-07-20T19:10:37-04:00",
+      "shortDescription": "Spiral Zone E65 Countdown",
+      "longDescription": "Spiral Zone E65 Countdown",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440151951",
+      "title": "Spiral Zone E64 Zone Trap",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440151951.sd.mp4?s=647dbd75fc35644c29fd5ea4125193ea76de0216&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1359
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927416654_800x450.png",
+      "releaseDate": "2020-07-20T19:09:00-04:00",
+      "shortDescription": "Spiral Zone E64 Zone Trap",
+      "longDescription": "Spiral Zone E64 Zone Trap",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440151663",
+      "title": "Spiral Zone E63 Evil Transmissions",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440151663.sd.mp4?s=a6c1f875cc2e1eaa0d06e2fd19d67fd489e6d168&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1358
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927416234_800x450.png",
+      "releaseDate": "2020-07-20T19:07:28-04:00",
+      "shortDescription": "Spiral Zone E63 Evil Transmissions",
+      "longDescription": "Spiral Zone E63 Evil Transmissions",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440151339",
+      "title": "Spiral Zone E62 Nightmare In Ice",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440151339.sd.mp4?s=bab09936a0df95a80ccc02f1c9f7c5a4ecc5f198&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1355
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927415667_800x450.png",
+      "releaseDate": "2020-07-20T19:05:54-04:00",
+      "shortDescription": "Spiral Zone E62 Nightmare In Ice",
+      "longDescription": "Spiral Zone E62 Nightmare In Ice",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440151057",
+      "title": "Spiral Zone E61 Little Darlings",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440151057.sd.mp4?s=e1eb56f1f90a617d70a6eec34ad15a91cfc81989&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1356
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927415003_800x450.png",
+      "releaseDate": "2020-07-20T19:04:15-04:00",
+      "shortDescription": "Spiral Zone E61 Little Darlings",
+      "longDescription": "Spiral Zone E61 Little Darlings",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440150768",
+      "title": "Spiral Zone E60 Brother-s Keeper",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440150768.sd.mp4?s=bd03aaca0ce73a228b3de45d82cbc7f4f61165a6&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1357
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927414618_800x450.png",
+      "releaseDate": "2020-07-20T19:02:45-04:00",
+      "shortDescription": "Spiral Zone E60 Brother-s Keeper",
+      "longDescription": "Spiral Zone E60 Brother-s Keeper",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440150468",
+      "title": "Spiral Zone E59 The Face Of The Enemy",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440150468.sd.mp4?s=23b4e4ac386a4c97caf685dd0f1cf2e4dd31f1c3&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1358
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927414207_800x450.png",
+      "releaseDate": "2020-07-20T19:01:11-04:00",
+      "shortDescription": "Spiral Zone E59 The Face Of The Enemy",
+      "longDescription": "Spiral Zone E59 The Face Of The Enemy",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440150166",
+      "title": "Spiral Zone e24 ♥ The Man Who Wouldn-t Be King",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440150166.sd.mp4?s=f748a4c614755a97e83b65f56338034b7689b80e&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1364
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927413553_800x450.png",
+      "releaseDate": "2020-07-20T18:59:45-04:00",
+      "shortDescription": "Spiral Zone e24 ♥ The Man Who Wouldn-t Be King",
+      "longDescription": "Spiral Zone e24 ♥ The Man Who Wouldn-t Be King",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440149890",
+      "title": "Spiral Zone e23 ♥ The Lair Of The Jade Scorpion",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440149890.sd.mp4?s=ef1a371355a3a8a1ed66c7065099ff1f7bf1f6f5&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1361
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927412982_800x450.png",
+      "releaseDate": "2020-07-20T18:58:13-04:00",
+      "shortDescription": "Spiral Zone e23 ♥ The Lair Of The Jade Scorpion",
+      "longDescription": "Spiral Zone e23 ♥ The Lair Of The Jade Scorpion",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440149539",
+      "title": "Spiral Zone e22  Canal Zone",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440149539.sd.mp4?s=ad7fb4d1df7dd854bb7d50882784166bc8af9572&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1363
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927412534_800x450.png",
+      "releaseDate": "2020-07-20T18:56:19-04:00",
+      "shortDescription": "Spiral Zone e22 ♥ Canal Zone",
+      "longDescription": "Spiral Zone e22 ♥ Canal Zone",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "440149243",
+      "title": "Spiral Zone e21 The Mind Of Gideon Rorshak",
+      "content": {
+        "dateAdded": "2020-07-20T20:46:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440149243.sd.mp4?s=dce9288196e43664184ec88bd2554151a8313e06&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1363
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/927411716_800x450.png",
+      "releaseDate": "2020-07-20T18:54:28-04:00",
+      "shortDescription": "Spiral Zone e21 The Mind Of Gideon Rorshak",
+      "longDescription": "Spiral Zone e21 The Mind Of Gideon Rorshak",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "434538891",
+      "title": "Spiral Zone Episode 20 The Shuttle Engine",
+      "content": {
+        "dateAdded": "2020-07-01T20:44:10-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/434538891.sd.mp4?s=29e6888ffd5be79111c2372fbeeb461134aa17bc&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1364
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/917712825_800x450.png",
+      "releaseDate": "2020-07-01T20:30:11-04:00",
+      "shortDescription": "Spiral Zone Episode 20 The Shuttle Engine",
+      "longDescription": "Spiral Zone Episode 20 The Shuttle Engine",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "434538808",
+      "title": "Spiral Zone Episode 19 Island In The Zone",
+      "content": {
+        "dateAdded": "2020-07-01T20:44:10-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/434538808.sd.mp4?s=a351f2e7fe88f71408d247ece98271f79ac75bb6&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1355
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/917712395_800x450.png",
+      "releaseDate": "2020-07-01T20:29:42-04:00",
+      "shortDescription": "Spiral Zone Episode 19 Island In The Zone",
+      "longDescription": "Spiral Zone Episode 19 Island In The Zone",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "434538731",
+      "title": "Spiral Zone e18 When The Cat-s Away",
+      "content": {
+        "dateAdded": "2020-07-01T20:44:10-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/434538731.sd.mp4?s=5bc306a82a0a420d66d8aa5d89107354a6816530&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1358
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/917712245_800x450.png",
+      "releaseDate": "2020-07-01T20:29:14-04:00",
+      "shortDescription": "Spiral Zone e18 When The Cat-s Away",
+      "longDescription": "Spiral Zone e18 When The Cat-s Away",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "434538657",
+      "title": "Spiral Zone e17 Breakout",
+      "content": {
+        "dateAdded": "2020-07-01T20:44:10-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/434538657.sd.mp4?s=950b268eb37b7829550f655bee8243ccd2aaeb30&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1360
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/917712159_800x450.png",
+      "releaseDate": "2020-07-01T20:28:48-04:00",
+      "shortDescription": "Spiral Zone e17 Breakout",
+      "longDescription": "Spiral Zone e17 Breakout",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "434538568",
+      "title": "Spiral Zone e16 Zone Train",
+      "content": {
+        "dateAdded": "2020-07-01T20:44:10-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/434538568.sd.mp4?s=969af2b1c9dcf5a23bf282a79d34dae4a2256074&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1360
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/917712055_800x450.png",
+      "releaseDate": "2020-07-01T20:28:17-04:00",
+      "shortDescription": "Spiral Zone e16 Zone Train",
+      "longDescription": "Spiral Zone e16 Zone Train",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "434538492",
+      "title": "Spiral Zone e15 The Sands Of Amaran",
+      "content": {
+        "dateAdded": "2020-07-01T20:44:10-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/434538492.sd.mp4?s=1ef4877953df3bda9c5d293bfa6a71c796a963cb&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1358
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/917711886_800x450.png",
+      "releaseDate": "2020-07-01T20:27:50-04:00",
+      "shortDescription": "Spiral Zone e15 The Sands Of Amaran",
+      "longDescription": "Spiral Zone e15 The Sands Of Amaran",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "434538417",
+      "title": "Spiral Zone E14 Overlord-s Mystery Woman",
+      "content": {
+        "dateAdded": "2020-07-01T20:44:10-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/434538417.sd.mp4?s=375e2abea3028fca6b83d2c4f92f26535e944381&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1354
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/917711762_800x450.png",
+      "releaseDate": "2020-07-01T20:27:24-04:00",
+      "shortDescription": "Spiral Zone E14 Overlord-s Mystery Woman",
+      "longDescription": "Spiral Zone E14 Overlord-s Mystery Woman",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "434538323",
+      "title": "Spiral Zone e13 The Hacker",
+      "content": {
+        "dateAdded": "2020-07-01T20:44:10-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/434538323.sd.mp4?s=a00d8d16758edf2b654b6dd7529dcb9d150bdcef&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1355
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/917711676_800x450.png",
+      "releaseDate": "2020-07-01T20:26:48-04:00",
+      "shortDescription": "Spiral Zone e13 The Hacker",
+      "longDescription": "Spiral Zone e13 The Hacker",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "434538265",
+      "title": "Spiral Zone E12 The Imposter",
+      "content": {
+        "dateAdded": "2020-07-01T20:44:10-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/434538265.sd.mp4?s=426f9d2911273aed0cd81be87e610d068daf8b4c&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1360
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/917711531_800x450.png",
+      "releaseDate": "2020-07-01T20:26:22-04:00",
+      "shortDescription": "Spiral Zone E12 The Imposter",
+      "longDescription": "Spiral Zone E12 The Imposter",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "434538191",
+      "title": "Spiral Zone E11 Duel In Paradise",
+      "content": {
+        "dateAdded": "2020-07-01T20:44:10-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/434538191.sd.mp4?s=4415e3eb9e7cf2942bcf881d4169a973442b0427&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1356
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/917711402_800x450.png",
+      "releaseDate": "2020-07-01T20:25:48-04:00",
+      "shortDescription": "Spiral Zone E11 Duel In Paradise",
+      "longDescription": "Spiral Zone E11 Duel In Paradise",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "420482203",
+      "title": "Ep01 Spiral Zone Holographic Zone Battle",
+      "content": {
+        "dateAdded": "2020-05-26T15:35:02-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420482203.sd.mp4?s=d2f8bdb32506356be315237afc2a38a72caeddab&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1361
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895740143_800x450.png",
+      "releaseDate": "2020-05-19T19:04:26-04:00",
+      "shortDescription": "Ep01 Spiral Zone Holographic Zone Battle",
+      "longDescription": "Ep01 Spiral Zone Holographic Zone Battle",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "420482053",
+      "title": "Ep02 Spiral Zone  King of the Skies",
+      "content": {
+        "dateAdded": "2020-05-26T15:35:02-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420482053.sd.mp4?s=e498f670a046e3b2e8da908bf2ac62465fbc85ed&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1326
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895740079_800x450.png",
+      "releaseDate": "2020-05-19T19:03:42-04:00",
+      "shortDescription": "Ep02 Spiral Zone  King of the Skies",
+      "longDescription": "Ep02 Spiral Zone  King of the Skies",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "420481827",
+      "title": "Ep03 Spiral Zone  Errand of Mercy",
+      "content": {
+        "dateAdded": "2020-06-08T00:30:12-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420481827.sd.mp4?s=7740b7dec2de2507cff88509669d88ea424494a7&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1370
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895739853_800x450.png",
+      "releaseDate": "2020-05-19T19:02:38-04:00",
+      "shortDescription": "Ep03 Spiral Zone  Errand of Mercy",
+      "longDescription": "Ep03 Spiral Zone  Errand of Mercy",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "420481655",
+      "title": "Ep04  Spiral Zone Mission Into Evil",
+      "content": {
+        "dateAdded": "2020-06-08T00:30:12-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420481655.sd.mp4?s=fe8e639cc229ab5288303dd92b79800ef87f59c8&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1362
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895739507_800x450.png",
+      "releaseDate": "2020-05-19T19:01:50-04:00",
+      "shortDescription": "Ep04  Spiral Zone Mission Into Evil",
+      "longDescription": "Ep04  Spiral Zone Mission Into Evil",
+      "tags": [
+        "",
+        "SPIRALZONE"
+      ]
+    },
+    {
+      "id": "420481489",
+      "title": "Ep05  Spiral Zone  Back To The Stone Age",
+      "content": {
+        "dateAdded": "2020-06-08T00:30:12-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/420481489.sd.mp4?s=7c3189b01cc3dc369012e22dac280935427fcbb0&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1366
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/895739663_800x450.png",
+      "releaseDate": "2020-05-19T19:01:08-04:00",
+      "shortDescription": "Ep05  Spiral Zone  Back To The Stone Age",
+      "longDescription": "Ep05  Spiral Zone  Back To The Stone Age",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "462962409",
+      "title": "Inhumanoids S01E01 The Evil That Lies Within Part 1",
+      "content": {
+        "dateAdded": "2020-09-30T01:21:05-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/462962409.sd.mp4?s=bcf462ca762c9f869a0d0f5dcf043eb1ebcc4c33&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1336
+      },
+      "genres": [
+        "science fiction"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/966029355_800x450.png",
+      "releaseDate": "2020-09-29T05:14:47-04:00",
+      "shortDescription": "Inhumanoids S01E01 The Evil That Lies Within Part 1",
+      "longDescription": "Inhumanoids S01E01 The Evil That Lies Within Part 1",
+      "tags": [
+        "science fiction"
+      ]
+    },
+    {
+      "id": "462962813",
+      "title": "Inhumanoids S01E02 The Evil That Lies Within Part 2",
+      "content": {
+        "dateAdded": "2020-09-30T01:21:20-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/462962813.sd.mp4?s=b9501103895421a82fbe3466d296276ec41a4364&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1340
+      },
+      "genres": [
+        "science fiction"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/966030359_800x450.png",
+      "releaseDate": "2020-09-29T05:16:14-04:00",
+      "shortDescription": "Inhumanoids S01E02 The Evil That Lies Within Part 2",
+      "longDescription": "Inhumanoids S01E02 The Evil That Lies Within Part 2",
+      "tags": [
+        "science fiction"
+      ]
+    },
+    {
+      "id": "462961985",
+      "title": "Inhumanoids S01E03 The Evil That Lies Within Part 3",
+      "content": {
+        "dateAdded": "2020-09-30T01:21:43-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/462961985.sd.mp4?s=505dc66042a60114fbf7fc548ca7f3595f6d9fc3&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1335
+      },
+      "genres": [
+        "science fiction"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/966028451_800x450.png",
+      "releaseDate": "2020-09-29T05:13:15-04:00",
+      "shortDescription": "Inhumanoids S01E03 The Evil That Lies Within Part 3",
+      "longDescription": "Inhumanoids S01E03 The Evil That Lies Within Part 3",
+      "tags": [
+        "science fiction"
+      ]
+    },
+    {
+      "id": "462961620",
+      "title": "Inhumanoids S01E04 The Evil That Lies Within Part 4",
+      "content": {
+        "dateAdded": "2020-09-30T01:21:43-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/462961620.sd.mp4?s=0bf17cb95e7f5fda906098b0f91719526bf364ce&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1337
+      },
+      "genres": [
+        "science fiction"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/966027929_800x450.png",
+      "releaseDate": "2020-09-29T05:11:47-04:00",
+      "shortDescription": "Inhumanoids S01E04 The Evil That Lies Within Part 4",
+      "longDescription": "Inhumanoids S01E04 The Evil That Lies Within Part 4",
+      "tags": [
+        "science fiction"
+      ]
+    },
+    {
+      "id": "462961175",
+      "title": "Inhumanoids S01E05 The Evil That Lies Within Part 5(1)",
+      "content": {
+        "dateAdded": "2020-09-30T01:21:43-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/462961175.sd.mp4?s=0b2df54619dcdef9249ae769072f82e6e532a01a&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1337
+      },
+      "genres": [
+        "science fiction"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/966027215_800x450.png",
+      "releaseDate": "2020-09-29T05:10:24-04:00",
+      "shortDescription": "Inhumanoids S01E05 The Evil That Lies Within Part 5(1)",
+      "longDescription": "Inhumanoids S01E05 The Evil That Lies Within Part 5(1)",
+      "tags": [
+        "science fiction"
+      ]
+    },
+    {
+      "id": "462960806",
+      "title": "Inhumanoids S01E06 Cypheroid",
+      "content": {
+        "dateAdded": "2020-09-30T01:21:43-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/462960806.sd.mp4?s=4d24378f1334c23e764b9be2a7cacc7270c4a9b6&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1333
+      },
+      "genres": [
+        "science fiction"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/966026671_800x450.png",
+      "releaseDate": "2020-09-29T05:09:05-04:00",
+      "shortDescription": "Inhumanoids S01E06 Cypheroid",
+      "longDescription": "Inhumanoids S01E06 Cypheroid",
+      "tags": [
+        "science fiction"
+      ]
+    },
+    {
+      "id": "462960472",
+      "title": "Inhumanoids S01E07 The Surma Plan(1)",
+      "content": {
+        "dateAdded": "2020-09-30T01:21:43-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/462960472.sd.mp4?s=2b519c26a4dbabb9b8932076be8c16bee9a90f71&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1313
+      },
+      "genres": [
+        "science fiction"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/966025949_800x450.png",
+      "releaseDate": "2020-09-29T05:07:42-04:00",
+      "shortDescription": "Inhumanoids S01E07 The Surma Plan(1)",
+      "longDescription": "Inhumanoids S01E07 The Surma Plan(1)",
+      "tags": [
+        "science fiction"
+      ]
+    },
+    {
+      "id": "462960082",
+      "title": "Inhumanoids S01E08 Cult of Darkness(1)",
+      "content": {
+        "dateAdded": "2020-09-30T01:21:43-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/462960082.sd.mp4?s=5465c4f5f6d6072c6d2655ed3a9724adf08920fc&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1330
+      },
+      "genres": [
+        "science fiction"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/966025325_800x450.png",
+      "releaseDate": "2020-09-29T05:06:22-04:00",
+      "shortDescription": "Inhumanoids S01E08 Cult of Darkness(1)",
+      "longDescription": "Inhumanoids S01E08 Cult of Darkness(1)",
+      "tags": [
+        "science fiction"
+      ]
+    },
+    {
+      "id": "462959752",
+      "title": "Inhumanoids S01E09 Negative Polarity",
+      "content": {
+        "dateAdded": "2020-09-30T01:21:43-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/462959752.sd.mp4?s=e6f23411011d5f28186e7b013bd952ff2e638474&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1335
+      },
+      "genres": [
+        "science fiction"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/966024934_800x450.png",
+      "releaseDate": "2020-09-29T05:05:04-04:00",
+      "shortDescription": "Inhumanoids S01E09 Negative Polarity",
+      "longDescription": "Inhumanoids S01E09 Negative Polarity",
+      "tags": [
+        "science fiction"
+      ]
+    },
+    {
+      "id": "462959427",
+      "title": "Inhumanoids S01E10 The Evil Eye",
+      "content": {
+        "dateAdded": "2020-09-30T01:21:43-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/462959427.sd.mp4?s=d6e3a547ecb9a5bea71dde8070f182bc9c415c9f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1250
+      },
+      "genres": [
+        "science fiction"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/966024267_800x450.png",
+      "releaseDate": "2020-09-29T05:03:46-04:00",
+      "shortDescription": "Inhumanoids S01E10 The Evil Eye",
+      "longDescription": "Inhumanoids S01E10 The Evil Eye",
+      "tags": [
+        "science fiction"
+      ]
+    },
+    {
+      "id": "462959108",
+      "title": "Inhumanoids S01E11 Primal Passions",
+      "content": {
+        "dateAdded": "2020-09-30T01:21:43-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/462959108.sd.mp4?s=55929ae924e66d45d292cb7795e1df5db5162c4d&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1324
+      },
+      "genres": [
+        "science fiction"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/966023597_800x450.png",
+      "releaseDate": "2020-09-29T05:02:25-04:00",
+      "shortDescription": "Inhumanoids S01E11 Primal Passions",
+      "longDescription": "Inhumanoids S01E11 Primal Passions",
+      "tags": [
+        "science fiction"
+      ]
+    },
+    {
+      "id": "462958770",
+      "title": "Inhumanoids S01E12 The Masterson Team",
+      "content": {
+        "dateAdded": "2020-09-30T01:21:43-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/462958770.sd.mp4?s=4855cd9adabccdef40ce88f03df57fd9818f163a&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1322
+      },
+      "genres": [
+        "science fiction"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/966023281_800x450.png",
+      "releaseDate": "2020-09-29T05:01:04-04:00",
+      "shortDescription": "Inhumanoids S01E12 The Masterson Team",
+      "longDescription": "Inhumanoids S01E12 The Masterson Team",
+      "tags": [
+        "science fiction"
+      ]
+    },
+    {
+      "id": "462958311",
+      "title": "Inhumanoids S01E13 Auger... For President",
+      "content": {
+        "dateAdded": "2020-09-30T01:21:43-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/462958311.sd.mp4?s=ce5b97f11029e177c9cdb48ebc25696cca940ae7&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1328
+      },
+      "genres": [
+        "science fiction"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/966022608_800x450.png",
+      "releaseDate": "2020-09-29T04:59:25-04:00",
+      "shortDescription": "Inhumanoids S01E13 Auger... For President",
+      "longDescription": "Inhumanoids S01E13 Auger... For President",
+      "tags": [
+        "science fiction"
       ]
     }
   ],
