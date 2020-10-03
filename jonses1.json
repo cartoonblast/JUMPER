@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-10-02T08:35:06+00:00",
+  "lastUpdated": "2020-10-02T08:47:37+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -28,35 +28,6 @@
       "releaseDate": "2020-06-20",
       "shortDescription": "Mighty Mouse Meets Deadeye Dick (1946)",
       "longDescription": "Mighty Mouse Meets Deadeye Dick (1946)",
-      "tags": [
-        "adventure"
-      ]
-    },
-    {
-      "id": "431101285",
-      "title": "Mighty Mouse in Wolf! Wolf! (1944)",
-      "content": {
-        "dateAdded": "2020-06-20T20:42:44-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/431101285.sd.mp4?s=7f80f71ff895989826c600749e2509c94d0e7218&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 372
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/912111273_800x450.png",
-      "releaseDate": "2020-06-20",
-      "shortDescription": "Mighty Mouse in Wolf! Wolf! (1944)",
-      "longDescription": "Mighty Mouse in Wolf! Wolf! (1944)",
       "tags": [
         "adventure"
       ]
@@ -2865,131 +2836,6 @@
       ]
     },
     {
-      "id": "420482203",
-      "title": "Ep01 Spiral Zone Holographic Zone Battle",
-      "content": {
-        "dateAdded": "2020-05-26T15:35:02-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/420482203.sd.mp4?s=d2f8bdb32506356be315237afc2a38a72caeddab&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1361
-      },
-      "genres": [
-        "action"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/895740143_800x450.png",
-      "releaseDate": "2020-05-19",
-      "shortDescription": "Ep01 Spiral Zone Holographic Zone Battle",
-      "longDescription": "Ep01 Spiral Zone Holographic Zone Battle",
-      "tags": [
-        "SpiralZone"
-      ]
-    },
-    {
-      "id": "420482053",
-      "title": "Ep02 Spiral Zone  King of the Skies",
-      "content": {
-        "dateAdded": "2020-05-26T15:35:02-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/420482053.sd.mp4?s=e498f670a046e3b2e8da908bf2ac62465fbc85ed&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1326
-      },
-      "genres": [
-        "action"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/895740079_800x450.png",
-      "releaseDate": "2020-05-19",
-      "shortDescription": "Ep02 Spiral Zone  King of the Skies",
-      "longDescription": "Ep02 Spiral Zone  King of the Skies",
-      "tags": [
-        "SpiralZone"
-      ]
-    },
-    {
-      "id": "420481827",
-      "title": "Ep03 Spiral Zone  Errand of Mercy",
-      "content": {
-        "dateAdded": "2020-06-08T00:30:12-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/420481827.sd.mp4?s=7740b7dec2de2507cff88509669d88ea424494a7&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1370
-      },
-      "genres": [
-        "action"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/895739853_800x450.png",
-      "releaseDate": "2020-05-19",
-      "shortDescription": "Ep03 Spiral Zone  Errand of Mercy",
-      "longDescription": "Ep03 Spiral Zone  Errand of Mercy",
-      "tags": [
-        "SpiralZone"
-      ]
-    },
-    {
-      "id": "420481655",
-      "title": "Ep04  Spiral Zone Mission Into Evil",
-      "content": {
-        "dateAdded": "2020-06-08T00:30:12-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/420481655.sd.mp4?s=fe8e639cc229ab5288303dd92b79800ef87f59c8&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1362
-      },
-      "genres": [
-        "action"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/895739507_800x450.png",
-      "releaseDate": "2020-05-19",
-      "shortDescription": "Ep04  Spiral Zone Mission Into Evil",
-      "longDescription": "Ep04  Spiral Zone Mission Into Evil",
-      "tags": [
-        "SpiralZone"
-      ]
-    },
-    {
-      "id": "420481489",
-      "title": "Ep05  Spiral Zone  Back To The Stone Age",
-      "content": {
-        "dateAdded": "2020-06-08T00:30:12-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/420481489.sd.mp4?s=7c3189b01cc3dc369012e22dac280935427fcbb0&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1366
-      },
-      "genres": [
-        "action"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/895739663_800x450.png",
-      "releaseDate": "2020-05-19",
-      "shortDescription": "Ep05  Spiral Zone  Back To The Stone Age",
-      "longDescription": "Ep05  Spiral Zone  Back To The Stone Age",
-      "tags": [
-        "SpiralZone"
-      ]
-    },
-    {
       "id": "420480575",
       "title": "Visionaries Knights of the Magical Light E 10 [380p]",
       "content": {
@@ -4759,7 +4605,7 @@
     },
     {
       "id": "440150166",
-      "title": "Spiral Zone e24 ♥ The Man Who Wouldn-t Be King",
+      "title": "Spiral Zone e24  The Man Who Wouldn-t Be King",
       "content": {
         "dateAdded": "2020-07-20T20:46:19-04:00",
         "videos": [
@@ -4786,7 +4632,7 @@
     },
     {
       "id": "440149890",
-      "title": "Spiral Zone e23 ♥ The Lair Of The Jade Scorpion",
+      "title": "Spiral Zone e23 The Lair Of The Jade Scorpion",
       "content": {
         "dateAdded": "2020-07-20T20:46:19-04:00",
         "videos": [
@@ -5612,7 +5458,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/968446189_800x450.png",
-      "releaseDate": "2020-10-02T15:26:42-04:00",
+      "releaseDate": "2020-10-02",
       "shortDescription": "GIRL CARTOONS",
       "longDescription": "GIRL CARTOONS",
       "tags": [
