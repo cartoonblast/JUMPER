@@ -1,33 +1,8 @@
 {
-  "lastUpdated": "2020-09-06T03:39:06+00:00",
+  "lastUpdated": "2020-10-06T04:52:55+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
-    {
-      "id": "421572075",
-      "title": "Honeymooners S1E01 TV or Not TV",
-      "content": {
-        "dateAdded": "2020-05-22T12:21:02-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/421572075.sd.mp4?s=200355b760c560e71bce731856acda29ec67fbe7&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1562
-      },
-      "genres": [
-        "comedy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/897270707_800x450.png",
-      "releaseDate": "2020-05-22",
-      "shortDescription": "Honeymooners S1E01 TV or Not TV",
-      "longDescription": "Honeymooners S1E01 TV or Not TV",
-      "tags": [
-        "comedy"
-      ]
-    },
     {
       "id": "423824968",
       "title": "The Gleason Show 09",
@@ -540,7 +515,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2350
+        "duration": 2350,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "comedy"
@@ -565,7 +543,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 589
+        "duration": 589,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "comedy"
@@ -590,7 +571,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 823
+        "duration": 823,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -599,56 +583,6 @@
       "releaseDate": "2020-06-11",
       "shortDescription": "The Gleason Show 40",
       "longDescription": "The Gleason Show 40",
-      "tags": [
-        "comedy"
-      ]
-    },
-    {
-      "id": "428292045",
-      "title": "Honeymooners S1E09 Brother Ralph",
-      "content": {
-        "dateAdded": "2020-06-13T22:30:50-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/428292045.sd.mp4?s=f228b74d40e661c85d7e1fdce64c2cb20d68b810&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1051
-      },
-      "genres": [
-        "comedy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/907633641_800x450.png",
-      "releaseDate": "2020-06-11",
-      "shortDescription": "Honeymooners S1E09 Brother Ralph",
-      "longDescription": "Honeymooners S1E09 Brother Ralph",
-      "tags": [
-        "comedy"
-      ]
-    },
-    {
-      "id": "428292285",
-      "title": "Honeymooners S1E10 Hello Mom",
-      "content": {
-        "dateAdded": "2020-06-13T22:30:50-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/428292285.sd.mp4?s=8b50da0df28a9abb58af5898296e8a1169f9cf8f&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1561
-      },
-      "genres": [
-        "comedy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/907633815_800x450.png",
-      "releaseDate": "2020-06-11",
-      "shortDescription": "Honeymooners S1E10 Hello Mom",
-      "longDescription": "Honeymooners S1E10 Hello Mom",
       "tags": [
         "comedy"
       ]
@@ -665,7 +599,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1048
+        "duration": 1048,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "comedy"
@@ -690,7 +627,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 429
+        "duration": 429,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "comedy"
@@ -715,7 +655,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2256
+        "duration": 2256,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "comedy"
@@ -740,7 +683,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2407
+        "duration": 2407,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "comedy"
@@ -765,7 +711,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2217
+        "duration": 2217,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "comedy"
@@ -790,7 +739,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2345
+        "duration": 2345,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "comedy"
@@ -815,7 +767,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2217
+        "duration": 2217,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "comedy"
@@ -840,13 +795,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 534
+        "duration": 534,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952751828_800x450.png",
-      "releaseDate": "2020-09-06T03:41:34-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_37",
       "longDescription": "Gleason_Show_37",
       "tags": [
@@ -865,13 +823,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 424
+        "duration": 424,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952752030_800x450.png",
-      "releaseDate": "2020-09-06T03:43:06-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_39",
       "longDescription": "Gleason_Show_39",
       "tags": [
@@ -890,13 +851,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 679
+        "duration": 679,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952752682_800x450.png",
-      "releaseDate": "2020-09-06T03:44:22-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_40",
       "longDescription": "Gleason_Show_40",
       "tags": [
@@ -915,13 +879,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2306
+        "duration": 2306,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952754203_800x450.png",
-      "releaseDate": "2020-09-06T03:46:05-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_43",
       "longDescription": "Gleason_Show_43",
       "tags": [
@@ -940,13 +907,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 977
+        "duration": 977,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952754689_800x450.png",
-      "releaseDate": "2020-09-06T03:52:22-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_45",
       "longDescription": "Gleason_Show_45",
       "tags": [
@@ -965,13 +935,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 897
+        "duration": 897,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952755201_800x450.png",
-      "releaseDate": "2020-09-06T03:54:42-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_46",
       "longDescription": "Gleason_Show_46",
       "tags": [
@@ -990,13 +963,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 499
+        "duration": 499,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952755550_800x450.png",
-      "releaseDate": "2020-09-06T03:56:42-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_49",
       "longDescription": "Gleason_Show_49",
       "tags": [
@@ -1015,13 +991,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1928
+        "duration": 1928,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952756219_800x450.png",
-      "releaseDate": "2020-09-06T03:58:17-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_50",
       "longDescription": "Gleason_Show_50",
       "tags": [
@@ -1040,13 +1019,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 956
+        "duration": 956,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952756672_800x450.png",
-      "releaseDate": "2020-09-06T04:00:58-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_55",
       "longDescription": "Gleason_Show_55",
       "tags": [
@@ -1065,13 +1047,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2350
+        "duration": 2350,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952757220_800x450.png",
-      "releaseDate": "2020-09-06T04:02:35-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_56",
       "longDescription": "Gleason_Show_56",
       "tags": [
@@ -1090,13 +1075,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 589
+        "duration": 589,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952757562_800x450.png",
-      "releaseDate": "2020-09-06T04:05:23-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_58",
       "longDescription": "Gleason_Show_58",
       "tags": [
@@ -1115,13 +1103,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 429
+        "duration": 429,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952757927_800x450.png",
-      "releaseDate": "2020-09-06T04:06:34-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_59",
       "longDescription": "Gleason_Show_59",
       "tags": [
@@ -1140,13 +1131,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 592
+        "duration": 592,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952758207_800x450.png",
-      "releaseDate": "2020-09-06T04:07:46-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_61",
       "longDescription": "Gleason_Show_61",
       "tags": [
@@ -1165,13 +1159,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1048
+        "duration": 1048,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952758660_800x450.png",
-      "releaseDate": "2020-09-06T04:09:14-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_62",
       "longDescription": "Gleason_Show_62",
       "tags": [
@@ -1190,13 +1187,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 643
+        "duration": 643,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952758987_800x450.png",
-      "releaseDate": "2020-09-06T04:11:04-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_64",
       "longDescription": "Gleason_Show_64",
       "tags": [
@@ -1215,13 +1215,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 669
+        "duration": 669,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/default_800x450",
-      "releaseDate": "2020-09-06T04:12:16-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_68",
       "longDescription": "Gleason_Show_68",
       "tags": [
@@ -1240,13 +1243,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2361
+        "duration": 2361,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952759849_800x450.png",
-      "releaseDate": "2020-09-06T04:13:37-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_69",
       "longDescription": "Gleason_Show_69",
       "tags": [
@@ -1265,13 +1271,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 598
+        "duration": 598,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952760220_800x450.png",
-      "releaseDate": "2020-09-06T04:16:02-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_70",
       "longDescription": "Gleason_Show_70",
       "tags": [
@@ -1290,13 +1299,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 616
+        "duration": 616,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952760481_800x450.png",
-      "releaseDate": "2020-09-06T04:17:06-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_72",
       "longDescription": "Gleason_Show_72",
       "tags": [
@@ -1315,13 +1327,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2216
+        "duration": 2216,
+        "adBreaks": [
+          "00:00:03"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952761396_800x450.png",
-      "releaseDate": "2020-09-06T04:18:24-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_75",
       "longDescription": "Gleason_Show_75",
       "tags": [
@@ -1340,13 +1355,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1871
+        "duration": 1871,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952762023_800x450.png",
-      "releaseDate": "2020-09-06T04:21:26-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_77",
       "longDescription": "Gleason_Show_77",
       "tags": [
@@ -1365,13 +1383,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 781
+        "duration": 781,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952762430_800x450.png",
-      "releaseDate": "2020-09-06T04:24:12-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_79",
       "longDescription": "Gleason_Show_79",
       "tags": [
@@ -1390,13 +1411,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 568
+        "duration": 568,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952762976_800x450.png",
-      "releaseDate": "2020-09-06T04:26:07-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_80",
       "longDescription": "Gleason_Show_80",
       "tags": [
@@ -1415,13 +1439,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2047
+        "duration": 2047,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952763728_800x450.png",
-      "releaseDate": "2020-09-06T04:27:45-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_82",
       "longDescription": "Gleason_Show_82",
       "tags": [
@@ -1440,13 +1467,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 636
+        "duration": 636,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952764253_800x450.png",
-      "releaseDate": "2020-09-06T04:31:05-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_85",
       "longDescription": "Gleason_Show_85",
       "tags": [
@@ -1465,13 +1495,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2240
+        "duration": 2240,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952764656_800x450.png",
-      "releaseDate": "2020-09-06T04:32:42-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_88",
       "longDescription": "Gleason_Show_88",
       "tags": [
@@ -1490,13 +1523,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 823
+        "duration": 823,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952764983_800x450.png",
-      "releaseDate": "2020-09-06T04:34:52-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_89",
       "longDescription": "Gleason_Show_89",
       "tags": [
@@ -1515,13 +1551,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2061
+        "duration": 2061,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952765537_800x450.png",
-      "releaseDate": "2020-09-06T04:36:04-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_90",
       "longDescription": "Gleason_Show_90",
       "tags": [
@@ -1540,13 +1579,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 470
+        "duration": 470,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952765754_800x450.png",
-      "releaseDate": "2020-09-06T04:38:02-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_93",
       "longDescription": "Gleason_Show_93",
       "tags": [
@@ -1565,13 +1607,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2089
+        "duration": 2089,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952766208_800x450.png",
-      "releaseDate": "2020-09-06T04:39:13-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_95",
       "longDescription": "Gleason_Show_95",
       "tags": [
@@ -1590,17 +1635,272 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 547
+        "duration": 547,
+        "adBreaks": [
+          "00:00:01"
+        ]
       },
       "genres": [
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/952766594_800x450.png",
-      "releaseDate": "2020-09-06T04:41:02-04:00",
+      "releaseDate": "2020-09-06",
       "shortDescription": "Gleason_Show_96",
       "longDescription": "Gleason_Show_96",
       "tags": [
         "special"
+      ]
+    },
+    {
+      "id": "421572075",
+      "title": "Honeymooners S1E01 TV or Not TV",
+      "content": {
+        "dateAdded": "2020-10-05T08:36:54-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/421572075.sd.mp4?s=200355b760c560e71bce731856acda29ec67fbe7&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1562,
+        "adBreaks": [
+          "00:05:00"
+        ]
+      },
+      "genres": [
+        "sitcom"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/897270707_800x450.png",
+      "releaseDate": "2020-05-22T10:50:24-04:00",
+      "shortDescription": "Honeymooners S1E01 TV or Not TV",
+      "longDescription": "Honeymooners S1E01 TV or Not TV",
+      "tags": [
+        "sitcom"
+      ]
+    },
+    {
+      "id": "428272701",
+      "title": "Honeymooners S1E02 Funny Money",
+      "content": {
+        "dateAdded": "2020-10-05T08:36:54-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/428272701.sd.mp4?s=8157a2e01c06a239d6fff237bff71cdf241796b5&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1563,
+        "adBreaks": [
+          "00:05:00"
+        ]
+      },
+      "genres": [
+        "sitcom"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/907606198_800x450.png",
+      "releaseDate": "2020-06-11T17:19:21-04:00",
+      "shortDescription": "Honeymooners S1E02 Funny Money",
+      "longDescription": "Honeymooners S1E02 Funny Money",
+      "tags": [
+        "sitcom"
+      ]
+    },
+    {
+      "id": "428273245",
+      "title": "Honeymooners S1E03 The Golfer",
+      "content": {
+        "dateAdded": "2020-10-05T08:36:54-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/428273245.sd.mp4?s=6b68903ba7dc442ee37b0a60e4aada60db7be094&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1560,
+        "adBreaks": [
+          "00:05:00"
+        ]
+      },
+      "genres": [
+        "sitcom"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/907606683_800x450.png",
+      "releaseDate": "2020-06-11T17:20:59-04:00",
+      "shortDescription": "Honeymooners S1E03 The Golfer",
+      "longDescription": "Honeymooners S1E03 The Golfer",
+      "tags": [
+        "sitcom"
+      ]
+    },
+    {
+      "id": "428290728",
+      "title": "Honeymooners S1E05 A Matter of Life and Death",
+      "content": {
+        "dateAdded": "2020-10-05T08:36:54-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/428290728.sd.mp4?s=486b72b79bdc20378853fa5ce06123d21ea666b8&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1502,
+        "adBreaks": [
+          "00:05:00"
+        ]
+      },
+      "genres": [
+        "sitcom"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/907631975_800x450.png",
+      "releaseDate": "2020-06-11T18:22:17-04:00",
+      "shortDescription": "Honeymooners S1E05 A Matter of Life and Death",
+      "longDescription": "Honeymooners S1E05 A Matter of Life and Death",
+      "tags": [
+        "sitcom"
+      ]
+    },
+    {
+      "id": "428291166",
+      "title": "Honeymooners S1E06 The Sleepwalker",
+      "content": {
+        "dateAdded": "2020-10-05T08:36:54-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/428291166.sd.mp4?s=8c8413efbe04c27b575f234f4f256491680f5e20&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1560,
+        "adBreaks": [
+          "00:05:00"
+        ]
+      },
+      "genres": [
+        "sitcom"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/907632250_800x450.png",
+      "releaseDate": "2020-06-11T18:23:49-04:00",
+      "shortDescription": "Honeymooners S1E06 The Sleepwalker",
+      "longDescription": "Honeymooners S1E06 The Sleepwalker",
+      "tags": [
+        "sitcom"
+      ]
+    },
+    {
+      "id": "428291427",
+      "title": "Honeymooners S1E07 Better Living Through TV",
+      "content": {
+        "dateAdded": "2020-10-05T08:36:54-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/428291427.sd.mp4?s=3adf70b7843cea962f358dc23c98e5810ed1df4d&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1563,
+        "adBreaks": [
+          "00:05:00"
+        ]
+      },
+      "genres": [
+        "sitcom"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/907632744_800x450.png",
+      "releaseDate": "2020-06-11T18:24:45-04:00",
+      "shortDescription": "Honeymooners S1E07 Better Living Through TV",
+      "longDescription": "Honeymooners S1E07 Better Living Through TV",
+      "tags": [
+        "sitcom"
+      ]
+    },
+    {
+      "id": "428291706",
+      "title": "Honeymooners S1E08 Pal O' Mine",
+      "content": {
+        "dateAdded": "2020-10-05T08:36:54-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/428291706.sd.mp4?s=52843fd7231e9f2708e5349576f0280ce1e5b028&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1563,
+        "adBreaks": [
+          "00:05:00"
+        ]
+      },
+      "genres": [
+        "sitcom"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/907633315_800x450.png",
+      "releaseDate": "2020-06-11T18:25:49-04:00",
+      "shortDescription": "Honeymooners S1E08 Pal O' Mine",
+      "longDescription": "Honeymooners S1E08 Pal O' Mine",
+      "tags": [
+        "sitcom"
+      ]
+    },
+    {
+      "id": "428292045",
+      "title": "Honeymooners S1E09 Brother Ralph",
+      "content": {
+        "dateAdded": "2020-10-05T08:36:54-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/428292045.sd.mp4?s=f228b74d40e661c85d7e1fdce64c2cb20d68b810&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1051,
+        "adBreaks": [
+          "00:05:00"
+        ]
+      },
+      "genres": [
+        "sitcom"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/907633641_800x450.png",
+      "releaseDate": "2020-06-11T18:27:10-04:00",
+      "shortDescription": "Honeymooners S1E09 Brother Ralph",
+      "longDescription": "Honeymooners S1E09 Brother Ralph",
+      "tags": [
+        "sitcom"
+      ]
+    },
+    {
+      "id": "428292285",
+      "title": "Honeymooners S1E10 Hello Mom",
+      "content": {
+        "dateAdded": "2020-10-05T08:36:54-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/428292285.sd.mp4?s=8b50da0df28a9abb58af5898296e8a1169f9cf8f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1561,
+        "adBreaks": [
+          "00:05:00"
+        ]
+      },
+      "genres": [
+        "sitcom"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/907633815_800x450.png",
+      "releaseDate": "2020-06-11T18:28:08-04:00",
+      "shortDescription": "Honeymooners S1E10 Hello Mom",
+      "longDescription": "Honeymooners S1E10 Hello Mom",
+      "tags": [
+        "sitcom"
       ]
     }
   ]
