@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-10-03T02:27:21+00:00",
+  "lastUpdated": "2020-10-15T01:03:16+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -276,7 +276,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1303
+        "duration": 1303,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated",
@@ -334,7 +337,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1310
+        "duration": 1310,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated",
@@ -363,7 +369,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1276
+        "duration": 1276,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated",
@@ -392,7 +401,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1553
+        "duration": 1553,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated",
@@ -740,7 +752,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1438
+        "duration": 1438,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated",
@@ -769,7 +784,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1437
+        "duration": 1437,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated",
@@ -798,7 +816,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1432
+        "duration": 1432,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated",
@@ -827,7 +848,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1425
+        "duration": 1425,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated",
@@ -1415,7 +1439,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1450
+        "duration": 1450,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated",
@@ -1444,7 +1471,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1447
+        "duration": 1447,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated",
@@ -1473,7 +1503,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1448
+        "duration": 1448,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated",
@@ -1502,7 +1535,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1449
+        "duration": 1449,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated",
@@ -1531,7 +1567,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 5463
+        "duration": 5463,
+        "adBreaks": [
+          "00:15:00"
+        ]
       },
       "genres": [
         "animated"
@@ -1556,7 +1595,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 3150
+        "duration": 3150,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -1581,7 +1623,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 5633
+        "duration": 5633,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -1632,7 +1677,11 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1378
+        "duration": 1378,
+        "adBreaks": [
+          "00:00:00",
+          "00:15:00"
+        ]
       },
       "genres": [
         "anime"
@@ -1658,7 +1707,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1377
+        "duration": 1377,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "anime"
@@ -1684,7 +1736,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1048
+        "duration": 1048,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -1694,8 +1749,7 @@
       "shortDescription": "Captain America 1966 Cartoon - #13",
       "longDescription": "Captain America 1966 Cartoon - #13",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -1710,7 +1764,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1011
+        "duration": 1011,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -1720,8 +1777,7 @@
       "shortDescription": "Captain America 1966 Cartoon - #12",
       "longDescription": "Captain America 1966 Cartoon - #12",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -1736,7 +1792,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1017
+        "duration": 1017,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -1746,8 +1805,7 @@
       "shortDescription": "Captain America 1966 Cartoon - #11",
       "longDescription": "Captain America 1966 Cartoon - #11",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -1762,7 +1820,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1042
+        "duration": 1042,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -1772,8 +1833,7 @@
       "shortDescription": "Captain America 1966 Cartoon - #10",
       "longDescription": "Captain America 1966 Cartoon - #10",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -1788,7 +1848,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1053
+        "duration": 1053,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -1798,8 +1861,7 @@
       "shortDescription": "Captain America 1966 Cartoon - #9",
       "longDescription": "Captain America 1966 Cartoon - #9",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -1814,7 +1876,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1041
+        "duration": 1041,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -1824,8 +1889,7 @@
       "shortDescription": "Captain America 1966 Cartoon - #8",
       "longDescription": "Captain America 1966 Cartoon - #8",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -1840,7 +1904,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1040
+        "duration": 1040,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -1850,8 +1917,7 @@
       "shortDescription": "Captain America 1966 Cartoon - #7",
       "longDescription": "Captain America 1966 Cartoon - #7",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -1866,7 +1932,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1013
+        "duration": 1013,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -1876,8 +1945,7 @@
       "shortDescription": "Captain America 1966 Cartoon - #6",
       "longDescription": "Captain America 1966 Cartoon - #6",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -1892,7 +1960,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1049
+        "duration": 1049,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -1902,8 +1973,7 @@
       "shortDescription": "Captain America 1966 Cartoon - #5",
       "longDescription": "Captain America 1966 Cartoon - #5",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -1918,7 +1988,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1051
+        "duration": 1051,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -1928,8 +2001,7 @@
       "shortDescription": "Captain America 1966 Cartoon - #4",
       "longDescription": "Captain America 1966 Cartoon - #4",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -1944,7 +2016,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1052
+        "duration": 1052,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -1954,8 +2029,7 @@
       "shortDescription": "Captain America 1966 Cartoon - #3",
       "longDescription": "Captain America 1966 Cartoon - #3",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -1970,7 +2044,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1050
+        "duration": 1050,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -1980,8 +2057,7 @@
       "shortDescription": "Captain America 1966 Cartoon - #2",
       "longDescription": "Captain America 1966 Cartoon - #2",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -1996,7 +2072,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1049
+        "duration": 1049,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2006,8 +2085,7 @@
       "shortDescription": "Captain America 1966 Cartoon - #1",
       "longDescription": "Captain America 1966 Cartoon - #1",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2022,7 +2100,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 469
+        "duration": 469,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2047,7 +2128,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 514
+        "duration": 514,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2057,7 +2141,7 @@
       "shortDescription": "13 Destruction, Inc.",
       "longDescription": "13 Destruction, Inc.",
       "tags": [
-        "SUPERMAN"
+        "superman"
       ]
     },
     {
@@ -2072,7 +2156,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 539
+        "duration": 539,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2097,7 +2184,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 502
+        "duration": 502,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated",
@@ -2123,7 +2213,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 549
+        "duration": 549,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2148,7 +2241,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 501
+        "duration": 501,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2173,7 +2269,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 478
+        "duration": 478,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2198,7 +2297,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 524
+        "duration": 524,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2223,7 +2325,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 459
+        "duration": 459,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2248,7 +2353,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 483
+        "duration": 483,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2273,7 +2381,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 515
+        "duration": 515,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2298,7 +2409,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 516
+        "duration": 516,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2323,7 +2437,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 664
+        "duration": 664,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2348,7 +2465,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 628
+        "duration": 628,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2358,8 +2478,6 @@
       "shortDescription": "1 The Mad Scientist",
       "longDescription": "1 The Mad Scientist",
       "tags": [
-        "animated",
-        "anime",
         "superman"
       ]
     },
@@ -2375,7 +2493,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1223
+        "duration": 1223,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "action"
@@ -2385,8 +2506,7 @@
       "shortDescription": "Space Angel - The Gladiator",
       "longDescription": "Space Angel - The Gladiator",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2401,7 +2521,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1290
+        "duration": 1290,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "action"
@@ -2411,8 +2534,7 @@
       "shortDescription": "Space Angel - The Donovan Plan S01E24 (episodes 116-120)",
       "longDescription": "Space Angel - The Donovan Plan S01E24 (episodes 116-120)",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2427,7 +2549,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1175
+        "duration": 1175,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "action"
@@ -2437,8 +2562,7 @@
       "shortDescription": "Space Angel - Scratch One chimp",
       "longDescription": "Space Angel - Scratch One chimp",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2453,7 +2577,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1174
+        "duration": 1174,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "action"
@@ -2463,8 +2590,7 @@
       "shortDescription": "Space Angel - Power Failure",
       "longDescription": "Space Angel - Power Failure",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2479,7 +2605,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1177
+        "duration": 1177,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "action"
@@ -2489,8 +2618,7 @@
       "shortDescription": "Space Angel - Expedition to a New Moon",
       "longDescription": "Space Angel - Expedition to a New Moon",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2505,7 +2633,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1278
+        "duration": 1278,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "action"
@@ -2515,8 +2646,7 @@
       "shortDescription": "Space Angel - Cosmic Combat",
       "longDescription": "Space Angel - Cosmic Combat",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2531,7 +2661,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 393
+        "duration": 393,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2541,8 +2674,7 @@
       "shortDescription": "Lone Ranger Cartoon 1966 - Tonto and the Devil Spirits - Full Vintage TV Episode",
       "longDescription": "Lone Ranger Cartoon 1966 - Tonto and the Devil Spirits - Full Vintage TV Episode",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2557,7 +2689,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 374
+        "duration": 374,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2567,8 +2702,7 @@
       "shortDescription": "Lone Ranger Cartoon 1966 - The Human Dynamo! - Steampunk Action",
       "longDescription": "Lone Ranger Cartoon 1966 - The Human Dynamo! - Steampunk Action",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2583,7 +2717,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 397
+        "duration": 397,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2593,8 +2730,7 @@
       "shortDescription": "Lone Ranger Cartoon 1966 - The Frog People - Full Episode Steampunk Animated Western",
       "longDescription": "Lone Ranger Cartoon 1966 - The Frog People - Full Episode Steampunk Animated Western",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2609,7 +2745,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 396
+        "duration": 396,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2619,8 +2758,7 @@
       "shortDescription": "Lone Ranger Cartoon 1966 - Crack of Doom",
       "longDescription": "Lone Ranger Cartoon 1966 - Crack of Doom",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2635,7 +2773,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 391
+        "duration": 391,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2645,8 +2786,7 @@
       "shortDescription": "Lone Ranger Cartoon 1966 - Circus of Death - Full & Complete Episode",
       "longDescription": "Lone Ranger Cartoon 1966 - Circus of Death - Full & Complete Episode",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2661,7 +2801,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 395
+        "duration": 395,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2671,8 +2814,7 @@
       "shortDescription": "Lone Ranger Cartoon 1966 - Bear Claw - Full TV Animated Show Episode",
       "longDescription": "Lone Ranger Cartoon 1966 - Bear Claw - Full TV Animated Show Episode",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2687,7 +2829,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 398
+        "duration": 398,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2697,8 +2842,7 @@
       "shortDescription": "Lone Ranger 1966 - Wrath of the Sun God - Full Length Cartoon",
       "longDescription": "Lone Ranger 1966 - Wrath of the Sun God - Full Length Cartoon",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2713,7 +2857,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 395
+        "duration": 395,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2723,8 +2870,7 @@
       "shortDescription": "Lone Ranger 1966 - Valley of the Dead - spectacular full western cartoon",
       "longDescription": "Lone Ranger 1966 - Valley of the Dead - spectacular full western cartoon",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2739,19 +2885,20 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 401
+        "duration": 401,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
-        "animated",
-        "anime"
+        "animated"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/897768813_800x450.png",
       "releaseDate": "2020-05-23",
       "shortDescription": "Lone Ranger 1966 - The Ghost Tribe of Comanche Flats - Visually Stunning Cartoon!",
       "longDescription": "Lone Ranger 1966 - The Ghost Tribe of Comanche Flats - Visually Stunning Cartoon!",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2766,7 +2913,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 394
+        "duration": 394,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2776,8 +2926,7 @@
       "shortDescription": "Lone Ranger 1966 - Puppet Master - Full Cartoon Episode",
       "longDescription": "Lone Ranger 1966 - Puppet Master - Full Cartoon Episode",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2792,7 +2941,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 396
+        "duration": 396,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "animated"
@@ -2802,8 +2954,7 @@
       "shortDescription": "Lone Ranger 1966 - a Time to Die! Unique and Classic TV Animated Cartoon",
       "longDescription": "Lone Ranger 1966 - a Time to Die! Unique and Classic TV Animated Cartoon",
       "tags": [
-        "animated",
-        "anime"
+        "animated"
       ]
     },
     {
@@ -2818,7 +2969,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1523
+        "duration": 1523,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "action"
@@ -2844,7 +2998,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1306
+        "duration": 1306,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "action"
@@ -2870,7 +3027,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1274
+        "duration": 1274,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "action"
@@ -2896,7 +3056,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1272
+        "duration": 1272,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "action"
@@ -2922,7 +3085,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1270
+        "duration": 1270,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "action"
@@ -2948,7 +3114,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1269
+        "duration": 1269,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "action"
@@ -2974,7 +3143,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1267
+        "duration": 1267,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "action"
@@ -3000,7 +3172,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1335
+        "duration": 1335,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "action"
@@ -3026,7 +3201,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2919
+        "duration": 2919,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "special"
@@ -3051,7 +3229,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 6092
+        "duration": 6092,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "special"
@@ -3076,7 +3257,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1301
+        "duration": 1301,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "special"
@@ -3101,7 +3285,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1312
+        "duration": 1312,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "special"
@@ -3126,7 +3313,15 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 9506
+        "duration": 9506,
+        "adBreaks": [
+          "00:25:00",
+          "00:50:00",
+          "01:15:00",
+          "01:40:00",
+          "02:05:00",
+          "02:30:00"
+        ]
       },
       "genres": [
         "special"
@@ -3151,7 +3346,14 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 6560
+        "duration": 6560,
+        "adBreaks": [
+          "00:20:00",
+          "00:40:00",
+          "01:00:00",
+          "01:20:00",
+          "01:40:00"
+        ]
       },
       "genres": [
         "special"
@@ -3176,7 +3378,13 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 7110
+        "duration": 7110,
+        "adBreaks": [
+          "00:25:00",
+          "00:50:00",
+          "01:15:00",
+          "01:40:00"
+        ]
       },
       "genres": [
         "special"
@@ -3201,7 +3409,15 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 10442
+        "duration": 10442,
+        "adBreaks": [
+          "00:25:00",
+          "00:50:00",
+          "01:15:00",
+          "01:40:00",
+          "02:05:00",
+          "02:30:00"
+        ]
       },
       "genres": [
         "special"
@@ -3226,7 +3442,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 6119
+        "duration": 6119,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "special"
@@ -3276,7 +3495,21 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 18327
+        "duration": 18327,
+        "adBreaks": [
+          "00:25:00",
+          "00:50:00",
+          "01:15:00",
+          "01:40:00",
+          "02:05:00",
+          "02:30:00",
+          "02:55:00",
+          "03:20:00",
+          "03:45:00",
+          "04:10:00",
+          "04:35:00",
+          "05:00:00"
+        ]
       },
       "genres": [
         "special"
@@ -3301,7 +3534,23 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 13280
+        "duration": 13280,
+        "adBreaks": [
+          "00:15:00",
+          "00:30:00",
+          "00:45:00",
+          "01:00:00",
+          "01:15:00",
+          "01:30:00",
+          "01:45:00",
+          "02:00:00",
+          "02:15:00",
+          "02:30:00",
+          "02:45:00",
+          "03:00:00",
+          "03:15:00",
+          "03:30:00"
+        ]
       },
       "genres": [
         "special"
@@ -3326,7 +3575,22 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 12459
+        "duration": 12459,
+        "adBreaks": [
+          "00:15:00",
+          "00:30:00",
+          "00:45:00",
+          "01:00:00",
+          "01:15:00",
+          "01:30:00",
+          "01:45:00",
+          "02:00:00",
+          "02:15:00",
+          "02:30:00",
+          "02:45:00",
+          "03:00:00",
+          "03:15:00"
+        ]
       },
       "genres": [
         "special"
@@ -3351,7 +3615,11 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 14902
+        "duration": 14902,
+        "adBreaks": [
+          "00:00:00",
+          "00:15:00"
+        ]
       },
       "genres": [
         "special"
@@ -3376,7 +3644,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1336
+        "duration": 1336,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "science fiction"
@@ -3401,7 +3672,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1340
+        "duration": 1340,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "science fiction"
@@ -3426,7 +3700,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1335
+        "duration": 1335,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "science fiction"
@@ -3451,7 +3728,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1337
+        "duration": 1337,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "science fiction"
@@ -3476,7 +3756,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1337
+        "duration": 1337,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "science fiction"
@@ -3501,7 +3784,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1333
+        "duration": 1333,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "science fiction"
@@ -3526,7 +3812,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1313
+        "duration": 1313,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "science fiction"
@@ -3551,7 +3840,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1330
+        "duration": 1330,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "science fiction"
@@ -3576,7 +3868,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1335
+        "duration": 1335,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "science fiction"
@@ -3601,7 +3896,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1250
+        "duration": 1250,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "science fiction"
@@ -3626,7 +3924,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1324
+        "duration": 1324,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "science fiction"
@@ -3651,7 +3952,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1322
+        "duration": 1322,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "science fiction"
@@ -3676,7 +3980,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1328
+        "duration": 1328,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "science fiction"
@@ -3701,7 +4008,11 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 11713
+        "duration": 11713,
+        "adBreaks": [
+          "00:00:00",
+          "00:15:00"
+        ]
       },
       "genres": [
         "special"
@@ -4558,7 +4869,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1357
+        "duration": 1357,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -4583,7 +4897,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1345
+        "duration": 1345,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -4608,7 +4925,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1362
+        "duration": 1362,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -4633,7 +4953,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1364
+        "duration": 1364,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -4658,7 +4981,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1355
+        "duration": 1355,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -4683,7 +5009,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1361
+        "duration": 1361,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -4709,7 +5038,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1359
+        "duration": 1359,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -4735,7 +5067,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1355
+        "duration": 1355,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -4761,7 +5096,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1356
+        "duration": 1356,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -4787,7 +5125,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1357
+        "duration": 1357,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -4812,7 +5153,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1358
+        "duration": 1358,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -4837,7 +5181,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1364
+        "duration": 1364,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -4862,7 +5209,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1361
+        "duration": 1361,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -4887,7 +5237,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1363
+        "duration": 1363,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -4912,7 +5265,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1363
+        "duration": 1363,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -4937,7 +5293,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1364
+        "duration": 1364,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -4962,7 +5321,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1355
+        "duration": 1355,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -4987,7 +5349,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1358
+        "duration": 1358,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -5012,7 +5377,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1360
+        "duration": 1360,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -5037,7 +5405,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1360
+        "duration": 1360,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -5062,7 +5433,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1358
+        "duration": 1358,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -5087,7 +5461,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1354
+        "duration": 1354,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -5112,7 +5489,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1355
+        "duration": 1355,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -5137,7 +5517,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1360
+        "duration": 1360,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -5162,7 +5545,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1356
+        "duration": 1356,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -5187,7 +5573,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1361
+        "duration": 1361,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -5212,7 +5601,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1326
+        "duration": 1326,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -5237,7 +5629,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1370
+        "duration": 1370,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -5262,7 +5657,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1362
+        "duration": 1362,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -5287,7 +5685,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1366
+        "duration": 1366,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "genres": [
         "technology"
@@ -5314,7 +5715,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 424
+        "duration": 424,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "thumbnail": "https://i.vimeocdn.com/video/938754066_800x450.png",
       "shortDescription": "The Flash - 1967 Cartoon 3",
@@ -5339,7 +5743,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 423
+        "duration": 423,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "thumbnail": "https://i.vimeocdn.com/video/938753902_800x450.png",
       "shortDescription": "The Flash - 1967 Cartoon 2",
@@ -5364,7 +5771,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 420
+        "duration": 420,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "thumbnail": "https://i.vimeocdn.com/video/938753880_800x450.png",
       "shortDescription": "The Flash - 1967 Cartoon 1",
@@ -5389,7 +5799,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 423
+        "duration": 423,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "thumbnail": "https://i.vimeocdn.com/video/938753679_800x450.png",
       "shortDescription": "Teen Titans - 1967 Filmation 3",
@@ -5414,7 +5827,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 423
+        "duration": 423,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "thumbnail": "https://i.vimeocdn.com/video/938753606_800x450.png",
       "shortDescription": "Teen Titans - 1967 Filmation 2",
@@ -5439,7 +5855,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 423
+        "duration": 423,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "thumbnail": "https://i.vimeocdn.com/video/938753331_800x450.png",
       "shortDescription": "Teen Titans - 1967 Filmation 1",
@@ -5464,7 +5883,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 425
+        "duration": 425,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "thumbnail": "https://i.vimeocdn.com/video/938752915_800x450.png",
       "shortDescription": "Hawkman 1960-s Cartoon - 3",
@@ -5489,7 +5911,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 424
+        "duration": 424,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "thumbnail": "https://i.vimeocdn.com/video/938752686_800x450.png",
       "shortDescription": "Hawkman 1960-s Cartoon - 2",
@@ -5514,7 +5939,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 423
+        "duration": 423,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "thumbnail": "https://i.vimeocdn.com/video/938752822_800x450.png",
       "shortDescription": "Hawkman 1960-s Cartoon - 1",
@@ -5539,7 +5967,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 424
+        "duration": 424,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "thumbnail": "https://i.vimeocdn.com/video/938752260_800x450.png",
       "shortDescription": "1967 Justice League of America - 3",
@@ -5564,7 +5995,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 424
+        "duration": 424,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "thumbnail": "https://i.vimeocdn.com/video/938752066_800x450.png",
       "shortDescription": "1967 Justice League of America - 1",
@@ -5589,7 +6023,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 425
+        "duration": 425,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "thumbnail": "https://i.vimeocdn.com/video/938751980_800x450.png",
       "shortDescription": "1967 Green Lantern Cartoon - 3",
@@ -5639,7 +6076,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 420
+        "duration": 420,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "thumbnail": "https://i.vimeocdn.com/video/938751241_800x450.png",
       "shortDescription": "1967 Green Lantern Cartoon - 1",
@@ -5664,7 +6104,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 424
+        "duration": 424,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "thumbnail": "https://i.vimeocdn.com/video/938750970_800x450.png",
       "shortDescription": "1967 Atom Cartoon - 3",
@@ -5714,7 +6157,10 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 422
+        "duration": 422,
+        "adBreaks": [
+          "00:00:00"
+        ]
       },
       "thumbnail": "https://i.vimeocdn.com/video/938750781_800x450.png",
       "shortDescription": "1967 Atom Cartoon - 1",
