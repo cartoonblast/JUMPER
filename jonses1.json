@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-10-15T01:03:16+00:00",
+  "lastUpdated": "2020-10-15T04:44:40+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -5699,6 +5699,656 @@
       "longDescription": "Ep05  Spiral Zone  Back To The Stone Age",
       "tags": [
         "technology"
+      ]
+    },
+    {
+      "id": "467832731",
+      "title": "01 - Attack of the Space Terrapin",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467832731.sd.mp4?s=319034b02a631dcd0715ab1923295bfe0910341a&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1353
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974533811_800x450.png",
+      "releaseDate": "2020-10-13T13:26:37-04:00",
+      "shortDescription": "01 - Attack of the Space Terrapin",
+      "longDescription": "01 - Attack of the Space Terrapin",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467833536",
+      "title": "02 - Rescue of the Astronauts",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467833536.sd.mp4?s=e3e289b7bd15742665b2c59660ad814fb6b8db23&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1435
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974534501_800x450.png",
+      "releaseDate": "2020-10-13T13:28:52-04:00",
+      "shortDescription": "02 - Rescue of the Astronauts",
+      "longDescription": "02 - Rescue of the Astronauts",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467834747",
+      "title": "03 - The Space Mummy",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467834747.sd.mp4?s=90030316f1b50fe78af6fd9dbd38c7cb9f848a42&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1388
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974536567_800x450.png",
+      "releaseDate": "2020-10-13T13:32:09-04:00",
+      "shortDescription": "03 - The Space Mummy",
+      "longDescription": "03 - The Space Mummy",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467835394",
+      "title": "04 - The Space Serpent",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467835394.sd.mp4?s=e51c9d79e2ccca75b5656baf3947b1f83fadcedf&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1433
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974537456_800x450.png",
+      "releaseDate": "2020-10-13T13:34:03-04:00",
+      "shortDescription": "04 - The Space Serpent",
+      "longDescription": "04 - The Space Serpent",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467836487",
+      "title": "05 - Ghost Ship from Planet Mir",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467836487.sd.mp4?s=d27caa30de0119e02cd03a2b78d2f214a5be91fd&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1436
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974539597_800x450.png",
+      "releaseDate": "2020-10-13T13:37:21-04:00",
+      "shortDescription": "05 - Ghost Ship from Planet Mir",
+      "longDescription": "05 - Ghost Ship from Planet Mir",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467837477",
+      "title": "06 - Big Robot Gold Grab",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467837477.sd.mp4?s=97060f1a6c7a22a3c43740b58c60199e58f8bd3f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1429
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974540808_800x450.png",
+      "releaseDate": "2020-10-13T13:39:54-04:00",
+      "shortDescription": "06 - Big Robot Gold Grab",
+      "longDescription": "06 - Big Robot Gold Grab",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467838480",
+      "title": "07 - Ace from Outer Space",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467838480.sd.mp4?s=7d490b99312ed26ef66a4da06d00e3b6bb32e8f6&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1393
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974542669_800x450.png",
+      "releaseDate": "2020-10-13T13:42:48-04:00",
+      "shortDescription": "07 - Ace from Outer Space",
+      "longDescription": "07 - Ace from Outer Space",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467839181",
+      "title": "08 - Fearful Sea Anemone",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467839181.sd.mp4?s=0bdd821b488c83f54eecce0a6e338b2ca599826e&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1479
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974543690_800x450.png",
+      "releaseDate": "2020-10-13T13:44:48-04:00",
+      "shortDescription": "08 - Fearful Sea Anemone",
+      "longDescription": "08 - Fearful Sea Anemone",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467840102",
+      "title": "09 - Jupiter Moon Menace",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467840102.sd.mp4?s=b69237558baf55654670b90a0aa1828853a83ed8&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1434
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974544986_800x450.png",
+      "releaseDate": "2020-10-13T13:47:22-04:00",
+      "shortDescription": "09 - Jupiter Moon Menace",
+      "longDescription": "09 - Jupiter Moon Menace",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467841035",
+      "title": "10 - Swarm of Robot Ants",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467841035.sd.mp4?s=f3ba121a91689eb401353baba4f70fe198c95342&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1431
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974547006_800x450.png",
+      "releaseDate": "2020-10-13T13:50:05-04:00",
+      "shortDescription": "10 - Swarm of Robot Ants",
+      "longDescription": "10 - Swarm of Robot Ants",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467842075",
+      "title": "11 - Space Rocket Escort",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467842075.sd.mp4?s=6e25d7df23fd4e082649d5ce989ee5652ad94add&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1363
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974547957_800x450.png",
+      "releaseDate": "2020-10-13T13:53:13-04:00",
+      "shortDescription": "11 - Space Rocket Escort",
+      "longDescription": "11 - Space Rocket Escort",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467842779",
+      "title": "12 - Beast with a Sweet Tooth",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467842779.sd.mp4?s=9a2ff80f13cd70d533e2a435ecb782b13dbeb75f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1430
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974549135_800x450.png",
+      "releaseDate": "2020-10-13T13:55:23-04:00",
+      "shortDescription": "12 - Beast with a Sweet Tooth",
+      "longDescription": "12 - Beast with a Sweet Tooth",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467843603",
+      "title": "13 - Perilous Pleasure Cruise",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467843603.sd.mp4?s=129ce5dfc0973c7e7cd2525e6bca5645921d50d7&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1381
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974550707_800x450.png",
+      "releaseDate": "2020-10-13T13:57:53-04:00",
+      "shortDescription": "13 - Perilous Pleasure Cruise",
+      "longDescription": "13 - Perilous Pleasure Cruise",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467844566",
+      "title": "14 - The Thing with 1000 Eyes",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467844566.sd.mp4?s=377d5e42de5201cc231a385829f37495333dd7ab&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1433
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974552071_800x450.png",
+      "releaseDate": "2020-10-13T14:00:36-04:00",
+      "shortDescription": "14 - The Thing with 1000 Eyes",
+      "longDescription": "14 - The Thing with 1000 Eyes",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467845661",
+      "title": "15 - Microfilm Mystery",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467845661.sd.mp4?s=45e7fbca2372f02fcfbc0cb06a3d91bc10f1a94f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1388
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974553771_800x450.png",
+      "releaseDate": "2020-10-13T14:03:53-04:00",
+      "shortDescription": "15 - Microfilm Mystery",
+      "longDescription": "15 - Microfilm Mystery",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467846554",
+      "title": "16 - The Alien Beetles",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467846554.sd.mp4?s=0514cc15d3d77bbd57bd68c421795619726d7a7b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1482
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974555236_800x450.png",
+      "releaseDate": "2020-10-13T14:06:43-04:00",
+      "shortDescription": "16 - The Alien Beetles",
+      "longDescription": "16 - The Alien Beetles",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467847257",
+      "title": "17 - Whale Joins G-Force",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467847257.sd.mp4?s=74611d4efca4053c55705d87bd84c8810c61d8ef&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1387
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974556384_800x450.png",
+      "releaseDate": "2020-10-13T14:08:57-04:00",
+      "shortDescription": "17 - Whale Joins G-Force",
+      "longDescription": "17 - Whale Joins G-Force",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467847996",
+      "title": "18 - Mad New Ruler of Spectra",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467847996.sd.mp4?s=f94da37938a0ce56248855cc4fc68468c1edb7e9&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1434
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974557937_800x450.png",
+      "releaseDate": "2020-10-13T14:11:05-04:00",
+      "shortDescription": "18 - Mad New Ruler of Spectra",
+      "longDescription": "18 - Mad New Ruler of Spectra",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467849068",
+      "title": "19 - The Sea Dragon",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467849068.sd.mp4?s=a6c79f47ccb4b2ac0c67338c3aa17aa72ea4d05a&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1435
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974559743_800x450.png",
+      "releaseDate": "2020-10-13T14:14:14-04:00",
+      "shortDescription": "19 - The Sea Dragon",
+      "longDescription": "19 - The Sea Dragon",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467850187",
+      "title": "20 - Magnetic Attraction",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467850187.sd.mp4?s=dd87c7d2a00060e3e57db8e1dd9f7f244959dbc3&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1434
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974561569_800x450.png",
+      "releaseDate": "2020-10-13T14:17:48-04:00",
+      "shortDescription": "20 - Magnetic Attraction",
+      "longDescription": "20 - Magnetic Attraction",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467850968",
+      "title": "21 - The Musical Mummy",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467850968.sd.mp4?s=a7968241d93fb17fcc14ddfb818f78d2d3932539&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1436
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974562947_800x450.png",
+      "releaseDate": "2020-10-13T14:20:05-04:00",
+      "shortDescription": "21 - The Musical Mummy",
+      "longDescription": "21 - The Musical Mummy",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467851924",
+      "title": "22 - The Fiery Lava Giant",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467851924.sd.mp4?s=3da5c59f879868ed48a9aeade4d0322b0afaa438&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1385
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974564285_800x450.png",
+      "releaseDate": "2020-10-13T14:22:54-04:00",
+      "shortDescription": "22 - The Fiery Lava Giant",
+      "longDescription": "22 - The Fiery Lava Giant",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467853068",
+      "title": "23 - The Bat Ray Bombers",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467853068.sd.mp4?s=9ea1f0d7b31a5f11b224405a7234c48f5167abaa&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1477
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974565733_800x450.png",
+      "releaseDate": "2020-10-13T14:26:18-04:00",
+      "shortDescription": "23 - The Bat Ray Bombers",
+      "longDescription": "23 - The Bat Ray Bombers",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467853946",
+      "title": "24 - Race Against Disaster",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467853946.sd.mp4?s=2c8f7da57bbdeb9c50896a791d1df467886adcc4&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1438
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974567444_800x450.png",
+      "releaseDate": "2020-10-13T14:28:52-04:00",
+      "shortDescription": "24 - Race Against Disaster",
+      "longDescription": "24 - Race Against Disaster",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467854831",
+      "title": "25 - The Ghostly Grasshopper",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467854831.sd.mp4?s=d55b4b23d3552f68122b25cc3e9a5e2979005d40&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1439
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974579417_800x450.png",
+      "releaseDate": "2020-10-13T14:31:33-04:00",
+      "shortDescription": "25 - The Ghostly Grasshopper",
+      "longDescription": "25 - The Ghostly Grasshopper",
+      "tags": [
+        "anime"
+      ]
+    },
+    {
+      "id": "467855868",
+      "title": "26 - The Galaxy Girls",
+      "content": {
+        "dateAdded": "2020-10-15T00:10:13-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/467855868.sd.mp4?s=8766af1212a2ffe807858b907cf04663f4949870&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1383
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/974570660_800x450.png",
+      "releaseDate": "2020-10-13T14:34:32-04:00",
+      "shortDescription": "26 - The Galaxy Girls",
+      "longDescription": "26 - The Galaxy Girls",
+      "tags": [
+        "anime"
       ]
     }
   ],
