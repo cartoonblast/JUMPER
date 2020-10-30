@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-10-06T04:52:55+00:00",
+  "lastUpdated": "2020-10-29T11:45:12+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -15,7 +15,11 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 643
+        "duration": 643,
+        "adBreaks": [
+          "00:04:00",
+          "00:08:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -40,7 +44,11 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 669
+        "duration": 669,
+        "adBreaks": [
+          "00:04:00",
+          "00:08:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -65,7 +73,14 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2361
+        "duration": 2361,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00",
+          "00:28:00",
+          "00:35:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -90,7 +105,11 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 598
+        "duration": 598,
+        "adBreaks": [
+          "00:04:00",
+          "00:08:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -115,7 +134,11 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 616
+        "duration": 616,
+        "adBreaks": [
+          "00:04:00",
+          "00:08:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -140,7 +163,14 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2216
+        "duration": 2216,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00",
+          "00:28:00",
+          "00:35:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -165,7 +195,15 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1871
+        "duration": 1871,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -190,7 +228,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 781
+        "duration": 781,
+        "adBreaks": [
+          "00:04:00",
+          "00:08:00",
+          "00:12:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -215,7 +258,15 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2047
+        "duration": 2047,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -240,7 +291,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 568
+        "duration": 568,
+        "adBreaks": [
+          "00:03:00",
+          "00:06:00",
+          "00:09:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -265,7 +321,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 636
+        "duration": 636,
+        "adBreaks": [
+          "00:03:00",
+          "00:06:00",
+          "00:09:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -290,7 +351,15 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2240
+        "duration": 2240,
+        "adBreaks": [
+          "00:06:00",
+          "00:12:00",
+          "00:18:00",
+          "00:24:00",
+          "00:30:00",
+          "00:36:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -315,7 +384,15 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2308
+        "duration": 2308,
+        "adBreaks": [
+          "00:06:00",
+          "00:12:00",
+          "00:18:00",
+          "00:24:00",
+          "00:30:00",
+          "00:36:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -340,7 +417,14 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1995
+        "duration": 1995,
+        "adBreaks": [
+          "00:06:00",
+          "00:12:00",
+          "00:18:00",
+          "00:24:00",
+          "00:30:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -365,7 +449,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 469
+        "duration": 469,
+        "adBreaks": [
+          "00:02:00",
+          "00:04:00",
+          "00:06:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -415,7 +504,16 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2359
+        "duration": 2359,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00",
+          "00:35:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -440,7 +538,18 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 2169
+        "duration": 2169,
+        "adBreaks": [
+          "00:04:00",
+          "00:08:00",
+          "00:12:00",
+          "00:16:00",
+          "00:20:00",
+          "00:24:00",
+          "00:28:00",
+          "00:32:00",
+          "00:36:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -465,7 +574,17 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1928
+        "duration": 1928,
+        "adBreaks": [
+          "00:04:00",
+          "00:08:00",
+          "00:12:00",
+          "00:16:00",
+          "00:20:00",
+          "00:24:00",
+          "00:28:00",
+          "00:32:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -490,7 +609,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 956
+        "duration": 956,
+        "adBreaks": [
+          "00:04:00",
+          "00:08:00",
+          "00:12:00"
+        ]
       },
       "genres": [
         "comedy"
@@ -517,7 +641,13 @@
         ],
         "duration": 2350,
         "adBreaks": [
-          "00:00:01"
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00",
+          "00:35:00"
         ]
       },
       "genres": [
@@ -545,7 +675,7 @@
         ],
         "duration": 589,
         "adBreaks": [
-          "00:00:01"
+          "00:05:00"
         ]
       },
       "genres": [
@@ -573,7 +703,7 @@
         ],
         "duration": 823,
         "adBreaks": [
-          "00:00:00"
+          "00:07:00"
         ]
       },
       "genres": [
@@ -601,7 +731,9 @@
         ],
         "duration": 1048,
         "adBreaks": [
-          "00:00:01"
+          "00:05:00",
+          "00:10:00",
+          "00:15:00"
         ]
       },
       "genres": [
@@ -629,7 +761,8 @@
         ],
         "duration": 429,
         "adBreaks": [
-          "00:00:01"
+          "00:03:00",
+          "00:06:00"
         ]
       },
       "genres": [
@@ -657,7 +790,11 @@
         ],
         "duration": 2256,
         "adBreaks": [
-          "00:00:01"
+          "00:07:00",
+          "00:14:00",
+          "00:21:00",
+          "00:28:00",
+          "00:35:00"
         ]
       },
       "genres": [
@@ -685,7 +822,12 @@
         ],
         "duration": 2407,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00",
+          "00:12:00",
+          "00:18:00",
+          "00:24:00",
+          "00:30:00",
+          "00:36:00"
         ]
       },
       "genres": [
@@ -713,7 +855,12 @@
         ],
         "duration": 2217,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00",
+          "00:12:00",
+          "00:18:00",
+          "00:24:00",
+          "00:30:00",
+          "00:36:00"
         ]
       },
       "genres": [
@@ -741,7 +888,11 @@
         ],
         "duration": 2345,
         "adBreaks": [
-          "00:00:01"
+          "00:07:00",
+          "00:14:00",
+          "00:21:00",
+          "00:28:00",
+          "00:35:00"
         ]
       },
       "genres": [
@@ -769,7 +920,13 @@
         ],
         "duration": 2217,
         "adBreaks": [
-          "00:00:01"
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00",
+          "00:35:00"
         ]
       },
       "genres": [
@@ -797,7 +954,7 @@
         ],
         "duration": 534,
         "adBreaks": [
-          "00:00:01"
+          "00:05:00"
         ]
       },
       "genres": [
@@ -825,7 +982,7 @@
         ],
         "duration": 424,
         "adBreaks": [
-          "00:00:01"
+          "00:05:00"
         ]
       },
       "genres": [
@@ -853,7 +1010,7 @@
         ],
         "duration": 679,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00"
         ]
       },
       "genres": [
@@ -881,7 +1038,13 @@
         ],
         "duration": 2306,
         "adBreaks": [
-          "00:00:01"
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00",
+          "00:35:00"
         ]
       },
       "genres": [
@@ -909,7 +1072,8 @@
         ],
         "duration": 977,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00",
+          "00:12:00"
         ]
       },
       "genres": [
@@ -937,7 +1101,8 @@
         ],
         "duration": 897,
         "adBreaks": [
-          "00:00:01"
+          "00:05:00",
+          "00:10:00"
         ]
       },
       "genres": [
@@ -965,7 +1130,7 @@
         ],
         "duration": 499,
         "adBreaks": [
-          "00:00:01"
+          "00:05:00"
         ]
       },
       "genres": [
@@ -993,7 +1158,11 @@
         ],
         "duration": 1928,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00",
+          "00:12:00",
+          "00:18:00",
+          "00:24:00",
+          "00:30:00"
         ]
       },
       "genres": [
@@ -1021,7 +1190,8 @@
         ],
         "duration": 956,
         "adBreaks": [
-          "00:00:01"
+          "00:07:00",
+          "00:14:00"
         ]
       },
       "genres": [
@@ -1049,7 +1219,12 @@
         ],
         "duration": 2350,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00",
+          "00:12:00",
+          "00:18:00",
+          "00:24:00",
+          "00:30:00",
+          "00:36:00"
         ]
       },
       "genres": [
@@ -1077,7 +1252,7 @@
         ],
         "duration": 589,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00"
         ]
       },
       "genres": [
@@ -1105,7 +1280,7 @@
         ],
         "duration": 429,
         "adBreaks": [
-          "00:00:01"
+          "00:05:00"
         ]
       },
       "genres": [
@@ -1161,7 +1336,8 @@
         ],
         "duration": 1048,
         "adBreaks": [
-          "00:00:01"
+          "00:07:00",
+          "00:14:00"
         ]
       },
       "genres": [
@@ -1189,7 +1365,7 @@
         ],
         "duration": 643,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00"
         ]
       },
       "genres": [
@@ -1217,7 +1393,7 @@
         ],
         "duration": 669,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00"
         ]
       },
       "genres": [
@@ -1245,7 +1421,12 @@
         ],
         "duration": 2361,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00",
+          "00:12:00",
+          "00:18:00",
+          "00:24:00",
+          "00:30:00",
+          "00:36:00"
         ]
       },
       "genres": [
@@ -1273,7 +1454,7 @@
         ],
         "duration": 598,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00"
         ]
       },
       "genres": [
@@ -1301,7 +1482,7 @@
         ],
         "duration": 616,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00"
         ]
       },
       "genres": [
@@ -1329,7 +1510,12 @@
         ],
         "duration": 2216,
         "adBreaks": [
-          "00:00:03"
+          "00:06:00",
+          "00:12:00",
+          "00:18:00",
+          "00:24:00",
+          "00:30:00",
+          "00:36:00"
         ]
       },
       "genres": [
@@ -1357,7 +1543,12 @@
         ],
         "duration": 1871,
         "adBreaks": [
-          "00:00:01"
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00"
         ]
       },
       "genres": [
@@ -1385,7 +1576,8 @@
         ],
         "duration": 781,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00",
+          "00:12:00"
         ]
       },
       "genres": [
@@ -1413,7 +1605,7 @@
         ],
         "duration": 568,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00"
         ]
       },
       "genres": [
@@ -1441,7 +1633,12 @@
         ],
         "duration": 2047,
         "adBreaks": [
-          "00:00:01"
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00"
         ]
       },
       "genres": [
@@ -1469,7 +1666,8 @@
         ],
         "duration": 636,
         "adBreaks": [
-          "00:00:00"
+          "00:05:00",
+          "00:10:00"
         ]
       },
       "genres": [
@@ -1497,7 +1695,12 @@
         ],
         "duration": 2240,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00",
+          "00:12:00",
+          "00:18:00",
+          "00:24:00",
+          "00:30:00",
+          "00:36:00"
         ]
       },
       "genres": [
@@ -1525,7 +1728,8 @@
         ],
         "duration": 823,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00",
+          "00:12:00"
         ]
       },
       "genres": [
@@ -1553,7 +1757,11 @@
         ],
         "duration": 2061,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00",
+          "00:12:00",
+          "00:18:00",
+          "00:24:00",
+          "00:30:00"
         ]
       },
       "genres": [
@@ -1581,7 +1789,7 @@
         ],
         "duration": 470,
         "adBreaks": [
-          "00:00:01"
+          "00:05:00"
         ]
       },
       "genres": [
@@ -1609,7 +1817,12 @@
         ],
         "duration": 2089,
         "adBreaks": [
-          "00:00:01"
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00"
         ]
       },
       "genres": [
@@ -1637,7 +1850,7 @@
         ],
         "duration": 547,
         "adBreaks": [
-          "00:00:01"
+          "00:06:00"
         ]
       },
       "genres": [
@@ -1665,14 +1878,19 @@
         ],
         "duration": 1562,
         "adBreaks": [
-          "00:05:00"
+          "00:04:00",
+          "00:08:00",
+          "00:12:00",
+          "00:16:00",
+          "00:20:00",
+          "00:24:00"
         ]
       },
       "genres": [
         "sitcom"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/897270707_800x450.png",
-      "releaseDate": "2020-05-22T10:50:24-04:00",
+      "releaseDate": "2020-05-22",
       "shortDescription": "Honeymooners S1E01 TV or Not TV",
       "longDescription": "Honeymooners S1E01 TV or Not TV",
       "tags": [
@@ -1700,7 +1918,7 @@
         "sitcom"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/907606198_800x450.png",
-      "releaseDate": "2020-06-11T17:19:21-04:00",
+      "releaseDate": "2020-06-11",
       "shortDescription": "Honeymooners S1E02 Funny Money",
       "longDescription": "Honeymooners S1E02 Funny Money",
       "tags": [
@@ -1721,14 +1939,19 @@
         ],
         "duration": 1560,
         "adBreaks": [
-          "00:05:00"
+          "00:04:00",
+          "00:08:00",
+          "00:12:00",
+          "00:16:00",
+          "00:20:00",
+          "00:24:00"
         ]
       },
       "genres": [
         "sitcom"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/907606683_800x450.png",
-      "releaseDate": "2020-06-11T17:20:59-04:00",
+      "releaseDate": "2020-06-11",
       "shortDescription": "Honeymooners S1E03 The Golfer",
       "longDescription": "Honeymooners S1E03 The Golfer",
       "tags": [
@@ -1749,14 +1972,17 @@
         ],
         "duration": 1502,
         "adBreaks": [
-          "00:05:00"
+          "00:06:00",
+          "00:12:00",
+          "00:18:00",
+          "00:24:00"
         ]
       },
       "genres": [
         "sitcom"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/907631975_800x450.png",
-      "releaseDate": "2020-06-11T18:22:17-04:00",
+      "releaseDate": "2020-06-11",
       "shortDescription": "Honeymooners S1E05 A Matter of Life and Death",
       "longDescription": "Honeymooners S1E05 A Matter of Life and Death",
       "tags": [
@@ -1777,14 +2003,19 @@
         ],
         "duration": 1560,
         "adBreaks": [
-          "00:05:00"
+          "00:04:00",
+          "00:08:00",
+          "00:12:00",
+          "00:16:00",
+          "00:20:00",
+          "00:24:00"
         ]
       },
       "genres": [
         "sitcom"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/907632250_800x450.png",
-      "releaseDate": "2020-06-11T18:23:49-04:00",
+      "releaseDate": "2020-06-11",
       "shortDescription": "Honeymooners S1E06 The Sleepwalker",
       "longDescription": "Honeymooners S1E06 The Sleepwalker",
       "tags": [
@@ -1812,7 +2043,7 @@
         "sitcom"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/907632744_800x450.png",
-      "releaseDate": "2020-06-11T18:24:45-04:00",
+      "releaseDate": "2020-06-11",
       "shortDescription": "Honeymooners S1E07 Better Living Through TV",
       "longDescription": "Honeymooners S1E07 Better Living Through TV",
       "tags": [
@@ -1833,14 +2064,19 @@
         ],
         "duration": 1563,
         "adBreaks": [
-          "00:05:00"
+          "00:04:00",
+          "00:08:00",
+          "00:12:00",
+          "00:16:00",
+          "00:20:00",
+          "00:24:00"
         ]
       },
       "genres": [
         "sitcom"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/907633315_800x450.png",
-      "releaseDate": "2020-06-11T18:25:49-04:00",
+      "releaseDate": "2020-06-11",
       "shortDescription": "Honeymooners S1E08 Pal O' Mine",
       "longDescription": "Honeymooners S1E08 Pal O' Mine",
       "tags": [
@@ -1861,14 +2097,16 @@
         ],
         "duration": 1051,
         "adBreaks": [
-          "00:05:00"
+          "00:05:00",
+          "00:10:00",
+          "00:15:00"
         ]
       },
       "genres": [
         "sitcom"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/907633641_800x450.png",
-      "releaseDate": "2020-06-11T18:27:10-04:00",
+      "releaseDate": "2020-06-11",
       "shortDescription": "Honeymooners S1E09 Brother Ralph",
       "longDescription": "Honeymooners S1E09 Brother Ralph",
       "tags": [
@@ -1889,14 +2127,19 @@
         ],
         "duration": 1561,
         "adBreaks": [
-          "00:05:00"
+          "00:04:00",
+          "00:08:00",
+          "00:12:00",
+          "00:16:00",
+          "00:20:00",
+          "00:24:00"
         ]
       },
       "genres": [
         "sitcom"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/907633815_800x450.png",
-      "releaseDate": "2020-06-11T18:28:08-04:00",
+      "releaseDate": "2020-06-11",
       "shortDescription": "Honeymooners S1E10 Hello Mom",
       "longDescription": "Honeymooners S1E10 Hello Mom",
       "tags": [
