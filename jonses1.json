@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-11-16T01:19:59+00:00",
+  "lastUpdated": "2020-11-21T06:17:07+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -6509,6 +6509,620 @@
       "longDescription": "26 - The Galaxy Girls",
       "tags": [
         "anime"
+      ]
+    },
+    {
+      "id": "481136859",
+      "title": "CARTOON BLAST ACTION HOUR 1.1",
+      "content": {
+        "dateAdded": "2020-11-19T04:27:54-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/481136859.hd.mp4?s=91e15bc6102f328472cf597977bec2a8a4f5e55d&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5153,
+        "adBreaks": [
+          "00:10:00",
+          "00:20:00",
+          "00:30:00",
+          "00:40:00",
+          "00:50:00",
+          "01:00:00",
+          "01:10:00",
+          "01:20:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/997998964_800x450.png",
+      "releaseDate": "2020-11-19",
+      "shortDescription": "CARTOON BLAST ACTION HOUR 1.1",
+      "longDescription": "CARTOON BLAST ACTION HOUR 1.1",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "481875046",
+      "title": "CARTOON BLAST ACTION HOUR 1.2",
+      "content": {
+        "dateAdded": "2020-11-21T04:30:24-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/481875046.hd.mp4?s=dd66fee7b245c0f15d180d3739d7014973e147f0&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5273,
+        "adBreaks": [
+          "00:10:00",
+          "00:20:00",
+          "00:30:00",
+          "00:40:00",
+          "00:50:00",
+          "01:00:00",
+          "01:10:00",
+          "01:20:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/999227320_800x450.png",
+      "releaseDate": "2020-11-20",
+      "shortDescription": "CARTOON BLAST ACTION HOUR 1.2",
+      "longDescription": "CARTOON BLAST ACTION HOUR 1.2",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "456811126",
+      "title": "The Freedom Force - The Dragon Riders",
+      "content": {
+        "dateAdded": "2020-09-11T00:49:28-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456811126.sd.mp4?s=067b09dbf6e6aa9e146c533b7e853d5dd56cb8f8&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 681,
+        "adBreaks": [
+          "00:04:00",
+          "00:08:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955509943_800x450.png",
+      "releaseDate": "2020-09-11T00:45:16-04:00",
+      "shortDescription": "The Freedom Force - The Dragon Riders",
+      "longDescription": "The Freedom Force - The Dragon Riders",
+      "tags": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "456811150",
+      "title": "The Freedom Force - The Scarlet Samurai",
+      "content": {
+        "dateAdded": "2020-09-11T00:49:28-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456811150.sd.mp4?s=e3abdd2eb2eafaab5d09b741ae1b138a02f3b533&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 682,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955510001_800x450.png",
+      "releaseDate": "2020-09-11T00:45:26-04:00",
+      "shortDescription": "The Freedom Force - The Scarlet Samurai",
+      "longDescription": "The Freedom Force - The Scarlet Samurai",
+      "tags": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "456811200",
+      "title": "The Freedom Force Season 1 Episode 1",
+      "content": {
+        "dateAdded": "2020-09-11T00:49:28-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456811200.sd.mp4?s=758e92a86385c370ba5d80dd7e54b3b1421b81bb&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 683,
+        "adBreaks": [
+          "00:04:00",
+          "00:08:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955510049_800x450.png",
+      "releaseDate": "2020-09-11T00:45:44-04:00",
+      "shortDescription": "The Freedom Force Season 1 Episode 1",
+      "longDescription": "The Freedom Force Season 1 Episode 1",
+      "tags": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "456811266",
+      "title": "The Freedom Force Season 1 Episode 2",
+      "content": {
+        "dateAdded": "2020-09-11T00:49:28-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456811266.sd.mp4?s=17cf98dfa03551dd24d08c58ecea8ce5e31f914b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 683,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955510241_800x450.png",
+      "releaseDate": "2020-09-11T00:46:05-04:00",
+      "shortDescription": "The Freedom Force Season 1 Episode 2",
+      "longDescription": "The Freedom Force Season 1 Episode 2",
+      "tags": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "456811314",
+      "title": "The Freedom Force Season 1 Episode 3",
+      "content": {
+        "dateAdded": "2020-09-11T00:49:28-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456811314.sd.mp4?s=31171f6c4325b7d50d45f2513d698450d84fad04&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 682,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955510291_800x450.png",
+      "releaseDate": "2020-09-11T00:46:23-04:00",
+      "shortDescription": "The Freedom Force Season 1 Episode 3",
+      "longDescription": "The Freedom Force Season 1 Episode 3",
+      "tags": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "456811348",
+      "title": "The Freedom Force Season 1 Episode 4",
+      "content": {
+        "dateAdded": "2020-09-11T00:49:28-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456811348.sd.mp4?s=56d3f54ca6ebdc84963ea2ce45c16f21a7d1e24c&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 682,
+        "adBreaks": [
+          "00:04:00",
+          "00:08:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955510379_800x450.png",
+      "releaseDate": "2020-09-11T00:46:33-04:00",
+      "shortDescription": "The Freedom Force Season 1 Episode 4",
+      "longDescription": "The Freedom Force Season 1 Episode 4",
+      "tags": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "456811393",
+      "title": "The Freedom Force Season 1 Episode 5",
+      "content": {
+        "dateAdded": "2020-09-11T00:49:28-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456811393.sd.mp4?s=80d34fcda4291b921f522248ad27688512dda3f7&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 682,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955510485_800x450.png",
+      "releaseDate": "2020-09-11T00:46:52-04:00",
+      "shortDescription": "The Freedom Force Season 1 Episode 5",
+      "longDescription": "The Freedom Force Season 1 Episode 5",
+      "tags": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "456797176",
+      "title": "Fauna",
+      "content": {
+        "dateAdded": "2020-09-11T00:49:57-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456797176.sd.mp4?s=613077b4939c7dd937e668da23bcbd0456485407&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1360,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955485124_800x450.png",
+      "releaseDate": "2020-09-10T23:27:02-04:00",
+      "shortDescription": "Fauna",
+      "longDescription": "Fauna",
+      "tags": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "456797059",
+      "title": "Commander Nemo",
+      "content": {
+        "dateAdded": "2020-09-11T00:49:57-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456797059.sd.mp4?s=7134266d259094e5e33a0aa3af3aaede5983b2aa&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1358,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955484924_800x450.png",
+      "releaseDate": "2020-09-10T23:26:23-04:00",
+      "shortDescription": "Commander Nemo",
+      "longDescription": "Commander Nemo",
+      "tags": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "456796896",
+      "title": "The Wizard of Od",
+      "content": {
+        "dateAdded": "2020-09-11T00:49:57-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456796896.sd.mp4?s=4c85590a7eb875f100c179cdbb54ba958e12181a&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1359,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955484624_800x450.png",
+      "releaseDate": "2020-09-10T23:25:39-04:00",
+      "shortDescription": "The Wizard of Od",
+      "longDescription": "The Wizard of Od",
+      "tags": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "456796698",
+      "title": "The Time Traveler",
+      "content": {
+        "dateAdded": "2020-09-11T00:49:57-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456796698.sd.mp4?s=1f283085fd56cfd10c18f76320ce72337877792d&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1359,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955484289_800x450.png",
+      "releaseDate": "2020-09-10T23:24:44-04:00",
+      "shortDescription": "The Time Traveler",
+      "longDescription": "The Time Traveler",
+      "tags": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "456796541",
+      "title": "The Return of Anubis",
+      "content": {
+        "dateAdded": "2020-09-11T00:49:57-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456796541.sd.mp4?s=be6d0126ff654dd17a4c66d570d886f65d9d1dce&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1357,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955484082_800x450.png",
+      "releaseDate": "2020-09-10T23:24:07-04:00",
+      "shortDescription": "The Return of Anubis",
+      "longDescription": "The Return of Anubis",
+      "tags": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "456796423",
+      "title": "The Prime Sentinel",
+      "content": {
+        "dateAdded": "2020-09-11T00:49:57-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456796423.sd.mp4?s=3af2e189cf5bdb24dd1690de75e8774101f7882d&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1358,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955483853_800x450.png",
+      "releaseDate": "2020-09-10T23:23:33-04:00",
+      "shortDescription": "The Prime Sentinel",
+      "longDescription": "The Prime Sentinel",
+      "tags": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "456796299",
+      "title": "The Jupiter Spore",
+      "content": {
+        "dateAdded": "2020-09-11T00:49:57-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456796299.sd.mp4?s=651b543126c8326c0fd47a581298b277b4c423fa&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1358,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955483693_800x450.png",
+      "releaseDate": "2020-09-10T23:22:56-04:00",
+      "shortDescription": "The Jupiter Spore",
+      "longDescription": "The Jupiter Spore",
+      "tags": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "456796184",
+      "title": "Morpheus the Sinister Sentinel",
+      "content": {
+        "dateAdded": "2020-09-11T00:49:57-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456796184.sd.mp4?s=e8a4eb8136c3b242a42574c9f65ca069ebececb5&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1359,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955483604_800x450.png",
+      "releaseDate": "2020-09-10T23:22:16-04:00",
+      "shortDescription": "Morpheus the Sinister Sentinel",
+      "longDescription": "Morpheus the Sinister Sentinel",
+      "tags": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "456796086",
+      "title": "Loki",
+      "content": {
+        "dateAdded": "2020-09-11T00:49:57-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456796086.sd.mp4?s=df7c5511446d7bc49a731178a0e58d9c2518e1ec&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1358,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955483378_800x450.png",
+      "releaseDate": "2020-09-10T23:21:47-04:00",
+      "shortDescription": "Loki",
+      "longDescription": "Loki",
+      "tags": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "456814586",
+      "title": "The World Ship",
+      "content": {
+        "dateAdded": "2020-09-11T01:07:04-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456814586.sd.mp4?s=c8316915b2f8b2271496687da51836b3b45366f5&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1354,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955516364_800x450.png",
+      "releaseDate": "2020-09-11T01:05:55-04:00",
+      "shortDescription": "The World Ship",
+      "longDescription": "The World Ship",
+      "tags": [
+        "miniseries"
+      ]
+    },
+    {
+      "id": "456814206",
+      "title": "Space Giants",
+      "content": {
+        "dateAdded": "2020-09-11T01:07:04-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/456814206.sd.mp4?s=52c7363368c059bcb641384a392a3def3dedd61d&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1358,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/955515730_800x450.png",
+      "releaseDate": "2020-09-11T01:03:44-04:00",
+      "shortDescription": "Space Giants",
+      "longDescription": "Space Giants",
+      "tags": [
+        "miniseries"
       ]
     }
   ],
