@@ -1,0 +1,32 @@
+{
+  "lastUpdated": "2020-12-16T02:34:19+00:00",
+  "providerName": "BRICKCITY STUDIO",
+  "language": "en-US",
+  "movies": [
+    {
+      "id": "464338107",
+      "title": "CARTOON BLAST Girl mix part 2",
+      "content": {
+        "dateAdded": "2020-10-02T20:30:32-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/464338107.m3u8?s=0e209ce45a293019aa3dffbe85300a1606029204",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ],
+        "duration": 11713
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/968446189_800x450.png",
+      "releaseDate": "2020-10-02",
+      "shortDescription": "GIRL CARTOONS",
+      "longDescription": "GIRL CARTOONS",
+      "tags": [
+        "special"
+      ]
+    }
+  ]
+}
