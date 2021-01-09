@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-11-28T02:44:27+00:00",
+  "lastUpdated": "2021-01-08T11:49:28+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -290,490 +290,6 @@
       "longDescription": "Mighty Mouse in Stop, Look And Listen (1949)",
       "tags": [
         "adventure"
-      ]
-    },
-    {
-      "id": "435854969",
-      "title": "Belle And Sebastian Episode 10 - The Case Of The Missing Sheep",
-      "content": {
-        "dateAdded": "2020-07-06T15:56:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435854969.sd.mp4?s=966e160caac0adb59be9670942e70c6643dfdde0&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1436,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/920206424_800x450.png",
-      "releaseDate": "2020-07-06",
-      "shortDescription": "Belle And Sebastian Episode 10 - The Case Of The Missing Sheep",
-      "longDescription": "Belle And Sebastian Episode 10 - The Case Of The Missing Sheep",
-      "tags": [
-        "belle"
-      ]
-    },
-    {
-      "id": "435854799",
-      "title": "Belle And Sebastian Episode 9 - Farewell To Sarah",
-      "content": {
-        "dateAdded": "2020-07-06T15:56:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435854799.sd.mp4?s=c33fbcf42bc8c69269426f4b3ca3948eed0d8163&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1434,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/920206208_800x450.png",
-      "releaseDate": "2020-07-06",
-      "shortDescription": "Belle And Sebastian Episode 9 - Farewell To Sarah",
-      "longDescription": "Belle And Sebastian Episode 9 - Farewell To Sarah",
-      "tags": [
-        "belle"
-      ]
-    },
-    {
-      "id": "435854614",
-      "title": "Belle And Sebastian - Episode 15 Billy The Kid The Bank Robber",
-      "content": {
-        "dateAdded": "2020-07-06T15:56:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435854614.sd.mp4?s=e449a5246db72aff548a496ac95a58cb76fe8b3a&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1431,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/920205909_800x450.png",
-      "releaseDate": "2020-07-06",
-      "shortDescription": "Belle And Sebastian - Episode 15 Billy The Kid The Bank Robber",
-      "longDescription": "Belle And Sebastian - Episode 15 Billy The Kid The Bank Robber",
-      "tags": [
-        "belle"
-      ]
-    },
-    {
-      "id": "435854406",
-      "title": "Belle And Sebastian - Episode 14 An Act Of Bravery",
-      "content": {
-        "dateAdded": "2020-07-06T15:56:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435854406.sd.mp4?s=e6317501e8e894e0028ad68f521d688283c13d99&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1436,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/920205586_800x450.png",
-      "releaseDate": "2020-07-06",
-      "shortDescription": "Belle And Sebastian - Episode 14 An Act Of Bravery",
-      "longDescription": "Belle And Sebastian - Episode 14 An Act Of Bravery",
-      "tags": [
-        "belle"
-      ]
-    },
-    {
-      "id": "435854247",
-      "title": "Belle And Sebastian - Episode 13 The Runaway Car",
-      "content": {
-        "dateAdded": "2020-07-06T15:56:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435854247.sd.mp4?s=d700f808e792c9641bb8928fa76c4a60a609d805&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1427,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/920205664_800x450.png",
-      "releaseDate": "2020-07-06",
-      "shortDescription": "Belle And Sebastian - Episode 13 The Runaway Car",
-      "longDescription": "Belle And Sebastian - Episode 13 The Runaway Car",
-      "tags": [
-        "belle"
-      ]
-    },
-    {
-      "id": "435854081",
-      "title": "Belle And Sebastian - Episode 12 Operation Substitute",
-      "content": {
-        "dateAdded": "2020-07-06T15:56:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435854081.sd.mp4?s=fc6244af4fbe2bb6848881ea26d0ce13de01153d&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1432,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/920205134_800x450.png",
-      "releaseDate": "2020-07-06",
-      "shortDescription": "Belle And Sebastian - Episode 12 Operation Substitute",
-      "longDescription": "Belle And Sebastian - Episode 12 Operation Substitute",
-      "tags": [
-        "belle"
-      ]
-    },
-    {
-      "id": "435853910",
-      "title": "Belle And Sebastian - Episode 11 Puppy Love",
-      "content": {
-        "dateAdded": "2020-07-06T15:56:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435853910.sd.mp4?s=8fce6b5365f82fb0edfa884b94767a72c9bbd9d4&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1438,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/920205031_800x450.png",
-      "releaseDate": "2020-07-06",
-      "shortDescription": "Belle And Sebastian - Episode 11 Puppy Love",
-      "longDescription": "Belle And Sebastian - Episode 11 Puppy Love",
-      "tags": [
-        "belle"
-      ]
-    },
-    {
-      "id": "435853746",
-      "title": "Belle And Sebastian - Episode 8 - A Promise To Sarah",
-      "content": {
-        "dateAdded": "2020-07-06T15:56:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435853746.sd.mp4?s=94bdb6b6a4d60d7c9b5e8488e926decfde1aac6e&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1438,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/920204645_800x450.png",
-      "releaseDate": "2020-07-06",
-      "shortDescription": "Belle And Sebastian - Episode 8 - A Promise To Sarah",
-      "longDescription": "Belle And Sebastian - Episode 8 - A Promise To Sarah",
-      "tags": [
-        "belle"
-      ]
-    },
-    {
-      "id": "435853561",
-      "title": "Belle And Sebastian - Episode 7 - Meeting Sarah",
-      "content": {
-        "dateAdded": "2020-07-06T15:56:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435853561.sd.mp4?s=f23e97d680cdb2db0dff62070de38f126e36b0d2&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1444,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/920204496_800x450.png",
-      "releaseDate": "2020-07-06",
-      "shortDescription": "Belle And Sebastian - Episode 7 - Meeting Sarah",
-      "longDescription": "Belle And Sebastian - Episode 7 - Meeting Sarah",
-      "tags": [
-        "belle"
-      ]
-    },
-    {
-      "id": "435853400",
-      "title": "Belle And Sebastian - Episode 6 - A Visit To Jail",
-      "content": {
-        "dateAdded": "2020-07-06T15:56:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435853400.sd.mp4?s=76addc8c148f53806b128755a276c89c102df4df&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1410,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/920204338_800x450.png",
-      "releaseDate": "2020-07-06",
-      "shortDescription": "Belle And Sebastian - Episode 6 - A Visit To Jail",
-      "longDescription": "Belle And Sebastian - Episode 6 - A Visit To Jail",
-      "tags": [
-        "belle"
-      ]
-    },
-    {
-      "id": "435853242",
-      "title": "Belle And Sebastian - Episode 5 - Escaping Smugglers",
-      "content": {
-        "dateAdded": "2020-07-06T15:56:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435853242.sd.mp4?s=a24381b483c195c2f1ff276b57f79e69723db60e&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1441,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/920204060_800x450.png",
-      "releaseDate": "2020-07-06",
-      "shortDescription": "Belle And Sebastian - Episode 5 - Escaping Smugglers",
-      "longDescription": "Belle And Sebastian - Episode 5 - Escaping Smugglers",
-      "tags": [
-        "belle"
-      ]
-    },
-    {
-      "id": "435853043",
-      "title": "Belle And Sebastian - Episode 4 The Journey Begins",
-      "content": {
-        "dateAdded": "2020-07-06T15:56:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435853043.sd.mp4?s=1e5a90295f048026f4d018161d16e47f69565c0f&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1438,
-        "adBreaks": [
-          "00:00:00",
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/920203845_800x450.png",
-      "releaseDate": "2020-07-06",
-      "shortDescription": "Belle And Sebastian - Episode 4 The Journey Begins",
-      "longDescription": "Belle And Sebastian - Episode 4 The Journey Begins",
-      "tags": [
-        "belle"
-      ]
-    },
-    {
-      "id": "435852862",
-      "title": "Belle And Sebastian - Episode 3 - A Night In The Mountains",
-      "content": {
-        "dateAdded": "2020-07-06T15:56:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435852862.sd.mp4?s=c75c6dbc5d9388c60d140bf7a5df907422efa2c5&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1437,
-        "adBreaks": [
-          "00:00:00",
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/920203398_800x450.png",
-      "releaseDate": "2020-07-06",
-      "shortDescription": "Belle And Sebastian - Episode 3 - A Night In The Mountains",
-      "longDescription": "Belle And Sebastian - Episode 3 - A Night In The Mountains",
-      "tags": [
-        "belle"
-      ]
-    },
-    {
-      "id": "435852681",
-      "title": "Belle And Sebastian - Episode 2 - The Hunt For Belle",
-      "content": {
-        "dateAdded": "2020-07-06T15:56:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435852681.sd.mp4?s=f34666aa73a54eb1bbf2e360ce0146ced84b600d&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1432,
-        "adBreaks": [
-          "00:00:00",
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/920203124_800x450.png",
-      "releaseDate": "2020-07-06",
-      "shortDescription": "Belle And Sebastian - Episode 2 - The Hunt For Belle",
-      "longDescription": "Belle And Sebastian - Episode 2 - The Hunt For Belle",
-      "tags": [
-        "belle"
-      ]
-    },
-    {
-      "id": "435852466",
-      "title": "Belle And Sebastian - Episode 1 - Belle Meets Sebastian",
-      "content": {
-        "dateAdded": "2020-07-06T15:56:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435852466.sd.mp4?s=83049dfe4c411440a54dc54514cdcea7616fe039&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1425,
-        "adBreaks": [
-          "00:00:00",
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/920202916_800x450.png",
-      "releaseDate": "2020-07-06",
-      "shortDescription": "Belle And Sebastian - Episode 1 - Belle Meets Sebastian",
-      "longDescription": "Belle And Sebastian - Episode 1 - Belle Meets Sebastian",
-      "tags": [
-        "belle"
       ]
     },
     {
@@ -6965,18 +6481,287 @@
       ]
     },
     {
-      "id": "480669747",
-      "title": "CARTOON BLAST CHRISTMAS TIME",
+      "id": "498548152",
+      "title": "CARTOON BLAST 80s NICK EDITION 2",
       "content": {
-        "dateAdded": "2020-11-28T02:39:02-05:00",
+        "dateAdded": "2021-01-08T23:23:38-05:00",
         "videos": [
           {
-            "url": "https://player.vimeo.com/external/480669747.hd.mp4?s=7989ec8f27038f91dca080287b49f606303993ac&profile_id=174",
+            "url": "https://player.vimeo.com/external/498548152.sd.mp4?s=5782a6c1c2874190043be143668189729239c950&profile_id=165",
             "quality": "HD",
             "videoType": "MP4"
           }
         ],
-        "duration": 20185,
+        "duration": 12285,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00",
+          "00:35:00",
+          "00:40:00",
+          "00:45:00",
+          "00:50:00",
+          "00:55:00",
+          "01:00:00",
+          "01:05:00",
+          "01:10:00",
+          "01:15:00",
+          "01:20:00",
+          "01:25:00",
+          "01:30:00",
+          "01:35:00",
+          "01:40:00",
+          "01:45:00",
+          "01:50:00",
+          "01:55:00",
+          "02:00:00",
+          "02:05:00",
+          "02:10:00",
+          "02:15:00",
+          "02:20:00",
+          "02:25:00",
+          "02:30:00",
+          "02:35:00",
+          "02:40:00",
+          "02:45:00",
+          "02:50:00",
+          "02:55:00",
+          "03:00:00",
+          "03:05:00",
+          "03:10:00",
+          "03:15:00",
+          "03:20:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1031644720_800x450.png",
+      "releaseDate": "2021-01-08T21:09:02-05:00",
+      "shortDescription": "CARTOON BLAST 80s NICK EDITION 2",
+      "longDescription": "CARTOON BLAST 80s NICK EDITION 2",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "498217770",
+      "title": "cartoonblast looney tunes v1",
+      "content": {
+        "dateAdded": "2021-01-08T23:23:38-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/498217770.sd.mp4?s=705ef4b9cfad6a259ddfe929e00d9f063b316716&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 6346,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00",
+          "00:35:00",
+          "00:40:00",
+          "00:45:00",
+          "00:50:00",
+          "00:55:00",
+          "01:00:00",
+          "01:05:00",
+          "01:10:00",
+          "01:15:00",
+          "01:20:00",
+          "01:25:00",
+          "01:30:00",
+          "01:35:00",
+          "01:40:00",
+          "01:45:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1030983578_800x450.png",
+      "releaseDate": "2021-01-07T23:17:45-05:00",
+      "shortDescription": "cartoonblast looney tunes v1",
+      "longDescription": "cartoonblast looney tunes v1",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "497621944",
+      "title": "CARTOON BLAST 80s NICK EDITION pt.1",
+      "content": {
+        "dateAdded": "2021-01-08T23:23:38-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/497621944.sd.mp4?s=81530014c485e3fc992418337585fe2434f9136c&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 13640,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00",
+          "00:35:00",
+          "00:40:00",
+          "00:45:00",
+          "00:50:00",
+          "00:55:00",
+          "01:00:00",
+          "01:05:00",
+          "01:10:00",
+          "01:15:00",
+          "01:20:00",
+          "01:25:00",
+          "01:30:00",
+          "01:35:00",
+          "01:40:00",
+          "01:45:00",
+          "01:50:00",
+          "01:55:00",
+          "02:00:00",
+          "02:05:00",
+          "02:10:00",
+          "02:15:00",
+          "02:20:00",
+          "02:25:00",
+          "02:30:00",
+          "02:35:00",
+          "02:40:00",
+          "02:45:00",
+          "02:50:00",
+          "02:55:00",
+          "03:00:00",
+          "03:05:00",
+          "03:10:00",
+          "03:15:00",
+          "03:20:00",
+          "03:25:00",
+          "03:30:00",
+          "03:35:00",
+          "03:40:00",
+          "03:45:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1029806058_800x450.png",
+      "releaseDate": "2021-01-06T07:59:34-05:00",
+      "shortDescription": "CARTOON BLAST 80s NICK EDITION pt.1",
+      "longDescription": "CARTOON BLAST 80s NICK EDITION pt.1",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "497341855",
+      "title": "Star Wars DROIDS -1985",
+      "content": {
+        "dateAdded": "2021-01-08T23:23:38-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/497341855.sd.mp4?s=eea2412c74d2dc334985d02ff204c4218a8f306c&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 19971,
+        "adBreaks": [
+          "00:06:00",
+          "00:12:00",
+          "00:18:00",
+          "00:24:00",
+          "00:30:00",
+          "00:36:00",
+          "00:42:00",
+          "00:48:00",
+          "00:54:00",
+          "01:00:00",
+          "01:06:00",
+          "01:12:00",
+          "01:18:00",
+          "01:24:00",
+          "01:30:00",
+          "01:36:00",
+          "01:42:00",
+          "01:48:00",
+          "01:54:00",
+          "02:00:00",
+          "02:06:00",
+          "02:12:00",
+          "02:18:00",
+          "02:24:00",
+          "02:30:00",
+          "02:36:00",
+          "02:42:00",
+          "02:48:00",
+          "02:54:00",
+          "03:00:00",
+          "03:06:00",
+          "03:12:00",
+          "03:18:00",
+          "03:24:00",
+          "03:30:00",
+          "03:36:00",
+          "03:42:00",
+          "03:48:00",
+          "03:54:00",
+          "04:00:00",
+          "04:06:00",
+          "04:12:00",
+          "04:18:00",
+          "04:24:00",
+          "04:30:00",
+          "04:36:00",
+          "04:42:00",
+          "04:48:00",
+          "04:54:00",
+          "05:00:00",
+          "05:06:00",
+          "05:12:00",
+          "05:18:00",
+          "05:24:00",
+          "05:30:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1030329784_800x450.png",
+      "releaseDate": "2021-01-05T12:44:48-05:00",
+      "shortDescription": "Star Wars DROIDS -1985",
+      "longDescription": "Star Wars DROIDS -1985",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "497338547",
+      "title": "Star Wars - Ewoks",
+      "content": {
+        "dateAdded": "2021-01-08T23:23:38-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/497338547.sd.mp4?s=57b669663f7f80fe30bf9c8515b64829c308fd74&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 24533,
         "adBreaks": [
           "00:05:00",
           "00:10:00",
@@ -7044,16 +6829,61 @@
           "05:20:00",
           "05:25:00",
           "05:30:00",
-          "05:35:00"
+          "05:35:00",
+          "05:40:00",
+          "05:45:00",
+          "05:50:00",
+          "05:55:00",
+          "06:00:00",
+          "06:05:00",
+          "06:10:00",
+          "06:15:00",
+          "06:20:00",
+          "06:25:00",
+          "06:30:00",
+          "06:35:00",
+          "06:40:00",
+          "06:45:00"
         ]
       },
       "genres": [
         "special"
       ],
-      "thumbnail": "https://i.vimeocdn.com/video/1001249892_800x450.png",
-      "releaseDate": "2020-11-18T03:46:53-05:00",
-      "shortDescription": "MIX OF YOUR FAVORITE CHRISTMAS CARTOONS AND SHORTS.",
-      "longDescription": "MIX OF YOUR FAVORITE CHRISTMAS CARTOONS AND SHORTS.",
+      "thumbnail": "https://i.vimeocdn.com/video/1029230763_800x450.png",
+      "releaseDate": "2021-01-05T12:34:35-05:00",
+      "shortDescription": "Star Wars - Ewoks",
+      "longDescription": "Star Wars - Ewoks",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "497338358",
+      "title": "The Velveteen Rabbit",
+      "content": {
+        "dateAdded": "2021-01-08T23:23:38-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/497338358.sd.mp4?s=fb4ec2f316feeb73bf3e24c36a63b86bfee2d984&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1488,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1029225080_800x450.png",
+      "releaseDate": "2021-01-05T12:34:06-05:00",
+      "shortDescription": "The Velveteen Rabbit",
+      "longDescription": "The Velveteen Rabbit",
       "tags": [
         "special"
       ]
