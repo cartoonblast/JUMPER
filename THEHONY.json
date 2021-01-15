@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-10-29T11:45:12+00:00",
+  "lastUpdated": "2021-01-15T02:35:07+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -2142,6 +2142,81 @@
       "releaseDate": "2020-06-11",
       "shortDescription": "Honeymooners S1E10 Hello Mom",
       "longDescription": "Honeymooners S1E10 Hello Mom",
+      "tags": [
+        "sitcom"
+      ]
+    },
+    {
+      "id": "500711304",
+      "title": "The Honeymooners - The Classic 39 Episodes part 3",
+      "content": {
+        "dateAdded": "2021-01-14T23:14:02-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/500711304.sd.mp4?s=71c4c95580f76dcfbace34e9d6cc814d981d8e2c&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 10877
+      },
+      "genres": [
+        "sitcom"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1035955415_800x450.png",
+      "releaseDate": "2021-01-14T22:58:04-05:00",
+      "shortDescription": "The Honeymooners - The Classic 39 Episodes part 3",
+      "longDescription": "The Honeymooners - The Classic 39 Episodes part 3",
+      "tags": [
+        "sitcom"
+      ]
+    },
+    {
+      "id": "500710455",
+      "title": "The Honeymooners - The Classic 39 Episodes  part 2",
+      "content": {
+        "dateAdded": "2021-01-14T23:14:02-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/500710455.sd.mp4?s=3967ae0220e30a243b1f18afd1e3d62abca8f6e5&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 10933
+      },
+      "genres": [
+        "sitcom"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1035953815_800x450.png",
+      "releaseDate": "2021-01-14T22:54:07-05:00",
+      "shortDescription": "The Honeymooners - The Classic 39 Episodes  part 2",
+      "longDescription": "The Honeymooners - The Classic 39 Episodes  part 2",
+      "tags": [
+        "sitcom"
+      ]
+    },
+    {
+      "id": "500709826",
+      "title": "The Honeymooners - The Classic 39 Episodes",
+      "content": {
+        "dateAdded": "2021-01-14T23:14:02-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/500709826.sd.mp4?s=c073611dfd37882d8bc0e8bb8f8e1d8a86e8211b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 10928
+      },
+      "genres": [
+        "sitcom"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1035952161_800x450.png",
+      "releaseDate": "2021-01-14T22:50:40-05:00",
+      "shortDescription": "The Honeymooners - The Classic 39 Episodes",
+      "longDescription": "The Honeymooners - The Classic 39 Episodes",
       "tags": [
         "sitcom"
       ]
