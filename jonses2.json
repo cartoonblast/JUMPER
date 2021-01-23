@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-08T11:49:28+00:00",
+  "lastUpdated": "2021-01-23T07:31:02+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -6540,7 +6540,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1031644720_800x450.png",
-      "releaseDate": "2021-01-08T21:09:02-05:00",
+      "releaseDate": "2021-01-08",
       "shortDescription": "CARTOON BLAST 80s NICK EDITION 2",
       "longDescription": "CARTOON BLAST 80s NICK EDITION 2",
       "tags": [
@@ -6588,7 +6588,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1030983578_800x450.png",
-      "releaseDate": "2021-01-07T23:17:45-05:00",
+      "releaseDate": "2021-01-07",
       "shortDescription": "cartoonblast looney tunes v1",
       "longDescription": "cartoonblast looney tunes v1",
       "tags": [
@@ -6660,7 +6660,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1029806058_800x450.png",
-      "releaseDate": "2021-01-06T07:59:34-05:00",
+      "releaseDate": "2021-01-06",
       "shortDescription": "CARTOON BLAST 80s NICK EDITION pt.1",
       "longDescription": "CARTOON BLAST 80s NICK EDITION pt.1",
       "tags": [
@@ -6742,7 +6742,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1030329784_800x450.png",
-      "releaseDate": "2021-01-05T12:44:48-05:00",
+      "releaseDate": "2021-01-05",
       "shortDescription": "Star Wars DROIDS -1985",
       "longDescription": "Star Wars DROIDS -1985",
       "tags": [
@@ -6850,7 +6850,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1029230763_800x450.png",
-      "releaseDate": "2021-01-05T12:34:35-05:00",
+      "releaseDate": "2021-01-05",
       "shortDescription": "Star Wars - Ewoks",
       "longDescription": "Star Wars - Ewoks",
       "tags": [
@@ -6881,9 +6881,84 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1029225080_800x450.png",
-      "releaseDate": "2021-01-05T12:34:06-05:00",
+      "releaseDate": "2021-01-05",
       "shortDescription": "The Velveteen Rabbit",
       "longDescription": "The Velveteen Rabbit",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "503707733",
+      "title": "SHAZAM PT.1",
+      "content": {
+        "dateAdded": "2021-01-23T07:02:46-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/503707733.sd.mp4?s=77771e83b971a35aa6dcc355f30e26b273d30a78&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9459
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1042101816_800x450.png",
+      "releaseDate": "2021-01-22T21:47:52-05:00",
+      "shortDescription": "SHAZAM PT.1",
+      "longDescription": "SHAZAM PT.1",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "503241328",
+      "title": "ACTIONHOUR1.5",
+      "content": {
+        "dateAdded": "2021-01-23T07:02:46-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/503241328.sd.mp4?s=908a9db6f33cc1102a3442d270d3d24c0a1d7500&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5312
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1042329576_800x450.png",
+      "releaseDate": "2021-01-21T17:33:20-05:00",
+      "shortDescription": "ACTIONHOUR1.5",
+      "longDescription": "ACTIONHOUR1.5",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "501528267",
+      "title": "ACTIONHOUR 1.4",
+      "content": {
+        "dateAdded": "2021-01-23T07:03:08-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/501528267.hd.mp4?s=d981272bdabeef3eb4acaf582ef19e37755f96aa&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5306
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1042328372_800x450.png",
+      "releaseDate": "2021-01-17T16:16:41-05:00",
+      "shortDescription": "ACTIONHOUR 1.4",
+      "longDescription": "ACTIONHOUR 1.4",
       "tags": [
         "special"
       ]
