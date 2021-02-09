@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-05T07:59:51+00:00",
+  "lastUpdated": "2021-02-09T05:54:42+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -6981,7 +6981,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1051795499_800x450.png",
-      "releaseDate": "2021-02-03T18:28:15-05:00",
+      "releaseDate": "2021-02-03",
       "shortDescription": "Here Come the Littles -1985-",
       "longDescription": "Here Come the Littles -1985-",
       "tags": [
@@ -7006,7 +7006,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1050908622_800x450.png",
-      "releaseDate": "2021-02-02T18:56:06-05:00",
+      "releaseDate": "2021-02-02",
       "shortDescription": "CARTOON BLAST LOONEY TUNES-pt2",
       "longDescription": "CARTOON BLAST LOONEY TUNES-pt2",
       "tags": [
@@ -7031,7 +7031,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1050901371_800x450.png",
-      "releaseDate": "2021-02-02T18:44:35-05:00",
+      "releaseDate": "2021-02-02",
       "shortDescription": "HULK",
       "longDescription": "HULK",
       "tags": [
@@ -7056,9 +7056,184 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1053602380_800x450.png",
-      "releaseDate": "2021-02-02T18:02:29-05:00",
+      "releaseDate": "2021-02-02",
       "shortDescription": "SAILORMOON1",
       "longDescription": "SAILORMOON1",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "510147755",
+      "title": "Fox-s Peter Pan - The Pirates",
+      "content": {
+        "dateAdded": "2021-02-09T04:22:57-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/510147755.sd.mp4?s=f50addafd01497826f4e4b242b7195e26ff3cc01&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 6166
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1056076814_800x450.png",
+      "releaseDate": "2021-02-09T04:00:54-05:00",
+      "shortDescription": "Fox-s Peter Pan - The Pirates",
+      "longDescription": "Fox-s Peter Pan - The Pirates",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "510141026",
+      "title": "The GLO Friends  -1986-",
+      "content": {
+        "dateAdded": "2021-02-09T04:22:57-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/510141026.sd.mp4?s=6f5e42ae38c3714eaf26b5ab868a8196ac5255e0&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9135
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1056061962_800x450.png",
+      "releaseDate": "2021-02-09T03:34:14-05:00",
+      "shortDescription": "The GLO Friends  -1986-",
+      "longDescription": "The GLO Friends  -1986-",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "510140823",
+      "title": "Potato Head Kids -English-",
+      "content": {
+        "dateAdded": "2021-02-09T04:22:57-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/510140823.sd.mp4?s=18fa1e991e8ca7e60030b7a02ee4d9d82c8886d0&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3023
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1056060382_800x450.png",
+      "releaseDate": "2021-02-09T03:33:25-05:00",
+      "shortDescription": "Potato Head Kids -English-",
+      "longDescription": "Potato Head Kids -English-",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "510138331",
+      "title": "NEW ARCHIE PT-1osp",
+      "content": {
+        "dateAdded": "2021-02-09T04:22:57-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/510138331.hd.mp4?s=4fa044731f7750c39eb9bcd8434ade7ac9099c32&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2700
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1056060437_800x450.png",
+      "releaseDate": "2021-02-09T03:23:10-05:00",
+      "shortDescription": "NEW ARCHIE PT-1osp",
+      "longDescription": "NEW ARCHIE PT-1osp",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "510059795",
+      "title": "HELLO KITTYPT-1",
+      "content": {
+        "dateAdded": "2021-02-09T04:22:57-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/510059795.hd.mp4?s=3319e5d17857fa01d11c22627a677277dc78f430&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3372
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1055878705_800x450.png",
+      "releaseDate": "2021-02-08T22:02:33-05:00",
+      "shortDescription": "HELLO KITTYPT-1",
+      "longDescription": "HELLO KITTYPT-1",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "510059447",
+      "title": "Camp Candy - Christmas in July and When it RainsIt Snows",
+      "content": {
+        "dateAdded": "2021-02-09T04:22:57-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/510059447.sd.mp4?s=7bed412d177fdc2470ca3adaba4cf6b5f7807c63&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2604
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1055870860_800x450.png",
+      "releaseDate": "2021-02-08T22:01:04-05:00",
+      "shortDescription": "Camp Candy - Christmas in July and When it RainsIt Snows",
+      "longDescription": "Camp Candy - Christmas in July and When it RainsIt Snows",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "510053162",
+      "title": "CBS STORYPT1",
+      "content": {
+        "dateAdded": "2021-02-09T04:22:57-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/510053162.sd.mp4?s=afd15888d9a30abb5a12f83ab9d27d34a9d04b39&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 7326
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1055869799_800x450.png",
+      "releaseDate": "2021-02-08T21:35:43-05:00",
+      "shortDescription": "CBS STORYPT1",
+      "longDescription": "CBS STORYPT1",
       "tags": [
         "special"
       ]
