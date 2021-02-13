@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-09T05:54:42+00:00",
+  "lastUpdated": "2021-02-13T12:01:54+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -290,757 +290,6 @@
       "longDescription": "Mighty Mouse in Stop, Look And Listen (1949)",
       "tags": [
         "adventure"
-      ]
-    },
-    {
-      "id": "435386166",
-      "title": "Ulysses 31  - Episode 26",
-      "content": {
-        "dateAdded": "2020-07-06T15:58:59-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435386166.sd.mp4?s=ea552bfce25d5c677634eea02ddb513154fd80be&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1446,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919362065_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 26",
-      "longDescription": "Ulysses 31  - Episode 26",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435386083",
-      "title": "Ulysses 31 - Episode 25",
-      "content": {
-        "dateAdded": "2020-07-06T15:58:59-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435386083.sd.mp4?s=4e072abb43f94ab167b5b70e22e0a06a0ad50b28&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1448,
-        "adBreaks": [
-          "00:00:00",
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919361973_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31 - Episode 25",
-      "longDescription": "Ulysses 31 - Episode 25",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435385992",
-      "title": "Ulysses 31 - Episode 23",
-      "content": {
-        "dateAdded": "2020-07-06T15:58:59-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435385992.sd.mp4?s=8c2010b63eeeb9c3911d8e92873b4140a800547e&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1447,
-        "adBreaks": [
-          "00:00:00",
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919361793_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31 - Episode 23",
-      "longDescription": "Ulysses 31 - Episode 23",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435385904",
-      "title": "Ulysses 31 - Episode 22",
-      "content": {
-        "dateAdded": "2020-07-04T23:09:25-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435385904.sd.mp4?s=a66f27e1a0f3e3aa5606df9a885a9b00d7f453db&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1446,
-        "adBreaks": [
-          "00:00:00",
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919361595_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31 - Episode 22",
-      "longDescription": "Ulysses 31 - Episode 22",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435385844",
-      "title": "Ulysses 31  - Episode 21",
-      "content": {
-        "dateAdded": "2020-07-04T23:09:25-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435385844.sd.mp4?s=f96dd07843edb1e506b35fd1f973a7a04527288b&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1450,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919361380_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 21",
-      "longDescription": "Ulysses 31  - Episode 21",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435385762",
-      "title": "Ulysses 31  - Episode 20",
-      "content": {
-        "dateAdded": "2020-07-04T23:09:25-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435385762.sd.mp4?s=aeb3164c24b0dc52a7525953ee88bb34be9e612c&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1446,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919361141_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 20",
-      "longDescription": "Ulysses 31  - Episode 20",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435385680",
-      "title": "Ulysses 31  - Episode 19",
-      "content": {
-        "dateAdded": "2020-07-04T23:09:25-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435385680.sd.mp4?s=8f2c597f8e3c634adbe82984ed298052ff974bbb&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1446,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919360987_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 19",
-      "longDescription": "Ulysses 31  - Episode 19",
-      "tags": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435385600",
-      "title": "Ulysses 31  - Episode 18",
-      "content": {
-        "dateAdded": "2020-07-04T23:09:25-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435385600.sd.mp4?s=1dd5e201d78485e39e0a6ae7f26d7f2681c3fcfc&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1448,
-        "adBreaks": [
-          "00:00:00",
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919360867_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 18",
-      "longDescription": "Ulysses 31  - Episode 18",
-      "tags": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435385533",
-      "title": "Ulysses 31  - Episode 17",
-      "content": {
-        "dateAdded": "2020-07-06T15:58:59-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435385533.sd.mp4?s=e9e12800b46e52134cc68fc406b9fd9b9d4526a2&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1447,
-        "adBreaks": [
-          "00:10:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919360705_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 17",
-      "longDescription": "Ulysses 31  - Episode 17",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435385453",
-      "title": "Ulysses 31  - Episode 16",
-      "content": {
-        "dateAdded": "2020-07-06T15:58:59-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435385453.sd.mp4?s=a753aca093dfe9c1a7515f028292736cdce885e2&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1450,
-        "adBreaks": [
-          "00:10:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919360533_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 16",
-      "longDescription": "Ulysses 31  - Episode 16",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435385380",
-      "title": "Ulysses 31 - Episode 15",
-      "content": {
-        "dateAdded": "2020-07-04T23:09:25-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435385380.sd.mp4?s=2edf18cb1f42f49b033f04aa6ef7d1e8113b5e77&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1447,
-        "adBreaks": [
-          "00:00:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919360282_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31 - Episode 15",
-      "longDescription": "Ulysses 31 - Episode 15",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435385310",
-      "title": "Ulysses 31- Episode 14",
-      "content": {
-        "dateAdded": "2020-07-06T15:58:59-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435385310.sd.mp4?s=3baddc7a9cdf6926fe9b6a844c6aae23cc44d845&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1447,
-        "adBreaks": [
-          "00:00:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919359981_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31- Episode 14",
-      "longDescription": "Ulysses 31- Episode 14",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435385242",
-      "title": "Ulysses 31  - Episode 13",
-      "content": {
-        "dateAdded": "2020-07-04T23:09:25-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435385242.sd.mp4?s=cc6aecef5a23306f6925b82a9d14ff4bbbb9484a&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1448,
-        "adBreaks": [
-          "00:00:00",
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919359869_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 13",
-      "longDescription": "Ulysses 31  - Episode 13",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435385189",
-      "title": "Ulysses 31  - Episode 12",
-      "content": {
-        "dateAdded": "2020-07-06T15:58:59-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435385189.sd.mp4?s=0abf64a4fc81aa877e8ceb3fb841f646a39f095d&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1447,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919359771_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 12",
-      "longDescription": "Ulysses 31  - Episode 12",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435385094",
-      "title": "Ulysses 31  - Episode 11",
-      "content": {
-        "dateAdded": "2020-07-04T23:09:25-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435385094.sd.mp4?s=eeaac2f56825c0f953aa7d46a897c4144125127f&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1447,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919359622_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 11",
-      "longDescription": "Ulysses 31  - Episode 11",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435385016",
-      "title": "Ulysses 31  - Episode 10",
-      "content": {
-        "dateAdded": "2020-07-04T23:09:25-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435385016.sd.mp4?s=87573cd40ea49ec3919f968176ff355ebe0f2bd6&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1449,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919359491_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 10",
-      "longDescription": "Ulysses 31  - Episode 10",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435384953",
-      "title": "Ulysses 31  - Episode 09",
-      "content": {
-        "dateAdded": "2020-07-06T15:58:59-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435384953.sd.mp4?s=8a7630d761c480d2b47b983f23dd22151ffb6ca6&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1448,
-        "adBreaks": [
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919359241_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 09",
-      "longDescription": "Ulysses 31  - Episode 09",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435384883",
-      "title": "Ulysses 31  - Episode 08",
-      "content": {
-        "dateAdded": "2020-07-04T23:09:25-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435384883.sd.mp4?s=0496ac0fea40ae764f41998a2fc0376fd5529914&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1448,
-        "adBreaks": [
-          "00:00:00",
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919359028_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 08",
-      "longDescription": "Ulysses 31  - Episode 08",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435384822",
-      "title": "Ulysses 31  - Episode 07",
-      "content": {
-        "dateAdded": "2020-07-04T23:09:25-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435384822.sd.mp4?s=212910a3ef51699086f46e944d8f75d2aa66679a&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1448,
-        "adBreaks": [
-          "00:10:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919358915_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 07",
-      "longDescription": "Ulysses 31  - Episode 07",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435384746",
-      "title": "Ulysses 31  - Episode 06",
-      "content": {
-        "dateAdded": "2020-07-04T23:09:25-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435384746.sd.mp4?s=192df22b085d1af50af41201d3e2f6df82746639&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1450,
-        "adBreaks": [
-          "00:00:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919358794_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 06",
-      "longDescription": "Ulysses 31  - Episode 06",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435384669",
-      "title": "Ulysses 31  - Episode 04",
-      "content": {
-        "dateAdded": "2020-07-06T15:58:59-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435384669.sd.mp4?s=01a72f9dcfd50c3e9611fd7e61958bea253cc044&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1447,
-        "adBreaks": [
-          "00:00:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919358687_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 04",
-      "longDescription": "Ulysses 31  - Episode 04",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435384580",
-      "title": "Ulysses 31  - Episode 03",
-      "content": {
-        "dateAdded": "2020-07-06T15:58:59-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435384580.sd.mp4?s=ad748bc7dc2de3240510fcab3bf76ecd4bd4c593&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1448,
-        "adBreaks": [
-          "00:00:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919358490_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 03",
-      "longDescription": "Ulysses 31  - Episode 03",
-      "tags": [
-        "fantasy"
-      ]
-    },
-    {
-      "id": "435384484",
-      "title": "Ulysses 31  - Episode 01",
-      "content": {
-        "dateAdded": "2020-07-04T23:09:25-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/435384484.sd.mp4?s=c1fab65e553c3838a65f014b1f54e4d2982143b0&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1449,
-        "adBreaks": [
-          "00:00:00",
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "animated",
-        "action",
-        "adventure",
-        "anime",
-        "fantasy"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/919358140_800x450.png",
-      "releaseDate": "2020-07-04",
-      "shortDescription": "Ulysses 31  - Episode 01",
-      "longDescription": "Ulysses 31  - Episode 01",
-      "tags": [
-        "fantasy"
       ]
     },
     {
@@ -7081,7 +6330,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1056076814_800x450.png",
-      "releaseDate": "2021-02-09T04:00:54-05:00",
+      "releaseDate": "2021-02-09",
       "shortDescription": "Fox-s Peter Pan - The Pirates",
       "longDescription": "Fox-s Peter Pan - The Pirates",
       "tags": [
@@ -7106,7 +6355,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1056061962_800x450.png",
-      "releaseDate": "2021-02-09T03:34:14-05:00",
+      "releaseDate": "2021-02-09",
       "shortDescription": "The GLO Friends  -1986-",
       "longDescription": "The GLO Friends  -1986-",
       "tags": [
@@ -7131,7 +6380,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1056060382_800x450.png",
-      "releaseDate": "2021-02-09T03:33:25-05:00",
+      "releaseDate": "2021-02-09",
       "shortDescription": "Potato Head Kids -English-",
       "longDescription": "Potato Head Kids -English-",
       "tags": [
@@ -7156,7 +6405,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1056060437_800x450.png",
-      "releaseDate": "2021-02-09T03:23:10-05:00",
+      "releaseDate": "2021-02-09",
       "shortDescription": "NEW ARCHIE PT-1osp",
       "longDescription": "NEW ARCHIE PT-1osp",
       "tags": [
@@ -7181,7 +6430,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1055878705_800x450.png",
-      "releaseDate": "2021-02-08T22:02:33-05:00",
+      "releaseDate": "2021-02-08",
       "shortDescription": "HELLO KITTYPT-1",
       "longDescription": "HELLO KITTYPT-1",
       "tags": [
@@ -7206,7 +6455,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1055870860_800x450.png",
-      "releaseDate": "2021-02-08T22:01:04-05:00",
+      "releaseDate": "2021-02-08",
       "shortDescription": "Camp Candy - Christmas in July and When it RainsIt Snows",
       "longDescription": "Camp Candy - Christmas in July and When it RainsIt Snows",
       "tags": [
@@ -7231,9 +6480,134 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1055869799_800x450.png",
-      "releaseDate": "2021-02-08T21:35:43-05:00",
+      "releaseDate": "2021-02-08",
       "shortDescription": "CBS STORYPT1",
       "longDescription": "CBS STORYPT1",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "511428273",
+      "title": "RING RAIDERS -1988-",
+      "content": {
+        "dateAdded": "2021-02-12T23:48:48-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/511428273.sd.mp4?s=3dee880c4998efbc8b3144b850f21478022edf8b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2632
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1058634375_800x450.png",
+      "releaseDate": "2021-02-11T22:43:17-05:00",
+      "shortDescription": "RING RAIDERS -1988-",
+      "longDescription": "RING RAIDERS -1988-",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "511427554",
+      "title": "BraveStarr The Movie",
+      "content": {
+        "dateAdded": "2021-02-12T23:48:48-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/511427554.sd.mp4?s=b8136cfe36c4dea4f82a79a5d210d02cb716448b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5225
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1058633709_800x450.png",
+      "releaseDate": "2021-02-11T22:40:38-05:00",
+      "shortDescription": "BraveStarr The Movie",
+      "longDescription": "BraveStarr The Movie",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "511422929",
+      "title": "Heathcliff The Movie",
+      "content": {
+        "dateAdded": "2021-02-12T23:48:48-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/511422929.sd.mp4?s=c142dfbff32198489a585b2faae352fce5de6300&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 4363
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1058629252_800x450.png",
+      "releaseDate": "2021-02-11T22:34:33-05:00",
+      "shortDescription": "Heathcliff The Movie",
+      "longDescription": "Heathcliff The Movie",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "511419916",
+      "title": "Phantom 2040 - 1x01-05",
+      "content": {
+        "dateAdded": "2021-02-12T23:48:48-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/511419916.sd.mp4?s=f68d94da4e0c47c2066bdb6c0dc320deb2f7a389&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5798
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1058626269_800x450.png",
+      "releaseDate": "2021-02-11T22:29:09-05:00",
+      "shortDescription": "Phantom 2040 - 1x01-05",
+      "longDescription": "Phantom 2040 - 1x01-05",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "511417932",
+      "title": "Mortal Kombat Defenders of the Realm",
+      "content": {
+        "dateAdded": "2021-02-12T23:48:48-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/511417932.sd.mp4?s=94f48a4b78f4f0b660f27b91f13bf512a585b523&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 15657
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1058620617_800x450.png",
+      "releaseDate": "2021-02-11T22:23:36-05:00",
+      "shortDescription": "Mortal Kombat Defenders of the Realm",
+      "longDescription": "Mortal Kombat Defenders of the Realm",
       "tags": [
         "special"
       ]
