@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-13T12:01:54+00:00",
+  "lastUpdated": "2021-02-20T12:00:53+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -1734,7 +1734,6 @@
       "shortDescription": "Visionaries Knights of the Magical Light E 10 [380p]",
       "longDescription": "Visionaries Knights of the Magical Light E 10 [380p]",
       "tags": [
-        "action",
         "Visionaries"
       ]
     },
@@ -1763,7 +1762,6 @@
       "shortDescription": "Visionaries Knights Of The Magical Light S01 E13 [380p]",
       "longDescription": "Visionaries Knights Of The Magical Light S01 E13 [380p]",
       "tags": [
-        "action",
         "Visionaries"
       ]
     },
@@ -1792,7 +1790,6 @@
       "shortDescription": "Visionaries Knights Of The Magical Light S01 E12 [380p]",
       "longDescription": "Visionaries Knights Of The Magical Light S01 E12 [380p]",
       "tags": [
-        "action",
         "Visionaries"
       ]
     },
@@ -1821,7 +1818,6 @@
       "shortDescription": "Visionaries Knights Of The Magical Light S01 E09 [380p]",
       "longDescription": "Visionaries Knights Of The Magical Light S01 E09 [380p]",
       "tags": [
-        "action",
         "Visionaries"
       ]
     },
@@ -1850,7 +1846,6 @@
       "shortDescription": "Visionaries Knights Of The Magical Light S01 E08 [380p]",
       "longDescription": "Visionaries Knights Of The Magical Light S01 E08 [380p]",
       "tags": [
-        "action",
         "Visionaries"
       ]
     },
@@ -1879,7 +1874,6 @@
       "shortDescription": "Visionaries Knights Of The Magical Light S01 E05 [380p]",
       "longDescription": "Visionaries Knights Of The Magical Light S01 E05 [380p]",
       "tags": [
-        "action",
         "Visionaries"
       ]
     },
@@ -1908,7 +1902,6 @@
       "shortDescription": "Visionaries Knights Of The Magical Light S01 E04 [380p]",
       "longDescription": "Visionaries Knights Of The Magical Light S01 E04 [380p]",
       "tags": [
-        "action",
         "Visionaries"
       ]
     },
@@ -1937,123 +1930,7 @@
       "shortDescription": "Visionaries - 01 - The Age of Magic Begi [380p]",
       "longDescription": "Visionaries - 01 - The Age of Magic Begi [380p]",
       "tags": [
-        "action",
         "Visionaries"
-      ]
-    },
-    {
-      "id": "442279310",
-      "title": "SATURDAY SUPER EPS1",
-      "content": {
-        "dateAdded": "2020-07-28T20:39:58-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/442279310.hd.mp4?s=f87c0178f3ef73e4b72587ec9b2784b89ae18ef7&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 2919,
-        "adBreaks": [
-          "00:00:00",
-          "00:05:00"
-        ]
-      },
-      "genres": [
-        "special"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/931114879_800x450.png",
-      "releaseDate": "2020-07-28",
-      "shortDescription": "SATURDAY SUPER EPS1",
-      "longDescription": "SATURDAY SUPER EPS1",
-      "tags": [
-        "special"
-      ]
-    },
-    {
-      "id": "442276467",
-      "title": "8THMAN AFTER-MOVIE",
-      "content": {
-        "dateAdded": "2020-07-28T20:39:58-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/442276467.hd.mp4?s=2ebb645ac0a3f87f15d4e5e8e4d053668efccdc5&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 6092,
-        "adBreaks": [
-          "00:00:00",
-          "00:06:00",
-          "00:12:00"
-        ]
-      },
-      "genres": [
-        "special"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/931112544_800x450.png",
-      "releaseDate": "2020-07-28",
-      "shortDescription": "8THMAN AFTER-MOVIE",
-      "longDescription": "8THMAN AFTER-MOVIE",
-      "tags": [
-        "special"
-      ]
-    },
-    {
-      "id": "441676327",
-      "title": "XMEN01",
-      "content": {
-        "dateAdded": "2020-07-28T20:39:58-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/441676327.hd.mp4?s=7f6f184b1e4a4c6a80329fb4a568f61356d1752f&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1301,
-        "adBreaks": [
-          "00:00:00"
-        ]
-      },
-      "genres": [
-        "special"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/930019181_800x450.png",
-      "releaseDate": "2020-07-25",
-      "shortDescription": "XMEN TV PILOT",
-      "longDescription": "XMEN TV PILOT",
-      "tags": [
-        "special"
-      ]
-    },
-    {
-      "id": "441675495",
-      "title": "BATTLE TOADS EP 1",
-      "content": {
-        "dateAdded": "2020-07-28T20:39:58-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/441675495.hd.mp4?s=2f22be9ac4f23e4efd085100697d574aaf34bf2b&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1312,
-        "adBreaks": [
-          "00:00:00"
-        ]
-      },
-      "genres": [
-        "special"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/930016804_800x450.png",
-      "releaseDate": "2020-07-25",
-      "shortDescription": "BATTLE TOADS TV PILOT",
-      "longDescription": "BATTLE TOADS TV PILOT",
-      "tags": [
-        "special"
       ]
     },
     {
@@ -2185,64 +2062,6 @@
       "releaseDate": "2020-08-06",
       "shortDescription": "Saturday Blast Mix06",
       "longDescription": "Saturday Blast Mix06",
-      "tags": [
-        "special"
-      ]
-    },
-    {
-      "id": "441759175",
-      "title": "MacronOne DarkStars Revenge Fighting For Truth And Justice",
-      "content": {
-        "dateAdded": "2020-08-07T17:49:04-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/441759175.sd.mp4?s=57b9d82d48d71599537b23739b875283151cb966&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 6119,
-        "adBreaks": [
-          "00:15:00",
-          "00:30:00",
-          "00:45:00",
-          "01:00:00",
-          "01:15:00",
-          "01:30:00"
-        ]
-      },
-      "genres": [
-        "special"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/930196653_800x450.png",
-      "releaseDate": "2020-07-26",
-      "shortDescription": "MacronOne DarkStars Revenge Fighting For Truth And Justice",
-      "longDescription": "MacronOne DarkStars Revenge Fighting For Truth And Justice",
-      "tags": [
-        "special"
-      ]
-    },
-    {
-      "id": "441759011",
-      "title": "MacronOne Dark  Discovery Flight Of The Battle Robots",
-      "content": {
-        "dateAdded": "2020-08-07T17:49:04-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/441759011.sd.mp4?s=c944b400f473770a1724a268b8cbb8875d31ea9a&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 6126
-      },
-      "genres": [
-        "special"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/930196210_800x450.png",
-      "releaseDate": "2020-07-26",
-      "shortDescription": "MacronOne Dark  Discovery Flight Of The Battle Robots",
-      "longDescription": "MacronOne Dark  Discovery Flight Of The Battle Robots",
       "tags": [
         "special"
       ]
@@ -5147,7 +4966,8 @@
       "shortDescription": "CARTOON BLAST ACTION HOUR 1.1",
       "longDescription": "CARTOON BLAST ACTION HOUR 1.1",
       "tags": [
-        "special"
+        "special",
+        "action"
       ]
     },
     {
@@ -5182,7 +5002,8 @@
       "shortDescription": "CARTOON BLAST ACTION HOUR 1.2",
       "longDescription": "CARTOON BLAST ACTION HOUR 1.2",
       "tags": [
-        "special"
+        "special",
+        "action"
       ]
     },
     {
@@ -6184,7 +6005,8 @@
       "shortDescription": "ACTIONHOUR1.5",
       "longDescription": "ACTIONHOUR1.5",
       "tags": [
-        "special"
+        "special",
+        "action"
       ]
     },
     {
@@ -6209,7 +6031,8 @@
       "shortDescription": "ACTIONHOUR 1.4",
       "longDescription": "ACTIONHOUR 1.4",
       "tags": [
-        "special"
+        "special",
+        "action"
       ]
     },
     {
@@ -6505,7 +6328,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1058634375_800x450.png",
-      "releaseDate": "2021-02-11T22:43:17-05:00",
+      "releaseDate": "2021-02-11",
       "shortDescription": "RING RAIDERS -1988-",
       "longDescription": "RING RAIDERS -1988-",
       "tags": [
@@ -6530,7 +6353,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1058633709_800x450.png",
-      "releaseDate": "2021-02-11T22:40:38-05:00",
+      "releaseDate": "2021-02-11",
       "shortDescription": "BraveStarr The Movie",
       "longDescription": "BraveStarr The Movie",
       "tags": [
@@ -6555,7 +6378,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1058629252_800x450.png",
-      "releaseDate": "2021-02-11T22:34:33-05:00",
+      "releaseDate": "2021-02-11",
       "shortDescription": "Heathcliff The Movie",
       "longDescription": "Heathcliff The Movie",
       "tags": [
@@ -6580,7 +6403,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1058626269_800x450.png",
-      "releaseDate": "2021-02-11T22:29:09-05:00",
+      "releaseDate": "2021-02-11",
       "shortDescription": "Phantom 2040 - 1x01-05",
       "longDescription": "Phantom 2040 - 1x01-05",
       "tags": [
@@ -6605,11 +6428,164 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1058620617_800x450.png",
-      "releaseDate": "2021-02-11T22:23:36-05:00",
+      "releaseDate": "2021-02-11",
       "shortDescription": "Mortal Kombat Defenders of the Realm",
       "longDescription": "Mortal Kombat Defenders of the Realm",
       "tags": [
         "special"
+      ]
+    },
+    {
+      "id": "514535782",
+      "title": "GIANTATOR",
+      "content": {
+        "dateAdded": "2021-02-19T23:39:02-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/514535782.hd.mp4?s=3d81dd7e4b3691f90070bf33e3922e8cb14e96a0&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 4430
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1065359323_800x450.png",
+      "releaseDate": "2021-02-19T21:12:58-05:00",
+      "shortDescription": "GIANTATOR",
+      "longDescription": "GIANTATOR",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "514533254",
+      "title": "BigGuy and Rusty",
+      "content": {
+        "dateAdded": "2021-02-19T23:39:02-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/514533254.hd.mp4?s=213b54a2e0b56b2e5a6c0c683aa53367685e9a24&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3860
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1065310615_800x450.png",
+      "releaseDate": "2021-02-19T20:56:54-05:00",
+      "shortDescription": "BigGuy and Rusty",
+      "longDescription": "BigGuy and Rusty",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "514490784",
+      "title": "WISH-KID",
+      "content": {
+        "dateAdded": "2021-02-19T23:39:02-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/514490784.hd.mp4?s=4962928c9ba830c72882324a5eb25f5403389ae6&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5157
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1065359950_800x450.png",
+      "releaseDate": "2021-02-19T17:50:24-05:00",
+      "shortDescription": "WISH-KID",
+      "longDescription": "WISH-KID",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "514488684",
+      "title": "Action Hour 1.6",
+      "content": {
+        "dateAdded": "2021-02-19T23:39:02-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/514488684.hd.mp4?s=354033f13418a4ecdd46fb8f6042937cd3fab1dd&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2619
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1065360590_800x450.png",
+      "releaseDate": "2021-02-19T17:42:32-05:00",
+      "shortDescription": "Action Hour 1.6",
+      "longDescription": "Action Hour 1.6",
+      "tags": [
+        "special",
+        "action"
+      ]
+    },
+    {
+      "id": "513905479",
+      "title": "CARTOON BLAST GIRLS FUN HOUR-1.2",
+      "content": {
+        "dateAdded": "2021-02-19T23:39:02-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/513905479.hd.mp4?s=a6026e3ac69c0bbb0ba05bb235396fefba143dbe&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2671
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1064417680_800x450.png",
+      "releaseDate": "2021-02-18T11:20:53-05:00",
+      "shortDescription": "CARTOON BLAST GIRLS FUN HOUR-1.2",
+      "longDescription": "CARTOON BLAST GIRLS FUN HOUR-1.2",
+      "tags": [
+        "special",
+        "CARTOON-BLAST-GIRLS"
+      ]
+    },
+    {
+      "id": "513901261",
+      "title": "CARTOON BLAST GIRLS FUN HOUR",
+      "content": {
+        "dateAdded": "2021-02-19T23:39:02-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/513901261.hd.mp4?s=37421e1c897a341682c020b7e4ef1af03ec0c353&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2671
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1064422229_800x450.png",
+      "releaseDate": "2021-02-18T11:11:01-05:00",
+      "shortDescription": "CARTOON BLAST GIRLS FUN HOUR",
+      "longDescription": "CARTOON BLAST GIRLS FUN HOUR",
+      "tags": [
+        "special",
+        "CARTOON-BLAST-GIRLS"
       ]
     }
   ],
