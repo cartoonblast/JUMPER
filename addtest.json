@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-16T02:34:19+00:00",
+  "lastUpdated": "2021-03-06T06:22:51+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -25,7 +25,1180 @@
       "shortDescription": "GIRL CARTOONS",
       "longDescription": "GIRL CARTOONS",
       "tags": [
+        "special",
+        "cartoon-blast-girls"
+      ]
+    },
+    {
+      "id": "516625304",
+      "title": "Action Hour 1.7",
+      "content": {
+        "dateAdded": "2021-03-05T22:58:07-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/516625304.hd.mp4?s=b1902acedcef32216d7c249f493088acdf4c4c11&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2784
+      },
+      "genres": [
         "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1071438380_800x450.png",
+      "releaseDate": "2021-02-25T05:02:34-05:00",
+      "shortDescription": "Action Hour 1.7",
+      "longDescription": "Action Hour 1.7",
+      "tags": [
+        "special",
+        "ACTION-HOUR"
+      ]
+    },
+    {
+      "id": "516623007",
+      "title": "CARTOON BLAST GIRLS FUN HOUR-1.3",
+      "content": {
+        "dateAdded": "2021-03-05T22:58:07-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/516623007.hd.mp4?s=57eb4e8d0062ce9355567dc069b5158945373a87&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2699
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1071438797_800x450.png",
+      "releaseDate": "2021-02-25T04:55:01-05:00",
+      "shortDescription": "CARTOON BLAST GIRLS FUN HOUR-1.3",
+      "longDescription": "CARTOON BLAST GIRLS FUN HOUR-1.3",
+      "tags": [
+        "special",
+        "cartoon-blast-girls"
+      ]
+    },
+    {
+      "id": "514535782",
+      "title": "GIANTATOR",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/514535782.hd.mp4?s=3d81dd7e4b3691f90070bf33e3922e8cb14e96a0&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 4430
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1065359323_800x450.png",
+      "releaseDate": "2021-02-19T21:12:58-05:00",
+      "shortDescription": "GIANTATOR",
+      "longDescription": "GIANTATOR",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "511422929",
+      "title": "Heathcliff The Movie",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/511422929.sd.mp4?s=c142dfbff32198489a585b2faae352fce5de6300&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 4363
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1058629252_800x450.png",
+      "releaseDate": "2021-02-11T22:34:33-05:00",
+      "shortDescription": "Heathcliff The Movie",
+      "longDescription": "Heathcliff The Movie",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "514533254",
+      "title": "BigGuy and Rusty",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/514533254.hd.mp4?s=213b54a2e0b56b2e5a6c0c683aa53367685e9a24&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3860
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1065310615_800x450.png",
+      "releaseDate": "2021-02-19T20:56:54-05:00",
+      "shortDescription": "BigGuy and Rusty",
+      "longDescription": "BigGuy and Rusty",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "514490784",
+      "title": "WISH-KID",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/514490784.hd.mp4?s=4962928c9ba830c72882324a5eb25f5403389ae6&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5157
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1065359950_800x450.png",
+      "releaseDate": "2021-02-19T17:50:24-05:00",
+      "shortDescription": "WISH-KID",
+      "longDescription": "WISH-KID",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "514488684",
+      "title": "Action Hour 1.6",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/514488684.hd.mp4?s=354033f13418a4ecdd46fb8f6042937cd3fab1dd&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2619
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1065360590_800x450.png",
+      "releaseDate": "2021-02-19T17:42:32-05:00",
+      "shortDescription": "Action Hour 1.6",
+      "longDescription": "Action Hour 1.6",
+      "tags": [
+        "special",
+        "ACTION-HOUR"
+      ]
+    },
+    {
+      "id": "513901261",
+      "title": "CARTOON BLAST GIRLS FUN HOUR",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/513901261.hd.mp4?s=37421e1c897a341682c020b7e4ef1af03ec0c353&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2671
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1064422229_800x450.png",
+      "releaseDate": "2021-02-18T11:11:01-05:00",
+      "shortDescription": "CARTOON BLAST GIRLS FUN HOUR",
+      "longDescription": "CARTOON BLAST GIRLS FUN HOUR",
+      "tags": [
+        "special",
+        "cartoon-blast-girls"
+      ]
+    },
+    {
+      "id": "513905479",
+      "title": "CARTOON BLAST GIRLS FUN HOUR-1.2",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/513905479.hd.mp4?s=a6026e3ac69c0bbb0ba05bb235396fefba143dbe&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2671
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1064417680_800x450.png",
+      "releaseDate": "2021-02-18T11:20:53-05:00",
+      "shortDescription": "CARTOON BLAST GIRLS FUN HOUR-1.2",
+      "longDescription": "CARTOON BLAST GIRLS FUN HOUR-1.2",
+      "tags": [
+        "special",
+        "cartoon-blast-girls"
+      ]
+    },
+    {
+      "id": "511428273",
+      "title": "RING RAIDERS -1988-",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/511428273.sd.mp4?s=3dee880c4998efbc8b3144b850f21478022edf8b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2632
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1058634375_800x450.png",
+      "releaseDate": "2021-02-11T22:43:17-05:00",
+      "shortDescription": "RING RAIDERS -1988-",
+      "longDescription": "RING RAIDERS -1988-",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "511427554",
+      "title": "BraveStarr The Movie",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/511427554.sd.mp4?s=b8136cfe36c4dea4f82a79a5d210d02cb716448b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5225
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1058633709_800x450.png",
+      "releaseDate": "2021-02-11T22:40:38-05:00",
+      "shortDescription": "BraveStarr The Movie",
+      "longDescription": "BraveStarr The Movie",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "511419916",
+      "title": "Phantom 2040 - 1x01-05",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/511419916.sd.mp4?s=f68d94da4e0c47c2066bdb6c0dc320deb2f7a389&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5798
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1058626269_800x450.png",
+      "releaseDate": "2021-02-11T22:29:09-05:00",
+      "shortDescription": "Phantom 2040 - 1x01-05",
+      "longDescription": "Phantom 2040 - 1x01-05",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "511417932",
+      "title": "Mortal Kombat Defenders of the Realm",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/511417932.sd.mp4?s=94f48a4b78f4f0b660f27b91f13bf512a585b523&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 15657
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1058620617_800x450.png",
+      "releaseDate": "2021-02-11T22:23:36-05:00",
+      "shortDescription": "Mortal Kombat Defenders of the Realm",
+      "longDescription": "Mortal Kombat Defenders of the Realm",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "510147755",
+      "title": "Fox-s Peter Pan - The Pirates",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/510147755.sd.mp4?s=f50addafd01497826f4e4b242b7195e26ff3cc01&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 6166
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1056076814_800x450.png",
+      "releaseDate": "2021-02-09T04:00:54-05:00",
+      "shortDescription": "Fox-s Peter Pan - The Pirates",
+      "longDescription": "Fox-s Peter Pan - The Pirates",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "510141026",
+      "title": "The GLO Friends  -1986-",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/510141026.sd.mp4?s=6f5e42ae38c3714eaf26b5ab868a8196ac5255e0&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9135
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1056061962_800x450.png",
+      "releaseDate": "2021-02-09T03:34:14-05:00",
+      "shortDescription": "The GLO Friends  -1986-",
+      "longDescription": "The GLO Friends  -1986-",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "510140823",
+      "title": "Potato Head Kids -English-",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/510140823.sd.mp4?s=18fa1e991e8ca7e60030b7a02ee4d9d82c8886d0&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3023
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1056060382_800x450.png",
+      "releaseDate": "2021-02-09T03:33:25-05:00",
+      "shortDescription": "Potato Head Kids -English-",
+      "longDescription": "Potato Head Kids -English-",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "510138331",
+      "title": "NEW ARCHIE PT-1",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/510138331.hd.mp4?s=4fa044731f7750c39eb9bcd8434ade7ac9099c32&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2700
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1056060437_800x450.png",
+      "releaseDate": "2021-02-09T03:23:10-05:00",
+      "shortDescription": "NEW ARCHIE PT-1",
+      "longDescription": "NEW ARCHIE PT-1",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "510059795",
+      "title": "HELLO KITTYPT-1",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/510059795.hd.mp4?s=3319e5d17857fa01d11c22627a677277dc78f430&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3372
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1055878705_800x450.png",
+      "releaseDate": "2021-02-08T22:02:33-05:00",
+      "shortDescription": "HELLO KITTYPT-1",
+      "longDescription": "HELLO KITTYPT-1",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "510059447",
+      "title": "Camp Candy - Christmas in July and When it RainsIt Snows",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/510059447.sd.mp4?s=7bed412d177fdc2470ca3adaba4cf6b5f7807c63&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2604
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1055870860_800x450.png",
+      "releaseDate": "2021-02-08T22:01:04-05:00",
+      "shortDescription": "Camp Candy - Christmas in July and When it RainsIt Snows",
+      "longDescription": "Camp Candy - Christmas in July and When it RainsIt Snows",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "510053162",
+      "title": "CBS STORYPT1",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/510053162.sd.mp4?s=afd15888d9a30abb5a12f83ab9d27d34a9d04b39&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 7326
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1055869799_800x450.png",
+      "releaseDate": "2021-02-08T21:35:43-05:00",
+      "shortDescription": "CBS STORYPT1",
+      "longDescription": "CBS STORYPT1",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "508191060",
+      "title": "Here Come the Littles -1985-",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/508191060.sd.mp4?s=3164214993ca8ecd1528d8f36b2ef6a45f22aafe&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 4354
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1051795499_800x450.png",
+      "releaseDate": "2021-02-03T18:28:15-05:00",
+      "shortDescription": "Here Come the Littles -1985-",
+      "longDescription": "Here Come the Littles -1985-",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "507752131",
+      "title": "CARTOON BLAST LOONEY TUNES-pt2",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/507752131.sd.mp4?s=f537fef4dd6432bc13b8121419d3199e4e8e9a46&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 4161
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1050908622_800x450.png",
+      "releaseDate": "2021-02-02T18:56:06-05:00",
+      "shortDescription": "CARTOON BLAST LOONEY TUNES-pt2",
+      "longDescription": "CARTOON BLAST LOONEY TUNES-pt2",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "507749289",
+      "title": "HULK",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/507749289.hd.mp4?s=f8ed314f6ae1d50094319d73077c8de741acecdd&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3150
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1050901371_800x450.png",
+      "releaseDate": "2021-02-02T18:44:35-05:00",
+      "shortDescription": "HULK",
+      "longDescription": "HULK",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "507738559",
+      "title": "SAILORMOON1",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/507738559.sd.mp4?s=f909f63034aee3ee037ab8525ef1af9ab8900ec8&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 7830
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1053602380_800x450.png",
+      "releaseDate": "2021-02-02T18:02:29-05:00",
+      "shortDescription": "SAILORMOON1",
+      "longDescription": "SAILORMOON1",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "503707733",
+      "title": "SHAZAM PT.1",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/503707733.sd.mp4?s=77771e83b971a35aa6dcc355f30e26b273d30a78&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9459
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1042101816_800x450.png",
+      "releaseDate": "2021-01-22T21:47:52-05:00",
+      "shortDescription": "SHAZAM PT.1",
+      "longDescription": "SHAZAM PT.1",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "503241328",
+      "title": "ACTIONHOUR1.5",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/503241328.sd.mp4?s=908a9db6f33cc1102a3442d270d3d24c0a1d7500&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5312
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1042329576_800x450.png",
+      "releaseDate": "2021-01-21T17:33:20-05:00",
+      "shortDescription": "ACTIONHOUR1.5",
+      "longDescription": "ACTIONHOUR1.5",
+      "tags": [
+        "special",
+        "ACTION-HOUR"
+      ]
+    },
+    {
+      "id": "501528267",
+      "title": "ACTIONHOUR 1.4",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/501528267.hd.mp4?s=d981272bdabeef3eb4acaf582ef19e37755f96aa&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5306
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1042328372_800x450.png",
+      "releaseDate": "2021-01-17T16:16:41-05:00",
+      "shortDescription": "ACTIONHOUR 1.4",
+      "longDescription": "ACTIONHOUR 1.4",
+      "tags": [
+        "special",
+        "ACTION-HOUR"
+      ]
+    },
+    {
+      "id": "498548152",
+      "title": "CARTOON BLAST 80s NICK EDITION 2",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/498548152.sd.mp4?s=5782a6c1c2874190043be143668189729239c950&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 12285
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1031644720_800x450.png",
+      "releaseDate": "2021-01-08T21:09:02-05:00",
+      "shortDescription": "CARTOON BLAST 80s NICK EDITION 2",
+      "longDescription": "CARTOON BLAST 80s NICK EDITION 2",
+      "tags": [
+        "special",
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "498217770",
+      "title": "cartoonblast looney tunes v1",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/498217770.sd.mp4?s=705ef4b9cfad6a259ddfe929e00d9f063b316716&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 6346
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1030983578_800x450.png",
+      "releaseDate": "2021-01-07T23:17:45-05:00",
+      "shortDescription": "cartoonblast looney tunes v1",
+      "longDescription": "cartoonblast looney tunes v1",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "497621944",
+      "title": "CARTOON BLAST 80s NICK EDITION pt.1",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/497621944.sd.mp4?s=81530014c485e3fc992418337585fe2434f9136c&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 13640
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1029806058_800x450.png",
+      "releaseDate": "2021-01-06T07:59:34-05:00",
+      "shortDescription": "CARTOON BLAST 80s NICK EDITION pt.1",
+      "longDescription": "CARTOON BLAST 80s NICK EDITION pt.1",
+      "tags": [
+        "special",
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "497341855",
+      "title": "Star Wars DROIDS -1985",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/497341855.sd.mp4?s=eea2412c74d2dc334985d02ff204c4218a8f306c&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 19971
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1030329784_800x450.png",
+      "releaseDate": "2021-01-05T12:44:48-05:00",
+      "shortDescription": "Star Wars DROIDS -1985",
+      "longDescription": "Star Wars DROIDS -1985",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "497338547",
+      "title": "Star Wars - Ewoks",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/497338547.sd.mp4?s=57b669663f7f80fe30bf9c8515b64829c308fd74&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 24533
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1029230763_800x450.png",
+      "releaseDate": "2021-01-05T12:34:35-05:00",
+      "shortDescription": "Star Wars - Ewoks",
+      "longDescription": "Star Wars - Ewoks",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "497338358",
+      "title": "The Velveteen Rabbit",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/497338358.sd.mp4?s=fb4ec2f316feeb73bf3e24c36a63b86bfee2d984&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1488
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1029225080_800x450.png",
+      "releaseDate": "2021-01-05T12:34:06-05:00",
+      "shortDescription": "The Velveteen Rabbit",
+      "longDescription": "The Velveteen Rabbit",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "492811539",
+      "title": "ACTIONHOUR 1.4",
+      "content": {
+        "dateAdded": "2021-03-06T11:32:42-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/492811539.hd.mp4?s=4819cec710e8066ddc60171b1a7b2e082dabeb4f&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5306
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1022307844_800x450.png",
+      "releaseDate": "2020-12-19T08:53:42-05:00",
+      "shortDescription": "ACTIONHOUR 1.4",
+      "longDescription": "ACTIONHOUR 1.4",
+      "tags": [
+        "special",
+        "ACTION-HOUR"
+      ]
+    },
+    {
+      "id": "481875046",
+      "title": "CARTOON BLAST ACTION HOUR 1.2",
+      "content": {
+        "dateAdded": "2021-03-06T11:34:10-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/481875046.hd.mp4?s=dd66fee7b245c0f15d180d3739d7014973e147f0&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5273
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/999227320_800x450.png",
+      "releaseDate": "2020-11-20T17:35:26-05:00",
+      "shortDescription": "CARTOON BLAST ACTION HOUR 1.2",
+      "longDescription": "CARTOON BLAST ACTION HOUR 1.2",
+      "tags": [
+        "special",
+        "ACTION-HOUR"
+      ]
+    },
+    {
+      "id": "453327844",
+      "title": "SATURDAY BLAST GIRLS MIX",
+      "content": {
+        "dateAdded": "2021-03-06T11:35:25-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/453327844.hd.mp4?s=58c50e22176bf7a3a97eba1f3a677280cbf4b517&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 18327
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/949637382_800x450.png",
+      "releaseDate": "2020-08-31T11:18:42-04:00",
+      "shortDescription": "MIX OF GIRLS THEME CARTOONS",
+      "longDescription": "MIX OF GIRLS THEME CARTOONS",
+      "tags": [
+        "special",
+        "cartoon-blast-girls"
+      ]
+    },
+    {
+      "id": "481136859",
+      "title": "CARTOON BLAST ACTION HOUR 1.1",
+      "content": {
+        "dateAdded": "2021-03-06T11:34:10-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/481136859.hd.mp4?s=91e15bc6102f328472cf597977bec2a8a4f5e55d&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5153
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/997998964_800x450.png",
+      "releaseDate": "2020-11-19T04:03:21-05:00",
+      "shortDescription": "CARTOON BLAST ACTION HOUR 1.1",
+      "longDescription": "CARTOON BLAST ACTION HOUR 1.1",
+      "tags": [
+        "special",
+        "ACTION-HOUR"
+      ]
+    },
+    {
+      "id": "464338107",
+      "title": "CARTOON BLAST Girl mix part 2",
+      "content": {
+        "dateAdded": "2021-03-06T11:37:50-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/464338107.hd.mp4?s=4434477058f7b91918837a9ae5a31da9eda8ec3f&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 11713
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/968446189_800x450.png",
+      "releaseDate": "2020-10-02T15:26:42-04:00",
+      "shortDescription": "GIRL CARTOONS",
+      "longDescription": "GIRL CARTOONS",
+      "tags": [
+        "special",
+        "cartoon-blast-girls"
+      ]
+    },
+    {
+      "id": "459612366",
+      "title": "SATURDAY BLAST MIX08",
+      "content": {
+        "dateAdded": "2021-03-06T11:37:50-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/459612366.hd.mp4?s=02fdd0c65b0e69d7ffea48b357275aa980dc5540&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 14902
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/960258485_800x450.png",
+      "releaseDate": "2020-09-19T01:09:42-04:00",
+      "shortDescription": "SATURDAY BLAST MIX08",
+      "longDescription": "SATURDAY BLAST MIX08",
+      "tags": [
+        "special",
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "457210791",
+      "title": "cartoon blast mix 07",
+      "content": {
+        "dateAdded": "2021-03-06T11:37:50-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/457210791.hd.mp4?s=294aead555c554a60e04b08cca0d82fc887d86d3&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 12459
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
+      "releaseDate": "2020-09-12T05:43:54-04:00",
+      "shortDescription": "cartoon blast mix 07",
+      "longDescription": "cartoon blast mix 07",
+      "tags": [
+        "special",
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "447147675",
+      "title": "Saturday Blast Mix04",
+      "content": {
+        "dateAdded": "2021-03-06T11:37:50-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/447147675.hd.mp4?s=de7bca2facfa8bff343652b372046b3ba56a8645&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 13280
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/939342976_800x450.png",
+      "releaseDate": "2020-08-12T09:55:26-04:00",
+      "shortDescription": "Saturday Blast Mix04",
+      "longDescription": "Saturday Blast Mix04",
+      "tags": [
+        "special",
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "445242126",
+      "title": "Saturday Blast Mix06",
+      "content": {
+        "dateAdded": "2021-03-06T11:37:50-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/445242126.hd.mp4?s=0396860b71f0fa8f2642c101d84cd924337615a5&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 10442
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/936448642_800x450.png",
+      "releaseDate": "2020-08-06T10:37:40-04:00",
+      "shortDescription": "Saturday Blast Mix06",
+      "longDescription": "Saturday Blast Mix06",
+      "tags": [
+        "special",
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "444747458",
+      "title": "Saturday blast mix02",
+      "content": {
+        "dateAdded": "2021-03-06T11:37:50-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/444747458.hd.mp4?s=3a9f4fa9c42fd96c708757ffbd5196802dcc4cb8&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 6560
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/935254253_800x450.png",
+      "releaseDate": "2020-08-04T22:13:19-04:00",
+      "shortDescription": "mix of random cartoons",
+      "longDescription": "mix of random cartoons",
+      "tags": [
+        "special",
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "442811215",
+      "title": "Saturday blast mix01",
+      "content": {
+        "dateAdded": "2021-03-06T11:37:50-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/442811215.hd.mp4?s=5795be8342132dd37a35b1857e1e922a5f3d41f9&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9506
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/932119749_800x450.png",
+      "releaseDate": "2020-07-29T15:05:27-04:00",
+      "shortDescription": "Saturday blast mix01",
+      "longDescription": "Saturday blast mix01",
+      "tags": [
+        "special",
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "442811214",
+      "title": "Saturday blast mix03",
+      "content": {
+        "dateAdded": "2021-03-06T11:37:50-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/442811214.hd.mp4?s=e2bf9c3b49b44faebc7fb1acb1a69ca9747078d4&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 7110
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/936454630_800x450.png",
+      "releaseDate": "2020-07-29T15:05:27-04:00",
+      "shortDescription": "Saturday blast mix03",
+      "longDescription": "Saturday blast mix03",
+      "tags": [
+        "special",
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "444747455",
+      "title": "Saturday Blast Mix05",
+      "content": {
+        "dateAdded": "2021-03-06T11:37:50-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/444747455.hd.mp4?s=9b7a0b375eaa83435047e05ebcaf09618b1c5a76&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 8195
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/935253337_800x450.png",
+      "releaseDate": "2020-08-04T22:13:18-04:00",
+      "shortDescription": "mix of random cartoons",
+      "longDescription": "mix of random cartoons",
+      "tags": [
+        "special",
+        "SATURDAY-MORNINGS"
       ]
     }
   ]
