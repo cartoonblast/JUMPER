@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-20T12:00:53+00:00",
+  "lastUpdated": "2021-03-05T11:06:06+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -6453,7 +6453,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1065359323_800x450.png",
-      "releaseDate": "2021-02-19T21:12:58-05:00",
+      "releaseDate": "2021-02-19",
       "shortDescription": "GIANTATOR",
       "longDescription": "GIANTATOR",
       "tags": [
@@ -6478,7 +6478,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1065310615_800x450.png",
-      "releaseDate": "2021-02-19T20:56:54-05:00",
+      "releaseDate": "2021-02-19",
       "shortDescription": "BigGuy and Rusty",
       "longDescription": "BigGuy and Rusty",
       "tags": [
@@ -6503,7 +6503,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1065359950_800x450.png",
-      "releaseDate": "2021-02-19T17:50:24-05:00",
+      "releaseDate": "2021-02-19",
       "shortDescription": "WISH-KID",
       "longDescription": "WISH-KID",
       "tags": [
@@ -6528,7 +6528,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1065360590_800x450.png",
-      "releaseDate": "2021-02-19T17:42:32-05:00",
+      "releaseDate": "2021-02-19",
       "shortDescription": "Action Hour 1.6",
       "longDescription": "Action Hour 1.6",
       "tags": [
@@ -6554,7 +6554,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1064417680_800x450.png",
-      "releaseDate": "2021-02-18T11:20:53-05:00",
+      "releaseDate": "2021-02-18",
       "shortDescription": "CARTOON BLAST GIRLS FUN HOUR-1.2",
       "longDescription": "CARTOON BLAST GIRLS FUN HOUR-1.2",
       "tags": [
@@ -6580,9 +6580,61 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1064422229_800x450.png",
-      "releaseDate": "2021-02-18T11:11:01-05:00",
+      "releaseDate": "2021-02-18",
       "shortDescription": "CARTOON BLAST GIRLS FUN HOUR",
       "longDescription": "CARTOON BLAST GIRLS FUN HOUR",
+      "tags": [
+        "special",
+        "CARTOON-BLAST-GIRLS"
+      ]
+    },
+    {
+      "id": "516625304",
+      "title": "Action Hour 1.7",
+      "content": {
+        "dateAdded": "2021-03-05T22:58:07-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/516625304.hd.mp4?s=b1902acedcef32216d7c249f493088acdf4c4c11&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2784
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1071438380_800x450.png",
+      "releaseDate": "2021-02-25T05:02:34-05:00",
+      "shortDescription": "Action Hour 1.7",
+      "longDescription": "Action Hour 1.7",
+      "tags": [
+        "special",
+        "action"
+      ]
+    },
+    {
+      "id": "516623007",
+      "title": "CARTOON BLAST GIRLS FUN HOUR-1.3",
+      "content": {
+        "dateAdded": "2021-03-05T22:58:07-05:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/516623007.hd.mp4?s=57eb4e8d0062ce9355567dc069b5158945373a87&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2699
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1071438797_800x450.png",
+      "releaseDate": "2021-02-25T04:55:01-05:00",
+      "shortDescription": "CARTOON BLAST GIRLS FUN HOUR-1.3",
+      "longDescription": "CARTOON BLAST GIRLS FUN HOUR-1.3",
       "tags": [
         "special",
         "CARTOON-BLAST-GIRLS"
