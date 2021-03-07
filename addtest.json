@@ -1,34 +1,8 @@
 {
-  "lastUpdated": "2021-03-06T06:22:51+00:00",
+  "lastUpdated": "2021-03-06T07:36:53+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
-    {
-      "id": "464338107",
-      "title": "CARTOON BLAST Girl mix part 2",
-      "content": {
-        "dateAdded": "2020-10-02T20:30:32-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/464338107.m3u8?s=0e209ce45a293019aa3dffbe85300a1606029204",
-            "quality": "HD",
-            "videoType": "HLS"
-          }
-        ],
-        "duration": 11713
-      },
-      "genres": [
-        "special"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/968446189_800x450.png",
-      "releaseDate": "2020-10-02",
-      "shortDescription": "GIRL CARTOONS",
-      "longDescription": "GIRL CARTOONS",
-      "tags": [
-        "special",
-        "cartoon-blast-girls"
-      ]
-    },
     {
       "id": "516625304",
       "title": "Action Hour 1.7",
@@ -47,7 +21,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1071438380_800x450.png",
-      "releaseDate": "2021-02-25T05:02:34-05:00",
+      "releaseDate": "2021-02-25",
       "shortDescription": "Action Hour 1.7",
       "longDescription": "Action Hour 1.7",
       "tags": [
@@ -73,7 +47,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1071438797_800x450.png",
-      "releaseDate": "2021-02-25T04:55:01-05:00",
+      "releaseDate": "2021-02-25",
       "shortDescription": "CARTOON BLAST GIRLS FUN HOUR-1.3",
       "longDescription": "CARTOON BLAST GIRLS FUN HOUR-1.3",
       "tags": [
@@ -99,7 +73,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1065359323_800x450.png",
-      "releaseDate": "2021-02-19T21:12:58-05:00",
+      "releaseDate": "2021-02-19",
       "shortDescription": "GIANTATOR",
       "longDescription": "GIANTATOR",
       "tags": [
@@ -124,7 +98,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1058629252_800x450.png",
-      "releaseDate": "2021-02-11T22:34:33-05:00",
+      "releaseDate": "2021-02-11",
       "shortDescription": "Heathcliff The Movie",
       "longDescription": "Heathcliff The Movie",
       "tags": [
@@ -149,7 +123,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1065310615_800x450.png",
-      "releaseDate": "2021-02-19T20:56:54-05:00",
+      "releaseDate": "2021-02-19",
       "shortDescription": "BigGuy and Rusty",
       "longDescription": "BigGuy and Rusty",
       "tags": [
@@ -174,7 +148,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1065359950_800x450.png",
-      "releaseDate": "2021-02-19T17:50:24-05:00",
+      "releaseDate": "2021-02-19",
       "shortDescription": "WISH-KID",
       "longDescription": "WISH-KID",
       "tags": [
@@ -199,7 +173,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1065360590_800x450.png",
-      "releaseDate": "2021-02-19T17:42:32-05:00",
+      "releaseDate": "2021-02-19",
       "shortDescription": "Action Hour 1.6",
       "longDescription": "Action Hour 1.6",
       "tags": [
@@ -225,7 +199,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1064422229_800x450.png",
-      "releaseDate": "2021-02-18T11:11:01-05:00",
+      "releaseDate": "2021-02-18",
       "shortDescription": "CARTOON BLAST GIRLS FUN HOUR",
       "longDescription": "CARTOON BLAST GIRLS FUN HOUR",
       "tags": [
@@ -251,7 +225,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1064417680_800x450.png",
-      "releaseDate": "2021-02-18T11:20:53-05:00",
+      "releaseDate": "2021-02-18",
       "shortDescription": "CARTOON BLAST GIRLS FUN HOUR-1.2",
       "longDescription": "CARTOON BLAST GIRLS FUN HOUR-1.2",
       "tags": [
@@ -277,7 +251,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1058634375_800x450.png",
-      "releaseDate": "2021-02-11T22:43:17-05:00",
+      "releaseDate": "2021-02-11",
       "shortDescription": "RING RAIDERS -1988-",
       "longDescription": "RING RAIDERS -1988-",
       "tags": [
@@ -302,7 +276,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1058633709_800x450.png",
-      "releaseDate": "2021-02-11T22:40:38-05:00",
+      "releaseDate": "2021-02-11",
       "shortDescription": "BraveStarr The Movie",
       "longDescription": "BraveStarr The Movie",
       "tags": [
@@ -327,7 +301,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1058626269_800x450.png",
-      "releaseDate": "2021-02-11T22:29:09-05:00",
+      "releaseDate": "2021-02-11",
       "shortDescription": "Phantom 2040 - 1x01-05",
       "longDescription": "Phantom 2040 - 1x01-05",
       "tags": [
@@ -352,7 +326,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1058620617_800x450.png",
-      "releaseDate": "2021-02-11T22:23:36-05:00",
+      "releaseDate": "2021-02-11",
       "shortDescription": "Mortal Kombat Defenders of the Realm",
       "longDescription": "Mortal Kombat Defenders of the Realm",
       "tags": [
@@ -377,7 +351,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1056076814_800x450.png",
-      "releaseDate": "2021-02-09T04:00:54-05:00",
+      "releaseDate": "2021-02-09",
       "shortDescription": "Fox-s Peter Pan - The Pirates",
       "longDescription": "Fox-s Peter Pan - The Pirates",
       "tags": [
@@ -402,7 +376,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1056061962_800x450.png",
-      "releaseDate": "2021-02-09T03:34:14-05:00",
+      "releaseDate": "2021-02-09",
       "shortDescription": "The GLO Friends  -1986-",
       "longDescription": "The GLO Friends  -1986-",
       "tags": [
@@ -427,7 +401,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1056060382_800x450.png",
-      "releaseDate": "2021-02-09T03:33:25-05:00",
+      "releaseDate": "2021-02-09",
       "shortDescription": "Potato Head Kids -English-",
       "longDescription": "Potato Head Kids -English-",
       "tags": [
@@ -452,7 +426,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1056060437_800x450.png",
-      "releaseDate": "2021-02-09T03:23:10-05:00",
+      "releaseDate": "2021-02-09",
       "shortDescription": "NEW ARCHIE PT-1",
       "longDescription": "NEW ARCHIE PT-1",
       "tags": [
@@ -477,7 +451,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1055878705_800x450.png",
-      "releaseDate": "2021-02-08T22:02:33-05:00",
+      "releaseDate": "2021-02-08",
       "shortDescription": "HELLO KITTYPT-1",
       "longDescription": "HELLO KITTYPT-1",
       "tags": [
@@ -502,7 +476,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1055870860_800x450.png",
-      "releaseDate": "2021-02-08T22:01:04-05:00",
+      "releaseDate": "2021-02-08",
       "shortDescription": "Camp Candy - Christmas in July and When it RainsIt Snows",
       "longDescription": "Camp Candy - Christmas in July and When it RainsIt Snows",
       "tags": [
@@ -527,7 +501,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1055869799_800x450.png",
-      "releaseDate": "2021-02-08T21:35:43-05:00",
+      "releaseDate": "2021-02-08",
       "shortDescription": "CBS STORYPT1",
       "longDescription": "CBS STORYPT1",
       "tags": [
@@ -552,7 +526,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1051795499_800x450.png",
-      "releaseDate": "2021-02-03T18:28:15-05:00",
+      "releaseDate": "2021-02-03",
       "shortDescription": "Here Come the Littles -1985-",
       "longDescription": "Here Come the Littles -1985-",
       "tags": [
@@ -577,7 +551,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1050908622_800x450.png",
-      "releaseDate": "2021-02-02T18:56:06-05:00",
+      "releaseDate": "2021-02-02",
       "shortDescription": "CARTOON BLAST LOONEY TUNES-pt2",
       "longDescription": "CARTOON BLAST LOONEY TUNES-pt2",
       "tags": [
@@ -602,7 +576,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1050901371_800x450.png",
-      "releaseDate": "2021-02-02T18:44:35-05:00",
+      "releaseDate": "2021-02-02",
       "shortDescription": "HULK",
       "longDescription": "HULK",
       "tags": [
@@ -627,7 +601,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1053602380_800x450.png",
-      "releaseDate": "2021-02-02T18:02:29-05:00",
+      "releaseDate": "2021-02-02",
       "shortDescription": "SAILORMOON1",
       "longDescription": "SAILORMOON1",
       "tags": [
@@ -652,7 +626,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1042101816_800x450.png",
-      "releaseDate": "2021-01-22T21:47:52-05:00",
+      "releaseDate": "2021-01-22",
       "shortDescription": "SHAZAM PT.1",
       "longDescription": "SHAZAM PT.1",
       "tags": [
@@ -677,7 +651,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1042329576_800x450.png",
-      "releaseDate": "2021-01-21T17:33:20-05:00",
+      "releaseDate": "2021-01-21",
       "shortDescription": "ACTIONHOUR1.5",
       "longDescription": "ACTIONHOUR1.5",
       "tags": [
@@ -703,7 +677,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1042328372_800x450.png",
-      "releaseDate": "2021-01-17T16:16:41-05:00",
+      "releaseDate": "2021-01-17",
       "shortDescription": "ACTIONHOUR 1.4",
       "longDescription": "ACTIONHOUR 1.4",
       "tags": [
@@ -729,7 +703,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1031644720_800x450.png",
-      "releaseDate": "2021-01-08T21:09:02-05:00",
+      "releaseDate": "2021-01-08",
       "shortDescription": "CARTOON BLAST 80s NICK EDITION 2",
       "longDescription": "CARTOON BLAST 80s NICK EDITION 2",
       "tags": [
@@ -755,7 +729,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1030983578_800x450.png",
-      "releaseDate": "2021-01-07T23:17:45-05:00",
+      "releaseDate": "2021-01-07",
       "shortDescription": "cartoonblast looney tunes v1",
       "longDescription": "cartoonblast looney tunes v1",
       "tags": [
@@ -780,7 +754,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1029806058_800x450.png",
-      "releaseDate": "2021-01-06T07:59:34-05:00",
+      "releaseDate": "2021-01-06",
       "shortDescription": "CARTOON BLAST 80s NICK EDITION pt.1",
       "longDescription": "CARTOON BLAST 80s NICK EDITION pt.1",
       "tags": [
@@ -806,7 +780,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1030329784_800x450.png",
-      "releaseDate": "2021-01-05T12:44:48-05:00",
+      "releaseDate": "2021-01-05",
       "shortDescription": "Star Wars DROIDS -1985",
       "longDescription": "Star Wars DROIDS -1985",
       "tags": [
@@ -831,7 +805,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1029230763_800x450.png",
-      "releaseDate": "2021-01-05T12:34:35-05:00",
+      "releaseDate": "2021-01-05",
       "shortDescription": "Star Wars - Ewoks",
       "longDescription": "Star Wars - Ewoks",
       "tags": [
@@ -856,7 +830,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1029225080_800x450.png",
-      "releaseDate": "2021-01-05T12:34:06-05:00",
+      "releaseDate": "2021-01-05",
       "shortDescription": "The Velveteen Rabbit",
       "longDescription": "The Velveteen Rabbit",
       "tags": [
@@ -881,7 +855,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1022307844_800x450.png",
-      "releaseDate": "2020-12-19T08:53:42-05:00",
+      "releaseDate": "2020-12-19",
       "shortDescription": "ACTIONHOUR 1.4",
       "longDescription": "ACTIONHOUR 1.4",
       "tags": [
@@ -907,7 +881,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/999227320_800x450.png",
-      "releaseDate": "2020-11-20T17:35:26-05:00",
+      "releaseDate": "2020-11-20",
       "shortDescription": "CARTOON BLAST ACTION HOUR 1.2",
       "longDescription": "CARTOON BLAST ACTION HOUR 1.2",
       "tags": [
@@ -933,7 +907,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/949637382_800x450.png",
-      "releaseDate": "2020-08-31T11:18:42-04:00",
+      "releaseDate": "2020-08-31",
       "shortDescription": "MIX OF GIRLS THEME CARTOONS",
       "longDescription": "MIX OF GIRLS THEME CARTOONS",
       "tags": [
@@ -959,7 +933,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/997998964_800x450.png",
-      "releaseDate": "2020-11-19T04:03:21-05:00",
+      "releaseDate": "2020-11-19",
       "shortDescription": "CARTOON BLAST ACTION HOUR 1.1",
       "longDescription": "CARTOON BLAST ACTION HOUR 1.1",
       "tags": [
@@ -985,7 +959,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/968446189_800x450.png",
-      "releaseDate": "2020-10-02T15:26:42-04:00",
+      "releaseDate": "2020-10-02",
       "shortDescription": "GIRL CARTOONS",
       "longDescription": "GIRL CARTOONS",
       "tags": [
@@ -1011,7 +985,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/960258485_800x450.png",
-      "releaseDate": "2020-09-19T01:09:42-04:00",
+      "releaseDate": "2020-09-19",
       "shortDescription": "SATURDAY BLAST MIX08",
       "longDescription": "SATURDAY BLAST MIX08",
       "tags": [
@@ -1037,7 +1011,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
-      "releaseDate": "2020-09-12T05:43:54-04:00",
+      "releaseDate": "2020-09-12",
       "shortDescription": "cartoon blast mix 07",
       "longDescription": "cartoon blast mix 07",
       "tags": [
@@ -1063,7 +1037,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/939342976_800x450.png",
-      "releaseDate": "2020-08-12T09:55:26-04:00",
+      "releaseDate": "2020-08-12",
       "shortDescription": "Saturday Blast Mix04",
       "longDescription": "Saturday Blast Mix04",
       "tags": [
@@ -1089,7 +1063,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/936448642_800x450.png",
-      "releaseDate": "2020-08-06T10:37:40-04:00",
+      "releaseDate": "2020-08-06",
       "shortDescription": "Saturday Blast Mix06",
       "longDescription": "Saturday Blast Mix06",
       "tags": [
@@ -1115,7 +1089,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/935254253_800x450.png",
-      "releaseDate": "2020-08-04T22:13:19-04:00",
+      "releaseDate": "2020-08-04",
       "shortDescription": "mix of random cartoons",
       "longDescription": "mix of random cartoons",
       "tags": [
@@ -1141,7 +1115,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/932119749_800x450.png",
-      "releaseDate": "2020-07-29T15:05:27-04:00",
+      "releaseDate": "2020-07-29",
       "shortDescription": "Saturday blast mix01",
       "longDescription": "Saturday blast mix01",
       "tags": [
@@ -1167,7 +1141,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/936454630_800x450.png",
-      "releaseDate": "2020-07-29T15:05:27-04:00",
+      "releaseDate": "2020-07-29",
       "shortDescription": "Saturday blast mix03",
       "longDescription": "Saturday blast mix03",
       "tags": [
@@ -1193,7 +1167,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/935253337_800x450.png",
-      "releaseDate": "2020-08-04T22:13:18-04:00",
+      "releaseDate": "2020-08-04",
       "shortDescription": "mix of random cartoons",
       "longDescription": "mix of random cartoons",
       "tags": [
