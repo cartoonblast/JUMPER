@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-18T02:30:31+00:00",
+  "lastUpdated": "2021-03-18T03:13:13+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -76,7 +76,6 @@
       "shortDescription": "GIRL CARTOONS",
       "longDescription": "GIRL CARTOONS",
       "tags": [
-        "special",
         "cartoon-blast-girls"
       ]
     },
@@ -1099,34 +1098,6 @@
       "releaseDate": "2020-05-23",
       "shortDescription": "Space Angel - The Donovan Plan S01E24 (episodes 116-120)",
       "longDescription": "Space Angel - The Donovan Plan S01E24 (episodes 116-120)",
-      "tags": [
-        "animated"
-      ]
-    },
-    {
-      "id": "422038825",
-      "title": "Space Angel - Scratch One chimp",
-      "content": {
-        "dateAdded": "2020-05-25T11:15:22-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/422038825.sd.mp4?s=86540b3724196988f72773908a55bd5af3883a71&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1175,
-        "adBreaks": [
-          "00:00:00"
-        ]
-      },
-      "genres": [
-        "action"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/897897034_800x450.png",
-      "releaseDate": "2020-05-23",
-      "shortDescription": "Space Angel - Scratch One chimp",
-      "longDescription": "Space Angel - Scratch One chimp",
       "tags": [
         "animated"
       ]
@@ -2167,35 +2138,6 @@
       "longDescription": "Inhumanoids S01E13 Auger... For President",
       "tags": [
         "science fiction"
-      ]
-    },
-    {
-      "id": "464338107",
-      "title": "SATURDAY BLAST Girl mix part 2",
-      "content": {
-        "dateAdded": "2020-10-02T20:30:32-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/464338107.hd.mp4?s=4434477058f7b91918837a9ae5a31da9eda8ec3f&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 11713,
-        "adBreaks": [
-          "00:00:00",
-          "00:15:00"
-        ]
-      },
-      "genres": [
-        "special"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/968446189_800x450.png",
-      "releaseDate": "2020-10-02",
-      "shortDescription": "GIRL CARTOONS",
-      "longDescription": "GIRL CARTOONS",
-      "tags": [
-        "SATURDAY-MORNINGS"
       ]
     },
     {
