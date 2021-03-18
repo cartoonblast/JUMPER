@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-17T05:07:14+00:00",
+  "lastUpdated": "2021-03-18T02:30:31+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -1550,7 +1550,7 @@
       "shortDescription": "Saturday blast mix01",
       "longDescription": "Saturday blast mix01",
       "tags": [
-        "special"
+        "SATURDAY-MORNINGS"
       ]
     },
     {
@@ -1582,7 +1582,7 @@
       "shortDescription": "mix of random cartoons",
       "longDescription": "mix of random cartoons",
       "tags": [
-        "special"
+        "SATURDAY-MORNINGS"
       ]
     },
     {
@@ -1620,7 +1620,7 @@
       "shortDescription": "Saturday blast mix03",
       "longDescription": "Saturday blast mix03",
       "tags": [
-        "special"
+        "SATURDAY-MORNINGS"
       ]
     },
     {
@@ -1653,7 +1653,7 @@
       "shortDescription": "Saturday Blast Mix06",
       "longDescription": "Saturday Blast Mix06",
       "tags": [
-        "special"
+        "SATURDAY-MORNINGS"
       ]
     },
     {
@@ -1692,7 +1692,7 @@
       "shortDescription": "MIX OF GIRLS THEME CARTOONS",
       "longDescription": "MIX OF GIRLS THEME CARTOONS",
       "tags": [
-        "special"
+        "SATURDAY-MORNINGS"
       ]
     },
     {
@@ -1733,7 +1733,7 @@
       "shortDescription": "Saturday Blast Mix04",
       "longDescription": "Saturday Blast Mix04",
       "tags": [
-        "special"
+        "SATURDAY-MORNINGS"
       ]
     },
     {
@@ -1773,7 +1773,7 @@
       "shortDescription": "cartoon blast mix 07",
       "longDescription": "cartoon blast mix 07",
       "tags": [
-        "special"
+        "SATURDAY-MORNINGS"
       ]
     },
     {
@@ -1802,7 +1802,7 @@
       "shortDescription": "SATURDAY BLAST MIX08",
       "longDescription": "SATURDAY BLAST MIX08",
       "tags": [
-        "special"
+        "SATURDAY-MORNINGS"
       ]
     },
     {
@@ -2195,7 +2195,7 @@
       "shortDescription": "GIRL CARTOONS",
       "longDescription": "GIRL CARTOONS",
       "tags": [
-        "special"
+        "SATURDAY-MORNINGS"
       ]
     },
     {
@@ -6135,7 +6135,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1071438380_800x450.png",
-      "releaseDate": "2021-02-25T05:02:34-05:00",
+      "releaseDate": "2021-02-25",
       "shortDescription": "Action Hour 1.7",
       "longDescription": "Action Hour 1.7",
       "tags": [
@@ -6161,7 +6161,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1071438797_800x450.png",
-      "releaseDate": "2021-02-25T04:55:01-05:00",
+      "releaseDate": "2021-02-25",
       "shortDescription": "CARTOON BLAST GIRLS FUN HOUR-1.3",
       "longDescription": "CARTOON BLAST GIRLS FUN HOUR-1.3",
       "tags": [
