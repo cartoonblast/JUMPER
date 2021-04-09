@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-30T01:45:58+00:00",
+  "lastUpdated": "2021-04-07T08:34:14+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -128,7 +128,8 @@
       "shortDescription": "Robotix  The Movie (1985) (1)",
       "longDescription": "Robotix  The Movie (1985) (1)",
       "tags": [
-        "80S-CARTOONS"
+        "80S-CARTOONS",
+        "CARTOON-MOVIES"
       ]
     },
     {
@@ -5824,7 +5825,8 @@
       "shortDescription": "BraveStarr The Movie",
       "longDescription": "BraveStarr The Movie",
       "tags": [
-        "80S-CARTOONS"
+        "80S-CARTOONS",
+        "CARTOON-MOVIES"
       ]
     },
     {
@@ -6354,6 +6356,157 @@
       "tags": [
         "80S-CARTOONS"
       ]
+    },
+    {
+      "id": "533494569",
+      "title": "Cartoon Blast Mix09",
+      "content": {
+        "dateAdded": "2021-04-07T19:04:52-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/533494569.hd.mp4?s=d36bf03a7c3e21b638d9ecde9653cb130afc2a43&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 20146
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1104451282_800x450.png",
+      "releaseDate": "2021-04-06T07:30:58-04:00",
+      "shortDescription": "Cartoon Blast Mix09",
+      "longDescription": "Cartoon Blast Mix09",
+      "tags": [
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "533441151",
+      "title": "Cartoon Blast-Action Hour-Season 2.1",
+      "content": {
+        "dateAdded": "2021-04-07T19:04:52-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/533441151.hd.mp4?s=fcf8c3f75668d87bd10388025da565a835b719b2&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2911
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1104283339_800x450.png",
+      "releaseDate": "2021-04-06T04:27:45-04:00",
+      "shortDescription": "Cartoon Blast-Action Hour-Season 2.1",
+      "longDescription": "Cartoon Blast-Action Hour-Season 2.1",
+      "tags": [
+        "special",
+        "ACTION-HOUR"
+      ]
+    },
+    {
+      "id": "533439557",
+      "title": "Cartoon Blast-Action Hour-Season 2.0",
+      "content": {
+        "dateAdded": "2021-04-07T19:04:52-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/533439557.hd.mp4?s=cca17449b8937f2c8453859c095e8cd4622fc139&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2712
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1104272818_800x450.png",
+      "releaseDate": "2021-04-06T04:22:07-04:00",
+      "shortDescription": "Cartoon Blast-Action Hour-Season 2.0",
+      "longDescription": "Cartoon Blast-Action Hour-Season 2.0",
+      "tags": [
+        "ACTION-HOUR"
+      ]
+    },
+    {
+      "id": "531139338",
+      "title": "CARTOON BLAST-GIRLS HOUR-1.5.mp4",
+      "content": {
+        "dateAdded": "2021-04-07T19:05:36-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/531139338.hd.mp4?s=f3247ec5215b218f9874837c62eafc893bc1aa90&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2701
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1099382076_800x450.png",
+      "releaseDate": "2021-03-31T02:47:08-04:00",
+      "shortDescription": "CARTOON BLAST-GIRLS HOUR-1.5.mp4",
+      "longDescription": "CARTOON BLAST-GIRLS HOUR-1.5.mp4",
+      "tags": [
+        "CARTOON-BLAST-GIRLS"
+      ]
+    },
+    {
+      "id": "533390678",
+      "title": "CARTOON BLAST-GIRLS HOUR-1.6.mp4",
+      "content": {
+        "dateAdded": "2021-04-07T19:04:52-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/533390678.hd.mp4?s=4ee0f973c62166ba188f52d28f0b22840c819836&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2687
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1104172227_800x450.png",
+      "releaseDate": "2021-04-06T00:34:29-04:00",
+      "shortDescription": "CARTOON BLAST-GIRLS HOUR-1.6.mp4",
+      "longDescription": "CARTOON BLAST-GIRLS HOUR-1.6.mp4",
+      "tags": [
+        "CARTOON-BLAST-GIRLS"
+      ]
+    },
+    {
+      "id": "533397954",
+      "title": "CARTOON BLAST-GIRLS HOUR-1.7",
+      "content": {
+        "dateAdded": "2021-04-07T19:04:52-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/533397954.hd.mp4?s=a97456e5465afd3bd8806d20c2606df91aa223e4&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2709
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1104199394_800x450.png",
+      "releaseDate": "2021-04-06T01:10:47-04:00",
+      "shortDescription": "CARTOON BLAST-GIRLS HOUR-1.7",
+      "longDescription": "CARTOON BLAST-GIRLS HOUR-1.7",
+      "tags": [
+        "CARTOON-BLAST-GIRLS"
+      ]
     }
   ],
   "shortFormVideos": [
@@ -6836,7 +6989,20 @@
         "501528267",
         "503241328",
         "481875046",
-        "481136859"
+        "481136859",
+        "533494569"
+      ]
+    },
+    {
+      "name": "CARTOON-BLASTGIRLS",
+      "itemIds": [
+        "533397954",
+        "533390678",
+        "531139338",
+        "516623007",
+        "523099552",
+        "513901261",
+        "513905479"
       ]
     }
   ]
