@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-07T08:34:14+00:00",
+  "lastUpdated": "2021-04-10T05:30:50+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -5650,7 +5650,7 @@
       "shortDescription": "Fox-s Peter Pan - The Pirates",
       "longDescription": "Fox-s Peter Pan - The Pirates",
       "tags": [
-        "80S-CARTOONS"
+        "90S-CARTOONS"
       ]
     },
     {
@@ -5876,8 +5876,7 @@
       "shortDescription": "Phantom 2040 - 1x01-05",
       "longDescription": "Phantom 2040 - 1x01-05",
       "tags": [
-        "special",
-        "80S-CARTOONS"
+        "90S-CARTOONS"
       ]
     },
     {
@@ -5902,8 +5901,7 @@
       "shortDescription": "Mortal Kombat Defenders of the Realm",
       "longDescription": "Mortal Kombat Defenders of the Realm",
       "tags": [
-        "special",
-        "80S-CARTOONS"
+        "90S-CARTOONS"
       ]
     },
     {
@@ -5953,7 +5951,6 @@
       "shortDescription": "BigGuy and Rusty",
       "longDescription": "BigGuy and Rusty",
       "tags": [
-        "special",
         "90S-CARTOONS"
       ]
     },
@@ -6304,7 +6301,8 @@
       "shortDescription": "monster-v-battletech.mp4",
       "longDescription": "monster-v-battletech.mp4",
       "tags": [
-        "special"
+        "special",
+        "90S-CARTOONS"
       ]
     },
     {
@@ -6375,7 +6373,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1104451282_800x450.png",
-      "releaseDate": "2021-04-06T07:30:58-04:00",
+      "releaseDate": "2021-04-06",
       "shortDescription": "Cartoon Blast Mix09",
       "longDescription": "Cartoon Blast Mix09",
       "tags": [
@@ -6400,7 +6398,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1104283339_800x450.png",
-      "releaseDate": "2021-04-06T04:27:45-04:00",
+      "releaseDate": "2021-04-06",
       "shortDescription": "Cartoon Blast-Action Hour-Season 2.1",
       "longDescription": "Cartoon Blast-Action Hour-Season 2.1",
       "tags": [
@@ -6426,7 +6424,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1104272818_800x450.png",
-      "releaseDate": "2021-04-06T04:22:07-04:00",
+      "releaseDate": "2021-04-06",
       "shortDescription": "Cartoon Blast-Action Hour-Season 2.0",
       "longDescription": "Cartoon Blast-Action Hour-Season 2.0",
       "tags": [
@@ -6451,7 +6449,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1099382076_800x450.png",
-      "releaseDate": "2021-03-31T02:47:08-04:00",
+      "releaseDate": "2021-03-31",
       "shortDescription": "CARTOON BLAST-GIRLS HOUR-1.5.mp4",
       "longDescription": "CARTOON BLAST-GIRLS HOUR-1.5.mp4",
       "tags": [
@@ -6476,7 +6474,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1104172227_800x450.png",
-      "releaseDate": "2021-04-06T00:34:29-04:00",
+      "releaseDate": "2021-04-06",
       "shortDescription": "CARTOON BLAST-GIRLS HOUR-1.6.mp4",
       "longDescription": "CARTOON BLAST-GIRLS HOUR-1.6.mp4",
       "tags": [
@@ -6501,11 +6499,63 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1104199394_800x450.png",
-      "releaseDate": "2021-04-06T01:10:47-04:00",
+      "releaseDate": "2021-04-06",
       "shortDescription": "CARTOON BLAST-GIRLS HOUR-1.7",
       "longDescription": "CARTOON BLAST-GIRLS HOUR-1.7",
       "tags": [
         "CARTOON-BLAST-GIRLS"
+      ]
+    },
+    {
+      "id": "535169070",
+      "title": "Cartoon Blast Saturday Mix 10",
+      "content": {
+        "dateAdded": "2021-04-10T04:09:39-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/535169070.hd.mp4?s=5e7f98bca2e4d03ce782420a857c6dc1f366fd0b&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 12551
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1107841248_800x450.png",
+      "releaseDate": "2021-04-10T03:25:14-04:00",
+      "shortDescription": "MIX OF SATURDAY MORNING CARTOONS",
+      "longDescription": "MIX OF SATURDAY MORNING CARTOONS",
+      "tags": [
+        "special",
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "535179027",
+      "title": "Tamaandfriends-01",
+      "content": {
+        "dateAdded": "2021-04-10T05:06:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/535179027.hd.mp4?s=e60003465e39ab8bdc1052c140fdbc0161ed09fe&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1277
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1107841689_800x450.png",
+      "releaseDate": "2021-04-10T04:35:36-04:00",
+      "shortDescription": "Tamaandfriends-01",
+      "longDescription": "Tamaandfriends-01",
+      "tags": [
+        "special",
+        "90S-CARTOONS"
       ]
     }
   ],
@@ -6990,7 +7040,14 @@
         "503241328",
         "481875046",
         "481136859",
-        "533494569"
+        "533494569",
+        "444747455",
+        "444747458",
+        "442811214",
+        "445242126",
+        "447147675",
+        "459612366",
+        "535169070"
       ]
     },
     {
@@ -7002,7 +7059,9 @@
         "516623007",
         "523099552",
         "513901261",
-        "513905479"
+        "513905479",
+        "464338107",
+        "453327844"
       ]
     }
   ]
