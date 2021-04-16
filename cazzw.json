@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-10T05:30:50+00:00",
+  "lastUpdated": "2021-04-16T10:12:39+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -6524,7 +6524,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1107841248_800x450.png",
-      "releaseDate": "2021-04-10T03:25:14-04:00",
+      "releaseDate": "2021-04-10",
       "shortDescription": "MIX OF SATURDAY MORNING CARTOONS",
       "longDescription": "MIX OF SATURDAY MORNING CARTOONS",
       "tags": [
@@ -6550,12 +6550,137 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1107841689_800x450.png",
-      "releaseDate": "2021-04-10T04:35:36-04:00",
+      "releaseDate": "2021-04-10",
       "shortDescription": "Tamaandfriends-01",
       "longDescription": "Tamaandfriends-01",
       "tags": [
         "special",
         "90S-CARTOONS"
+      ]
+    },
+    {
+      "id": "537295095",
+      "title": "Cartoon Blast- Anime Fairy Tales-4",
+      "content": {
+        "dateAdded": "2021-04-16T09:52:07-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/537295095.hd.mp4?s=902f1ed8eac0edab525ebb7125ac13f93b242aec&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2804
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1112319638_800x450.png",
+      "releaseDate": "2021-04-15T10:38:26-04:00",
+      "shortDescription": "Cartoon Blast- Anime Fairy Tales-4",
+      "longDescription": "Cartoon Blast- Anime Fairy Tales-4",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "537293977",
+      "title": "Cartoon Blast- Anime Fairy Tales-3",
+      "content": {
+        "dateAdded": "2021-04-16T09:52:07-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/537293977.hd.mp4?s=cdc75b4831c1927bf84b4acf18ced37b191d3ea0&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2812
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1112236476_800x450.png",
+      "releaseDate": "2021-04-15T10:36:07-04:00",
+      "shortDescription": "Cartoon Blast- Anime Fairy Tales-3",
+      "longDescription": "Cartoon Blast- Anime Fairy Tales-3",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "536659180",
+      "title": "King-Kong01-1966",
+      "content": {
+        "dateAdded": "2021-04-16T09:52:07-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/536659180.hd.mp4?s=b43b1b6d9cc9b8d47d90e87d0e6efe4013910d44&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3390
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1112174068_800x450.png",
+      "releaseDate": "2021-04-14T01:49:07-04:00",
+      "shortDescription": "King-Kong01-1966",
+      "longDescription": "King-Kong01-1966",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "536635580",
+      "title": "Saturday Blast 12-",
+      "content": {
+        "dateAdded": "2021-04-16T09:52:07-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/536635580.hd.mp4?s=867655ebcccac44ac37e0a557d10ba99039e06f0&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 13729
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1110926123_800x450.png",
+      "releaseDate": "2021-04-13T23:55:16-04:00",
+      "shortDescription": "Saturday Blast 12-",
+      "longDescription": "Saturday Blast 12-",
+      "tags": [
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "536635322",
+      "title": "Saturday Blast Mix 11",
+      "content": {
+        "dateAdded": "2021-04-16T09:52:07-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/536635322.hd.mp4?s=b0b543550f84ff0368eb960d7835bc408ccc5c91&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 13534
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1110924974_800x450.png",
+      "releaseDate": "2021-04-13T23:54:03-04:00",
+      "shortDescription": "Saturday Blast Mix 11",
+      "longDescription": "Saturday Blast Mix 11",
+      "tags": [
+        "SATURDAY-MORNINGS"
       ]
     }
   ],
