@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-20T10:36:02+00:00",
+  "lastUpdated": "2021-04-20T11:10:47+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -6400,8 +6400,8 @@
         ],
         "duration": 2831
       },
-      "thumbnail": "http://https://i.vimeocdn.com/video/957017645_800x450.png",
-      "brandedThumbnail": "http://https://i.vimeocdn.com/video/957017645_800x450.png",
+      "thumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
+      "brandedThumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
       "shortDescription": "CARTOON TEST",
       "longDescription": "CARTOON TEST",
       "tags": [
@@ -6410,6 +6410,28 @@
       "genres": [
         "animated"
       ]
+    },
+    {
+      "id": "7ad2df7300164d02aa84d721f93c65e4",
+      "title": "New live feed(2)",
+      "content": {
+        "dateAdded": "2021-04-20T11:05:58+00:00",
+        "videos": [
+          {
+            "url": "https://youtu.be/ATjgQjfpU-I",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
+      "brandedThumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
+      "shortDescription": "TEST",
+      "longDescription": "TEST",
+      "tags": [
+        "CARTOON-LIVE"
+      ],
+      "genres": []
     }
   ],
   "shortFormVideos": [
