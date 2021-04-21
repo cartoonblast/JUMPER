@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-21T10:38:45+00:00",
+  "lastUpdated": "2021-04-21T01:16:50+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -6382,6 +6382,28 @@
       "longDescription": "HELLOKITTY-PT2.mp4",
       "tags": [
         "special"
+      ]
+    },
+    {
+      "id": "2cc111756eef4d56b8bc3f88dcee6a49",
+      "title": "live stream",
+      "content": {
+        "dateAdded": "2021-04-21T13:12:43+00:00",
+        "videos": [
+          {
+            "url": "https://e752a428cbb2.us-east-1.playback.live-video.net/api/video/v1/us-east-1.891676030496.channel.M5frRZ4iq6o7.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      },
+      "genres": [],
+      "thumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
+      "releaseDate": "2021-04-21",
+      "shortDescription": "test",
+      "longDescription": "test stream",
+      "tags": [
+        "cartoon-live"
       ]
     }
   ],
