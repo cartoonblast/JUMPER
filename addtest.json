@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-21T01:16:50+00:00",
+  "lastUpdated": "2021-04-21T01:30:27+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -6395,9 +6395,12 @@
             "quality": "HD",
             "videoType": "HLS"
           }
-        ]
+        ],
+        "duration": 12489
       },
-      "genres": [],
+      "genres": [
+        "anime"
+      ],
       "thumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
       "releaseDate": "2021-04-21",
       "shortDescription": "test",
@@ -6420,7 +6423,14 @@
             "videoType": "HLS"
           }
         ],
-        "duration": 2831
+        "duration": 2831,
+        "captions": [
+          {
+            "url": "",
+            "language": "en-US",
+            "captionType": "SUBTITLE"
+          }
+        ]
       },
       "thumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
       "brandedThumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
