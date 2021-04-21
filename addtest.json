@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-20T11:20:35+00:00",
+  "lastUpdated": "2021-04-21T02:25:00+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -6393,7 +6393,7 @@
         "dateAdded": "2021-04-20T03:38:47+00:00",
         "videos": [
           {
-            "url": "https://youtu.be/ATjgQjfpU-I",
+            "url": "https://a.upload.youtube.com/http_upload_hls?cid=93g2-429s-gegf-3vp1-bje2&copy=0&file=stream.m3u8",
             "quality": "HD",
             "videoType": "MP4"
           }
