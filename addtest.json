@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-21T01:30:27+00:00",
+  "lastUpdated": "2021-04-21T01:32:46+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -6407,40 +6407,6 @@
       "longDescription": "test stream",
       "tags": [
         "cartoon-live"
-      ]
-    }
-  ],
-  "liveFeeds": [
-    {
-      "id": "ca6a66a9d7ba4f4b88ae07646fe22288",
-      "title": "CARTOON BLAST",
-      "content": {
-        "dateAdded": "2021-04-20T03:38:47+00:00",
-        "videos": [
-          {
-            "url": "https://a.upload.youtube.com/http_upload_hls?cid=93g2-429s-gegf-3vp1-bje2&copy=0&file=stream.m3u8",
-            "quality": "HD",
-            "videoType": "HLS"
-          }
-        ],
-        "duration": 2831,
-        "captions": [
-          {
-            "url": "",
-            "language": "en-US",
-            "captionType": "SUBTITLE"
-          }
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
-      "brandedThumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
-      "shortDescription": "CARTOON TEST",
-      "longDescription": "CARTOON TEST",
-      "tags": [
-        "cartoon-live"
-      ],
-      "genres": [
-        "animated"
       ]
     }
   ],
