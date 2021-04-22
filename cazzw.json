@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-16T10:12:39+00:00",
+  "lastUpdated": "2021-04-22T03:04:28+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -6301,7 +6301,6 @@
       "shortDescription": "monster-v-battletech.mp4",
       "longDescription": "monster-v-battletech.mp4",
       "tags": [
-        "special",
         "90S-CARTOONS"
       ]
     },
@@ -6402,7 +6401,6 @@
       "shortDescription": "Cartoon Blast-Action Hour-Season 2.1",
       "longDescription": "Cartoon Blast-Action Hour-Season 2.1",
       "tags": [
-        "special",
         "ACTION-HOUR"
       ]
     },
@@ -6554,7 +6552,6 @@
       "shortDescription": "Tamaandfriends-01",
       "longDescription": "Tamaandfriends-01",
       "tags": [
-        "special",
         "90S-CARTOONS"
       ]
     },
@@ -6576,7 +6573,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1112319638_800x450.png",
-      "releaseDate": "2021-04-15T10:38:26-04:00",
+      "releaseDate": "2021-04-15",
       "shortDescription": "Cartoon Blast- Anime Fairy Tales-4",
       "longDescription": "Cartoon Blast- Anime Fairy Tales-4",
       "tags": [
@@ -6601,7 +6598,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1112236476_800x450.png",
-      "releaseDate": "2021-04-15T10:36:07-04:00",
+      "releaseDate": "2021-04-15",
       "shortDescription": "Cartoon Blast- Anime Fairy Tales-3",
       "longDescription": "Cartoon Blast- Anime Fairy Tales-3",
       "tags": [
@@ -6626,7 +6623,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1112174068_800x450.png",
-      "releaseDate": "2021-04-14T01:49:07-04:00",
+      "releaseDate": "2021-04-14",
       "shortDescription": "King-Kong01-1966",
       "longDescription": "King-Kong01-1966",
       "tags": [
@@ -6651,7 +6648,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1110926123_800x450.png",
-      "releaseDate": "2021-04-13T23:55:16-04:00",
+      "releaseDate": "2021-04-13",
       "shortDescription": "Saturday Blast 12-",
       "longDescription": "Saturday Blast 12-",
       "tags": [
@@ -6676,9 +6673,184 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1110924974_800x450.png",
-      "releaseDate": "2021-04-13T23:54:03-04:00",
+      "releaseDate": "2021-04-13",
       "shortDescription": "Saturday Blast Mix 11",
       "longDescription": "Saturday Blast Mix 11",
+      "tags": [
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "538300628",
+      "title": "Wildcats-1.mp4",
+      "content": {
+        "dateAdded": "2021-04-18T17:08:21-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/538300628.hd.mp4?s=a05a467c09e3f671ea3971217040bd29a33b07e5&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 4138
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1114515173_800x450.png",
+      "releaseDate": "2021-04-18T08:05:19-04:00",
+      "shortDescription": "Wildcats-1.mp4",
+      "longDescription": "Wildcats-1.mp4",
+      "tags": [
+        "90S-CARTOONS"
+      ]
+    },
+    {
+      "id": "538299681",
+      "title": "Double Dragon 90'S-",
+      "content": {
+        "dateAdded": "2021-04-18T17:08:21-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/538299681.hd.mp4?s=052b110ee1ff5f5d658c04e3293a33e1f2b6af52&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 7793
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1114513760_800x450.png",
+      "releaseDate": "2021-04-18T07:59:44-04:00",
+      "shortDescription": "Double Dragon 90'S-",
+      "longDescription": "Double Dragon 90'S-",
+      "tags": [
+        "90S-CARTOONS"
+      ]
+    },
+    {
+      "id": "538299208",
+      "title": "Cadillac And Dino-1",
+      "content": {
+        "dateAdded": "2021-04-18T17:08:21-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/538299208.hd.mp4?s=e30737773167e0c9b6ba0a6ea600d84a6608fa5d&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 4288
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1114514627_800x450.png",
+      "releaseDate": "2021-04-18T07:56:48-04:00",
+      "shortDescription": "Cadillac And Dino-1",
+      "longDescription": "Cadillac And Dino-1",
+      "tags": [
+        "90S-CARTOONS"
+      ]
+    },
+    {
+      "id": "538449077",
+      "title": "Bananaman Full-1.mp4",
+      "content": {
+        "dateAdded": "2021-04-21T17:35:06-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/538449077.hd.mp4?s=92708c5a288f747509ef79726e1e2e1dfb99d5d8&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3064
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1114820295_800x450.png",
+      "releaseDate": "2021-04-18T19:05:10-04:00",
+      "shortDescription": "Bananaman Full-1.mp4",
+      "longDescription": "Bananaman Full-1.mp4",
+      "tags": [
+        "80S-CARTOONS"
+      ]
+    },
+    {
+      "id": "538453354",
+      "title": "Swamp-Thing-1.mp4",
+      "content": {
+        "dateAdded": "2021-04-21T17:35:06-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/538453354.hd.mp4?s=08509ca4217597d8fbd3ec42c40420a20473b365&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 6706
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1114832321_800x450.png",
+      "releaseDate": "2021-04-18T19:26:57-04:00",
+      "shortDescription": "Swamp-Thing-1.mp4",
+      "longDescription": "Swamp-Thing-1.mp4",
+      "tags": [
+        "90S-CARTOONS"
+      ]
+    },
+    {
+      "id": "538952014",
+      "title": "cybersix-calamity.mp4",
+      "content": {
+        "dateAdded": "2021-04-21T17:35:06-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/538952014.hd.mp4?s=883745c5d9d065cf36caffcb223e7406559fffdd&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2672
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1117605823_800x450.png",
+      "releaseDate": "2021-04-19T21:55:26-04:00",
+      "shortDescription": "cybersix-calamity.mp4",
+      "longDescription": "cybersix-calamity.mp4",
+      "tags": [
+        "90S-CARTOONS"
+      ]
+    },
+    {
+      "id": "540067839",
+      "title": "Saturday Blast Mix-13",
+      "content": {
+        "dateAdded": "2021-04-22T14:54:38-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/540067839.hd.mp4?s=65b27fa81c6b6628bbc07b0c6734da934a56972c&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 11561
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1118458398_800x450.png",
+      "releaseDate": "2021-04-22T05:44:07-04:00",
+      "shortDescription": "Saturday Blast Mix-13",
+      "longDescription": "Saturday Blast Mix-13",
       "tags": [
         "SATURDAY-MORNINGS"
       ]
