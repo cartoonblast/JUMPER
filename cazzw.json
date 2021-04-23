@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-22T03:04:28+00:00",
+  "lastUpdated": "2021-04-23T07:36:50+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -6698,7 +6698,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1114515173_800x450.png",
-      "releaseDate": "2021-04-18T08:05:19-04:00",
+      "releaseDate": "2021-04-18",
       "shortDescription": "Wildcats-1.mp4",
       "longDescription": "Wildcats-1.mp4",
       "tags": [
@@ -6723,7 +6723,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1114513760_800x450.png",
-      "releaseDate": "2021-04-18T07:59:44-04:00",
+      "releaseDate": "2021-04-18",
       "shortDescription": "Double Dragon 90'S-",
       "longDescription": "Double Dragon 90'S-",
       "tags": [
@@ -6748,7 +6748,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1114514627_800x450.png",
-      "releaseDate": "2021-04-18T07:56:48-04:00",
+      "releaseDate": "2021-04-18",
       "shortDescription": "Cadillac And Dino-1",
       "longDescription": "Cadillac And Dino-1",
       "tags": [
@@ -6773,7 +6773,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1114820295_800x450.png",
-      "releaseDate": "2021-04-18T19:05:10-04:00",
+      "releaseDate": "2021-04-18",
       "shortDescription": "Bananaman Full-1.mp4",
       "longDescription": "Bananaman Full-1.mp4",
       "tags": [
@@ -6798,7 +6798,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1114832321_800x450.png",
-      "releaseDate": "2021-04-18T19:26:57-04:00",
+      "releaseDate": "2021-04-18",
       "shortDescription": "Swamp-Thing-1.mp4",
       "longDescription": "Swamp-Thing-1.mp4",
       "tags": [
@@ -6823,7 +6823,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1117605823_800x450.png",
-      "releaseDate": "2021-04-19T21:55:26-04:00",
+      "releaseDate": "2021-04-19",
       "shortDescription": "cybersix-calamity.mp4",
       "longDescription": "cybersix-calamity.mp4",
       "tags": [
@@ -6848,11 +6848,36 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1118458398_800x450.png",
-      "releaseDate": "2021-04-22T05:44:07-04:00",
+      "releaseDate": "2021-04-22",
       "shortDescription": "Saturday Blast Mix-13",
       "longDescription": "Saturday Blast Mix-13",
       "tags": [
         "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "2cc111756eef4d56b8bc3f88dcee6a49",
+      "title": "live stream",
+      "content": {
+        "dateAdded": "2021-04-21T13:12:43+00:00",
+        "videos": [
+          {
+            "url": "https://e752a428cbb2.us-east-1.playback.live-video.net/api/video/v1/us-east-1.891676030496.channel.M5frRZ4iq6o7.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ],
+        "duration": 12489
+      },
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
+      "releaseDate": "2021-04-21",
+      "shortDescription": "test",
+      "longDescription": "test stream",
+      "tags": [
+        "cartoon-live"
       ]
     }
   ],
