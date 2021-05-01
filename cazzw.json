@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-23T07:36:50+00:00",
+  "lastUpdated": "2021-04-30T09:42:29+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -6862,7 +6862,7 @@
         "dateAdded": "2021-04-21T13:12:43+00:00",
         "videos": [
           {
-            "url": "https://e752a428cbb2.us-east-1.playback.live-video.net/api/video/v1/us-east-1.891676030496.channel.M5frRZ4iq6o7.m3u8",
+            "url": "https://a.upload.youtube.com/http_upload_hls?cid=93g2-429s-gegf-3vp1-bje2&copy=0&file=stream.m3u8",
             "quality": "HD",
             "videoType": "HLS"
           }
@@ -6878,6 +6878,32 @@
       "longDescription": "test stream",
       "tags": [
         "cartoon-live"
+      ]
+    }
+  ],
+  "liveFeeds": [
+    {
+      "id": "75ecce04581147c8bcb5bff6c2fbe77e",
+      "title": "cartoon blast live",
+      "content": {
+        "dateAdded": "2021-04-27T17:29:03+00:00",
+        "videos": [
+          {
+            "url": "https://e752a428cbb2.us-east-1.playback.live-video.net/api/video/v1/us-east-1.891676030496.channel.M5frRZ4iq6o7.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
+      "brandedThumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
+      "shortDescription": "TEST STREAM",
+      "longDescription": "TEST STREAM",
+      "tags": [
+        "ACTION"
+      ],
+      "genres": [
+        "action"
       ]
     }
   ],
