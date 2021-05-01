@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-30T09:42:29+00:00",
+  "lastUpdated": "2021-05-01T01:08:04+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -6856,54 +6856,28 @@
       ]
     },
     {
-      "id": "2cc111756eef4d56b8bc3f88dcee6a49",
-      "title": "live stream",
+      "id": "541410294",
+      "title": "Saturday Blast Mix 14",
       "content": {
-        "dateAdded": "2021-04-21T13:12:43+00:00",
+        "dateAdded": "2021-05-01T01:03:21-04:00",
         "videos": [
           {
-            "url": "https://a.upload.youtube.com/http_upload_hls?cid=93g2-429s-gegf-3vp1-bje2&copy=0&file=stream.m3u8",
+            "url": "https://player.vimeo.com/external/541410294.hd.mp4?s=15cb98ba31f5dde0db5acf924b22b162b2080a90&profile_id=174",
             "quality": "HD",
-            "videoType": "HLS"
+            "videoType": "MP4"
           }
         ],
-        "duration": 12489
+        "duration": 13537
       },
       "genres": [
-        "anime"
+        "special"
       ],
-      "thumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
-      "releaseDate": "2021-04-21",
-      "shortDescription": "test",
-      "longDescription": "test stream",
+      "thumbnail": "https://i.vimeocdn.com/video/1121334449_800x450.png",
+      "releaseDate": "2021-04-25T18:56:16-04:00",
+      "shortDescription": "Saturday Blast Mix 14",
+      "longDescription": "Saturday Blast Mix 14",
       "tags": [
-        "cartoon-live"
-      ]
-    }
-  ],
-  "liveFeeds": [
-    {
-      "id": "75ecce04581147c8bcb5bff6c2fbe77e",
-      "title": "cartoon blast live",
-      "content": {
-        "dateAdded": "2021-04-27T17:29:03+00:00",
-        "videos": [
-          {
-            "url": "https://e752a428cbb2.us-east-1.playback.live-video.net/api/video/v1/us-east-1.891676030496.channel.M5frRZ4iq6o7.m3u8",
-            "quality": "HD",
-            "videoType": "HLS"
-          }
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
-      "brandedThumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
-      "shortDescription": "TEST STREAM",
-      "longDescription": "TEST STREAM",
-      "tags": [
-        "ACTION"
-      ],
-      "genres": [
-        "action"
+        "SATURDAY-MORNINGS"
       ]
     }
   ],
