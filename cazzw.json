@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-01T01:08:04+00:00",
+  "lastUpdated": "2021-05-08T05:23:21+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -6873,9 +6873,284 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1121334449_800x450.png",
-      "releaseDate": "2021-04-25T18:56:16-04:00",
+      "releaseDate": "2021-04-25",
       "shortDescription": "Saturday Blast Mix 14",
       "longDescription": "Saturday Blast Mix 14",
+      "tags": [
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "527495436",
+      "title": "CARTOON BLAST-GIRLS FUN HOUR-2.0",
+      "content": {
+        "dateAdded": "2021-05-08T17:13:16-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/527495436.hd.mp4?s=9a6956ee9e7da200754029eef9953c34c3d7f335&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3910
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1091943085_800x450.png",
+      "releaseDate": "2021-03-22T16:27:49-04:00",
+      "shortDescription": "CARTOON BLAST-GIRLS FUN HOUR-2.0",
+      "longDescription": "CARTOON BLAST-GIRLS FUN HOUR-2.0",
+      "tags": [
+        "CARTOON-BLAST-GIRLS"
+      ]
+    },
+    {
+      "id": "531108755",
+      "title": "CARTOON BLAST GIRL HOUR-2.1",
+      "content": {
+        "dateAdded": "2021-05-08T17:11:05-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/531108755.hd.mp4?s=983c355489590720e63a3600b14611c8f838165d&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2751
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1099315858_800x450.png",
+      "releaseDate": "2021-03-31T01:05:53-04:00",
+      "shortDescription": "CARTOON BLAST GIRL HOUR-2.1",
+      "longDescription": "CARTOON BLAST GIRL HOUR-2.1",
+      "tags": [
+        "CARTOON-BLAST-GIRLS"
+      ]
+    },
+    {
+      "id": "531112755",
+      "title": "CARTOON BLAST GIRL HOUR-2.2",
+      "content": {
+        "dateAdded": "2021-05-08T17:11:05-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/531112755.hd.mp4?s=439c056868ff0403104186c263996f33265b83d6&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2744
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1099317855_800x450.png",
+      "releaseDate": "2021-03-31T01:23:44-04:00",
+      "shortDescription": "CARTOON BLAST GIRL HOUR-2.2",
+      "longDescription": "CARTOON BLAST GIRL HOUR-2.2",
+      "tags": [
+        "CARTOON-BLAST-GIRLS"
+      ]
+    },
+    {
+      "id": "531124116",
+      "title": "CARTOONBLAST-GIRL HOUR-2.3",
+      "content": {
+        "dateAdded": "2021-05-08T17:11:05-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/531124116.hd.mp4?s=8ce084aea0b928291eaafb6c850b912eead1cede&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2713
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1099343069_800x450.png",
+      "releaseDate": "2021-03-31T02:02:48-04:00",
+      "shortDescription": "CARTOONBLAST-GIRL HOUR-2.3",
+      "longDescription": "CARTOONBLAST-GIRL HOUR-2.3",
+      "tags": [
+        "CARTOON-BLAST-GIRLS"
+      ]
+    },
+    {
+      "id": "543630503",
+      "title": "Cartoonblast-Girl Hour-2.4",
+      "content": {
+        "dateAdded": "2021-05-08T17:11:05-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/543630503.hd.mp4?s=4ac5523dff803d067798fa6b8846db194de3fbb7&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2751
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1125348789_800x450.png",
+      "releaseDate": "2021-04-30T10:01:05-04:00",
+      "shortDescription": "Cartoonblast-Girl Hour-2.4",
+      "longDescription": "Cartoonblast-Girl Hour-2.4",
+      "tags": [
+        "CARTOON-BLAST-GIRLS"
+      ]
+    },
+    {
+      "id": "543632829",
+      "title": "Cartoonblast-Girl Hour-2.5",
+      "content": {
+        "dateAdded": "2021-05-08T17:11:05-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/543632829.hd.mp4?s=40ac6b82fa063b94d47ec2f6981a227266da2643&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2732
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1125349308_800x450.png",
+      "releaseDate": "2021-04-30T10:06:30-04:00",
+      "shortDescription": "Cartoonblast-Girl Hour-2.5",
+      "longDescription": "Cartoonblast-Girl Hour-2.5",
+      "tags": [
+        "CARTOON-BLAST-GIRLS"
+      ]
+    },
+    {
+      "id": "543635024",
+      "title": "Cartoonblast-Girl Hour-2.6",
+      "content": {
+        "dateAdded": "2021-05-08T17:11:05-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/543635024.hd.mp4?s=038abc1ac782aa9b206a3ce48b8574cd26d11e0d&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2698
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1125351317_800x450.png",
+      "releaseDate": "2021-04-30T10:11:42-04:00",
+      "shortDescription": "Cartoonblast-Girl Hour-2.6",
+      "longDescription": "Cartoonblast-Girl Hour-2.6",
+      "tags": [
+        "CARTOON-BLAST-GIRLS"
+      ]
+    },
+    {
+      "id": "543636847",
+      "title": "Cartoonblast-Girl Hour-2.7",
+      "content": {
+        "dateAdded": "2021-05-08T17:11:05-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/543636847.hd.mp4?s=a4cd76a4ffb824708fc882282cbd48d9459ffc9a&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2757
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1125352109_800x450.png",
+      "releaseDate": "2021-04-30T10:15:54-04:00",
+      "shortDescription": "Cartoonblast-Girl Hour-2.7",
+      "longDescription": "Cartoonblast-Girl Hour-2.7",
+      "tags": [
+        "CARTOON-BLAST-GIRLS"
+      ]
+    },
+    {
+      "id": "543638991",
+      "title": "Cartoonblast-Girl Hour-2.8",
+      "content": {
+        "dateAdded": "2021-05-08T17:11:05-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/543638991.hd.mp4?s=694233f87a1046f93eb8a4c8f70a33529c3989a8&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2751
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1125353085_800x450.png",
+      "releaseDate": "2021-04-30T10:20:56-04:00",
+      "shortDescription": "Cartoonblast-Girl Hour-2.8",
+      "longDescription": "Cartoonblast-Girl Hour-2.8",
+      "tags": [
+        "CARTOON-BLAST-GIRLS"
+      ]
+    },
+    {
+      "id": "546766003",
+      "title": "ACTION HOUR 2.3.mp4",
+      "content": {
+        "dateAdded": "2021-05-08T17:11:05-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/546766003.hd.mp4?s=21e63bd15e472202c758f77301a0dfde5b355eb0&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2888
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1132322950_800x450.png",
+      "releaseDate": "2021-05-07T23:33:04-04:00",
+      "shortDescription": "ACTION HOUR 2.3.mp4",
+      "longDescription": "ACTION HOUR 2.3.mp4",
+      "tags": [
+        "ACTION-HOUR"
+      ]
+    },
+    {
+      "id": "546206610",
+      "title": "Saturday-Blast-Mix15",
+      "content": {
+        "dateAdded": "2021-05-08T17:14:49-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/546206610.hd.mp4?s=268ef37d6635fe94013812953f5e1e0a425d1773&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 17588
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1130754858_800x450.png",
+      "releaseDate": "2021-05-06T17:25:48-04:00",
+      "shortDescription": "Saturday-Blast-Mix15",
+      "longDescription": "Saturday-Blast-Mix15",
       "tags": [
         "SATURDAY-MORNINGS"
       ]
