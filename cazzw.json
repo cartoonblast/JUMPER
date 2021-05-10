@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-10T02:53:04+00:00",
+  "lastUpdated": "2021-05-10T03:03:10+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -7177,7 +7177,9 @@
       "tags": [
         "SPECIAL"
       ],
-      "genres": []
+      "genres": [
+        "special"
+      ]
     }
   ],
   "shortFormVideos": [
