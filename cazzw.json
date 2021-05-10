@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-08T05:23:21+00:00",
+  "lastUpdated": "2021-05-10T02:53:04+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -6898,7 +6898,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1091943085_800x450.png",
-      "releaseDate": "2021-03-22T16:27:49-04:00",
+      "releaseDate": "2021-03-22",
       "shortDescription": "CARTOON BLAST-GIRLS FUN HOUR-2.0",
       "longDescription": "CARTOON BLAST-GIRLS FUN HOUR-2.0",
       "tags": [
@@ -6923,7 +6923,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1099315858_800x450.png",
-      "releaseDate": "2021-03-31T01:05:53-04:00",
+      "releaseDate": "2021-03-31",
       "shortDescription": "CARTOON BLAST GIRL HOUR-2.1",
       "longDescription": "CARTOON BLAST GIRL HOUR-2.1",
       "tags": [
@@ -6948,7 +6948,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1099317855_800x450.png",
-      "releaseDate": "2021-03-31T01:23:44-04:00",
+      "releaseDate": "2021-03-31",
       "shortDescription": "CARTOON BLAST GIRL HOUR-2.2",
       "longDescription": "CARTOON BLAST GIRL HOUR-2.2",
       "tags": [
@@ -6973,7 +6973,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1099343069_800x450.png",
-      "releaseDate": "2021-03-31T02:02:48-04:00",
+      "releaseDate": "2021-03-31",
       "shortDescription": "CARTOONBLAST-GIRL HOUR-2.3",
       "longDescription": "CARTOONBLAST-GIRL HOUR-2.3",
       "tags": [
@@ -6998,7 +6998,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1125348789_800x450.png",
-      "releaseDate": "2021-04-30T10:01:05-04:00",
+      "releaseDate": "2021-04-30",
       "shortDescription": "Cartoonblast-Girl Hour-2.4",
       "longDescription": "Cartoonblast-Girl Hour-2.4",
       "tags": [
@@ -7023,7 +7023,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1125349308_800x450.png",
-      "releaseDate": "2021-04-30T10:06:30-04:00",
+      "releaseDate": "2021-04-30",
       "shortDescription": "Cartoonblast-Girl Hour-2.5",
       "longDescription": "Cartoonblast-Girl Hour-2.5",
       "tags": [
@@ -7048,7 +7048,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1125351317_800x450.png",
-      "releaseDate": "2021-04-30T10:11:42-04:00",
+      "releaseDate": "2021-04-30",
       "shortDescription": "Cartoonblast-Girl Hour-2.6",
       "longDescription": "Cartoonblast-Girl Hour-2.6",
       "tags": [
@@ -7073,7 +7073,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1125352109_800x450.png",
-      "releaseDate": "2021-04-30T10:15:54-04:00",
+      "releaseDate": "2021-04-30",
       "shortDescription": "Cartoonblast-Girl Hour-2.7",
       "longDescription": "Cartoonblast-Girl Hour-2.7",
       "tags": [
@@ -7098,7 +7098,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1125353085_800x450.png",
-      "releaseDate": "2021-04-30T10:20:56-04:00",
+      "releaseDate": "2021-04-30",
       "shortDescription": "Cartoonblast-Girl Hour-2.8",
       "longDescription": "Cartoonblast-Girl Hour-2.8",
       "tags": [
@@ -7123,7 +7123,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1132322950_800x450.png",
-      "releaseDate": "2021-05-07T23:33:04-04:00",
+      "releaseDate": "2021-05-07",
       "shortDescription": "ACTION HOUR 2.3.mp4",
       "longDescription": "ACTION HOUR 2.3.mp4",
       "tags": [
@@ -7148,12 +7148,36 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1130754858_800x450.png",
-      "releaseDate": "2021-05-06T17:25:48-04:00",
+      "releaseDate": "2021-05-06",
       "shortDescription": "Saturday-Blast-Mix15",
       "longDescription": "Saturday-Blast-Mix15",
       "tags": [
         "SATURDAY-MORNINGS"
       ]
+    }
+  ],
+  "liveFeeds": [
+    {
+      "id": "d7272ad8c1fb4028b0d396187a6ae07b",
+      "title": "cartoon blast live",
+      "content": {
+        "dateAdded": "2021-05-10T14:46:03+00:00",
+        "videos": [
+          {
+            "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/4b20d2fefc00435f9713f3d14201bbcf/manifest.m3u8?p=79&h=2874a9bb99116e44f497f8625caf5e86",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ]
+      },
+      "thumbnail": "https://i.vimeocdn.com/video/1107841248_800x450.png",
+      "brandedThumbnail": "https://i.vimeocdn.com/video/1107841248_800x450.png",
+      "shortDescription": "live feed",
+      "longDescription": "test live",
+      "tags": [
+        "SPECIAL"
+      ],
+      "genres": []
     }
   ],
   "shortFormVideos": [
