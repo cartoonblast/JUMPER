@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-11T08:35:05+00:00",
+  "lastUpdated": "2021-05-16T01:28:58+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -7154,6 +7154,31 @@
       "tags": [
         "SATURDAY-MORNINGS"
       ]
+    },
+    {
+      "id": "549133200",
+      "title": "Saturday-Mix16-",
+      "content": {
+        "dateAdded": "2021-05-15T17:47:18-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/549133200.hd.mp4?s=ac6d42b0deaf93cf7ec31eebe2143c7920f5b5bc&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 18960
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1136902805_800x450.png",
+      "releaseDate": "2021-05-13",
+      "shortDescription": "Saturday-Mix16-",
+      "longDescription": "Saturday-Mix16-",
+      "tags": [
+        "SATURDAY-MORNINGS"
+      ]
     }
   ],
   "liveFeeds": [
@@ -7168,15 +7193,28 @@
             "quality": "HD",
             "videoType": "HLS"
           }
-        ]
+        ],
+        "duration": 356400,
+        "captions": [
+          {
+            "url": "",
+            "language": "en-US",
+            "captionType": "SUBTITLE"
+          }
+        ],
+        "validityPeriodEnd": "2021-12-25T17:28:32+00:00"
       },
       "thumbnail": "https://i.vimeocdn.com/video/1107841248_800x450.png",
       "brandedThumbnail": "https://i.vimeocdn.com/video/1107841248_800x450.png",
       "shortDescription": "live feed",
-      "longDescription": "test live",
+      "longDescription": "streaming on Saturdays at 7am-eastern time and\r\n Fridays at 6pm-eastern time",
       "tags": [
-        "SPECIAL"
+        "CARTOON-LIVE"
       ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      },
       "genres": [
         "special"
       ]
@@ -7698,6 +7736,24 @@
         "531112755",
         "531108755",
         "527495436"
+      ]
+    },
+    {
+      "name": "cartoons oldies",
+      "itemIds": [
+        "421947589",
+        "421947261",
+        "421946816",
+        "427168418",
+        "422046410",
+        "422045265",
+        "422044070",
+        "422043176",
+        "422042113",
+        "422041788",
+        "422041380",
+        "422040859",
+        "422039705"
       ]
     }
   ]
