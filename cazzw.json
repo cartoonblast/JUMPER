@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-16T01:28:58+00:00",
+  "lastUpdated": "2021-05-18T12:30:08+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -7195,13 +7195,6 @@
           }
         ],
         "duration": 356400,
-        "captions": [
-          {
-            "url": "",
-            "language": "en-US",
-            "captionType": "SUBTITLE"
-          }
-        ],
         "validityPeriodEnd": "2021-12-25T17:28:32+00:00"
       },
       "thumbnail": "https://i.vimeocdn.com/video/1107841248_800x450.png",
