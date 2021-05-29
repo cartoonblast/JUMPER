@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-18T12:30:08+00:00",
+  "lastUpdated": "2021-05-29T04:39:12+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -7179,6 +7179,31 @@
       "tags": [
         "SATURDAY-MORNINGS"
       ]
+    },
+    {
+      "id": "553630525",
+      "title": "Saturday Blast Mix 17-",
+      "content": {
+        "dateAdded": "2021-05-29T16:35:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/553630525.hd.mp4?s=d473874e3903f62fc47ffb24164b03b3d7c3f0dc&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 15793
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1143899548_800x450.png",
+      "releaseDate": "2021-05-22T02:52:11-04:00",
+      "shortDescription": "Saturday Blast Mix 17-",
+      "longDescription": "Saturday Blast Mix 17-",
+      "tags": [
+        "SATURDAY-MORNINGS"
+      ]
     }
   ],
   "liveFeeds": [
@@ -7706,7 +7731,8 @@
         "546766003",
         "541410294",
         "540067839",
-        "536635322"
+        "536635322",
+        "553630525"
       ]
     },
     {
