@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-10T11:33:36+00:00",
+  "lastUpdated": "2021-06-13T04:10:04+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -8704,6 +8704,150 @@
       "releaseDate": "2021-05-22",
       "shortDescription": "Saturday Blast Mix 17-",
       "longDescription": "Saturday Blast Mix 17-",
+      "tags": [
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "556506109",
+      "title": "Saturday Blast Mix-18-part 1",
+      "content": {
+        "dateAdded": "2021-06-13T04:03:25-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/556506109.hd.mp4?s=0c84739a2561db012cbe8838850f5e3fde97421d&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 4233,
+        "adBreaks": [
+          "00:08:00",
+          "00:16:00",
+          "00:24:00",
+          "00:32:00",
+          "00:40:00",
+          "00:48:00",
+          "00:56:00",
+          "01:04:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1149978007_800x450.png",
+      "releaseDate": "2021-05-29T02:55:28-04:00",
+      "shortDescription": "Saturday Blast Mix-18-part 1",
+      "longDescription": "Saturday Blast Mix-18-part 1",
+      "tags": [
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "557069011",
+      "title": "Saturday Blast Mix-18 part 2",
+      "content": {
+        "dateAdded": "2021-06-13T04:03:25-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/557069011.hd.mp4?s=fa4ae8c4cf62f53193a576f17e00ada0bd3f45a0&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 10298,
+        "adBreaks": [
+          "00:08:00",
+          "00:16:00",
+          "00:24:00",
+          "00:32:00",
+          "00:40:00",
+          "00:48:00",
+          "00:56:00",
+          "01:04:00",
+          "01:12:00",
+          "01:20:00",
+          "01:28:00",
+          "01:36:00",
+          "01:44:00",
+          "01:52:00",
+          "02:00:00",
+          "02:08:00",
+          "02:16:00",
+          "02:24:00",
+          "02:32:00",
+          "02:40:00",
+          "02:48:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1151401682_800x450.png",
+      "releaseDate": "2021-05-31T02:45:53-04:00",
+      "shortDescription": "Saturday Blast Mix-18 part 2",
+      "longDescription": "Saturday Blast Mix-18 part 2",
+      "tags": [
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "559342945",
+      "title": "Saturday Blast-19",
+      "content": {
+        "dateAdded": "2021-06-13T04:04:31-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/559342945.hd.mp4?s=42410d95040cafcf9cf7061db219c6ee9d11ed0f&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 14320,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00",
+          "00:28:00",
+          "00:35:00",
+          "00:42:00",
+          "00:49:00",
+          "00:56:00",
+          "01:03:00",
+          "01:10:00",
+          "01:17:00",
+          "01:24:00",
+          "01:31:00",
+          "01:38:00",
+          "01:45:00",
+          "01:52:00",
+          "01:59:00",
+          "02:06:00",
+          "02:13:00",
+          "02:20:00",
+          "02:27:00",
+          "02:34:00",
+          "02:41:00",
+          "02:48:00",
+          "02:55:00",
+          "03:02:00",
+          "03:09:00",
+          "03:16:00",
+          "03:23:00",
+          "03:30:00",
+          "03:37:00",
+          "03:44:00",
+          "03:51:00",
+          "03:58:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1156056692_800x450.png",
+      "releaseDate": "2021-06-05T06:23:51-04:00",
+      "shortDescription": "Saturday Blast-19",
+      "longDescription": "Saturday Blast-19",
       "tags": [
         "SATURDAY-MORNINGS"
       ]
