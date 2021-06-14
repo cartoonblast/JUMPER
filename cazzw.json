@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-13T04:10:04+00:00",
+  "lastUpdated": "2021-06-14T02:42:42+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -8736,7 +8736,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1149978007_800x450.png",
-      "releaseDate": "2021-05-29T02:55:28-04:00",
+      "releaseDate": "2021-05-29",
       "shortDescription": "Saturday Blast Mix-18-part 1",
       "longDescription": "Saturday Blast Mix-18-part 1",
       "tags": [
@@ -8784,7 +8784,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1151401682_800x450.png",
-      "releaseDate": "2021-05-31T02:45:53-04:00",
+      "releaseDate": "2021-05-31",
       "shortDescription": "Saturday Blast Mix-18 part 2",
       "longDescription": "Saturday Blast Mix-18 part 2",
       "tags": [
@@ -8845,7 +8845,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1156056692_800x450.png",
-      "releaseDate": "2021-06-05T06:23:51-04:00",
+      "releaseDate": "2021-06-05",
       "shortDescription": "Saturday Blast-19",
       "longDescription": "Saturday Blast-19",
       "tags": [
@@ -9440,7 +9440,10 @@
         "541410294",
         "540067839",
         "536635322",
-        "553630525"
+        "553630525",
+        "559342945",
+        "557069011",
+        "556506109"
       ]
     },
     {
