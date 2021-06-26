@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-14T02:42:42+00:00",
+  "lastUpdated": "2021-06-25T08:52:46+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -7607,7 +7607,13 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1277
+        "duration": 1277,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00"
+        ]
       },
       "genres": [
         "special"
@@ -8499,39 +8505,6 @@
       ]
     },
     {
-      "id": "546766003",
-      "title": "ACTION HOUR 2.3.mp4",
-      "content": {
-        "dateAdded": "2021-05-08T17:11:05-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/546766003.hd.mp4?s=21e63bd15e472202c758f77301a0dfde5b355eb0&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 2888,
-        "adBreaks": [
-          "00:07:00",
-          "00:14:00",
-          "00:21:00",
-          "00:28:00",
-          "00:35:00",
-          "00:42:00"
-        ]
-      },
-      "genres": [
-        "special"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/1132322950_800x450.png",
-      "releaseDate": "2021-05-07",
-      "shortDescription": "ACTION HOUR 2.3.mp4",
-      "longDescription": "ACTION HOUR 2.3.mp4",
-      "tags": [
-        "ACTION-HOUR"
-      ]
-    },
-    {
       "id": "546206610",
       "title": "Saturday-Blast-Mix15",
       "content": {
@@ -8848,6 +8821,266 @@
       "releaseDate": "2021-06-05",
       "shortDescription": "Saturday Blast-19",
       "longDescription": "Saturday Blast-19",
+      "tags": [
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "546766003",
+      "title": "ACTION HOUR 2.3.mp4",
+      "content": {
+        "dateAdded": "2021-05-08T17:11:05-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/546766003.hd.mp4?s=21e63bd15e472202c758f77301a0dfde5b355eb0&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2888
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1132322950_800x450.png",
+      "releaseDate": "2021-05-07T23:33:04-04:00",
+      "shortDescription": "ACTION HOUR 2.3.mp4",
+      "longDescription": "ACTION HOUR 2.3.mp4",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "546206610",
+      "title": "Saturday-Blast-Mix15",
+      "content": {
+        "dateAdded": "2021-05-08T17:14:49-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/546206610.hd.mp4?s=268ef37d6635fe94013812953f5e1e0a425d1773&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 17588,
+        "adBreaks": [
+          "00:10:00",
+          "00:20:00",
+          "00:30:00",
+          "00:40:00",
+          "00:50:00",
+          "01:00:00",
+          "01:10:00",
+          "01:20:00",
+          "01:30:00",
+          "01:40:00",
+          "01:50:00",
+          "02:00:00",
+          "02:10:00",
+          "02:20:00",
+          "02:30:00",
+          "02:40:00",
+          "02:50:00",
+          "03:00:00",
+          "03:10:00",
+          "03:20:00",
+          "03:30:00",
+          "03:40:00",
+          "03:50:00",
+          "04:00:00",
+          "04:10:00",
+          "04:20:00",
+          "04:30:00",
+          "04:40:00",
+          "04:50:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1130754858_800x450.png",
+      "releaseDate": "2021-05-06T17:25:48-04:00",
+      "shortDescription": "Saturday-Blast-Mix15",
+      "longDescription": "Saturday-Blast-Mix15",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "566034129",
+      "title": "Action-Hour 2.4",
+      "content": {
+        "dateAdded": "2021-06-24T10:40:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/566034129.hd.mp4?s=cee9e53ea9cf63665ce140a0b9f78798a6588488&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2747,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00",
+          "00:35:00",
+          "00:40:00",
+          "00:45:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1170437363_800x450.png",
+      "releaseDate": "2021-06-22T06:29:04-04:00",
+      "shortDescription": "Action-Hour 2.4",
+      "longDescription": "Action-Hour 2.4",
+      "tags": [
+        "ACTION-HOUR"
+      ]
+    },
+    {
+      "id": "566033534",
+      "title": "Action-Hour-2.2",
+      "content": {
+        "dateAdded": "2021-06-24T10:40:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/566033534.hd.mp4?s=891e2071c8fb9972741250fc35ba46f147d91e60&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2723,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00",
+          "00:35:00",
+          "00:40:00",
+          "00:45:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1170385340_800x450.png",
+      "releaseDate": "2021-06-22T06:27:13-04:00",
+      "shortDescription": "Action-Hour-2.2",
+      "longDescription": "Action-Hour-2.2",
+      "tags": [
+        "ACTION-HOUR"
+      ]
+    },
+    {
+      "id": "566007564",
+      "title": "action hour 2.5.mp4",
+      "content": {
+        "dateAdded": "2021-06-24T10:40:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/566007564.hd.mp4?s=fd9ed9e85f1f3a9065ca47e1e12e810848e6ab42&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 2808,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00",
+          "00:35:00",
+          "00:40:00",
+          "00:45:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1170437742_800x450.png",
+      "releaseDate": "2021-06-22T05:06:07-04:00",
+      "shortDescription": "action hour 2.5.mp4",
+      "longDescription": "action hour 2.5.mp4",
+      "tags": [
+        "ACTION-HOUR"
+      ]
+    },
+    {
+      "id": "562090454",
+      "title": "Saturday Blast Mix-20-",
+      "content": {
+        "dateAdded": "2021-06-24T10:40:11-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/562090454.hd.mp4?s=4e5bffc0c8f659b756cccefd05e0754d10c95a6e&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 26432,
+        "adBreaks": [
+          "00:10:00",
+          "00:20:00",
+          "00:30:00",
+          "00:40:00",
+          "00:50:00",
+          "01:00:00",
+          "01:10:00",
+          "01:20:00",
+          "01:30:00",
+          "01:40:00",
+          "01:50:00",
+          "02:00:00",
+          "02:10:00",
+          "02:20:00",
+          "02:30:00",
+          "02:40:00",
+          "02:50:00",
+          "03:00:00",
+          "03:10:00",
+          "03:20:00",
+          "03:30:00",
+          "03:40:00",
+          "03:50:00",
+          "04:00:00",
+          "04:10:00",
+          "04:20:00",
+          "04:30:00",
+          "04:40:00",
+          "04:50:00",
+          "05:00:00",
+          "05:10:00",
+          "05:20:00",
+          "05:30:00",
+          "05:40:00",
+          "05:50:00",
+          "06:00:00",
+          "06:10:00",
+          "06:20:00",
+          "06:30:00",
+          "06:40:00",
+          "06:50:00",
+          "07:00:00",
+          "07:10:00",
+          "07:20:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1161826728_800x450.png",
+      "releaseDate": "2021-06-12T01:59:55-04:00",
+      "shortDescription": "Saturday Blast Mix-20-",
+      "longDescription": "Saturday Blast Mix-20-",
       "tags": [
         "SATURDAY-MORNINGS"
       ]
@@ -9443,7 +9676,13 @@
         "553630525",
         "559342945",
         "557069011",
-        "556506109"
+        "556506109",
+        "566007564",
+        "566033534",
+        "566034129",
+        "562090454",
+        "549133200",
+        "446903152"
       ]
     },
     {
@@ -9483,7 +9722,14 @@
         "422041788",
         "422041380",
         "422040859",
-        "422039705"
+        "422039705",
+        "446903005",
+        "446903152",
+        "446903324",
+        "446903438",
+        "446903584",
+        "446903692",
+        "446904012"
       ]
     }
   ]
