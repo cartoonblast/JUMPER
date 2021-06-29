@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-25T08:52:46+00:00",
+  "lastUpdated": "2021-06-28T11:11:54+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -8505,65 +8505,6 @@
       ]
     },
     {
-      "id": "546206610",
-      "title": "Saturday-Blast-Mix15",
-      "content": {
-        "dateAdded": "2021-05-08T17:14:49-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/546206610.hd.mp4?s=268ef37d6635fe94013812953f5e1e0a425d1773&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 17588,
-        "adBreaks": [
-          "00:09:00",
-          "00:18:00",
-          "00:27:00",
-          "00:36:00",
-          "00:45:00",
-          "00:54:00",
-          "01:03:00",
-          "01:12:00",
-          "01:21:00",
-          "01:30:00",
-          "01:39:00",
-          "01:48:00",
-          "01:57:00",
-          "02:06:00",
-          "02:15:00",
-          "02:24:00",
-          "02:33:00",
-          "02:42:00",
-          "02:51:00",
-          "03:00:00",
-          "03:09:00",
-          "03:18:00",
-          "03:27:00",
-          "03:36:00",
-          "03:45:00",
-          "03:54:00",
-          "04:03:00",
-          "04:12:00",
-          "04:21:00",
-          "04:30:00",
-          "04:39:00",
-          "04:48:00"
-        ]
-      },
-      "genres": [
-        "special"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/1130754858_800x450.png",
-      "releaseDate": "2021-05-06",
-      "shortDescription": "Saturday-Blast-Mix15",
-      "longDescription": "Saturday-Blast-Mix15",
-      "tags": [
-        "SATURDAY-MORNINGS"
-      ]
-    },
-    {
       "id": "549133200",
       "title": "Saturday-Mix16-",
       "content": {
@@ -8843,7 +8784,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1132322950_800x450.png",
-      "releaseDate": "2021-05-07T23:33:04-04:00",
+      "releaseDate": "2021-05-07",
       "shortDescription": "ACTION HOUR 2.3.mp4",
       "longDescription": "ACTION HOUR 2.3.mp4",
       "tags": [
@@ -8899,7 +8840,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1130754858_800x450.png",
-      "releaseDate": "2021-05-06T17:25:48-04:00",
+      "releaseDate": "2021-05-06",
       "shortDescription": "Saturday-Blast-Mix15",
       "longDescription": "Saturday-Blast-Mix15",
       "tags": [
@@ -8935,7 +8876,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1170437363_800x450.png",
-      "releaseDate": "2021-06-22T06:29:04-04:00",
+      "releaseDate": "2021-06-22",
       "shortDescription": "Action-Hour 2.4",
       "longDescription": "Action-Hour 2.4",
       "tags": [
@@ -8971,7 +8912,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1170385340_800x450.png",
-      "releaseDate": "2021-06-22T06:27:13-04:00",
+      "releaseDate": "2021-06-22",
       "shortDescription": "Action-Hour-2.2",
       "longDescription": "Action-Hour-2.2",
       "tags": [
@@ -9007,7 +8948,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1170437742_800x450.png",
-      "releaseDate": "2021-06-22T05:06:07-04:00",
+      "releaseDate": "2021-06-22",
       "shortDescription": "action hour 2.5.mp4",
       "longDescription": "action hour 2.5.mp4",
       "tags": [
@@ -9078,11 +9019,203 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1161826728_800x450.png",
-      "releaseDate": "2021-06-12T01:59:55-04:00",
+      "releaseDate": "2021-06-12",
       "shortDescription": "Saturday Blast Mix-20-",
       "longDescription": "Saturday Blast Mix-20-",
       "tags": [
         "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "568714074",
+      "title": "Robin hood-Anime-01",
+      "content": {
+        "dateAdded": "2021-06-28T22:49:04-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/568714074.sd.mp4?s=eeabfe9d94c771822c09d7e852701b310db0e6ba&profile_id=164",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5712,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00",
+          "00:35:00",
+          "00:40:00",
+          "00:45:00",
+          "00:50:00",
+          "00:55:00",
+          "01:00:00",
+          "01:05:00",
+          "01:10:00",
+          "01:15:00",
+          "01:20:00",
+          "01:25:00",
+          "01:30:00",
+          "01:35:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1176155778_800x450.png",
+      "releaseDate": "2021-06-28T22:39:17-04:00",
+      "shortDescription": "Robin hood-Anime-01",
+      "longDescription": "Robin hood-Anime-01",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "568712105",
+      "title": "Moondreamers-Full",
+      "content": {
+        "dateAdded": "2021-06-28T22:49:04-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/568712105.sd.mp4?s=b11a878af12e3b3def91fa9c5ec65ecac4e70bf9&profile_id=164",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9714,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00",
+          "00:35:00",
+          "00:40:00",
+          "00:45:00",
+          "00:50:00",
+          "00:55:00",
+          "01:00:00",
+          "01:05:00",
+          "01:10:00",
+          "01:15:00",
+          "01:20:00",
+          "01:25:00",
+          "01:30:00",
+          "01:35:00",
+          "01:40:00",
+          "01:45:00",
+          "01:50:00",
+          "01:55:00",
+          "02:00:00",
+          "02:05:00",
+          "02:10:00",
+          "02:15:00",
+          "02:20:00",
+          "02:25:00",
+          "02:30:00",
+          "02:35:00",
+          "02:40:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1176154265_800x450.png",
+      "releaseDate": "2021-06-28T22:31:28-04:00",
+      "shortDescription": "Moondreamers-Full",
+      "longDescription": "Moondreamers-Full",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "568710710",
+      "title": "Dino-Riders-1",
+      "content": {
+        "dateAdded": "2021-06-28T22:49:04-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/568710710.hd.mp4?s=b57b8f166b51191a35264ebcfc4c3ece1325ddc8&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5072,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00",
+          "00:35:00",
+          "00:40:00",
+          "00:45:00",
+          "00:50:00",
+          "00:55:00",
+          "01:00:00",
+          "01:05:00",
+          "01:10:00",
+          "01:15:00",
+          "01:20:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1176150030_800x450.png",
+      "releaseDate": "2021-06-28T22:25:30-04:00",
+      "shortDescription": "Dino-Riders-1",
+      "longDescription": "Dino-Riders-1",
+      "tags": [
+        "special"
+      ]
+    },
+    {
+      "id": "568710616",
+      "title": "Monster-V- Tech-02",
+      "content": {
+        "dateAdded": "2021-06-28T22:49:04-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/568710616.hd.mp4?s=b5050755f5a332e4199a268107b67cecaef4af0a&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5211,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00",
+          "00:35:00",
+          "00:40:00",
+          "00:45:00",
+          "00:50:00",
+          "00:55:00",
+          "01:00:00",
+          "01:05:00",
+          "01:10:00",
+          "01:15:00",
+          "01:20:00",
+          "01:25:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1176149112_800x450.png",
+      "releaseDate": "2021-06-28T22:25:05-04:00",
+      "shortDescription": "Monster-V- Tech-02",
+      "longDescription": "Monster-V- Tech-02",
+      "tags": [
+        "special"
       ]
     }
   ],
@@ -9682,7 +9815,11 @@
         "566034129",
         "562090454",
         "549133200",
-        "446903152"
+        "446903152",
+        "568710616",
+        "568710710",
+        "568712105",
+        "568714074"
       ]
     },
     {
