@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-28T11:11:54+00:00",
+  "lastUpdated": "2021-07-03T09:18:10+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -8844,7 +8844,7 @@
       "shortDescription": "Saturday-Blast-Mix15",
       "longDescription": "Saturday-Blast-Mix15",
       "tags": [
-        "special"
+        "SATURDAY-MORNINGS"
       ]
     },
     {
@@ -9065,7 +9065,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1176155778_800x450.png",
-      "releaseDate": "2021-06-28T22:39:17-04:00",
+      "releaseDate": "2021-06-28",
       "shortDescription": "Robin hood-Anime-01",
       "longDescription": "Robin hood-Anime-01",
       "tags": [
@@ -9124,7 +9124,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1176154265_800x450.png",
-      "releaseDate": "2021-06-28T22:31:28-04:00",
+      "releaseDate": "2021-06-28",
       "shortDescription": "Moondreamers-Full",
       "longDescription": "Moondreamers-Full",
       "tags": [
@@ -9167,7 +9167,7 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1176150030_800x450.png",
-      "releaseDate": "2021-06-28T22:25:30-04:00",
+      "releaseDate": "2021-06-28",
       "shortDescription": "Dino-Riders-1",
       "longDescription": "Dino-Riders-1",
       "tags": [
@@ -9211,11 +9211,114 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1176149112_800x450.png",
-      "releaseDate": "2021-06-28T22:25:05-04:00",
+      "releaseDate": "2021-06-28",
       "shortDescription": "Monster-V- Tech-02",
       "longDescription": "Monster-V- Tech-02",
       "tags": [
         "special"
+      ]
+    },
+    {
+      "id": "565384770",
+      "title": "Saturday Blast Mix21",
+      "content": {
+        "dateAdded": "2021-07-03T21:13:38-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/565384770.hd.mp4?s=2c570864fec7509e2d9d7dd1b4dedc91c1bdaea6&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 22666,
+        "adBreaks": [
+          "00:05:00",
+          "00:10:00",
+          "00:15:00",
+          "00:20:00",
+          "00:25:00",
+          "00:30:00",
+          "00:35:00",
+          "00:40:00",
+          "00:45:00",
+          "00:50:00",
+          "00:55:00",
+          "01:00:00",
+          "01:05:00",
+          "01:10:00",
+          "01:15:00",
+          "01:20:00",
+          "01:25:00",
+          "01:30:00",
+          "01:35:00",
+          "01:40:00",
+          "01:45:00",
+          "01:50:00",
+          "01:55:00",
+          "02:00:00",
+          "02:05:00",
+          "02:10:00",
+          "02:15:00",
+          "02:20:00",
+          "02:25:00",
+          "02:30:00",
+          "02:35:00",
+          "02:40:00",
+          "02:45:00",
+          "02:50:00",
+          "02:55:00",
+          "03:00:00",
+          "03:05:00",
+          "03:10:00",
+          "03:15:00",
+          "03:20:00",
+          "03:25:00",
+          "03:30:00",
+          "03:35:00",
+          "03:40:00",
+          "03:45:00",
+          "03:50:00",
+          "03:55:00",
+          "04:00:00",
+          "04:05:00",
+          "04:10:00",
+          "04:15:00",
+          "04:20:00",
+          "04:25:00",
+          "04:30:00",
+          "04:35:00",
+          "04:40:00",
+          "04:45:00",
+          "04:50:00",
+          "04:55:00",
+          "05:00:00",
+          "05:05:00",
+          "05:10:00",
+          "05:15:00",
+          "05:20:00",
+          "05:25:00",
+          "05:30:00",
+          "05:35:00",
+          "05:40:00",
+          "05:45:00",
+          "05:50:00",
+          "05:55:00",
+          "06:00:00",
+          "06:05:00",
+          "06:10:00",
+          "06:15:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1169040908_800x450.png",
+      "releaseDate": "2021-06-20T18:39:51-04:00",
+      "shortDescription": "Saturday Blast Mix21",
+      "longDescription": "Saturday Blast Mix21",
+      "tags": [
+        "special",
+        "SATURDAY-MORNINGS"
       ]
     }
   ],
