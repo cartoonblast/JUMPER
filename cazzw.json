@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-07-03T09:18:10+00:00",
+  "lastUpdated": "2021-07-11T02:12:16+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -9070,7 +9070,11 @@
       "longDescription": "Robin hood-Anime-01",
       "tags": [
         "special"
-      ]
+      ],
+      "rating": {
+        "rating": "TVG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "568712105",
@@ -9129,7 +9133,11 @@
       "longDescription": "Moondreamers-Full",
       "tags": [
         "special"
-      ]
+      ],
+      "rating": {
+        "rating": "TVG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "568710710",
@@ -9172,7 +9180,11 @@
       "longDescription": "Dino-Riders-1",
       "tags": [
         "special"
-      ]
+      ],
+      "rating": {
+        "rating": "TVG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "568710616",
@@ -9216,7 +9228,11 @@
       "longDescription": "Monster-V- Tech-02",
       "tags": [
         "special"
-      ]
+      ],
+      "rating": {
+        "rating": "TVG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "565384770",
@@ -9313,13 +9329,137 @@
         "special"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1169040908_800x450.png",
-      "releaseDate": "2021-06-20T18:39:51-04:00",
+      "releaseDate": "2021-06-20",
       "shortDescription": "Saturday Blast Mix21",
       "longDescription": "Saturday Blast Mix21",
       "tags": [
         "special",
         "SATURDAY-MORNINGS"
-      ]
+      ],
+      "rating": {
+        "rating": "TVG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "569863328",
+      "title": "Cartoon Overload-Comp-01",
+      "content": {
+        "dateAdded": "2021-07-01T10:55:21-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/569863328.hd.mp4?s=f56e3a731546bb3904c662d080dd7315987151d8&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 8805
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1178420905_800x450.png",
+      "releaseDate": "2021-07-01T09:58:48-04:00",
+      "shortDescription": "Cartoon Overload-Comp-01",
+      "longDescription": "Cartoon Overload-Comp-01",
+      "tags": [
+        "special",
+        "CARTOON-OVERLOAD"
+      ],
+      "rating": {
+        "rating": "TVG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "569866437",
+      "title": "Cartoon Overload-Comp-02",
+      "content": {
+        "dateAdded": "2021-07-01T10:55:21-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/569866437.hd.mp4?s=f39610eaf744686f610c73830026463104198018&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 10177
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1178426285_800x450.png",
+      "releaseDate": "2021-07-01T10:06:00-04:00",
+      "shortDescription": "Cartoon Overload-Comp-02",
+      "longDescription": "Cartoon Overload-Comp-02",
+      "tags": [
+        "special",
+        "CARTOON-OVERLOAD"
+      ],
+      "rating": {
+        "rating": "TVG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "571375099",
+      "title": "Cartoon Overload-3",
+      "content": {
+        "dateAdded": "2021-07-05T18:45:15-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/571375099.hd.mp4?s=b2263de01f0d92140fe080b5d2ced3468e057f3e&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 6597
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1181733637_800x450.png",
+      "releaseDate": "2021-07-05T16:06:53-04:00",
+      "shortDescription": "Cartoon Overload-3",
+      "longDescription": "Cartoon Overload-3",
+      "tags": [
+        "special",
+        "CARTOON-OVERLOAD"
+      ],
+      "rating": {
+        "rating": "TVG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "572264965",
+      "title": "Cartoon Overload-04",
+      "content": {
+        "dateAdded": "2021-07-07T18:16:05-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/572264965.hd.mp4?s=f6cc96cf1a8ea85138e95df766383fd8eb853422&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 9980
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1183471380_800x450.png",
+      "releaseDate": "2021-07-07T15:36:11-04:00",
+      "shortDescription": "Cartoon Overload-04",
+      "longDescription": "Cartoon Overload-04",
+      "tags": [
+        "special",
+        "CARTOON-OVERLOAD"
+      ],
+      "rating": {
+        "rating": "TVG",
+        "ratingSource": "MPAA"
+      }
     }
   ],
   "liveFeeds": [
@@ -9917,12 +10057,7 @@
         "566033534",
         "566034129",
         "562090454",
-        "549133200",
-        "446903152",
-        "568710616",
-        "568710710",
-        "568712105",
-        "568714074"
+        "549133200"
       ]
     },
     {
@@ -9948,7 +10083,7 @@
       ]
     },
     {
-      "name": "cartoons oldies",
+      "name": "cartoons overload",
       "itemIds": [
         "421947589",
         "421947261",
@@ -9970,6 +10105,15 @@
         "446903584",
         "446903692",
         "446904012"
+      ]
+    },
+    {
+      "name": "CARTOON OVERLOAD",
+      "itemIds": [
+        "569863328",
+        "569866437",
+        "571375099",
+        "572264965"
       ]
     }
   ]
