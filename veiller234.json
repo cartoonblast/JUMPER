@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-07-10T12:20:25+00:00",
+  "lastUpdated": "2021-07-10T11:09:43+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -26,7 +26,11 @@
       "longDescription": "The Veil DESTINATION NIGHTMARE -Ep 9- Boris Karloff",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "461471941",
@@ -2246,7 +2250,7 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1185486985_800x450.png",
-      "releaseDate": "2021-07-09T23:03:20-04:00",
+      "releaseDate": "2021-07-09",
       "shortDescription": "Far-Out Theater-01",
       "longDescription": "Far-Out Theater-01",
       "tags": [
@@ -2271,7 +2275,7 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1185487762_800x450.png",
-      "releaseDate": "2021-07-09T23:05:03-04:00",
+      "releaseDate": "2021-07-09",
       "shortDescription": "Far-Out Theater-02",
       "longDescription": "Far-Out Theater-02",
       "tags": [
@@ -2296,7 +2300,7 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1185488545_800x450.png",
-      "releaseDate": "2021-07-09T23:06:42-04:00",
+      "releaseDate": "2021-07-09",
       "shortDescription": "Far-Out Theater-03",
       "longDescription": "Far-Out Theater-03",
       "tags": [
@@ -2321,7 +2325,7 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1185489364_800x450.png",
-      "releaseDate": "2021-07-09T23:08:26-04:00",
+      "releaseDate": "2021-07-09",
       "shortDescription": "Far-Out Theater-04",
       "longDescription": "Far-Out Theater-04",
       "tags": [
@@ -2346,7 +2350,7 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1185490054_800x450.png",
-      "releaseDate": "2021-07-09T23:10:04-04:00",
+      "releaseDate": "2021-07-09",
       "shortDescription": "Far-Out Theater-05",
       "longDescription": "Far-Out Theater-05",
       "tags": [
@@ -2371,11 +2375,24 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1185491309_800x450.png",
-      "releaseDate": "2021-07-09T23:11:52-04:00",
+      "releaseDate": "2021-07-09",
       "shortDescription": "Far-Out Theater-06",
       "longDescription": "Far-Out Theater-06",
       "tags": [
         "FAR-OUT-THEATER"
+      ]
+    }
+  ],
+  "playlists": [
+    {
+      "name": "FAR-OUT THEATER",
+      "itemIds": [
+        "573269927",
+        "573270318",
+        "573270607",
+        "573270913",
+        "573271219",
+        "573271501"
       ]
     }
   ]
