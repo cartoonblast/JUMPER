@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-07-10T11:09:43+00:00",
+  "lastUpdated": "2021-07-12T08:30:09+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -2380,7 +2380,67 @@
       "longDescription": "Far-Out Theater-06",
       "tags": [
         "FAR-OUT-THEATER"
+      ],
+      "rating": {
+        "rating": "TVY14",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "574188796",
+      "title": "Far-Out Theater-Movie Of The Week-02",
+      "content": {
+        "dateAdded": "2021-07-12T18:23:42-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/574188796.sd.mp4?s=648877740e4d0c539cbc2ffbd49c23b677f70a69&profile_id=164",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5246
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1187584386_800x450.png",
+      "releaseDate": "2021-07-12T18:04:56-04:00",
+      "shortDescription": "LAST MAN ON EARTH",
+      "longDescription": "LAST MAN ON EARTH",
+      "tags": [
+        "miniseries",
+        "MOVIE-OF-WEEK"
       ]
+    },
+    {
+      "id": "574187974",
+      "title": "Far-Out Theater-Movie Of The Week-01",
+      "content": {
+        "dateAdded": "2021-07-12T18:23:42-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/574187974.sd.mp4?s=bda896d467a33b7dada6034d73d3923f86ed3b17&profile_id=164",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 4977
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1187582712_800x450.png",
+      "releaseDate": "2021-07-12T18:02:21-04:00",
+      "shortDescription": "LADYBUG,LADYBUG..",
+      "longDescription": "LADYBUG,LADYBUG..",
+      "tags": [
+        "miniseries",
+        "MOVIE-OF-WEEK"
+      ],
+      "rating": {
+        "rating": "TVY14",
+        "ratingSource": "MPAA"
+      }
     }
   ],
   "playlists": [
@@ -2393,6 +2453,13 @@
         "573270913",
         "573271219",
         "573271501"
+      ]
+    },
+    {
+      "name": "MOVIE OF THE WEEK",
+      "itemIds": [
+        "574188796",
+        "574187974"
       ]
     }
   ]
