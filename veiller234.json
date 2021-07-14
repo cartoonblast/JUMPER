@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-07-12T08:30:09+00:00",
+  "lastUpdated": "2021-07-14T02:17:55+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -2404,11 +2404,10 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1187584386_800x450.png",
-      "releaseDate": "2021-07-12T18:04:56-04:00",
+      "releaseDate": "2021-07-12",
       "shortDescription": "LAST MAN ON EARTH",
       "longDescription": "LAST MAN ON EARTH",
       "tags": [
-        "miniseries",
         "MOVIE-OF-WEEK"
       ]
     },
@@ -2430,17 +2429,66 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1187582712_800x450.png",
-      "releaseDate": "2021-07-12T18:02:21-04:00",
+      "releaseDate": "2021-07-12",
       "shortDescription": "LADYBUG,LADYBUG..",
       "longDescription": "LADYBUG,LADYBUG..",
       "tags": [
-        "miniseries",
         "MOVIE-OF-WEEK"
       ],
       "rating": {
         "rating": "TVY14",
         "ratingSource": "MPAA"
       }
+    },
+    {
+      "id": "575016977",
+      "title": "Far-Out Theater-07",
+      "content": {
+        "dateAdded": "2021-07-14T14:12:08-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/575016977.sd.mp4?s=1fc1cee279990e862144c576281c6a407b4555a3&profile_id=164",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 6139
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1189216467_800x450.png",
+      "releaseDate": "2021-07-14T13:36:49-04:00",
+      "shortDescription": "Far-Out Theater-07",
+      "longDescription": "THE HITCH-HIKER-SERIES",
+      "tags": [
+        "FAR-OUT-THEATER"
+      ]
+    },
+    {
+      "id": "575018694",
+      "title": "Far-Out Theater-08",
+      "content": {
+        "dateAdded": "2021-07-14T14:12:08-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/575018694.sd.mp4?s=2cf23af1fe36eddd968e09e2e55c31cfaaef3184&profile_id=164",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 6991
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1189221093_800x450.png",
+      "releaseDate": "2021-07-14T13:41:03-04:00",
+      "shortDescription": "Far-Out Theater-08",
+      "longDescription": "THE HITCH-HIKER-SERIES",
+      "tags": [
+        "FAR-OUT-THEATER"
+      ]
     }
   ],
   "playlists": [
