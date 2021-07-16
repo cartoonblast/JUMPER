@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-07-16T03:15:22+00:00",
+  "lastUpdated": "2021-07-16T06:13:02+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -2458,12 +2458,16 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1191056077_800x450.png",
-      "releaseDate": "2021-07-16T14:30:48-04:00",
+      "releaseDate": "2021-07-16",
       "shortDescription": "Far-Out Theater-HITCHHIKER-1",
       "longDescription": "HITCH-HIKER IS RATED M. A. FOR *MATURE AUDIENCES*",
       "tags": [
         "miniseries"
-      ]
+      ],
+      "rating": {
+        "rating": "TVMA",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "575934547",
@@ -2483,12 +2487,16 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1191057915_800x450.png",
-      "releaseDate": "2021-07-16T14:26:21-04:00",
+      "releaseDate": "2021-07-16",
       "shortDescription": "Far-Out Theater-HITCHHIKER-02",
       "longDescription": "HITCH-HIKER IS RATED M. A. FOR *MATURE AUDIENCES*",
       "tags": [
         "miniseries"
-      ]
+      ],
+      "rating": {
+        "rating": "TVMA",
+        "ratingSource": "MPAA"
+      }
     }
   ],
   "playlists": [
