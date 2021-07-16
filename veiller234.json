@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-07-14T02:17:55+00:00",
+  "lastUpdated": "2021-07-16T03:15:22+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -2441,38 +2441,13 @@
       }
     },
     {
-      "id": "575016977",
-      "title": "Far-Out Theater-07",
+      "id": "575936137",
+      "title": "Far-Out Theater-HITCHHIKER-1",
       "content": {
-        "dateAdded": "2021-07-14T14:12:08-04:00",
+        "dateAdded": "2021-07-16T15:07:18-04:00",
         "videos": [
           {
-            "url": "https://player.vimeo.com/external/575016977.sd.mp4?s=1fc1cee279990e862144c576281c6a407b4555a3&profile_id=164",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 6139
-      },
-      "genres": [
-        "miniseries"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/1189216467_800x450.png",
-      "releaseDate": "2021-07-14T13:36:49-04:00",
-      "shortDescription": "Far-Out Theater-07",
-      "longDescription": "THE HITCH-HIKER-SERIES",
-      "tags": [
-        "FAR-OUT-THEATER"
-      ]
-    },
-    {
-      "id": "575018694",
-      "title": "Far-Out Theater-08",
-      "content": {
-        "dateAdded": "2021-07-14T14:12:08-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/575018694.sd.mp4?s=2cf23af1fe36eddd968e09e2e55c31cfaaef3184&profile_id=164",
+            "url": "https://player.vimeo.com/external/575936137.hd.mp4?s=eb9a6bfe412045ce4da9e5a37affc64ab9302429&profile_id=174",
             "quality": "HD",
             "videoType": "MP4"
           }
@@ -2482,12 +2457,37 @@
       "genres": [
         "miniseries"
       ],
-      "thumbnail": "https://i.vimeocdn.com/video/1189221093_800x450.png",
-      "releaseDate": "2021-07-14T13:41:03-04:00",
-      "shortDescription": "Far-Out Theater-08",
-      "longDescription": "THE HITCH-HIKER-SERIES",
+      "thumbnail": "https://i.vimeocdn.com/video/1191056077_800x450.png",
+      "releaseDate": "2021-07-16T14:30:48-04:00",
+      "shortDescription": "Far-Out Theater-HITCHHIKER-1",
+      "longDescription": "HITCH-HIKER IS RATED M. A. FOR *MATURE AUDIENCES*",
       "tags": [
-        "FAR-OUT-THEATER"
+        "miniseries"
+      ]
+    },
+    {
+      "id": "575934547",
+      "title": "Far-Out Theater-HITCHHIKER-02",
+      "content": {
+        "dateAdded": "2021-07-16T15:07:18-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/575934547.sd.mp4?s=3944a7699d92b89c10a86cbf4a1326ccc03d0851&profile_id=164",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 6167
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1191057915_800x450.png",
+      "releaseDate": "2021-07-16T14:26:21-04:00",
+      "shortDescription": "Far-Out Theater-HITCHHIKER-02",
+      "longDescription": "HITCH-HIKER IS RATED M. A. FOR *MATURE AUDIENCES*",
+      "tags": [
+        "miniseries"
       ]
     }
   ],
@@ -2500,11 +2500,13 @@
         "573270607",
         "573270913",
         "573271219",
-        "573271501"
+        "573271501",
+        "575936137",
+        "575934547"
       ]
     },
     {
-      "name": "MOVIE OF THE WEEK",
+      "name": "MOVIE-OF-THE -WEEK",
       "itemIds": [
         "574188796",
         "574187974"
