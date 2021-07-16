@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-07-11T03:17:57+00:00",
+  "lastUpdated": "2021-07-16T04:26:56+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -9570,6 +9570,81 @@
         "rating": "TVG",
         "ratingSource": "MPAA"
       }
+    },
+    {
+      "id": "575202838",
+      "title": "Saturday Blast Mix 22",
+      "content": {
+        "dateAdded": "2021-07-16T03:59:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/575202838.hd.mp4?s=e778adbe114eaea57243f881cef78257ac0a92d0&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 21877
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1189587818_800x450.png",
+      "releaseDate": "2021-07-14T23:29:03-04:00",
+      "shortDescription": "Saturday Blast Mix 22",
+      "longDescription": "Saturday Blast Mix 22",
+      "tags": [
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "570508393",
+      "title": "Saturday Blast Mix-23",
+      "content": {
+        "dateAdded": "2021-07-16T03:59:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/570508393.hd.mp4?s=81a8968e7824ee4f3bf5b7ac186066726c9959f0&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 16561
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1179732364_800x450.png",
+      "releaseDate": "2021-07-02T21:16:26-04:00",
+      "shortDescription": "Saturday Blast Mix-23",
+      "longDescription": "Saturday Blast Mix-23",
+      "tags": [
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "572866047",
+      "title": "Saturday Blast Mix-24-",
+      "content": {
+        "dateAdded": "2021-07-16T03:59:19-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/572866047.hd.mp4?s=2b66930a5a9d5d3f9eb44d94ca17249369a57fcb&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 20780
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1184671834_800x450.png",
+      "releaseDate": "2021-07-09T00:12:45-04:00",
+      "shortDescription": "Saturday Blast Mix-24-",
+      "longDescription": "Saturday Blast Mix-24-",
+      "tags": [
+        "SATURDAY-MORNINGS"
+      ]
     }
   ],
   "liveFeeds": [
