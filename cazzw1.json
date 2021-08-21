@@ -1,7 +1,183 @@
 {
-  "lastUpdated": "2021-07-24T02:03:13+00:00",
+  "lastUpdated": "2021-08-21T06:48:55+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
+  "movies": [
+    {
+      "id": "590187064",
+      "title": "Saturday Blast 26",
+      "content": {
+        "dateAdded": "2021-08-21T06:33:15-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590187064.hd.mp4?s=55a11a88dccbd87f7e37f52c0b2f92cbfcc9b404&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 21063,
+        "adBreaks": [
+          "00:08:00",
+          "00:16:00",
+          "00:24:00",
+          "00:32:00",
+          "00:40:00",
+          "00:48:00",
+          "00:56:00",
+          "01:04:00",
+          "01:12:00",
+          "01:20:00",
+          "01:28:00",
+          "01:36:00",
+          "01:44:00",
+          "01:52:00",
+          "02:00:00",
+          "02:08:00",
+          "02:16:00",
+          "02:24:00",
+          "02:32:00",
+          "02:40:00",
+          "02:48:00",
+          "02:56:00",
+          "03:04:00",
+          "03:12:00",
+          "03:20:00",
+          "03:28:00",
+          "03:36:00",
+          "03:44:00",
+          "03:52:00",
+          "04:00:00",
+          "04:08:00",
+          "04:16:00",
+          "04:24:00",
+          "04:32:00",
+          "04:40:00",
+          "04:48:00",
+          "04:56:00",
+          "05:04:00",
+          "05:12:00",
+          "05:20:00",
+          "05:28:00",
+          "05:36:00",
+          "05:44:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1220470543_800x450.png",
+      "releaseDate": "2021-08-21",
+      "shortDescription": "Saturday Blast 26",
+      "longDescription": "cartoon mix",
+      "tags": [
+        "SATURDAY-MORNINGS"
+      ]
+    },
+    {
+      "id": "588570204",
+      "title": "The Littles - Complete Cartoon Series.mp4",
+      "content": {
+        "dateAdded": "2021-08-21T06:33:15-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/588570204.sd.mp4?s=1d62992149c8eb7606900cf4e60f5775c5b999e9&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 41812,
+        "adBreaks": [
+          "00:09:00",
+          "00:18:00",
+          "00:27:00",
+          "00:36:00",
+          "00:45:00",
+          "00:54:00",
+          "01:03:00",
+          "01:12:00",
+          "01:21:00",
+          "01:30:00",
+          "01:39:00",
+          "01:48:00",
+          "01:57:00",
+          "02:06:00",
+          "02:15:00",
+          "02:24:00",
+          "02:33:00",
+          "02:42:00",
+          "02:51:00",
+          "03:00:00",
+          "03:09:00",
+          "03:18:00",
+          "03:27:00",
+          "03:36:00",
+          "03:45:00",
+          "03:54:00",
+          "04:03:00",
+          "04:12:00",
+          "04:21:00",
+          "04:30:00",
+          "04:39:00",
+          "04:48:00",
+          "04:57:00",
+          "05:06:00",
+          "05:15:00",
+          "05:24:00",
+          "05:33:00",
+          "05:42:00",
+          "05:51:00",
+          "06:00:00",
+          "06:09:00",
+          "06:18:00",
+          "06:27:00",
+          "06:36:00",
+          "06:45:00",
+          "06:54:00",
+          "07:03:00",
+          "07:12:00",
+          "07:21:00",
+          "07:30:00",
+          "07:39:00",
+          "07:48:00",
+          "07:57:00",
+          "08:06:00",
+          "08:15:00",
+          "08:24:00",
+          "08:33:00",
+          "08:42:00",
+          "08:51:00",
+          "09:00:00",
+          "09:09:00",
+          "09:18:00",
+          "09:27:00",
+          "09:36:00",
+          "09:45:00",
+          "09:54:00",
+          "10:03:00",
+          "10:12:00",
+          "10:21:00",
+          "10:30:00",
+          "10:39:00",
+          "10:48:00",
+          "10:57:00",
+          "11:06:00",
+          "11:15:00",
+          "11:24:00",
+          "11:33:00"
+        ]
+      },
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1217544198_800x450.png",
+      "releaseDate": "2021-08-21",
+      "shortDescription": "The Littles - Complete Cartoon Series.mp4",
+      "longDescription": "The Littles - Complete Cartoon Series.mp4",
+      "tags": [
+        "special"
+      ]
+    }
+  ],
   "shortFormVideos": [
     {
       "id": "510138331",
@@ -26,15 +202,15 @@
           "00:42:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1056060437_800x450.png",
-      "releaseDate": "2021-02-09",
       "shortDescription": "NEW ARCHIE PT-1",
+      "releaseDate": "2021-02-09",
       "longDescription": "NEW ARCHIE PT-1",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ],
       "rating": {
         "rating": "TVG",
@@ -69,15 +245,15 @@
           "01:24:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1022307844_800x450.png",
-      "releaseDate": "2020-12-19",
       "shortDescription": "ACTIONHOUR 1.4",
+      "releaseDate": "2020-12-19",
       "longDescription": "ACTIONHOUR 1.4",
       "tags": [
         "ACTION-HOUR"
+      ],
+      "genres": [
+        "special"
       ],
       "rating": {
         "rating": "G",
@@ -124,15 +300,15 @@
           "03:12:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/968446189_800x450.png",
-      "releaseDate": "2020-10-02",
       "shortDescription": "GIRL CARTOONS",
+      "releaseDate": "2020-10-02",
       "longDescription": "GIRL CARTOONS",
       "tags": [
         "cartoon-blast-girls"
+      ],
+      "genres": [
+        "special"
       ],
       "rating": {
         "rating": "UNRATED",
@@ -174,15 +350,15 @@
           "02:13:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/935253337_800x450.png",
-      "releaseDate": "2020-08-04",
       "shortDescription": "mix of random cartoons",
+      "releaseDate": "2020-08-04",
       "longDescription": "mix of random cartoons",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ],
       "rating": {
         "rating": "TVG",
@@ -218,16 +394,16 @@
           "01:31:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/907482200_800x450.png",
-      "releaseDate": "2020-06-11",
       "shortDescription": "Robotix  The Movie (1985) (1)",
+      "releaseDate": "2020-06-11",
       "longDescription": "Robotix  The Movie (1985) (1)",
       "tags": [
         "80S-CARTOONS",
         "CARTOON-MOVIES"
+      ],
+      "genres": [
+        "animated"
       ]
     },
     {
@@ -254,15 +430,15 @@
           "00:48:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/905934017_800x450.png",
-      "releaseDate": "2020-06-08",
       "shortDescription": "BigfootAndTheMuscleMachinesMovie-full",
+      "releaseDate": "2020-06-08",
       "longDescription": "BigfootAndTheMuscleMachinesMovie-full",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "animated"
       ]
     },
     {
@@ -296,15 +472,15 @@
           "01:30:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/905933285_800x450.png",
-      "releaseDate": "2020-06-08",
       "shortDescription": "CaptainFutureAndTheSpaceEmperor",
+      "releaseDate": "2020-06-08",
       "longDescription": "CaptainFutureAndTheSpaceEmperor",
       "tags": [
         "CaptainFuture"
+      ],
+      "genres": [
+        "animated"
       ]
     },
     {
@@ -336,16 +512,16 @@
           "01:18:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/905931617_800x450.png",
-      "releaseDate": "2020-06-08",
       "shortDescription": "Ultraman USA",
+      "releaseDate": "2020-06-08",
       "longDescription": "Ultraman USA",
       "tags": [
         "anime",
         "ultraman"
+      ],
+      "genres": [
+        "anime"
       ]
     },
     {
@@ -368,16 +544,16 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/default_800x450",
-      "releaseDate": "2020-06-08",
       "shortDescription": "Ultraman II_ Episode 2",
+      "releaseDate": "2020-06-08",
       "longDescription": "Ultraman II_ Episode 2",
       "tags": [
         "anime",
         "ultraman"
+      ],
+      "genres": [
+        "anime"
       ]
     },
     {
@@ -399,16 +575,16 @@
           "00:18:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/905930789_800x450.png",
-      "releaseDate": "2020-06-08",
       "shortDescription": "Ultraman II_ Episode 1",
+      "releaseDate": "2020-06-08",
       "longDescription": "Ultraman II_ Episode 1",
       "tags": [
         "anime",
         "ultraman"
+      ],
+      "genres": [
+        "anime"
       ]
     },
     {
@@ -430,14 +606,14 @@
           "00:15:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/900522529_800x450.png",
-      "releaseDate": "2020-05-28",
       "shortDescription": "Captain America 1966 Cartoon - #13",
+      "releaseDate": "2020-05-28",
       "longDescription": "Captain America 1966 Cartoon - #13",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -459,14 +635,14 @@
           "00:05:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/900519610_800x450.png",
-      "releaseDate": "2020-05-28",
       "shortDescription": "Captain America 1966 Cartoon - #12",
+      "releaseDate": "2020-05-28",
       "longDescription": "Captain America 1966 Cartoon - #12",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -487,14 +663,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/900516242_800x450.png",
-      "releaseDate": "2020-05-28",
       "shortDescription": "Captain America 1966 Cartoon - #11",
+      "releaseDate": "2020-05-28",
       "longDescription": "Captain America 1966 Cartoon - #11",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -515,14 +691,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/900512495_800x450.png",
-      "releaseDate": "2020-05-28",
       "shortDescription": "Captain America 1966 Cartoon - #10",
+      "releaseDate": "2020-05-28",
       "longDescription": "Captain America 1966 Cartoon - #10",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -543,14 +719,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/900508847_800x450.png",
-      "releaseDate": "2020-05-28",
       "shortDescription": "Captain America 1966 Cartoon - #9",
+      "releaseDate": "2020-05-28",
       "longDescription": "Captain America 1966 Cartoon - #9",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -572,14 +748,14 @@
           "00:05:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/900505017_800x450.png",
-      "releaseDate": "2020-05-28",
       "shortDescription": "Captain America 1966 Cartoon - #8",
+      "releaseDate": "2020-05-28",
       "longDescription": "Captain America 1966 Cartoon - #8",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -601,14 +777,14 @@
           "00:05:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/900500900_800x450.png",
-      "releaseDate": "2020-05-28",
       "shortDescription": "Captain America 1966 Cartoon - #7",
+      "releaseDate": "2020-05-28",
       "longDescription": "Captain America 1966 Cartoon - #7",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -630,14 +806,14 @@
           "00:05:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/900497045_800x450.png",
-      "releaseDate": "2020-05-28",
       "shortDescription": "Captain America 1966 Cartoon - #6",
+      "releaseDate": "2020-05-28",
       "longDescription": "Captain America 1966 Cartoon - #6",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -658,14 +834,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/900493526_800x450.png",
-      "releaseDate": "2020-05-28",
       "shortDescription": "Captain America 1966 Cartoon - #5",
+      "releaseDate": "2020-05-28",
       "longDescription": "Captain America 1966 Cartoon - #5",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -687,14 +863,14 @@
           "00:05:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/900490695_800x450.png",
-      "releaseDate": "2020-05-28",
       "shortDescription": "Captain America 1966 Cartoon - #4",
+      "releaseDate": "2020-05-28",
       "longDescription": "Captain America 1966 Cartoon - #4",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -716,14 +892,14 @@
           "00:05:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/900487936_800x450.png",
-      "releaseDate": "2020-05-28",
       "shortDescription": "Captain America 1966 Cartoon - #3",
+      "releaseDate": "2020-05-28",
       "longDescription": "Captain America 1966 Cartoon - #3",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -744,14 +920,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/900484812_800x450.png",
-      "releaseDate": "2020-05-28",
       "shortDescription": "Captain America 1966 Cartoon - #2",
+      "releaseDate": "2020-05-28",
       "longDescription": "Captain America 1966 Cartoon - #2",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -772,14 +948,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/900482332_800x450.png",
-      "releaseDate": "2020-05-28",
       "shortDescription": "Captain America 1966 Cartoon - #1",
+      "releaseDate": "2020-05-28",
       "longDescription": "Captain America 1966 Cartoon - #1",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -800,15 +976,15 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897914979_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "14 The Mummy Strikes",
+      "releaseDate": "2020-05-23",
       "longDescription": "14 The Mummy Strikes",
       "tags": [
         "SUPERMAN"
+      ],
+      "genres": [
+        "animated"
       ]
     },
     {
@@ -828,15 +1004,15 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/default_800x450",
-      "releaseDate": "2020-05-23",
       "shortDescription": "13 Destruction, Inc.",
+      "releaseDate": "2020-05-23",
       "longDescription": "13 Destruction, Inc.",
       "tags": [
         "superman"
+      ],
+      "genres": [
+        "animated"
       ]
     },
     {
@@ -856,15 +1032,15 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897912013_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "12 Eleventh Hour",
+      "releaseDate": "2020-05-23",
       "longDescription": "12 Eleventh Hour",
       "tags": [
         "superman"
+      ],
+      "genres": [
+        "animated"
       ]
     },
     {
@@ -885,16 +1061,16 @@
           "00:05:00"
         ]
       },
-      "genres": [
-        "animated",
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897910788_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "11 Showdown",
+      "releaseDate": "2020-05-23",
       "longDescription": "11 Showdown",
       "tags": [
         "superman"
+      ],
+      "genres": [
+        "animated",
+        "anime"
       ]
     },
     {
@@ -915,15 +1091,15 @@
           "00:00:30"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897909209_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "10 Japoteurs",
+      "releaseDate": "2020-05-23",
       "longDescription": "10 Japoteurs",
       "tags": [
         "superman"
+      ],
+      "genres": [
+        "animated"
       ]
     },
     {
@@ -943,15 +1119,15 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897907910_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "9 Terror on the Midway",
+      "releaseDate": "2020-05-23",
       "longDescription": "9 Terror on the Midway",
       "tags": [
         "superman"
+      ],
+      "genres": [
+        "animated"
       ]
     },
     {
@@ -971,15 +1147,15 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897906648_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "8 Volcano",
+      "releaseDate": "2020-05-23",
       "longDescription": "8 Volcano",
       "tags": [
         "superman"
+      ],
+      "genres": [
+        "animated"
       ]
     },
     {
@@ -999,15 +1175,15 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897905060_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "7 Electric Earthquake",
+      "releaseDate": "2020-05-23",
       "longDescription": "7 Electric Earthquake",
       "tags": [
         "superman"
+      ],
+      "genres": [
+        "animated"
       ]
     },
     {
@@ -1027,15 +1203,15 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897903762_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "6 The Magnetic Telescope",
+      "releaseDate": "2020-05-23",
       "longDescription": "6 The Magnetic Telescope",
       "tags": [
         "superman"
+      ],
+      "genres": [
+        "animated"
       ]
     },
     {
@@ -1055,15 +1231,15 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897902411_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "5 The Bulleteers",
+      "releaseDate": "2020-05-23",
       "longDescription": "5 The Bulleteers",
       "tags": [
         "superman"
+      ],
+      "genres": [
+        "animated"
       ]
     },
     {
@@ -1083,15 +1259,15 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897900856_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "4 The Arctic Giant",
+      "releaseDate": "2020-05-23",
       "longDescription": "4 The Arctic Giant",
       "tags": [
         "superman"
+      ],
+      "genres": [
+        "animated"
       ]
     },
     {
@@ -1111,15 +1287,15 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897900506_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "3 Billion Dollar Limited",
+      "releaseDate": "2020-05-23",
       "longDescription": "3 Billion Dollar Limited",
       "tags": [
         "superman"
+      ],
+      "genres": [
+        "animated"
       ]
     },
     {
@@ -1139,15 +1315,15 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897899894_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "2 The Mechanical Monsters",
+      "releaseDate": "2020-05-23",
       "longDescription": "2 The Mechanical Monsters",
       "tags": [
         "superman"
+      ],
+      "genres": [
+        "animated"
       ]
     },
     {
@@ -1167,15 +1343,15 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897899215_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "1 The Mad Scientist",
+      "releaseDate": "2020-05-23",
       "longDescription": "1 The Mad Scientist",
       "tags": [
         "superman"
+      ],
+      "genres": [
+        "animated"
       ]
     },
     {
@@ -1195,15 +1371,15 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "action"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897898339_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "Space Angel - The Gladiator",
+      "releaseDate": "2020-05-23",
       "longDescription": "Space Angel - The Gladiator",
       "tags": [
         "animated"
+      ],
+      "genres": [
+        "action"
       ]
     },
     {
@@ -1223,15 +1399,15 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "action"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897897569_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "Space Angel - The Donovan Plan S01E24 (episodes 116-120)",
+      "releaseDate": "2020-05-23",
       "longDescription": "Space Angel - The Donovan Plan S01E24 (episodes 116-120)",
       "tags": [
         "animated"
+      ],
+      "genres": [
+        "action"
       ]
     },
     {
@@ -1251,15 +1427,15 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "action"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897896375_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "Space Angel - Power Failure",
+      "releaseDate": "2020-05-23",
       "longDescription": "Space Angel - Power Failure",
       "tags": [
         "animated"
+      ],
+      "genres": [
+        "action"
       ]
     },
     {
@@ -1279,15 +1455,15 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "action"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897895622_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "Space Angel - Expedition to a New Moon",
+      "releaseDate": "2020-05-23",
       "longDescription": "Space Angel - Expedition to a New Moon",
       "tags": [
         "animated"
+      ],
+      "genres": [
+        "action"
       ]
     },
     {
@@ -1307,15 +1483,15 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "action"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897895190_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "Space Angel - Cosmic Combat",
+      "releaseDate": "2020-05-23",
       "longDescription": "Space Angel - Cosmic Combat",
       "tags": [
         "animated"
+      ],
+      "genres": [
+        "action"
       ]
     },
     {
@@ -1335,14 +1511,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897779300_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "Lone Ranger Cartoon 1966 - Tonto and the Devil Spirits - Full Vintage TV Episode",
+      "releaseDate": "2020-05-23",
       "longDescription": "Lone Ranger Cartoon 1966 - Tonto and the Devil Spirits - Full Vintage TV Episode",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -1363,14 +1539,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897777647_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "Lone Ranger Cartoon 1966 - The Human Dynamo! - Steampunk Action",
+      "releaseDate": "2020-05-23",
       "longDescription": "Lone Ranger Cartoon 1966 - The Human Dynamo! - Steampunk Action",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -1391,14 +1567,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897776711_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "Lone Ranger Cartoon 1966 - The Frog People - Full Episode Steampunk Animated Western",
+      "releaseDate": "2020-05-23",
       "longDescription": "Lone Ranger Cartoon 1966 - The Frog People - Full Episode Steampunk Animated Western",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -1419,14 +1595,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897774599_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "Lone Ranger Cartoon 1966 - Crack of Doom",
+      "releaseDate": "2020-05-23",
       "longDescription": "Lone Ranger Cartoon 1966 - Crack of Doom",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -1447,14 +1623,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897772593_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "Lone Ranger Cartoon 1966 - Circus of Death - Full & Complete Episode",
+      "releaseDate": "2020-05-23",
       "longDescription": "Lone Ranger Cartoon 1966 - Circus of Death - Full & Complete Episode",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -1475,14 +1651,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897771601_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "Lone Ranger Cartoon 1966 - Bear Claw - Full TV Animated Show Episode",
+      "releaseDate": "2020-05-23",
       "longDescription": "Lone Ranger Cartoon 1966 - Bear Claw - Full TV Animated Show Episode",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -1503,14 +1679,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897770775_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "Lone Ranger 1966 - Wrath of the Sun God - Full Length Cartoon",
+      "releaseDate": "2020-05-23",
       "longDescription": "Lone Ranger 1966 - Wrath of the Sun God - Full Length Cartoon",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -1531,14 +1707,14 @@
           "00:05:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897769352_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "Lone Ranger 1966 - Valley of the Dead - spectacular full western cartoon",
+      "releaseDate": "2020-05-23",
       "longDescription": "Lone Ranger 1966 - Valley of the Dead - spectacular full western cartoon",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -1559,14 +1735,14 @@
           "00:05:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897768813_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "Lone Ranger 1966 - The Ghost Tribe of Comanche Flats - Visually Stunning Cartoon!",
+      "releaseDate": "2020-05-23",
       "longDescription": "Lone Ranger 1966 - The Ghost Tribe of Comanche Flats - Visually Stunning Cartoon!",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -1587,14 +1763,14 @@
           "00:05:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897768266_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "Lone Ranger 1966 - Puppet Master - Full Cartoon Episode",
+      "releaseDate": "2020-05-23",
       "longDescription": "Lone Ranger 1966 - Puppet Master - Full Cartoon Episode",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -1615,14 +1791,14 @@
           "00:05:00"
         ]
       },
-      "genres": [
-        "animated"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/897767823_800x450.png",
-      "releaseDate": "2020-05-23",
       "shortDescription": "Lone Ranger 1966 - a Time to Die! Unique and Classic TV Animated Cartoon",
+      "releaseDate": "2020-05-23",
       "longDescription": "Lone Ranger 1966 - a Time to Die! Unique and Classic TV Animated Cartoon",
       "tags": [
+        "animated"
+      ],
+      "genres": [
         "animated"
       ]
     },
@@ -1668,15 +1844,15 @@
           "02:36:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/932119749_800x450.png",
-      "releaseDate": "2020-07-29",
       "shortDescription": "Saturday blast mix01",
+      "releaseDate": "2020-07-29",
       "longDescription": "Saturday blast mix01",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -1716,15 +1892,15 @@
           "01:45:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/935254253_800x450.png",
-      "releaseDate": "2020-08-04",
       "shortDescription": "mix of random cartoons",
+      "releaseDate": "2020-08-04",
       "longDescription": "mix of random cartoons",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -1762,15 +1938,15 @@
           "01:54:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/936454630_800x450.png",
-      "releaseDate": "2020-07-29",
       "shortDescription": "Saturday blast mix03",
+      "releaseDate": "2020-07-29",
       "longDescription": "Saturday blast mix03",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -1823,15 +1999,15 @@
           "02:50:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/936448642_800x450.png",
-      "releaseDate": "2020-08-06",
       "shortDescription": "Saturday Blast Mix06",
+      "releaseDate": "2020-08-06",
       "longDescription": "Saturday Blast Mix06",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -1911,15 +2087,15 @@
           "05:05:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/949637382_800x450.png",
-      "releaseDate": "2020-08-31",
       "shortDescription": "MIX OF GIRLS THEME CARTOONS",
+      "releaseDate": "2020-08-31",
       "longDescription": "MIX OF GIRLS THEME CARTOONS",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -1974,15 +2150,15 @@
           "03:36:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/939342976_800x450.png",
-      "releaseDate": "2020-08-12",
       "shortDescription": "Saturday Blast Mix04",
+      "releaseDate": "2020-08-12",
       "longDescription": "Saturday Blast Mix04",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -2042,15 +2218,15 @@
           "03:25:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/957017645_800x450.png",
-      "releaseDate": "2020-09-12",
       "shortDescription": "cartoon blast mix 07",
+      "releaseDate": "2020-09-12",
       "longDescription": "cartoon blast mix 07",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -2118,15 +2294,15 @@
           "04:05:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/960258485_800x450.png",
-      "releaseDate": "2020-09-19",
       "shortDescription": "SATURDAY BLAST MIX08",
+      "releaseDate": "2020-09-19",
       "longDescription": "SATURDAY BLAST MIX08",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -2149,14 +2325,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "science fiction"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/966029355_800x450.png",
-      "releaseDate": "2020-09-29",
       "shortDescription": "Inhumanoids S01E01 The Evil That Lies Within Part 1",
+      "releaseDate": "2020-09-29",
       "longDescription": "Inhumanoids S01E01 The Evil That Lies Within Part 1",
       "tags": [
+        "science fiction"
+      ],
+      "genres": [
         "science fiction"
       ]
     },
@@ -2180,14 +2356,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "science fiction"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/966030359_800x450.png",
-      "releaseDate": "2020-09-29",
       "shortDescription": "Inhumanoids S01E02 The Evil That Lies Within Part 2",
+      "releaseDate": "2020-09-29",
       "longDescription": "Inhumanoids S01E02 The Evil That Lies Within Part 2",
       "tags": [
+        "science fiction"
+      ],
+      "genres": [
         "science fiction"
       ]
     },
@@ -2211,14 +2387,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "science fiction"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/966028451_800x450.png",
-      "releaseDate": "2020-09-29",
       "shortDescription": "Inhumanoids S01E03 The Evil That Lies Within Part 3",
+      "releaseDate": "2020-09-29",
       "longDescription": "Inhumanoids S01E03 The Evil That Lies Within Part 3",
       "tags": [
+        "science fiction"
+      ],
+      "genres": [
         "science fiction"
       ]
     },
@@ -2242,14 +2418,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "science fiction"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/966027929_800x450.png",
-      "releaseDate": "2020-09-29",
       "shortDescription": "Inhumanoids S01E04 The Evil That Lies Within Part 4",
+      "releaseDate": "2020-09-29",
       "longDescription": "Inhumanoids S01E04 The Evil That Lies Within Part 4",
       "tags": [
+        "science fiction"
+      ],
+      "genres": [
         "science fiction"
       ]
     },
@@ -2273,14 +2449,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "science fiction"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/966027215_800x450.png",
-      "releaseDate": "2020-09-29",
       "shortDescription": "Inhumanoids S01E05 The Evil That Lies Within Part 5(1)",
+      "releaseDate": "2020-09-29",
       "longDescription": "Inhumanoids S01E05 The Evil That Lies Within Part 5(1)",
       "tags": [
+        "science fiction"
+      ],
+      "genres": [
         "science fiction"
       ]
     },
@@ -2304,14 +2480,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "science fiction"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/966026671_800x450.png",
-      "releaseDate": "2020-09-29",
       "shortDescription": "Inhumanoids S01E06 Cypheroid",
+      "releaseDate": "2020-09-29",
       "longDescription": "Inhumanoids S01E06 Cypheroid",
       "tags": [
+        "science fiction"
+      ],
+      "genres": [
         "science fiction"
       ]
     },
@@ -2335,14 +2511,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "science fiction"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/966025949_800x450.png",
-      "releaseDate": "2020-09-29",
       "shortDescription": "Inhumanoids S01E07 The Surma Plan(1)",
+      "releaseDate": "2020-09-29",
       "longDescription": "Inhumanoids S01E07 The Surma Plan(1)",
       "tags": [
+        "science fiction"
+      ],
+      "genres": [
         "science fiction"
       ]
     },
@@ -2366,14 +2542,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "science fiction"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/966025325_800x450.png",
-      "releaseDate": "2020-09-29",
       "shortDescription": "Inhumanoids S01E08 Cult of Darkness(1)",
+      "releaseDate": "2020-09-29",
       "longDescription": "Inhumanoids S01E08 Cult of Darkness(1)",
       "tags": [
+        "science fiction"
+      ],
+      "genres": [
         "science fiction"
       ]
     },
@@ -2397,14 +2573,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "science fiction"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/966024934_800x450.png",
-      "releaseDate": "2020-09-29",
       "shortDescription": "Inhumanoids S01E09 Negative Polarity",
+      "releaseDate": "2020-09-29",
       "longDescription": "Inhumanoids S01E09 Negative Polarity",
       "tags": [
+        "science fiction"
+      ],
+      "genres": [
         "science fiction"
       ]
     },
@@ -2428,14 +2604,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "science fiction"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/966024267_800x450.png",
-      "releaseDate": "2020-09-29",
       "shortDescription": "Inhumanoids S01E10 The Evil Eye",
+      "releaseDate": "2020-09-29",
       "longDescription": "Inhumanoids S01E10 The Evil Eye",
       "tags": [
+        "science fiction"
+      ],
+      "genres": [
         "science fiction"
       ]
     },
@@ -2459,14 +2635,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "science fiction"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/966023597_800x450.png",
-      "releaseDate": "2020-09-29",
       "shortDescription": "Inhumanoids S01E11 Primal Passions",
+      "releaseDate": "2020-09-29",
       "longDescription": "Inhumanoids S01E11 Primal Passions",
       "tags": [
+        "science fiction"
+      ],
+      "genres": [
         "science fiction"
       ]
     },
@@ -2484,14 +2660,14 @@
         ],
         "duration": 1322
       },
-      "genres": [
-        "science fiction"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/966023281_800x450.png",
-      "releaseDate": "2020-09-29",
       "shortDescription": "Inhumanoids S01E12 The Masterson Team",
+      "releaseDate": "2020-09-29",
       "longDescription": "Inhumanoids S01E12 The Masterson Team",
       "tags": [
+        "science fiction"
+      ],
+      "genres": [
         "science fiction"
       ]
     },
@@ -2514,14 +2690,14 @@
           "00:18:00"
         ]
       },
-      "genres": [
-        "science fiction"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/966022608_800x450.png",
-      "releaseDate": "2020-09-29",
       "shortDescription": "Inhumanoids S01E13 Auger... For President",
+      "releaseDate": "2020-09-29",
       "longDescription": "Inhumanoids S01E13 Auger... For President",
       "tags": [
+        "science fiction"
+      ],
+      "genres": [
         "science fiction"
       ]
     },
@@ -2539,15 +2715,15 @@
         ],
         "duration": 1361
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/968353218_800x450.png",
-      "releaseDate": "2020-10-02",
       "shortDescription": "Spiral Zone E09 Ride The Whirlwind",
+      "releaseDate": "2020-10-02",
       "longDescription": "Spiral Zone E09 Ride The Whirlwind",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2564,15 +2740,15 @@
         ],
         "duration": 1362
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/968352820_800x450.png",
-      "releaseDate": "2020-10-02",
       "shortDescription": "Spiral Zone E10 The Unexploded Pod",
+      "releaseDate": "2020-10-02",
       "longDescription": "Spiral Zone E10 The Unexploded Pod",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2589,15 +2765,15 @@
         ],
         "duration": 1357
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927438301_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 58 The Final Weapon",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 58 The Final Weapon",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2614,15 +2790,15 @@
         ],
         "duration": 1355
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927437667_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 57 ♥ Conflict Of Duty",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 57 ♥ Conflict Of Duty",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2639,15 +2815,15 @@
         ],
         "duration": 1358
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927437114_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 56 ♥ They Zone By Night",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 56 ♥ They Zone By Night",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2664,15 +2840,15 @@
         ],
         "duration": 1359
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927436447_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 55 ♥ Assault On The Rock",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 55 ♥ Assault On The Rock",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2689,15 +2865,15 @@
         ],
         "duration": 1361
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927435940_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 54 ♥ Oversight",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 54 ♥ Oversight",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2714,15 +2890,15 @@
         ],
         "duration": 1360
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927435375_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 53 ♥ Duchess Treat",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 53 ♥ Duchess Treat",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2739,15 +2915,15 @@
         ],
         "duration": 1356
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927434717_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 52 ♥ Power Play",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 52 ♥ Power Play",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2764,15 +2940,15 @@
         ],
         "duration": 1362
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927434302_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 51 ♥ The Darkness Within",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 51 ♥ The Darkness Within",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2789,15 +2965,15 @@
         ],
         "duration": 1357
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927433583_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 50",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 50",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2814,15 +2990,15 @@
         ],
         "duration": 1358
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927432933_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 49",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 49",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2839,15 +3015,15 @@
         ],
         "duration": 1358
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927432379_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 48",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 48",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2864,15 +3040,15 @@
         ],
         "duration": 1356
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927431569_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 47",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 47",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2889,15 +3065,15 @@
         ],
         "duration": 1356
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927431057_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 46",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 46",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2914,15 +3090,15 @@
         ],
         "duration": 1359
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927430463_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 45",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 45",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2939,15 +3115,15 @@
         ],
         "duration": 1355
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927429795_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 44",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 44",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2964,15 +3140,15 @@
         ],
         "duration": 1346
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927429306_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 43",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 43",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -2989,15 +3165,15 @@
         ],
         "duration": 1360
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927428576_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 42",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 42",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3014,15 +3190,15 @@
         ],
         "duration": 1357
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927428078_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 41",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 41",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3039,15 +3215,15 @@
         ],
         "duration": 1345
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927427581_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 40",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 40",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3064,15 +3240,15 @@
         ],
         "duration": 1344
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927426809_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 39",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 39",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3089,15 +3265,15 @@
         ],
         "duration": 1343
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927426216_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 38",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 38",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3114,15 +3290,15 @@
         ],
         "duration": 1344
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927425710_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 37",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 37",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3139,15 +3315,15 @@
         ],
         "duration": 1346
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927425037_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 36",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 36",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3164,15 +3340,15 @@
         ],
         "duration": 1343
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927424605_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral zone Episode 35",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral zone Episode 35",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3189,15 +3365,15 @@
         ],
         "duration": 1343
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927424000_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 34",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 34",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3214,15 +3390,15 @@
         ],
         "duration": 1342
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927423322_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 33",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 33",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3239,15 +3415,15 @@
         ],
         "duration": 1344
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927422825_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral zone episode 32",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral zone episode 32",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3264,15 +3440,15 @@
         ],
         "duration": 1347
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927422419_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone episode 31",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone episode 31",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3289,15 +3465,15 @@
         ],
         "duration": 1358
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927421582_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 30",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 30",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3314,15 +3490,15 @@
         ],
         "duration": 1358
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927421284_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 29",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 29",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3342,14 +3518,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927420475_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 28",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 28",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -3370,14 +3546,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927419310_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 26 -Full Episode- English-",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 26 -Full Episode- English-",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -3398,14 +3574,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927418772_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 25 ♥ The Way Of The Samurai",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 25 ♥ The Way Of The Samurai",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -3426,14 +3602,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927418308_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 20 The Shuttle Engine",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 20 The Shuttle Engine",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -3457,14 +3633,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927417753_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone Episode 19 Island In The Zone",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone Episode 19 Island In The Zone",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -3487,15 +3663,15 @@
           "00:18:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927417263_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone E65 Countdown",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone E65 Countdown",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3518,15 +3694,15 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927416654_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone E64 Zone Trap",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone E64 Zone Trap",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3548,15 +3724,15 @@
           "00:18:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927415667_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone E62 Nightmare In Ice",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone E62 Nightmare In Ice",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3578,15 +3754,15 @@
           "00:18:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927415003_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone E61 Little Darlings",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone E61 Little Darlings",
       "tags": [
         "SPIRALZONE"
+      ],
+      "genres": [
+        "technology"
       ]
     },
     {
@@ -3609,14 +3785,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927414618_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone E60 Brother-s Keeper",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone E60 Brother-s Keeper",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -3640,14 +3816,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927414207_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone E59 The Face Of The Enemy",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone E59 The Face Of The Enemy",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -3670,14 +3846,14 @@
           "00:18:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927413553_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone e24 ♥ The Man Who Wouldn-t Be King",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone e24 ♥ The Man Who Wouldn-t Be King",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ],
       "rating": {
@@ -3705,14 +3881,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927412982_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone e23 ♥ The Lair Of The Jade Scorpion",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone e23 ♥ The Lair Of The Jade Scorpion",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ],
       "rating": {
@@ -3740,14 +3916,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927412534_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone e22 ♥ Canal Zone",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone e22 ♥ Canal Zone",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ],
       "rating": {
@@ -3775,14 +3951,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/927411716_800x450.png",
-      "releaseDate": "2020-07-20",
       "shortDescription": "Spiral Zone e21 The Mind Of Gideon Rorshak",
+      "releaseDate": "2020-07-20",
       "longDescription": "Spiral Zone e21 The Mind Of Gideon Rorshak",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -3806,14 +3982,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/917712825_800x450.png",
-      "releaseDate": "2020-07-01",
       "shortDescription": "Spiral Zone Episode 20 The Shuttle Engine",
+      "releaseDate": "2020-07-01",
       "longDescription": "Spiral Zone Episode 20 The Shuttle Engine",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -3834,14 +4010,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/917712395_800x450.png",
-      "releaseDate": "2020-07-01",
       "shortDescription": "Spiral Zone Episode 19 Island In The Zone",
+      "releaseDate": "2020-07-01",
       "longDescription": "Spiral Zone Episode 19 Island In The Zone",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -3865,14 +4041,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/917712245_800x450.png",
-      "releaseDate": "2020-07-01",
       "shortDescription": "Spiral Zone e18 When The Cat-s Away",
+      "releaseDate": "2020-07-01",
       "longDescription": "Spiral Zone e18 When The Cat-s Away",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -3896,14 +4072,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/917712159_800x450.png",
-      "releaseDate": "2020-07-01",
       "shortDescription": "Spiral Zone e17 Breakout",
+      "releaseDate": "2020-07-01",
       "longDescription": "Spiral Zone e17 Breakout",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -3924,14 +4100,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/917712055_800x450.png",
-      "releaseDate": "2020-07-01",
       "shortDescription": "Spiral Zone e16 Zone Train",
+      "releaseDate": "2020-07-01",
       "longDescription": "Spiral Zone e16 Zone Train",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -3952,14 +4128,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/917711886_800x450.png",
-      "releaseDate": "2020-07-01",
       "shortDescription": "Spiral Zone e15 The Sands Of Amaran",
+      "releaseDate": "2020-07-01",
       "longDescription": "Spiral Zone e15 The Sands Of Amaran",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -3980,14 +4156,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/917711762_800x450.png",
-      "releaseDate": "2020-07-01",
       "shortDescription": "Spiral Zone E14 Overlord-s Mystery Woman",
+      "releaseDate": "2020-07-01",
       "longDescription": "Spiral Zone E14 Overlord-s Mystery Woman",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -4008,14 +4184,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/917711676_800x450.png",
-      "releaseDate": "2020-07-01",
       "shortDescription": "Spiral Zone e13 The Hacker",
+      "releaseDate": "2020-07-01",
       "longDescription": "Spiral Zone e13 The Hacker",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -4036,14 +4212,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/917711531_800x450.png",
-      "releaseDate": "2020-07-01",
       "shortDescription": "Spiral Zone E12 The Imposter",
+      "releaseDate": "2020-07-01",
       "longDescription": "Spiral Zone E12 The Imposter",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -4064,14 +4240,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/917711402_800x450.png",
-      "releaseDate": "2020-07-01",
       "shortDescription": "Spiral Zone E11 Duel In Paradise",
+      "releaseDate": "2020-07-01",
       "longDescription": "Spiral Zone E11 Duel In Paradise",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -4092,14 +4268,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/895740143_800x450.png",
-      "releaseDate": "2020-05-19",
       "shortDescription": "Ep01 Spiral Zone Holographic Zone Battle",
+      "releaseDate": "2020-05-19",
       "longDescription": "Ep01 Spiral Zone Holographic Zone Battle",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -4120,14 +4296,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/895740079_800x450.png",
-      "releaseDate": "2020-05-19",
       "shortDescription": "Ep02 Spiral Zone  King of the Skies",
+      "releaseDate": "2020-05-19",
       "longDescription": "Ep02 Spiral Zone  King of the Skies",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -4148,14 +4324,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/895739853_800x450.png",
-      "releaseDate": "2020-05-19",
       "shortDescription": "Ep03 Spiral Zone  Errand of Mercy",
+      "releaseDate": "2020-05-19",
       "longDescription": "Ep03 Spiral Zone  Errand of Mercy",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -4176,14 +4352,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/895739507_800x450.png",
-      "releaseDate": "2020-05-19",
       "shortDescription": "Ep04  Spiral Zone Mission Into Evil",
+      "releaseDate": "2020-05-19",
       "longDescription": "Ep04  Spiral Zone Mission Into Evil",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -4204,14 +4380,14 @@
           "00:00:00"
         ]
       },
-      "genres": [
-        "technology"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/895739663_800x450.png",
-      "releaseDate": "2020-05-19",
       "shortDescription": "Ep05  Spiral Zone  Back To The Stone Age",
+      "releaseDate": "2020-05-19",
       "longDescription": "Ep05  Spiral Zone  Back To The Stone Age",
       "tags": [
+        "technology"
+      ],
+      "genres": [
         "technology"
       ]
     },
@@ -4229,14 +4405,14 @@
         ],
         "duration": 1353
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974533811_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "01 - Attack of the Space Terrapin",
+      "releaseDate": "2020-10-13",
       "longDescription": "01 - Attack of the Space Terrapin",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4260,14 +4436,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974534501_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "02 - Rescue of the Astronauts",
+      "releaseDate": "2020-10-13",
       "longDescription": "02 - Rescue of the Astronauts",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4285,14 +4461,14 @@
         ],
         "duration": 1388
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974536567_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "03 - The Space Mummy",
+      "releaseDate": "2020-10-13",
       "longDescription": "03 - The Space Mummy",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4316,14 +4492,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974537456_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "04 - The Space Serpent",
+      "releaseDate": "2020-10-13",
       "longDescription": "04 - The Space Serpent",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4347,14 +4523,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974539597_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "05 - Ghost Ship from Planet Mir",
+      "releaseDate": "2020-10-13",
       "longDescription": "05 - Ghost Ship from Planet Mir",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4378,14 +4554,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974540808_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "06 - Big Robot Gold Grab",
+      "releaseDate": "2020-10-13",
       "longDescription": "06 - Big Robot Gold Grab",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4409,14 +4585,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974542669_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "07 - Ace from Outer Space",
+      "releaseDate": "2020-10-13",
       "longDescription": "07 - Ace from Outer Space",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4440,14 +4616,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974543690_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "08 - Fearful Sea Anemone",
+      "releaseDate": "2020-10-13",
       "longDescription": "08 - Fearful Sea Anemone",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4471,14 +4647,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974544986_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "09 - Jupiter Moon Menace",
+      "releaseDate": "2020-10-13",
       "longDescription": "09 - Jupiter Moon Menace",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4502,14 +4678,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974547006_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "10 - Swarm of Robot Ants",
+      "releaseDate": "2020-10-13",
       "longDescription": "10 - Swarm of Robot Ants",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4532,14 +4708,14 @@
           "00:18:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974547957_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "11 - Space Rocket Escort",
+      "releaseDate": "2020-10-13",
       "longDescription": "11 - Space Rocket Escort",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4562,14 +4738,14 @@
           "00:18:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974549135_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "12 - Beast with a Sweet Tooth",
+      "releaseDate": "2020-10-13",
       "longDescription": "12 - Beast with a Sweet Tooth",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4592,14 +4768,14 @@
           "00:18:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974550707_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "13 - Perilous Pleasure Cruise",
+      "releaseDate": "2020-10-13",
       "longDescription": "13 - Perilous Pleasure Cruise",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4622,14 +4798,14 @@
           "00:18:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974552071_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "14 - The Thing with 1000 Eyes",
+      "releaseDate": "2020-10-13",
       "longDescription": "14 - The Thing with 1000 Eyes",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4653,14 +4829,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974553771_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "15 - Microfilm Mystery",
+      "releaseDate": "2020-10-13",
       "longDescription": "15 - Microfilm Mystery",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4684,14 +4860,14 @@
           "00:24:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974555236_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "16 - The Alien Beetles",
+      "releaseDate": "2020-10-13",
       "longDescription": "16 - The Alien Beetles",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4715,14 +4891,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974556384_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "17 - Whale Joins G-Force",
+      "releaseDate": "2020-10-13",
       "longDescription": "17 - Whale Joins G-Force",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4746,14 +4922,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974557937_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "18 - Mad New Ruler of Spectra",
+      "releaseDate": "2020-10-13",
       "longDescription": "18 - Mad New Ruler of Spectra",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4777,14 +4953,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974559743_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "19 - The Sea Dragon",
+      "releaseDate": "2020-10-13",
       "longDescription": "19 - The Sea Dragon",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4808,14 +4984,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974561569_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "20 - Magnetic Attraction",
+      "releaseDate": "2020-10-13",
       "longDescription": "20 - Magnetic Attraction",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4839,14 +5015,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974562947_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "21 - The Musical Mummy",
+      "releaseDate": "2020-10-13",
       "longDescription": "21 - The Musical Mummy",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4870,14 +5046,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974564285_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "22 - The Fiery Lava Giant",
+      "releaseDate": "2020-10-13",
       "longDescription": "22 - The Fiery Lava Giant",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4901,14 +5077,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974565733_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "23 - The Bat Ray Bombers",
+      "releaseDate": "2020-10-13",
       "longDescription": "23 - The Bat Ray Bombers",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4932,14 +5108,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974567444_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "24 - Race Against Disaster",
+      "releaseDate": "2020-10-13",
       "longDescription": "24 - Race Against Disaster",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4963,14 +5139,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974579417_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "25 - The Ghostly Grasshopper",
+      "releaseDate": "2020-10-13",
       "longDescription": "25 - The Ghostly Grasshopper",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -4994,14 +5170,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "anime"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/974570660_800x450.png",
-      "releaseDate": "2020-10-13",
       "shortDescription": "26 - The Galaxy Girls",
+      "releaseDate": "2020-10-13",
       "longDescription": "26 - The Galaxy Girls",
       "tags": [
+        "anime"
+      ],
+      "genres": [
         "anime"
       ]
     },
@@ -5029,15 +5205,15 @@
           "01:20:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/997998964_800x450.png",
-      "releaseDate": "2020-11-19",
       "shortDescription": "CARTOON BLAST ACTION HOUR 1.1",
+      "releaseDate": "2020-11-19",
       "longDescription": "CARTOON BLAST ACTION HOUR 1.1",
       "tags": [
         "ACTION-HOUR"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -5064,15 +5240,15 @@
           "01:20:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/999227320_800x450.png",
-      "releaseDate": "2020-11-20",
       "shortDescription": "CARTOON BLAST ACTION HOUR 1.2",
+      "releaseDate": "2020-11-20",
       "longDescription": "CARTOON BLAST ACTION HOUR 1.2",
       "tags": [
         "ACTION-HOUR"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -5093,14 +5269,14 @@
           "00:08:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955509943_800x450.png",
-      "releaseDate": "2020-09-11",
       "shortDescription": "The Freedom Force - The Dragon Riders",
+      "releaseDate": "2020-09-11",
       "longDescription": "The Freedom Force - The Dragon Riders",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5122,14 +5298,14 @@
           "00:10:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955510001_800x450.png",
-      "releaseDate": "2020-09-11",
       "shortDescription": "The Freedom Force - The Scarlet Samurai",
+      "releaseDate": "2020-09-11",
       "longDescription": "The Freedom Force - The Scarlet Samurai",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5151,14 +5327,14 @@
           "00:08:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955510049_800x450.png",
-      "releaseDate": "2020-09-11",
       "shortDescription": "The Freedom Force Season 1 Episode 1",
+      "releaseDate": "2020-09-11",
       "longDescription": "The Freedom Force Season 1 Episode 1",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5180,14 +5356,14 @@
           "00:10:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955510241_800x450.png",
-      "releaseDate": "2020-09-11",
       "shortDescription": "The Freedom Force Season 1 Episode 2",
+      "releaseDate": "2020-09-11",
       "longDescription": "The Freedom Force Season 1 Episode 2",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5209,14 +5385,14 @@
           "00:10:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955510291_800x450.png",
-      "releaseDate": "2020-09-11",
       "shortDescription": "The Freedom Force Season 1 Episode 3",
+      "releaseDate": "2020-09-11",
       "longDescription": "The Freedom Force Season 1 Episode 3",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5238,14 +5414,14 @@
           "00:08:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955510379_800x450.png",
-      "releaseDate": "2020-09-11",
       "shortDescription": "The Freedom Force Season 1 Episode 4",
+      "releaseDate": "2020-09-11",
       "longDescription": "The Freedom Force Season 1 Episode 4",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5267,14 +5443,14 @@
           "00:10:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955510485_800x450.png",
-      "releaseDate": "2020-09-11",
       "shortDescription": "The Freedom Force Season 1 Episode 5",
+      "releaseDate": "2020-09-11",
       "longDescription": "The Freedom Force Season 1 Episode 5",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5298,14 +5474,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955485124_800x450.png",
-      "releaseDate": "2020-09-10",
       "shortDescription": "Fauna",
+      "releaseDate": "2020-09-10",
       "longDescription": "Fauna",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5329,14 +5505,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955484924_800x450.png",
-      "releaseDate": "2020-09-10",
       "shortDescription": "Commander Nemo",
+      "releaseDate": "2020-09-10",
       "longDescription": "Commander Nemo",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5360,14 +5536,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955484624_800x450.png",
-      "releaseDate": "2020-09-10",
       "shortDescription": "The Wizard of Od",
+      "releaseDate": "2020-09-10",
       "longDescription": "The Wizard of Od",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5391,14 +5567,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955484289_800x450.png",
-      "releaseDate": "2020-09-10",
       "shortDescription": "The Time Traveler",
+      "releaseDate": "2020-09-10",
       "longDescription": "The Time Traveler",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5422,14 +5598,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955484082_800x450.png",
-      "releaseDate": "2020-09-10",
       "shortDescription": "The Return of Anubis",
+      "releaseDate": "2020-09-10",
       "longDescription": "The Return of Anubis",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5453,14 +5629,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955483853_800x450.png",
-      "releaseDate": "2020-09-10",
       "shortDescription": "The Prime Sentinel",
+      "releaseDate": "2020-09-10",
       "longDescription": "The Prime Sentinel",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5484,14 +5660,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955483693_800x450.png",
-      "releaseDate": "2020-09-10",
       "shortDescription": "The Jupiter Spore",
+      "releaseDate": "2020-09-10",
       "longDescription": "The Jupiter Spore",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5515,14 +5691,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955483604_800x450.png",
-      "releaseDate": "2020-09-10",
       "shortDescription": "Morpheus the Sinister Sentinel",
+      "releaseDate": "2020-09-10",
       "longDescription": "Morpheus the Sinister Sentinel",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5546,14 +5722,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955483378_800x450.png",
-      "releaseDate": "2020-09-10",
       "shortDescription": "Loki",
+      "releaseDate": "2020-09-10",
       "longDescription": "Loki",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5577,14 +5753,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955516364_800x450.png",
-      "releaseDate": "2020-09-11",
       "shortDescription": "The World Ship",
+      "releaseDate": "2020-09-11",
       "longDescription": "The World Ship",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5608,14 +5784,14 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "miniseries"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/955515730_800x450.png",
-      "releaseDate": "2020-09-11",
       "shortDescription": "Space Giants",
+      "releaseDate": "2020-09-11",
       "longDescription": "Space Giants",
       "tags": [
+        "miniseries"
+      ],
+      "genres": [
         "miniseries"
       ]
     },
@@ -5675,15 +5851,15 @@
           "03:20:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1031644720_800x450.png",
-      "releaseDate": "2021-01-08",
       "shortDescription": "CARTOON BLAST 80s NICK EDITION 2",
+      "releaseDate": "2021-01-08",
       "longDescription": "CARTOON BLAST 80s NICK EDITION 2",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -5723,14 +5899,14 @@
           "01:45:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1030983578_800x450.png",
-      "releaseDate": "2021-01-07",
       "shortDescription": "cartoonblast looney tunes v1",
+      "releaseDate": "2021-01-07",
       "longDescription": "cartoonblast looney tunes v1",
       "tags": [
+        "special"
+      ],
+      "genres": [
         "special"
       ]
     },
@@ -5795,15 +5971,15 @@
           "03:45:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1029806058_800x450.png",
-      "releaseDate": "2021-01-06",
       "shortDescription": "CARTOON BLAST 80s NICK EDITION pt.1",
+      "releaseDate": "2021-01-06",
       "longDescription": "CARTOON BLAST 80s NICK EDITION pt.1",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -5877,15 +6053,15 @@
           "05:30:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1030329784_800x450.png",
-      "releaseDate": "2021-01-05",
       "shortDescription": "Star Wars DROIDS -1985",
+      "releaseDate": "2021-01-05",
       "longDescription": "Star Wars DROIDS -1985",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -5985,15 +6161,15 @@
           "06:45:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1029230763_800x450.png",
-      "releaseDate": "2021-01-05",
       "shortDescription": "Star Wars - Ewoks",
+      "releaseDate": "2021-01-05",
       "longDescription": "Star Wars - Ewoks",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -6016,15 +6192,15 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1029225080_800x450.png",
-      "releaseDate": "2021-01-05",
       "shortDescription": "The Velveteen Rabbit",
+      "releaseDate": "2021-01-05",
       "longDescription": "The Velveteen Rabbit",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -6095,15 +6271,15 @@
           "02:36:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1042101816_800x450.png",
-      "releaseDate": "2021-01-22",
       "shortDescription": "SHAZAM PT.1",
+      "releaseDate": "2021-01-22",
       "longDescription": "SHAZAM PT.1",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -6144,16 +6320,16 @@
           "01:28:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1042329576_800x450.png",
-      "releaseDate": "2021-01-21",
       "shortDescription": "ACTIONHOUR1.5",
+      "releaseDate": "2021-01-21",
       "longDescription": "ACTIONHOUR1.5",
       "tags": [
         "action",
         "ACTION-HOUR"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -6201,16 +6377,16 @@
           "01:27:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1042328372_800x450.png",
-      "releaseDate": "2021-01-17",
       "shortDescription": "ACTIONHOUR 1.4",
+      "releaseDate": "2021-01-17",
       "longDescription": "ACTIONHOUR 1.4",
       "tags": [
         "action",
         "ACTION-HOUR"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -6247,15 +6423,15 @@
           "01:12:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1051795499_800x450.png",
-      "releaseDate": "2021-02-03",
       "shortDescription": "Here Come the Littles -1985-",
+      "releaseDate": "2021-02-03",
       "longDescription": "Here Come the Littles -1985-",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -6287,14 +6463,14 @@
           "01:05:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1050908622_800x450.png",
-      "releaseDate": "2021-02-02",
       "shortDescription": "CARTOON BLAST LOONEY TUNES-pt2",
+      "releaseDate": "2021-02-02",
       "longDescription": "CARTOON BLAST LOONEY TUNES-pt2",
       "tags": [
+        "special"
+      ],
+      "genres": [
         "special"
       ]
     },
@@ -6324,14 +6500,14 @@
           "00:50:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1050901371_800x450.png",
-      "releaseDate": "2021-02-02",
       "shortDescription": "HULK",
+      "releaseDate": "2021-02-02",
       "longDescription": "HULK",
       "tags": [
+        "special"
+      ],
+      "genres": [
         "special"
       ]
     },
@@ -6383,15 +6559,15 @@
           "02:08:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1053602380_800x450.png",
-      "releaseDate": "2021-02-02",
       "shortDescription": "SAILORMOON1",
+      "releaseDate": "2021-02-02",
       "longDescription": "SAILORMOON1",
       "tags": [
         "90S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -6435,15 +6611,15 @@
           "01:40:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1056076814_800x450.png",
-      "releaseDate": "2021-02-09",
       "shortDescription": "Fox-s Peter Pan - The Pirates",
+      "releaseDate": "2021-02-09",
       "longDescription": "Fox-s Peter Pan - The Pirates",
       "tags": [
         "90S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -6500,15 +6676,15 @@
           "02:32:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1056061962_800x450.png",
-      "releaseDate": "2021-02-09",
       "shortDescription": "The GLO Friends  -1986-",
+      "releaseDate": "2021-02-09",
       "longDescription": "The GLO Friends  -1986-",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -6537,15 +6713,15 @@
           "00:50:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1056060382_800x450.png",
-      "releaseDate": "2021-02-09",
       "shortDescription": "Potato Head Kids -English-",
+      "releaseDate": "2021-02-09",
       "longDescription": "Potato Head Kids -English-",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -6575,15 +6751,15 @@
           "00:55:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1055878705_800x450.png",
-      "releaseDate": "2021-02-08",
       "shortDescription": "HELLO KITTYPT-1",
+      "releaseDate": "2021-02-08",
       "longDescription": "HELLO KITTYPT-1",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -6612,15 +6788,15 @@
           "00:40:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1055870860_800x450.png",
-      "releaseDate": "2021-02-08",
       "shortDescription": "Camp Candy - Christmas in July and When it RainsIt Snows",
+      "releaseDate": "2021-02-08",
       "longDescription": "Camp Candy - Christmas in July and When it RainsIt Snows",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -6679,15 +6855,15 @@
           "02:00:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1055869799_800x450.png",
-      "releaseDate": "2021-02-08",
       "shortDescription": "CBS STORYPT1",
+      "releaseDate": "2021-02-08",
       "longDescription": "CBS STORYPT1",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -6720,15 +6896,15 @@
           "00:42:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1058634375_800x450.png",
-      "releaseDate": "2021-02-11",
       "shortDescription": "RING RAIDERS -1988-",
+      "releaseDate": "2021-02-11",
       "longDescription": "RING RAIDERS -1988-",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -6768,16 +6944,16 @@
           "01:24:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1058633709_800x450.png",
-      "releaseDate": "2021-02-11",
       "shortDescription": "BraveStarr The Movie",
+      "releaseDate": "2021-02-11",
       "longDescription": "BraveStarr The Movie",
       "tags": [
         "80S-CARTOONS",
         "CARTOON-MOVIES"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -6814,15 +6990,15 @@
           "01:12:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1058629252_800x450.png",
-      "releaseDate": "2021-02-11",
       "shortDescription": "Heathcliff The Movie",
+      "releaseDate": "2021-02-11",
       "longDescription": "Heathcliff The Movie",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -6865,15 +7041,15 @@
           "01:36:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1058626269_800x450.png",
-      "releaseDate": "2021-02-11",
       "shortDescription": "Phantom 2040 - 1x01-05",
+      "releaseDate": "2021-02-11",
       "longDescription": "Phantom 2040 - 1x01-05",
       "tags": [
         "90S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -6957,15 +7133,15 @@
           "04:20:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1058620617_800x450.png",
-      "releaseDate": "2021-02-11",
       "shortDescription": "Mortal Kombat Defenders of the Realm",
+      "releaseDate": "2021-02-11",
       "longDescription": "Mortal Kombat Defenders of the Realm",
       "tags": [
         "90S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7008,14 +7184,14 @@
           "01:12:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1065359323_800x450.png",
-      "releaseDate": "2021-02-19",
       "shortDescription": "GIANTATOR",
+      "releaseDate": "2021-02-19",
       "longDescription": "GIANTATOR",
       "tags": [
+        "special"
+      ],
+      "genres": [
         "special"
       ]
     },
@@ -7056,15 +7232,15 @@
           "01:03:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1065310615_800x450.png",
-      "releaseDate": "2021-02-19",
       "shortDescription": "BigGuy and Rusty",
+      "releaseDate": "2021-02-19",
       "longDescription": "BigGuy and Rusty",
       "tags": [
         "90S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7111,15 +7287,15 @@
           "01:24:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1065359950_800x450.png",
-      "releaseDate": "2021-02-19",
       "shortDescription": "WISH-KID",
+      "releaseDate": "2021-02-19",
       "longDescription": "WISH-KID",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7152,15 +7328,15 @@
           "00:42:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1065360590_800x450.png",
-      "releaseDate": "2021-02-19",
       "shortDescription": "Action Hour 1.6",
+      "releaseDate": "2021-02-19",
       "longDescription": "Action Hour 1.6",
       "tags": [
         "ACTION-HOUR"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7193,15 +7369,15 @@
           "00:42:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1064417680_800x450.png",
-      "releaseDate": "2021-02-18",
       "shortDescription": "CARTOON BLAST GIRLS FUN HOUR-1.2",
+      "releaseDate": "2021-02-18",
       "longDescription": "CARTOON BLAST GIRLS FUN HOUR-1.2",
       "tags": [
         "CARTOON-BLAST-GIRLS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7231,15 +7407,15 @@
           "00:44:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1064422229_800x450.png",
-      "releaseDate": "2021-02-18",
       "shortDescription": "CARTOON BLAST GIRLS FUN HOUR",
+      "releaseDate": "2021-02-18",
       "longDescription": "CARTOON BLAST GIRLS FUN HOUR",
       "tags": [
         "CARTOON-BLAST-GIRLS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7269,15 +7445,15 @@
           "00:44:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1071438380_800x450.png",
-      "releaseDate": "2021-02-25",
       "shortDescription": "Action Hour 1.7",
+      "releaseDate": "2021-02-25",
       "longDescription": "Action Hour 1.7",
       "tags": [
         "ACTION-HOUR"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7312,14 +7488,14 @@
           "00:48:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1092021026_800x450.png",
-      "releaseDate": "2021-03-21",
       "shortDescription": "cartoon blast- anime fairy tales.mp4",
+      "releaseDate": "2021-03-21",
       "longDescription": "cartoon blast- anime fairy tales.mp4",
       "tags": [
+        "special"
+      ],
+      "genres": [
         "special"
       ]
     },
@@ -7350,14 +7526,14 @@
           "00:44:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1092021571_800x450.png",
-      "releaseDate": "2021-03-21",
       "shortDescription": "cartoon blast- anime fairy tales-2.mp4",
+      "releaseDate": "2021-03-21",
       "longDescription": "cartoon blast- anime fairy tales-2.mp4",
       "tags": [
+        "special"
+      ],
+      "genres": [
         "special"
       ]
     },
@@ -7408,14 +7584,14 @@
           "02:35:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1090998191_800x450.png",
-      "releaseDate": "2021-03-21",
       "shortDescription": "MIGHTY-THOR.mp4",
+      "releaseDate": "2021-03-21",
       "longDescription": "MIGHTY-THOR.mp4",
       "tags": [
+        "special"
+      ],
+      "genres": [
         "special"
       ]
     },
@@ -7442,14 +7618,14 @@
           "00:56:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1083290523_800x450.png",
-      "releaseDate": "2021-03-13",
       "shortDescription": "Marvel-heroes.mp4",
+      "releaseDate": "2021-03-13",
       "longDescription": "Marvel-heroes.mp4",
       "tags": [
+        "special"
+      ],
+      "genres": [
         "special"
       ]
     },
@@ -7476,15 +7652,15 @@
           "00:42:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1090964611_800x450.png",
-      "releaseDate": "2021-03-13",
       "shortDescription": "CARTOON BLAST GIRLS FUN HOUR 1.4",
+      "releaseDate": "2021-03-13",
       "longDescription": "CARTOON BLAST GIRLS FUN HOUR 1.4",
       "tags": [
         "CARTOON-BLAST-GIRLS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7514,15 +7690,15 @@
           "00:44:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1071438797_800x450.png",
-      "releaseDate": "2021-02-25",
       "shortDescription": "CARTOON BLAST GIRLS FUN HOUR-1.3",
+      "releaseDate": "2021-02-25",
       "longDescription": "CARTOON BLAST GIRLS FUN HOUR-1.3",
       "tags": [
         "CARTOON-BLAST-GIRLS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7555,15 +7731,15 @@
           "01:24:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1092019351_800x450.png",
-      "releaseDate": "2021-03-22",
       "shortDescription": "action-hour-final.mp4",
+      "releaseDate": "2021-03-22",
       "longDescription": "action-hour-final.mp4",
       "tags": [
         "ACTION-HOUR"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7593,15 +7769,15 @@
           "01:06:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1095817395_800x450.png",
-      "releaseDate": "2021-03-26",
       "shortDescription": "NEW-ARCHIE-02.mp4",
+      "releaseDate": "2021-03-26",
       "longDescription": "NEW-ARCHIE-02.mp4",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7631,15 +7807,15 @@
           "00:44:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1095827710_800x450.png",
-      "releaseDate": "2021-03-26",
       "shortDescription": "monster-v-battletech.mp4",
+      "releaseDate": "2021-03-26",
       "longDescription": "monster-v-battletech.mp4",
       "tags": [
         "90S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7671,14 +7847,14 @@
           "01:05:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1093868711_800x450.png",
-      "releaseDate": "2021-03-24",
       "shortDescription": "HE-MAN-2002.mp4",
+      "releaseDate": "2021-03-24",
       "longDescription": "HE-MAN-2002.mp4",
       "tags": [
+        "special"
+      ],
+      "genres": [
         "special"
       ]
     },
@@ -7705,15 +7881,15 @@
           "00:56:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1093877651_800x450.png",
-      "releaseDate": "2021-03-24",
       "shortDescription": "HELLOKITTY-PT2.mp4",
+      "releaseDate": "2021-03-24",
       "longDescription": "HELLOKITTY-PT2.mp4",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7787,15 +7963,15 @@
           "05:30:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1104451282_800x450.png",
-      "releaseDate": "2021-04-06",
       "shortDescription": "Cartoon Blast Mix09",
+      "releaseDate": "2021-04-06",
       "longDescription": "Cartoon Blast Mix09",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7822,15 +7998,15 @@
           "00:48:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1104283339_800x450.png",
-      "releaseDate": "2021-04-06",
       "shortDescription": "Cartoon Blast-Action Hour-Season 2.1",
+      "releaseDate": "2021-04-06",
       "longDescription": "Cartoon Blast-Action Hour-Season 2.1",
       "tags": [
         "ACTION-HOUR"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7858,15 +8034,15 @@
           "00:45:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1104272818_800x450.png",
-      "releaseDate": "2021-04-06",
       "shortDescription": "Cartoon Blast-Action Hour-Season 2.0",
+      "releaseDate": "2021-04-06",
       "longDescription": "Cartoon Blast-Action Hour-Season 2.0",
       "tags": [
         "ACTION-HOUR"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7894,15 +8070,15 @@
           "00:45:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1099382076_800x450.png",
-      "releaseDate": "2021-03-31",
       "shortDescription": "CARTOON BLAST-GIRLS HOUR-1.5.mp4",
+      "releaseDate": "2021-03-31",
       "longDescription": "CARTOON BLAST-GIRLS HOUR-1.5.mp4",
       "tags": [
         "CARTOON-BLAST-GIRLS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7932,15 +8108,15 @@
           "00:44:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1104172227_800x450.png",
-      "releaseDate": "2021-04-06",
       "shortDescription": "CARTOON BLAST-GIRLS HOUR-1.6.mp4",
+      "releaseDate": "2021-04-06",
       "longDescription": "CARTOON BLAST-GIRLS HOUR-1.6.mp4",
       "tags": [
         "CARTOON-BLAST-GIRLS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -7970,15 +8146,15 @@
           "00:44:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1104199394_800x450.png",
-      "releaseDate": "2021-04-06",
       "shortDescription": "CARTOON BLAST-GIRLS HOUR-1.7",
+      "releaseDate": "2021-04-06",
       "longDescription": "CARTOON BLAST-GIRLS HOUR-1.7",
       "tags": [
         "CARTOON-BLAST-GIRLS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8049,16 +8225,16 @@
           "03:28:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1107841248_800x450.png",
-      "releaseDate": "2021-04-10",
       "shortDescription": "MIX OF SATURDAY MORNING CARTOONS",
+      "releaseDate": "2021-04-10",
       "longDescription": "MIX OF SATURDAY MORNING CARTOONS",
       "tags": [
         "special",
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8081,15 +8257,15 @@
           "00:20:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1107841689_800x450.png",
-      "releaseDate": "2021-04-10",
       "shortDescription": "Tamaandfriends-01",
+      "releaseDate": "2021-04-10",
       "longDescription": "Tamaandfriends-01",
       "tags": [
         "90S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8131,14 +8307,14 @@
           "00:46:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1112319638_800x450.png",
-      "releaseDate": "2021-04-15",
       "shortDescription": "Cartoon Blast- Anime Fairy Tales-4",
+      "releaseDate": "2021-04-15",
       "longDescription": "Cartoon Blast- Anime Fairy Tales-4",
       "tags": [
+        "special"
+      ],
+      "genres": [
         "special"
       ]
     },
@@ -8167,14 +8343,14 @@
           "00:45:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1112236476_800x450.png",
-      "releaseDate": "2021-04-15",
       "shortDescription": "Cartoon Blast- Anime Fairy Tales-3",
+      "releaseDate": "2021-04-15",
       "longDescription": "Cartoon Blast- Anime Fairy Tales-3",
       "tags": [
+        "special"
+      ],
+      "genres": [
         "special"
       ]
     },
@@ -8202,14 +8378,14 @@
           "00:56:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1112174068_800x450.png",
-      "releaseDate": "2021-04-14",
       "shortDescription": "King-Kong01-1966",
+      "releaseDate": "2021-04-14",
       "longDescription": "King-Kong01-1966",
       "tags": [
+        "special"
+      ],
+      "genres": [
         "special"
       ]
     },
@@ -8267,15 +8443,15 @@
           "03:48:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1110926123_800x450.png",
-      "releaseDate": "2021-04-13",
       "shortDescription": "Saturday Blast 12-",
+      "releaseDate": "2021-04-13",
       "longDescription": "Saturday Blast 12-",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8322,15 +8498,15 @@
           "03:44:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1110924974_800x450.png",
-      "releaseDate": "2021-04-13",
       "shortDescription": "Saturday Blast Mix 11",
+      "releaseDate": "2021-04-13",
       "longDescription": "Saturday Blast Mix 11",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8357,15 +8533,15 @@
           "01:04:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1114515173_800x450.png",
-      "releaseDate": "2021-04-18",
       "shortDescription": "Wildcats-1.mp4",
+      "releaseDate": "2021-04-18",
       "longDescription": "Wildcats-1.mp4",
       "tags": [
         "90S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8400,15 +8576,15 @@
           "02:08:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1114513760_800x450.png",
-      "releaseDate": "2021-04-18",
       "shortDescription": "Double Dragon 90'S-",
+      "releaseDate": "2021-04-18",
       "longDescription": "Double Dragon 90'S-",
       "tags": [
         "90S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8434,15 +8610,15 @@
           "01:03:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1114514627_800x450.png",
-      "releaseDate": "2021-04-18",
       "shortDescription": "Cadillac And Dino-1",
+      "releaseDate": "2021-04-18",
       "longDescription": "Cadillac And Dino-1",
       "tags": [
         "90S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8468,15 +8644,15 @@
           "00:49:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1114820295_800x450.png",
-      "releaseDate": "2021-04-18",
       "shortDescription": "Bananaman Full-1.mp4",
+      "releaseDate": "2021-04-18",
       "longDescription": "Bananaman Full-1.mp4",
       "tags": [
         "80S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8517,15 +8693,15 @@
           "01:50:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1114832321_800x450.png",
-      "releaseDate": "2021-04-18",
       "shortDescription": "Swamp-Thing-1.mp4",
+      "releaseDate": "2021-04-18",
       "longDescription": "Swamp-Thing-1.mp4",
       "tags": [
         "90S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8551,15 +8727,15 @@
           "00:42:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1117605823_800x450.png",
-      "releaseDate": "2021-04-19",
       "shortDescription": "cybersix-calamity.mp4",
+      "releaseDate": "2021-04-19",
       "longDescription": "cybersix-calamity.mp4",
       "tags": [
         "90S-CARTOONS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8616,15 +8792,15 @@
           "03:10:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1118458398_800x450.png",
-      "releaseDate": "2021-04-22",
       "shortDescription": "Saturday Blast Mix-13",
+      "releaseDate": "2021-04-22",
       "longDescription": "Saturday Blast Mix-13",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8688,15 +8864,15 @@
           "03:45:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1121334449_800x450.png",
-      "releaseDate": "2021-04-25",
       "shortDescription": "Saturday Blast Mix 14",
+      "releaseDate": "2021-04-25",
       "longDescription": "Saturday Blast Mix 14",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8724,15 +8900,15 @@
           "01:03:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1091943085_800x450.png",
-      "releaseDate": "2021-03-22",
       "shortDescription": "CARTOON BLAST-GIRLS FUN HOUR-2.0",
+      "releaseDate": "2021-03-22",
       "longDescription": "CARTOON BLAST-GIRLS FUN HOUR-2.0",
       "tags": [
         "CARTOON-BLAST-GIRLS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8756,15 +8932,15 @@
           "00:40:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1099315858_800x450.png",
-      "releaseDate": "2021-03-31",
       "shortDescription": "CARTOON BLAST GIRL HOUR-2.1",
+      "releaseDate": "2021-03-31",
       "longDescription": "CARTOON BLAST GIRL HOUR-2.1",
       "tags": [
         "CARTOON-BLAST-GIRLS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8789,15 +8965,15 @@
           "00:42:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1099317855_800x450.png",
-      "releaseDate": "2021-03-31",
       "shortDescription": "CARTOON BLAST GIRL HOUR-2.2",
+      "releaseDate": "2021-03-31",
       "longDescription": "CARTOON BLAST GIRL HOUR-2.2",
       "tags": [
         "CARTOON-BLAST-GIRLS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8823,15 +8999,15 @@
           "00:42:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1099343069_800x450.png",
-      "releaseDate": "2021-03-31",
       "shortDescription": "CARTOONBLAST-GIRL HOUR-2.3",
+      "releaseDate": "2021-03-31",
       "longDescription": "CARTOONBLAST-GIRL HOUR-2.3",
       "tags": [
         "CARTOON-BLAST-GIRLS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8857,15 +9033,15 @@
           "00:42:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1125348789_800x450.png",
-      "releaseDate": "2021-04-30",
       "shortDescription": "Cartoonblast-Girl Hour-2.4",
+      "releaseDate": "2021-04-30",
       "longDescription": "Cartoonblast-Girl Hour-2.4",
       "tags": [
         "CARTOON-BLAST-GIRLS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8893,15 +9069,15 @@
           "00:45:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1125349308_800x450.png",
-      "releaseDate": "2021-04-30",
       "shortDescription": "Cartoonblast-Girl Hour-2.5",
+      "releaseDate": "2021-04-30",
       "longDescription": "Cartoonblast-Girl Hour-2.5",
       "tags": [
         "CARTOON-BLAST-GIRLS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8928,15 +9104,15 @@
           "00:40:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1125351317_800x450.png",
-      "releaseDate": "2021-04-30",
       "shortDescription": "Cartoonblast-Girl Hour-2.6",
+      "releaseDate": "2021-04-30",
       "longDescription": "Cartoonblast-Girl Hour-2.6",
       "tags": [
         "CARTOON-BLAST-GIRLS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -8964,15 +9140,15 @@
           "00:45:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1125352109_800x450.png",
-      "releaseDate": "2021-04-30",
       "shortDescription": "Cartoonblast-Girl Hour-2.7",
+      "releaseDate": "2021-04-30",
       "longDescription": "Cartoonblast-Girl Hour-2.7",
       "tags": [
         "CARTOON-BLAST-GIRLS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -9000,15 +9176,15 @@
           "00:45:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1125353085_800x450.png",
-      "releaseDate": "2021-04-30",
       "shortDescription": "Cartoonblast-Girl Hour-2.8",
+      "releaseDate": "2021-04-30",
       "longDescription": "Cartoonblast-Girl Hour-2.8",
       "tags": [
         "CARTOON-BLAST-GIRLS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -9062,15 +9238,15 @@
           "05:15:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1136902805_800x450.png",
-      "releaseDate": "2021-05-13",
       "shortDescription": "Saturday-Mix16-",
+      "releaseDate": "2021-05-13",
       "longDescription": "Saturday-Mix16-",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -9118,15 +9294,15 @@
           "04:21:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1143899548_800x450.png",
-      "releaseDate": "2021-05-22",
       "shortDescription": "Saturday Blast Mix 17-",
+      "releaseDate": "2021-05-22",
       "longDescription": "Saturday Blast Mix 17-",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -9153,15 +9329,15 @@
           "01:04:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1149978007_800x450.png",
-      "releaseDate": "2021-05-29",
       "shortDescription": "Saturday Blast Mix-18-part 1",
+      "releaseDate": "2021-05-29",
       "longDescription": "Saturday Blast Mix-18-part 1",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -9201,15 +9377,15 @@
           "02:48:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1151401682_800x450.png",
-      "releaseDate": "2021-05-31",
       "shortDescription": "Saturday Blast Mix-18 part 2",
+      "releaseDate": "2021-05-31",
       "longDescription": "Saturday Blast Mix-18 part 2",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -9262,15 +9438,15 @@
           "03:58:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1156056692_800x450.png",
-      "releaseDate": "2021-06-05",
       "shortDescription": "Saturday Blast-19",
+      "releaseDate": "2021-06-05",
       "longDescription": "Saturday Blast-19",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -9298,14 +9474,14 @@
           "00:45:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1132322950_800x450.png",
-      "releaseDate": "2021-05-07",
       "shortDescription": "ACTION HOUR 2.3.mp4",
+      "releaseDate": "2021-05-07",
       "longDescription": "ACTION HOUR 2.3.mp4",
       "tags": [
+        "special"
+      ],
+      "genres": [
         "special"
       ]
     },
@@ -9354,15 +9530,15 @@
           "04:50:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1130754858_800x450.png",
-      "releaseDate": "2021-05-06",
       "shortDescription": "Saturday-Blast-Mix15",
+      "releaseDate": "2021-05-06",
       "longDescription": "Saturday-Blast-Mix15",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -9390,15 +9566,15 @@
           "00:45:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1170437363_800x450.png",
-      "releaseDate": "2021-06-22",
       "shortDescription": "Action-Hour 2.4",
+      "releaseDate": "2021-06-22",
       "longDescription": "Action-Hour 2.4",
       "tags": [
         "ACTION-HOUR"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -9426,15 +9602,15 @@
           "00:45:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1170385340_800x450.png",
-      "releaseDate": "2021-06-22",
       "shortDescription": "Action-Hour-2.2",
+      "releaseDate": "2021-06-22",
       "longDescription": "Action-Hour-2.2",
       "tags": [
         "ACTION-HOUR"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -9462,15 +9638,15 @@
           "00:45:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1170437742_800x450.png",
-      "releaseDate": "2021-06-22",
       "shortDescription": "action hour 2.5.mp4",
+      "releaseDate": "2021-06-22",
       "longDescription": "action hour 2.5.mp4",
       "tags": [
         "ACTION-HOUR"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -9533,15 +9709,15 @@
           "07:20:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1161826728_800x450.png",
-      "releaseDate": "2021-06-12",
       "shortDescription": "Saturday Blast Mix-20-",
+      "releaseDate": "2021-06-12",
       "longDescription": "Saturday Blast Mix-20-",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -9579,14 +9755,14 @@
           "01:35:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1176155778_800x450.png",
-      "releaseDate": "2021-06-28",
       "shortDescription": "Robin hood-Anime-01",
+      "releaseDate": "2021-06-28",
       "longDescription": "Robin hood-Anime-01",
       "tags": [
+        "special"
+      ],
+      "genres": [
         "special"
       ],
       "rating": {
@@ -9642,14 +9818,14 @@
           "02:40:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1176154265_800x450.png",
-      "releaseDate": "2021-06-28",
       "shortDescription": "Moondreamers-Full",
+      "releaseDate": "2021-06-28",
       "longDescription": "Moondreamers-Full",
       "tags": [
+        "special"
+      ],
+      "genres": [
         "special"
       ],
       "rating": {
@@ -9689,14 +9865,14 @@
           "01:20:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1176150030_800x450.png",
-      "releaseDate": "2021-06-28",
       "shortDescription": "Dino-Riders-1",
+      "releaseDate": "2021-06-28",
       "longDescription": "Dino-Riders-1",
       "tags": [
+        "special"
+      ],
+      "genres": [
         "special"
       ],
       "rating": {
@@ -9737,14 +9913,14 @@
           "01:25:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1176149112_800x450.png",
-      "releaseDate": "2021-06-28",
       "shortDescription": "Monster-V- Tech-02",
+      "releaseDate": "2021-06-28",
       "longDescription": "Monster-V- Tech-02",
       "tags": [
+        "special"
+      ],
+      "genres": [
         "special"
       ],
       "rating": {
@@ -9843,16 +10019,16 @@
           "06:15:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1169040908_800x450.png",
-      "releaseDate": "2021-06-20",
       "shortDescription": "Saturday Blast Mix21",
+      "releaseDate": "2021-06-20",
       "longDescription": "Saturday Blast Mix21",
       "tags": [
         "special",
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ],
       "rating": {
         "rating": "TVG",
@@ -9904,16 +10080,16 @@
           "02:25:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1178420905_800x450.png",
-      "releaseDate": "2021-07-01",
       "shortDescription": "Cartoon Overload-Comp-01",
+      "releaseDate": "2021-07-01",
       "longDescription": "Cartoon Overload-Comp-01",
       "tags": [
         "special",
         "CARTOON-OVERLOAD"
+      ],
+      "genres": [
+        "special"
       ],
       "rating": {
         "rating": "TVG",
@@ -9964,16 +10140,16 @@
           "02:48:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1178426285_800x450.png",
-      "releaseDate": "2021-07-01",
       "shortDescription": "Cartoon Overload-Comp-02",
+      "releaseDate": "2021-07-01",
       "longDescription": "Cartoon Overload-Comp-02",
       "tags": [
         "special",
         "CARTOON-OVERLOAD"
+      ],
+      "genres": [
+        "special"
       ],
       "rating": {
         "rating": "TVG",
@@ -10014,16 +10190,16 @@
           "01:48:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1181733637_800x450.png",
-      "releaseDate": "2021-07-05",
       "shortDescription": "Cartoon Overload-3",
+      "releaseDate": "2021-07-05",
       "longDescription": "Cartoon Overload-3",
       "tags": [
         "special",
         "CARTOON-OVERLOAD"
+      ],
+      "genres": [
+        "special"
       ],
       "rating": {
         "rating": "TVG",
@@ -10073,16 +10249,16 @@
           "02:42:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1183471380_800x450.png",
-      "releaseDate": "2021-07-07",
       "shortDescription": "Cartoon Overload-04",
+      "releaseDate": "2021-07-07",
       "longDescription": "Cartoon Overload-04",
       "tags": [
         "special",
         "CARTOON-OVERLOAD"
+      ],
+      "genres": [
+        "special"
       ],
       "rating": {
         "rating": "TVG",
@@ -10177,15 +10353,15 @@
           "06:00:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1189587818_800x450.png",
-      "releaseDate": "2021-07-14",
       "shortDescription": "Saturday Blast Mix 22",
+      "releaseDate": "2021-07-14",
       "longDescription": "Saturday Blast Mix 22",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -10259,15 +10435,15 @@
           "04:35:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1179732364_800x450.png",
-      "releaseDate": "2021-07-02",
       "shortDescription": "Saturday Blast Mix-23",
+      "releaseDate": "2021-07-02",
       "longDescription": "Saturday Blast Mix-23",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -10355,15 +10531,15 @@
           "05:45:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1184671834_800x450.png",
-      "releaseDate": "2021-07-09",
       "shortDescription": "Saturday Blast Mix-24-",
+      "releaseDate": "2021-07-09",
       "longDescription": "Saturday Blast Mix-24-",
       "tags": [
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -10406,16 +10582,16 @@
           "02:24:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1197065092_800x450.png",
-      "releaseDate": "2021-07-23T20:36:27-04:00",
       "shortDescription": "Cartoon Overload-Comp-05",
+      "releaseDate": "2021-07-23",
       "longDescription": "Cartoon Overload-Comp-05",
       "tags": [
         "special",
         "CARTOON-OVERLOAD"
+      ],
+      "genres": [
+        "special"
       ]
     },
     {
@@ -10498,16 +10674,15 @@
           "06:24:00"
         ]
       },
-      "genres": [
-        "special"
-      ],
       "thumbnail": "https://i.vimeocdn.com/video/1194393930_800x450.png",
-      "releaseDate": "2021-07-20T19:55:54-04:00",
       "shortDescription": "Saturday Blast Mix-25",
+      "releaseDate": "2021-07-20",
       "longDescription": "Saturday Blast Mix-25",
       "tags": [
-        "special",
         "SATURDAY-MORNINGS"
+      ],
+      "genres": [
+        "special"
       ]
     }
   ],
