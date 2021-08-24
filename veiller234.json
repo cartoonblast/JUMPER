@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-07-20T10:40:06+00:00",
+  "lastUpdated": "2021-08-24T12:01:36+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -2560,7 +2560,7 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1194461101_800x450.png",
-      "releaseDate": "2021-07-20T22:13:59-04:00",
+      "releaseDate": "2021-07-20",
       "shortDescription": "Far-Out Theater-Movie Of The Week-03",
       "longDescription": "Far-Out Theater-Movie Of The Week-03",
       "tags": [
@@ -2589,11 +2589,10 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1193641159_800x450.png",
-      "releaseDate": "2021-07-20T00:19:06-04:00",
+      "releaseDate": "2021-07-20",
       "shortDescription": "Far-Out Theater-08",
       "longDescription": "Far-Out Theater-08",
       "tags": [
-        "miniseries",
         "FAR-OUT-THEATER"
       ],
       "rating": {
@@ -2619,7 +2618,7 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1193641924_800x450.png",
-      "releaseDate": "2021-07-20T00:14:51-04:00",
+      "releaseDate": "2021-07-20",
       "shortDescription": "Far-Out Theater-07",
       "longDescription": "Far-Out Theater-07",
       "tags": [
@@ -2629,6 +2628,697 @@
         "rating": "TVY14",
         "ratingSource": "MPAA"
       }
+    },
+    {
+      "id": "581440933",
+      "title": "Far-Out Theater-09",
+      "content": {
+        "dateAdded": "2021-08-02T17:10:07-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/581440933.hd.mp4?s=bca5b908db084db6d7bccf0bae875ca8d70c5914&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5352
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1203116497_800x450.png",
+      "releaseDate": "2021-07-31",
+      "shortDescription": "Far-Out Theater-09",
+      "longDescription": "Far-Out Theater-09",
+      "tags": [
+        "FAR-OUT-THEATER"
+      ]
+    },
+    {
+      "id": "581440662",
+      "title": "far-out theater- movie of the week 03.mp4",
+      "content": {
+        "dateAdded": "2021-08-02T17:10:07-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/581440662.hd.mp4?s=d752a31913095791dda111391105e2f5e392c78e&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5466
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1205078689_800x450.png",
+      "releaseDate": "2021-07-31",
+      "shortDescription": "BOY AND HIS DOG",
+      "longDescription": "BOY AND HIS DOG",
+      "tags": [
+        "MOVIE-OF-THE-WEEK"
+      ]
+    },
+    {
+      "id": "581442183",
+      "title": "Far-Out Theater-10",
+      "content": {
+        "dateAdded": "2021-08-02T17:10:07-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/581442183.hd.mp4?s=bd9a26b8e4682af0ec1cb494b625f93a6d3a1d42&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5352
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1203119447_800x450.png",
+      "releaseDate": "2021-07-31",
+      "shortDescription": "Far-Out Theater-10",
+      "longDescription": "Far-Out Theater-10",
+      "tags": [
+        "FAR-OUT-THEATER"
+      ]
+    },
+    {
+      "id": "586972707",
+      "title": "Far-Out Theater-Movie Of The Week4",
+      "content": {
+        "dateAdded": "2021-08-13T20:26:43-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/586972707.hd.mp4?s=6266db243fc13b6a484e9e5912b467e5a4b6ddea&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 4843
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1214364463_800x450.png",
+      "releaseDate": "2021-08-13",
+      "shortDescription": "Far-Out Theater-Movie Of The Week4",
+      "longDescription": "Far-Out Theater-Movie Of The Week4",
+      "tags": [
+        "MOVIE-OF-THE-WEEK"
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "586991625",
+      "title": "Far-Out Theater-13",
+      "content": {
+        "dateAdded": "2021-08-13T20:26:43-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/586991625.hd.mp4?s=f1d9afe2e6235e55a8b2cf5147ef876b6877f645&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5179
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1214404875_800x450.png",
+      "releaseDate": "2021-08-13",
+      "shortDescription": "Far-Out Theater-13",
+      "longDescription": "Far-Out Theater-13",
+      "tags": [
+        "FAR-OUT-THEATER"
+      ],
+      "rating": {
+        "rating": "TVMA",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "586962474",
+      "title": "Far-Out Theater-12-",
+      "content": {
+        "dateAdded": "2021-08-13T20:26:43-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/586962474.hd.mp4?s=3634732482d323d6912d2bbe8f1468be058709f7&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5179
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1214343272_800x450.png",
+      "releaseDate": "2021-08-13",
+      "shortDescription": "Far-Out Theater-12-",
+      "longDescription": "Far-Out Theater-12-",
+      "tags": [
+        "FAR-OUT-THEATER"
+      ],
+      "rating": {
+        "rating": "TVMA",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "587201079",
+      "title": "Far-Out Theater-11",
+      "content": {
+        "dateAdded": "2021-08-14T13:00:00-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/587201079.sd.mp4?s=d926b5e467668d9896254bb18f78d64ae45046e0&profile_id=164",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5179
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1214875140_800x450.png",
+      "releaseDate": "2021-08-14",
+      "shortDescription": "Far-Out Theater-11",
+      "longDescription": "Far-Out Theater-11",
+      "tags": [
+        "FAR-OUT-THEATER"
+      ],
+      "rating": {
+        "rating": "TVMA",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "590806831",
+      "title": "Ghost Story -TV 1972- 01x01 - The Dead We Leave Behind.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590806831.sd.mp4?s=4484addcf6e2e329a7691c88722e36c925e14400&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3077
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221669543_800x450.png",
+      "releaseDate": "2021-08-22T22:55:41-04:00",
+      "shortDescription": "Ghost Story -TV 1972- 01x01 - The Dead We Leave Behind.mp4",
+      "longDescription": "Ghost Story -TV 1972- 01x01 - The Dead We Leave Behind.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590806999",
+      "title": "Ghost Story -TV 1972- 01x02 - The Concrete Captain.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590806999.sd.mp4?s=f8fe3f39754d7d794fa4a4b64df727f1e6619f3f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3088
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221670079_800x450.png",
+      "releaseDate": "2021-08-22T22:56:18-04:00",
+      "shortDescription": "Ghost Story -TV 1972- 01x02 - The Concrete Captain.mp4",
+      "longDescription": "Ghost Story -TV 1972- 01x02 - The Concrete Captain.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590842853",
+      "title": "Circle Of Fear -TV 1973- 01x21 - The Ghost Of Potter-s Field.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590842853.sd.mp4?s=7ed5aed5a422d0552089129b53463d4e30c49704&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3015
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221732920_800x450.png",
+      "releaseDate": "2021-08-23T00:59:20-04:00",
+      "shortDescription": "Circle Of Fear -TV 1973- 01x21 - The Ghost Of Potter-s Field.mp4",
+      "longDescription": "Circle Of Fear -TV 1973- 01x21 - The Ghost Of Potter-s Field.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590807177",
+      "title": "Ghost Story -TV 1972- 01x03 - At The Cradle Foot.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590807177.sd.mp4?s=4524fffd3c8c6ec8d2ae3d74fb1bfe544caae266&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3078
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221670127_800x450.png",
+      "releaseDate": "2021-08-22T22:56:55-04:00",
+      "shortDescription": "Ghost Story -TV 1972- 01x03 - At The Cradle Foot.mp4",
+      "longDescription": "Ghost Story -TV 1972- 01x03 - At The Cradle Foot.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590842522",
+      "title": "Circle Of Fear -TV 1973- 01x19 - Graveyard Shift.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590842522.sd.mp4?s=85d0ae184ab3e81b8fc2d9ca7245b26f0c8a3370&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3014
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221732212_800x450.png",
+      "releaseDate": "2021-08-23T00:58:11-04:00",
+      "shortDescription": "Circle Of Fear -TV 1973- 01x19 - Graveyard Shift.mp4",
+      "longDescription": "Circle Of Fear -TV 1973- 01x19 - Graveyard Shift.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590842671",
+      "title": "Circle Of Fear -TV 1973- 01x20 - Spare Parts.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590842671.sd.mp4?s=56bddec3e08f259e6437ac7cf1fed5fede9f4dc4&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 4184
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221732555_800x450.png",
+      "releaseDate": "2021-08-23T00:58:44-04:00",
+      "shortDescription": "Circle Of Fear -TV 1973- 01x20 - Spare Parts.mp4",
+      "longDescription": "Circle Of Fear -TV 1973- 01x20 - Spare Parts.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590808619",
+      "title": "Ghost Story -TV 1972- 01x13 - Time Of Terror.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590808619.sd.mp4?s=94c0148b21834edfa764f5708e079f1c6b62a3dd&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3042
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221673072_800x450.png",
+      "releaseDate": "2021-08-22T23:02:03-04:00",
+      "shortDescription": "Ghost Story -TV 1972- 01x13 - Time Of Terror.mp4",
+      "longDescription": "Ghost Story -TV 1972- 01x13 - Time Of Terror.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590807392",
+      "title": "Ghost Story -TV 1972- 01x04 - Bad Connection.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590807392.sd.mp4?s=d65c427fa22117aec947de8b3063c089061d432f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 4333
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221670611_800x450.png",
+      "releaseDate": "2021-08-22T22:57:34-04:00",
+      "shortDescription": "Ghost Story -TV 1972- 01x04 - Bad Connection.mp4",
+      "longDescription": "Ghost Story -TV 1972- 01x04 - Bad Connection.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590842336",
+      "title": "Circle Of Fear -TV 1973- 01x18 - Legion Of Demons.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590842336.sd.mp4?s=c7ae627b0a919f8b07cd8b3b1974b7fbb53877f3&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3016
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221732103_800x450.png",
+      "releaseDate": "2021-08-23T00:57:35-04:00",
+      "shortDescription": "Circle Of Fear -TV 1973- 01x18 - Legion Of Demons.mp4",
+      "longDescription": "Circle Of Fear -TV 1973- 01x18 - Legion Of Demons.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590842162",
+      "title": "Circle Of Fear -TV 1973- 01x17 - Doorway To Death.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590842162.sd.mp4?s=472e8b2e4a860c1b19ae9211813f75b1408f1e03&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 5237
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221731730_800x450.png",
+      "releaseDate": "2021-08-23T00:56:54-04:00",
+      "shortDescription": "Circle Of Fear -TV 1973- 01x17 - Doorway To Death.mp4",
+      "longDescription": "Circle Of Fear -TV 1973- 01x17 - Doorway To Death.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590841994",
+      "title": "Circle Of Fear -TV 1973- 01x16 - Earth- Air- Fire And Water.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590841994.sd.mp4?s=57ac28853cf4c67e4ad16dc50af970415b29b464&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3016
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221731384_800x450.png",
+      "releaseDate": "2021-08-23T00:56:18-04:00",
+      "shortDescription": "Circle Of Fear -TV 1973- 01x16 - Earth- Air- Fire And Water.mp4",
+      "longDescription": "Circle Of Fear -TV 1973- 01x16 - Earth- Air- Fire And Water.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590841838",
+      "title": "Circle Of Fear -TV 1973- 01x15 - Dark Vengeance.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590841838.sd.mp4?s=da35fa43e7a83278d4652d5fc5db6be5cca3dbc3&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3014
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221731019_800x450.png",
+      "releaseDate": "2021-08-23T00:55:43-04:00",
+      "shortDescription": "Circle Of Fear -TV 1973- 01x15 - Dark Vengeance.mp4",
+      "longDescription": "Circle Of Fear -TV 1973- 01x15 - Dark Vengeance.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590807755",
+      "title": "Ghost Story -TV 1972- 01x08 - House Of Evil.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590807755.sd.mp4?s=36af47872e1a8b26d5a69b7f28f77f24c1ef6ca0&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3074
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221671094_800x450.png",
+      "releaseDate": "2021-08-22T22:58:54-04:00",
+      "shortDescription": "Ghost Story -TV 1972- 01x08 - House Of Evil.mp4",
+      "longDescription": "Ghost Story -TV 1972- 01x08 - House Of Evil.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590807578",
+      "title": "Ghost Story -TV 1972- 01x06 - Alter-Ego.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590807578.sd.mp4?s=68d47bf425e9537c7cd1021153a35bb0afa42458&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 4226
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221671002_800x450.png",
+      "releaseDate": "2021-08-22T22:58:14-04:00",
+      "shortDescription": "Ghost Story -TV 1972- 01x06 - Alter-Ego.mp4",
+      "longDescription": "Ghost Story -TV 1972- 01x06 - Alter-Ego.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590841654",
+      "title": "Circle Of Fear -TV 1973- 01x14 - Death-s Head.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590841654.sd.mp4?s=026d79289b12e68ecb9d32902fe1644a14ffbc0e&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3015
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221730839_800x450.png",
+      "releaseDate": "2021-08-23T00:55:07-04:00",
+      "shortDescription": "Circle Of Fear -TV 1973- 01x14 - Death-s Head.mp4",
+      "longDescription": "Circle Of Fear -TV 1973- 01x14 - Death-s Head.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590806630",
+      "title": "Circle Of Fear -TV 1973- 01x22 - The Phantom Of Herald Square.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590806630.sd.mp4?s=c5f52fb0a42ded0fe3af1d0e885f4a6b5f4a52a7&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3014
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221669336_800x450.png",
+      "releaseDate": "2021-08-22T22:55:03-04:00",
+      "shortDescription": "Circle Of Fear -TV 1973- 01x22 - The Phantom Of Herald Square.mp4",
+      "longDescription": "Circle Of Fear -TV 1973- 01x22 - The Phantom Of Herald Square.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590807911",
+      "title": "Ghost Story -TV 1972- 01x09 - Cry Of The Cat.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590807911.sd.mp4?s=8218a292b7d983bb846c24ee500fdf1dccd3906f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3076
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221671645_800x450.png",
+      "releaseDate": "2021-08-22T22:59:30-04:00",
+      "shortDescription": "Ghost Story -TV 1972- 01x09 - Cry Of The Cat.mp4",
+      "longDescription": "Ghost Story -TV 1972- 01x09 - Cry Of The Cat.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590808131",
+      "title": "Ghost Story -TV 1972- 01x10 - Elegy For A Vampire.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590808131.sd.mp4?s=1f550f5670c2efb1e6d2c93c89d64772c836143f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3018
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221671750_800x450.png",
+      "releaseDate": "2021-08-22T23:00:13-04:00",
+      "shortDescription": "Ghost Story -TV 1972- 01x10 - Elegy For A Vampire.mp4",
+      "longDescription": "Ghost Story -TV 1972- 01x10 - Elegy For A Vampire.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590808279",
+      "title": "Ghost Story -TV 1972- 01x11 - Touch Of Madness.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590808279.sd.mp4?s=7491b97dd38dcace7e983a5238aca408616cd284&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 4412
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221672194_800x450.png",
+      "releaseDate": "2021-08-22T23:00:49-04:00",
+      "shortDescription": "Ghost Story -TV 1972- 01x11 - Touch Of Madness.mp4",
+      "longDescription": "Ghost Story -TV 1972- 01x11 - Touch Of Madness.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
+    },
+    {
+      "id": "590808450",
+      "title": "Ghost Story -TV 1972- 01x12 - Creatures Of The Canyon.mp4",
+      "content": {
+        "dateAdded": "2021-08-23T22:49:33-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590808450.sd.mp4?s=7030151e71b7cbe30864c612512b714bca6f66e3&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 3082
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221672643_800x450.png",
+      "releaseDate": "2021-08-22T23:01:27-04:00",
+      "shortDescription": "Ghost Story -TV 1972- 01x12 - Creatures Of The Canyon.mp4",
+      "longDescription": "Ghost Story -TV 1972- 01x12 - Creatures Of The Canyon.mp4",
+      "tags": [
+        "Ghost-Story"
+      ]
     }
   ],
   "playlists": [
