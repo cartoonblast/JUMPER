@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-08-14T01:05:10+00:00",
+  "lastUpdated": "2021-07-20T10:40:06+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -2560,7 +2560,7 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1194461101_800x450.png",
-      "releaseDate": "2021-07-20",
+      "releaseDate": "2021-07-20T22:13:59-04:00",
       "shortDescription": "Far-Out Theater-Movie Of The Week-03",
       "longDescription": "Far-Out Theater-Movie Of The Week-03",
       "tags": [
@@ -2589,10 +2589,11 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1193641159_800x450.png",
-      "releaseDate": "2021-07-20",
+      "releaseDate": "2021-07-20T00:19:06-04:00",
       "shortDescription": "Far-Out Theater-08",
       "longDescription": "Far-Out Theater-08",
       "tags": [
+        "miniseries",
         "FAR-OUT-THEATER"
       ],
       "rating": {
@@ -2618,7 +2619,7 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1193641924_800x450.png",
-      "releaseDate": "2021-07-20",
+      "releaseDate": "2021-07-20T00:14:51-04:00",
       "shortDescription": "Far-Out Theater-07",
       "longDescription": "Far-Out Theater-07",
       "tags": [
@@ -2626,197 +2627,6 @@
       ],
       "rating": {
         "rating": "TVY14",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "581440933",
-      "title": "Far-Out Theater-09",
-      "content": {
-        "dateAdded": "2021-08-02T17:10:07-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/581440933.hd.mp4?s=bca5b908db084db6d7bccf0bae875ca8d70c5914&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 5352
-      },
-      "genres": [
-        "miniseries"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/1203116497_800x450.png",
-      "releaseDate": "2021-07-31",
-      "shortDescription": "Far-Out Theater-09",
-      "longDescription": "Far-Out Theater-09",
-      "tags": [
-        "FAR-OUT-THEATER"
-      ]
-    },
-    {
-      "id": "581440662",
-      "title": "far-out theater- movie of the week 03.mp4",
-      "content": {
-        "dateAdded": "2021-08-02T17:10:07-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/581440662.hd.mp4?s=d752a31913095791dda111391105e2f5e392c78e&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 5466
-      },
-      "genres": [
-        "miniseries"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/1205078689_800x450.png",
-      "releaseDate": "2021-07-31",
-      "shortDescription": "BOY AND HIS DOG",
-      "longDescription": "BOY AND HIS DOG",
-      "tags": [
-        "MOVIE-OF-THE-WEEK"
-      ]
-    },
-    {
-      "id": "581442183",
-      "title": "Far-Out Theater-10",
-      "content": {
-        "dateAdded": "2021-08-02T17:10:07-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/581442183.hd.mp4?s=bd9a26b8e4682af0ec1cb494b625f93a6d3a1d42&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 5352
-      },
-      "genres": [
-        "miniseries"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/1203119447_800x450.png",
-      "releaseDate": "2021-07-31",
-      "shortDescription": "Far-Out Theater-10",
-      "longDescription": "Far-Out Theater-10",
-      "tags": [
-        "FAR-OUT-THEATER"
-      ]
-    },
-    {
-      "id": "586972707",
-      "title": "Far-Out Theater-Movie Of The Week4",
-      "content": {
-        "dateAdded": "2021-08-13T20:26:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/586972707.hd.mp4?s=6266db243fc13b6a484e9e5912b467e5a4b6ddea&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 4843
-      },
-      "genres": [
-        "miniseries"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/1214364463_800x450.png",
-      "releaseDate": "2021-08-13T18:55:17-04:00",
-      "shortDescription": "Far-Out Theater-Movie Of The Week4",
-      "longDescription": "Far-Out Theater-Movie Of The Week4",
-      "tags": [
-        "MOVIE-OF-THE-WEEK"
-      ],
-      "rating": {
-        "rating": "TVPG",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "586991625",
-      "title": "Far-Out Theater-13",
-      "content": {
-        "dateAdded": "2021-08-13T20:26:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/586991625.hd.mp4?s=f1d9afe2e6235e55a8b2cf5147ef876b6877f645&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 5179
-      },
-      "genres": [
-        "miniseries"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/1214404875_800x450.png",
-      "releaseDate": "2021-08-13T20:11:59-04:00",
-      "shortDescription": "Far-Out Theater-13",
-      "longDescription": "Far-Out Theater-13",
-      "tags": [
-        "FAR-OUT-THEATER"
-      ],
-      "rating": {
-        "rating": "TVMA",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "586962474",
-      "title": "Far-Out Theater-12-",
-      "content": {
-        "dateAdded": "2021-08-13T20:26:43-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/586962474.hd.mp4?s=3634732482d323d6912d2bbe8f1468be058709f7&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 5179
-      },
-      "genres": [
-        "miniseries"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/1214343272_800x450.png",
-      "releaseDate": "2021-08-13T18:16:10-04:00",
-      "shortDescription": "Far-Out Theater-12-",
-      "longDescription": "Far-Out Theater-12-",
-      "tags": [
-        "FAR-OUT-THEATER"
-      ],
-      "rating": {
-        "rating": "TVMA",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "587201079",
-      "title": "Far-Out Theater-11",
-      "content": {
-        "dateAdded": "2021-08-14T13:00:00-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/587201079.sd.mp4?s=d926b5e467668d9896254bb18f78d64ae45046e0&profile_id=164",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 5179
-      },
-      "genres": [
-        "miniseries"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/1214875140_800x450.png",
-      "releaseDate": "2021-08-14T12:34:31-04:00",
-      "shortDescription": "Far-Out Theater-11",
-      "longDescription": "Far-Out Theater-11",
-      "tags": [
-        "FAR-OUT-THEATER"
-      ],
-      "rating": {
-        "rating": "TVMA",
         "ratingSource": "MPAA"
       }
     }
