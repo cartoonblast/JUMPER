@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-08-24T11:58:06+00:00",
+  "lastUpdated": "2021-08-25T12:14:27+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -197,7 +197,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1473
+        "duration": 1473,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
       },
       "genres": [
         "miniseries"
@@ -226,7 +231,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1387
+        "duration": 1387,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
       },
       "genres": [
         "miniseries"
@@ -255,7 +265,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1409
+        "duration": 1409,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
       },
       "genres": [
         "miniseries"
@@ -284,7 +299,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1362
+        "duration": 1362,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
       },
       "genres": [
         "miniseries"
@@ -313,7 +333,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1386
+        "duration": 1386,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
       },
       "genres": [
         "miniseries"
@@ -342,7 +367,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1386
+        "duration": 1386,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
       },
       "genres": [
         "miniseries"
@@ -371,7 +401,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1383
+        "duration": 1383,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
       },
       "genres": [
         "miniseries"
@@ -400,7 +435,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1428
+        "duration": 1428,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
       },
       "genres": [
         "miniseries"
@@ -429,7 +469,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1425
+        "duration": 1425,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
       },
       "genres": [
         "miniseries"
@@ -458,7 +503,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1471
+        "duration": 1471,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
       },
       "genres": [
         "miniseries"
@@ -487,7 +537,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1473
+        "duration": 1473,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
       },
       "genres": [
         "miniseries"
@@ -516,7 +571,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1470
+        "duration": 1470,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
       },
       "genres": [
         "miniseries"
@@ -545,7 +605,12 @@
             "videoType": "MP4"
           }
         ],
-        "duration": 1474
+        "duration": 1474,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
       },
       "genres": [
         "miniseries"
@@ -556,6 +621,922 @@
       "longDescription": "THE GREAT RADISH ROUND-UP",
       "tags": [
         "FRAGGLE-ROCK"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449310199",
+      "title": "▶ Dungeons - Dragons Episode 16 The City at the Edge of Midnight",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449310199.sd.mp4?s=d0e40ca2b6409a49d68d10b904e68702f47e6e91&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1247,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942845498_800x450.png",
+      "releaseDate": "2020-08-19T10:58:04-04:00",
+      "shortDescription": "▶ Dungeons - Dragons Episode 16 The City at the Edge of Midnight",
+      "longDescription": "▶ Dungeons - Dragons Episode 16 The City at the Edge of Midnight",
+      "tags": [
+        "miniseries"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449310552",
+      "title": "Dungeons - Dragons Episode 1 The Night of No Tomorrow",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449310552.sd.mp4?s=d98645e93e244cc0908c9537d51d1498782f8981&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1310,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942846911_800x450.png",
+      "releaseDate": "2020-08-19T10:58:52-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 1 The Night of No Tomorrow",
+      "longDescription": "Dungeons - Dragons Episode 1 The Night of No Tomorrow",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449310940",
+      "title": "Dungeons - Dragons Episode 2 The Eye of the Beholder",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449310940.sd.mp4?s=5f3d431aeb6636c66a46c6433a6cf86d02d8fabe&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1299,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942846579_800x450.png",
+      "releaseDate": "2020-08-19T10:59:54-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 2 The Eye of the Beholder",
+      "longDescription": "Dungeons - Dragons Episode 2 The Eye of the Beholder",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449311337",
+      "title": "Dungeons - Dragons Episode 3 The Hall of Bones",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449311337.sd.mp4?s=49d6618e0a33c826b1de142f024b1fcb8730e974&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1309,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942847279_800x450.png",
+      "releaseDate": "2020-08-19T11:01:03-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 3 The Hall of Bones",
+      "longDescription": "Dungeons - Dragons Episode 3 The Hall of Bones",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449311837",
+      "title": "Dungeons - Dragons Episode 4 Valley of the Unicorns",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449311837.sd.mp4?s=74e912e87f4a4689ed302966fcb31e107ed5ebd9&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1300,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942848448_800x450.png",
+      "releaseDate": "2020-08-19T11:02:16-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 4 Valley of the Unicorns",
+      "longDescription": "Dungeons - Dragons Episode 4 Valley of the Unicorns",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449312371",
+      "title": "Dungeons - Dragons Episode 5 In Search of the Dungeon Master",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449312371.sd.mp4?s=95578f94d3cc358813d2cb7393c4fdc75e0f6a74&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1312,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942848775_800x450.png",
+      "releaseDate": "2020-08-19T11:03:34-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 5 In Search of the Dungeon Master",
+      "longDescription": "Dungeons - Dragons Episode 5 In Search of the Dungeon Master",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449312875",
+      "title": "Dungeons - Dragons Episode 6 Beauty and the Bogbeast",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449312875.sd.mp4?s=ccfa7804293b1fe969251a101ecc6e06644de60c&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1311,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942849659_800x450.png",
+      "releaseDate": "2020-08-19T11:04:52-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 6 Beauty and the Bogbeast",
+      "longDescription": "Dungeons - Dragons Episode 6 Beauty and the Bogbeast",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449313323",
+      "title": "Dungeons - Dragons Episode 7 The Prison Without Walls",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449313323.sd.mp4?s=8821eae54a1cf383b73b48da972354a1dd72d9d7&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1300,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942850710_800x450.png",
+      "releaseDate": "2020-08-19T11:06:03-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 7 The Prison Without Walls",
+      "longDescription": "Dungeons - Dragons Episode 7 The Prison Without Walls",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449313745",
+      "title": "Dungeons - Dragons Episode 8 Servant of Evil",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449313745.sd.mp4?s=dfc89077c9cad2e587758f9562db2e4a152137e5&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1300,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942850886_800x450.png",
+      "releaseDate": "2020-08-19T11:07:15-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 8 Servant of Evil",
+      "longDescription": "Dungeons - Dragons Episode 8 Servant of Evil",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449314159",
+      "title": "Dungeons - Dragons Episode 9 Quest of the Skeleton Warrior",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449314159.sd.mp4?s=280ff092e716a864a9728837a6d6107f96db1ffa&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1296,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942852059_800x450.png",
+      "releaseDate": "2020-08-19T11:08:13-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 9 Quest of the Skeleton Warrior",
+      "longDescription": "Dungeons - Dragons Episode 9 Quest of the Skeleton Warrior",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449314628",
+      "title": "Dungeons - Dragons Episode 10 The Garden of Zinn",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449314628.sd.mp4?s=0cf6dca602cc63f53f230cf7412fa351a5bedc63&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1301,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942855267_800x450.png",
+      "releaseDate": "2020-08-19T11:09:16-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 10 The Garden of Zinn",
+      "longDescription": "Dungeons - Dragons Episode 10 The Garden of Zinn",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449315098",
+      "title": "Dungeons - Dragons Episode 11 The Box",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449315098.sd.mp4?s=ef0c54a76977169884fe3b2720c6383918edaddd&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1300,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942852836_800x450.png",
+      "releaseDate": "2020-08-19T11:10:22-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 11 The Box",
+      "longDescription": "Dungeons - Dragons Episode 11 The Box",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449315567",
+      "title": "Dungeons - Dragons Episode 12 The Lost Children",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449315567.sd.mp4?s=2eabd6f661bb4113e6234fe0063ca80aafb2ce27&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1300,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942854221_800x450.png",
+      "releaseDate": "2020-08-19T11:11:33-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 12 The Lost Children",
+      "longDescription": "Dungeons - Dragons Episode 12 The Lost Children",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449315814",
+      "title": "Dungeons - Dragons Episode 13 P R E S T O Spells Disaster",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449315814.sd.mp4?s=f27efad6a7c1705afe89c17e06b422b070f5f49f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1301,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942854087_800x450.png",
+      "releaseDate": "2020-08-19T11:12:14-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 13 P R E S T O Spells Disaster",
+      "longDescription": "Dungeons - Dragons Episode 13 P R E S T O Spells Disaster",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449316324",
+      "title": "Dungeons - Dragons Episode 14 The Girl Who Dreamed Tomorrow",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449316324.sd.mp4?s=fdb1e16fc2848b800e13d8cb404394c03d48a79f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1299,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942854656_800x450.png",
+      "releaseDate": "2020-08-19T11:13:35-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 14 The Girl Who Dreamed Tomorrow",
+      "longDescription": "Dungeons - Dragons Episode 14 The Girl Who Dreamed Tomorrow",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449316613",
+      "title": "Dungeons - Dragons Episode 15 The Treasure of Tardos",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449316613.sd.mp4?s=36a45bb2dcde7fa2ef30f07ed123e86d64001b83&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1299,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942855194_800x450.png",
+      "releaseDate": "2020-08-19T11:14:22-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 15 The Treasure of Tardos",
+      "longDescription": "Dungeons - Dragons Episode 15 The Treasure of Tardos",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449317026",
+      "title": "Dungeons - Dragons Episode 17 Day of the Dungeon Master",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449317026.sd.mp4?s=e5e441d159a50e496b3a6ccd124177dd45bf63b5&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1301,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942859705_800x450.png",
+      "releaseDate": "2020-08-19T11:15:27-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 17 Day of the Dungeon Master",
+      "longDescription": "Dungeons - Dragons Episode 17 Day of the Dungeon Master",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449317481",
+      "title": "Dungeons - Dragons Episode 18 The Traitor",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449317481.sd.mp4?s=6fb44e0863fecd267f7721d356e81f68eb268a80&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1300,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942856253_800x450.png",
+      "releaseDate": "2020-08-19T11:16:35-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 18 The Traitor",
+      "longDescription": "Dungeons - Dragons Episode 18 The Traitor",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449317805",
+      "title": "Dungeons - Dragons Episode 19 The Last Illusion",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449317805.sd.mp4?s=689dee03227d4c4910ba7c96824b5536168ca109&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1301,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942857132_800x450.png",
+      "releaseDate": "2020-08-19T11:17:27-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 19 The Last Illusion",
+      "longDescription": "Dungeons - Dragons Episode 19 The Last Illusion",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449318176",
+      "title": "Dungeons - Dragons Episode 20 The Dragons- Graveyard",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449318176.sd.mp4?s=2ea8cec22d9f011840146d896b869594ed2aaf52&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1302,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942857373_800x450.png",
+      "releaseDate": "2020-08-19T11:18:24-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 20 The Dragons- Graveyard",
+      "longDescription": "Dungeons - Dragons Episode 20 The Dragons- Graveyard",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449318846",
+      "title": "Dungeons - Dragons Episode 21 Child of the Stargazer",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449318846.sd.mp4?s=8b26927f2565656cd4dec7b2be2759bf5d48b3ea&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1303,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942858151_800x450.png",
+      "releaseDate": "2020-08-19T11:19:53-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 21 Child of the Stargazer",
+      "longDescription": "Dungeons - Dragons Episode 21 Child of the Stargazer",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449319260",
+      "title": "Dungeons - Dragons Episode 22 The Dungeon at the Heart of Dawn",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449319260.sd.mp4?s=63b7cb65ba169ad32751cb803ac96d7738cf3a57&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1300,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942858744_800x450.png",
+      "releaseDate": "2020-08-19T11:20:43-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 22 The Dungeon at the Heart of Dawn",
+      "longDescription": "Dungeons - Dragons Episode 22 The Dungeon at the Heart of Dawn",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449319699",
+      "title": "Dungeons - Dragons Episode 23 The Time Lost",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449319699.sd.mp4?s=db1e671e897637bef933b4c508979befdae51435&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1247,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942859649_800x450.png",
+      "releaseDate": "2020-08-19T11:21:55-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 23 The Time Lost",
+      "longDescription": "Dungeons - Dragons Episode 23 The Time Lost",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449319981",
+      "title": "Dungeons - Dragons Episode 24 Odyssey of the Twelfth Talisman",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449319981.sd.mp4?s=0621bdf253062eedae17657af51b5c32dd0ae779&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1302,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942860031_800x450.png",
+      "releaseDate": "2020-08-19T11:22:33-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 24 Odyssey of the Twelfth Talisman",
+      "longDescription": "Dungeons - Dragons Episode 24 Odyssey of the Twelfth Talisman",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449320522",
+      "title": "Dungeons - Dragons Episode 25 Citadel of Shadow",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449320522.sd.mp4?s=754bd42fe290b28bda70937a2bf2dd4ef2856b0c&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1300,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942860844_800x450.png",
+      "releaseDate": "2020-08-19T11:23:58-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 25 Citadel of Shadow",
+      "longDescription": "Dungeons - Dragons Episode 25 Citadel of Shadow",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449320993",
+      "title": "Dungeons - Dragons Episode 26 The Winds of Darkness",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449320993.sd.mp4?s=efb33cfb7a4add4aa6368a73314e26f839877f6c&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1297,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942861468_800x450.png",
+      "releaseDate": "2020-08-19T11:25:07-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 26 The Winds of Darkness",
+      "longDescription": "Dungeons - Dragons Episode 26 The Winds of Darkness",
+      "tags": [
+        "DUNGEONS-DRAGONS"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "449321292",
+      "title": "Dungeons - Dragons Episode 27 Cave of the Fairie Dragons",
+      "content": {
+        "dateAdded": "2020-08-19T13:28:56-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/449321292.sd.mp4?s=603aadcb5bc42689397d30011ff5bd48007c37c6&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1300,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "miniseries"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/942861941_800x450.png",
+      "releaseDate": "2020-08-19T11:25:57-04:00",
+      "shortDescription": "Dungeons - Dragons Episode 27 Cave of the Fairie Dragons",
+      "longDescription": "Dungeons - Dragons Episode 27 Cave of the Fairie Dragons",
+      "tags": [
+        "DUNGEONS-DRAGONS"
       ],
       "rating": {
         "rating": "UNRATED",
