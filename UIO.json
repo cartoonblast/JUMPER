@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-09-02T10:59:51+00:00",
+  "lastUpdated": "2021-09-02T11:12:20+00:00",
   "providerName": "OLK",
   "language": "en-US",
   "series": [
@@ -391,7 +391,7 @@
             "dateAdded": "2021-09-01T10:09:40+00:00",
             "videos": [
               {
-                "url": "h",
+                "url": "https://player.vimeo.com/external/594825925.sd.mp4?s=b1c216cd84c39615a9176785b878f3502affdadf&profile_id=165",
                 "quality": "HD",
                 "videoType": "MP4"
               }
@@ -482,6 +482,12 @@
                 "quality": "HD",
                 "videoType": "MP4"
               }
+            ],
+            "duration": 1320,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
             ]
           },
           "thumbnail": "https://i.vimeocdn.com/video/1228475327_800x450.png",
@@ -2727,12 +2733,28 @@
           "id": "dc85e63bb3584c968da317f9e2b471fb",
           "title": "Adventures of the Little Koala - Episode 26 - The Writing on the Wall-A Ride in a Space Ship",
           "content": {
-            "dateAdded": "2021-09-02T10:58:23+00:00"
+            "dateAdded": "2021-09-02T10:58:23+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/592564963.sd.mp4?s=6e54f300f884c1b31ed8d191867e09af79186ad0&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
           },
           "thumbnail": "https://i.vimeocdn.com/video/1224486233_800x450.png",
           "episodeNumber": 1,
           "releaseDate": "2021-09-02",
-          "longDescription": "Adventures of the Little Koala - Episode 26 - The Writing on the WallA Ride in a Space Ship"
+          "longDescription": "Adventures of the Little Koala - Episode 26 - The Writing on the WallA Ride in a Space Ship",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
         }
       ],
       "genres": [
@@ -3047,7 +3069,7 @@
             "dateAdded": "2021-09-01T15:18:12+00:00",
             "videos": [
               {
-                "url": "",
+                "url": "https://player.vimeo.com/external/560243522.sd.mp4?s=7c5756ed01875c7450a5e7973c56c0cf95ed34a3&profile_id=165",
                 "quality": "HD",
                 "videoType": "MP4"
               }
