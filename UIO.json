@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-09-03T12:46:28+00:00",
+  "lastUpdated": "2021-09-03T12:53:15+00:00",
   "providerName": "OLK",
   "language": "en-US",
   "series": [
@@ -2885,6 +2885,12 @@
                 "quality": "HD",
                 "videoType": "MP4"
               }
+            ],
+            "duration": 1440,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
             ]
           },
           "thumbnail": "https://i.vimeocdn.com/video/1224486233_800x450.png",
@@ -2908,6 +2914,12 @@
                 "quality": "HD",
                 "videoType": "MP4"
               }
+            ],
+            "duration": 1440,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
             ]
           },
           "thumbnail": "https://i.vimeocdn.com/video/1224486233_800x450.png",
