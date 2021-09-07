@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-09-04T12:47:05+00:00",
+  "lastUpdated": "2021-09-07T07:23:02+00:00",
   "providerName": "OLK",
   "language": "en-US",
   "movies": [
@@ -6586,7 +6586,7 @@
     },
     {
       "id": "8afb4c15648c413a8759db8b0b136078",
-      "title": "The Charlie Brown and Snoopy Show",
+      "title": "THE CHARLIE BROWN AND SNOOPY SHOW",
       "episodes": [
         {
           "id": "07944641ca78425e96c0d1cafd955bea",
@@ -7088,9 +7088,1705 @@
       "thumbnail": "https://i.vimeocdn.com/video/1231669500_800x450.png",
       "releaseDate": "2021-09-03",
       "shortDescription": "The Charlie Brown and Snoopy Show",
-      "longDescription": "The Charlie Brown and Snoopy Show Episode",
+      "longDescription": "The Charlie Brown and Snoopy Show",
       "tags": [
         "80S-CARTOONS"
+      ]
+    },
+    {
+      "id": "ae54b1e998d64963ac449d5633f8d438",
+      "title": "MIGHTY MOUSE THE NEW ADVENTURES",
+      "episodes": [
+        {
+          "id": "79e5ccfbe9514e60b4eb60a4404b04df",
+          "title": "Mighty Mouse The New Adventures -  Me-Yowww! - Witch Tricks\"",
+          "content": {
+            "dateAdded": "2021-09-06T09:52:29+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/449334291.sd.mp4?s=0909651966b51f8291c5836e0d35706c86cb6df0&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1380,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/942895758_800x450.png",
+          "episodeNumber": 1,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "Mighty Mouse The New Adventures -  Me-Yowww! - Witch Tricks\"",
+          "longDescription": "Mighty Mouse The New Adventures -  Me-Yowww! - Witch Tricks\"",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "9b1cd118cc0d46e896fb9a4524af4233",
+          "title": "Mighty Mouse The New Adventures - A Star is Milked - Mighty's Tone Poem",
+          "content": {
+            "dateAdded": "2021-09-06T09:52:32+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/449335198.sd.mp4?s=5e85786daab778ed04ce3c524cd297685904cc56&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1380,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/942895758_800x450.png",
+          "episodeNumber": 2,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "Mighty Mouse The New Adventures - A Star is Milked - Mighty's Tone Poem",
+          "longDescription": "Mighty Mouse The New Adventures - A Star is Milked - Mighty's Tone Poem",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "2b93ed71df914f059ead354e416f6e0f",
+          "title": "Mighty Mouse The New Adventures - All You Need is Glove - It's Scrappy's Birthday",
+          "content": {
+            "dateAdded": "2021-09-06T09:52:35+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/449336437.sd.mp4?s=0febc0cf0e1ecae36a47b573544d078338b6b7c6&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1380,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/942895758_800x450.png",
+          "episodeNumber": 3,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "Mighty Mouse The New Adventures - All You Need is Glove - It's Scrappy's Birthday",
+          "longDescription": "Mighty Mouse The New Adventures - All You Need is Glove - It's Scrappy's Birthday",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "0c3c92ca0d9c4c818c13c1156d3d6b33",
+          "title": "Mighty Mouse The New Adventures - Aqua-Guppy - Animation Concerto",
+          "content": {
+            "dateAdded": "2021-09-06T09:52:36+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/449337238.sd.mp4?s=305f68aac165cac0036c11fe35cb4886c2fd9718&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1380,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/942895758_800x450.png",
+          "episodeNumber": 4,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "Mighty Mouse The New Adventures - Aqua-Guppy - Animation Concerto",
+          "longDescription": "Mighty Mouse The New Adventures - Aqua-Guppy - Animation Concerto",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "f92c477e4f2340c69dce26d413566a09",
+          "title": "Mighty Mouse The New Adventures - Bat With A Golden Tongue - Mundane Voyage",
+          "content": {
+            "dateAdded": "2021-09-06T09:52:38+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/449338439.sd.mp4?s=e14c5c4b5c5eed91d6197903ea212058145bf20d&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1380,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/942895758_800x450.png",
+          "episodeNumber": 5,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "Mighty Mouse The New Adventures - Bat With A Golden Tongue - Mundane Voyage",
+          "longDescription": "Mighty Mouse The New Adventures - Bat With A Golden Tongue - Mundane Voyage",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "f7bc9872f22b4fd78a5c32c612720394",
+          "title": "Mighty Mouse The New Adventures - Catastrophe Cat - Scrappy's Field Day",
+          "content": {
+            "dateAdded": "2021-09-06T09:52:40+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/449339418.sd.mp4?s=8ca6961439ce421618674d59a727a9d6eedbe33d&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1380,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/942895758_800x450.png",
+          "episodeNumber": 6,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "Mighty Mouse The New Adventures - Catastrophe Cat - Scrappy's Field Day",
+          "longDescription": "Mighty Mouse The New Adventures - Catastrophe Cat - Scrappy's Field Day",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "40bab106d5db4197a957ee5897557d6c",
+          "title": "Mighty Mouse The New Adventures - Day of the Mice - Still Oily After All These Year",
+          "content": {
+            "dateAdded": "2021-09-06T09:52:41+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/449340561.sd.mp4?s=4f97450abfbe79efc0c9f4ee025e49c05454180b&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1380,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/942895758_800x450.png",
+          "episodeNumber": 7,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "Mighty Mouse The New Adventures - Day of the Mice - Still Oily After All These Years",
+          "longDescription": "Mighty Mouse The New Adventures - Day of the Mice - Still Oily After All These Years",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "d2d5a722b91f4c3f97b8b851362e3f0f",
+          "title": "Mighty Mouse The New Adventures - Heroes and Zeroes - Stress for Success",
+          "content": {
+            "dateAdded": "2021-09-06T09:52:43+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/449341707.sd.mp4?s=1b2240d8f03fb3b57c301e3a184a7a5d9c398a5d&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1380,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/942895758_800x450.png",
+          "episodeNumber": 8,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "Mighty Mouse The New Adventures - Heroes and Zeroes - Stress for Success",
+          "longDescription": "Mighty Mouse The New Adventures - Heroes and Zeroes - Stress for Success"
+        },
+        {
+          "id": "df2e0d00fff74589be7c299d482bafcd",
+          "title": "Mighty Mouse The New Adventures - Mighty's Benefit Plan - See You in the Funny Papers",
+          "content": {
+            "dateAdded": "2021-09-06T09:52:45+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/449342810.sd.mp4?s=f75f77aa56eec213823de9b2547996549357736f&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1380,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/942895758_800x450.png",
+          "episodeNumber": 9,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "Mighty Mouse The New Adventures - Mighty's Benefit Plan - See You in the Funny Papers",
+          "longDescription": "Mighty Mouse The New Adventures - Mighty's Benefit Plan - See You in the Funny Papers",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "95c34513de5b4567bdf54a5aefa9363a",
+          "title": "\"Mighty Mouse The New Adventures - Mighty's Wedlock Whimsy - Anatomy of a Milquetoast\"",
+          "content": {
+            "dateAdded": "2021-09-06T09:52:47+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/449343846.sd.mp4?s=a10dd12217a7bc71f0623544e06535ef566a3855&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1380,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/942895758_800x450.png",
+          "episodeNumber": 10,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "\"Mighty Mouse The New Adventures - Mighty's Wedlock Whimsy - Anatomy of a Milquetoast\"",
+          "longDescription": "\"Mighty Mouse The New Adventures - Mighty's Wedlock Whimsy - Anatomy of a Milquetoast\"",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "1625b36027104331b4d48407a9bf4e98",
+          "title": "Mighty Mouse The New Adventures - Mouse and Supermouse - The Bride of Mighty Mouse",
+          "content": {
+            "dateAdded": "2021-09-06T09:52:49+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/449344925.sd.mp4?s=630078d174a60d0ba76698ce8d83d081fe70afa4&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1380,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/942895758_800x450.png",
+          "episodeNumber": 11,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "Mighty Mouse The New Adventures - Mouse and Supermouse - The Bride of Mighty Mouse",
+          "longDescription": "Mighty Mouse The New Adventures - Mouse and Supermouse - The Bride of Mighty Mouse",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "8094e7f20f614a81bcdca1d81a813c08",
+          "title": "Mighty Mouse The New Adventures - Night of the Bat-Bat - Scrap-Happy",
+          "content": {
+            "dateAdded": "2021-09-06T09:52:51+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/449345909.sd.mp4?s=3bdfb89ad94ab19806809eef47d8c1abe6ffcd55&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1380,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/942895758_800x450.png",
+          "episodeNumber": 12,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "Mighty Mouse The New Adventures - Night of the Bat-Bat - Scrap-Happy",
+          "longDescription": "Mighty Mouse The New Adventures - Night of the Bat-Bat - Scrap-Happy",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "61347d150eac41899b6f189bbdb51b52",
+          "title": "Mighty Mouse The New Adventures - Night On Bald Pate - Mouse From Another House\"",
+          "content": {
+            "dateAdded": "2021-09-06T09:52:52+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/449346987.sd.mp4?s=45e15cb637c66104a4fbaff9e5daad1024adba6b&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1380,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/942895758_800x450.png",
+          "episodeNumber": 13,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "Mighty Mouse The New Adventures - Night On Bald Pate - Mouse From Another House\"",
+          "longDescription": "Mighty Mouse The New Adventures - Night On Bald Pate - Mouse From Another House\"",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "84b82bae97214efeb2330480633cb91f",
+          "title": "Mighty Mouse The New Adventures - Snow White & the Motor City Dwarfs - Don't Touch that Dial\"",
+          "content": {
+            "dateAdded": "2021-09-06T09:52:54+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/449348052.sd.mp4?s=71d84a1915adca3b2fd7cb73d16002b82dc316f1&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1380,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/942895758_800x450.png",
+          "episodeNumber": 14,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "Mighty Mouse The New Adventures - Snow White & the Motor City Dwarfs - Don't Touch that Dial\"",
+          "longDescription": "Mighty Mouse The New Adventures - Snow White & the Motor City Dwarfs - Don't Touch that Dial\"",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "76969311387b43c19d8a4e19f380fd2f",
+          "title": "NMighty Mouse The New Adventures - The Bagmouse - The First Deadly Cheese\"ew episode14",
+          "content": {
+            "dateAdded": "2021-09-06T09:52:56+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/449348913.sd.mp4?s=dfdedd49d0dd2f96a0943569e9b4baf5641bd293&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1380,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/942895758_800x450.png",
+          "episodeNumber": 15,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "Mighty Mouse The New Adventures - The Bagmouse - The First Deadly Cheese\"",
+          "longDescription": "Mighty Mouse The New Adventures - The Bagmouse - The First Deadly Cheese\"",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "a5bfd37648bd4f0f9c9e3b6ab2949551",
+          "title": "Mighty Mouse The New Adventures - The Ice Goose Cometh - Pirates with Dirty Faces",
+          "content": {
+            "dateAdded": "2021-09-06T09:58:19+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/449350025.sd.mp4?s=1f77de64489e264e49b6ba4b48626ac61370b4d9&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1380,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/942895758_800x450.png",
+          "episodeNumber": 16,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "Mighty Mouse The New Adventures - The Ice Goose Cometh - Pirates with Dirty Faces",
+          "longDescription": "Mighty Mouse The New Adventures - The Ice Goose Cometh - Pirates with Dirty Faces",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        }
+      ],
+      "genres": [
+        "adventure"
+      ],
+      "thumbnail": "",
+      "releaseDate": "2021-09-06",
+      "shortDescription": "Mighty Mouse The New Adventures",
+      "longDescription": "Mighty Mouse The New Adventures",
+      "tags": [
+        "80S-CARTOONS"
+      ]
+    },
+    {
+      "id": "564ca04b9371482eb81e394942069a92",
+      "title": "RoboCop (T.A.S)",
+      "episodes": [
+        {
+          "id": "d681c173867b41f883b9c8d77ea8a8b3",
+          "title": "\"RoboCop (T.A.S) - Ep. 01 - Crime Wave",
+          "content": {
+            "dateAdded": "2021-09-06T16:39:16+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598939285.sd.mp4?s=b0e7ab4281725899bc21cae4b9f48c3cb08c430e&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234329110_800x450.png",
+          "episodeNumber": 1,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "\"RoboCop (T.A.S) - Ep. 01 - Crime Wave",
+          "longDescription": "\"RoboCop (T.A.S) - Ep. 01 - Crime Wave",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "023c627685674e038efc773c3fec4790",
+          "title": "RoboCop (T.A.S) - Ep. 02 - The Scrambler",
+          "content": {
+            "dateAdded": "2021-09-06T16:39:24+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598939888.sd.mp4?s=f5c015b0ab5db500fdab4ce13335963f2ccceb43&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234329110_800x450.png",
+          "episodeNumber": 2,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "RoboCop (T.A.S) - Ep. 02 - The Scrambler",
+          "longDescription": "RoboCop (T.A.S) - Ep. 02 - The Scrambler",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "98b65bd45b594dd5b840f272ccc7ae2e",
+          "title": "03_-_Project_Deathspore.",
+          "content": {
+            "dateAdded": "2021-09-06T16:39:26+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598931082.sd.mp4?s=1f5edfeb6bf06ff0645dbfb3e3a18eee492c70ab&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234329110_800x450.png",
+          "episodeNumber": 3,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "03_-_Project_Deathspore.",
+          "longDescription": "03_-_Project_Deathspore.",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "c8a82c898d724dc3997cc6cc8ebb61e5",
+          "title": "04_-_The_Brotherhood",
+          "content": {
+            "dateAdded": "2021-09-06T16:39:28+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598932033.sd.mp4?s=c87defcdc7fd76a5cefb0791ad9b270dc351a261&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234329110_800x450.png",
+          "episodeNumber": 4,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "04_-_The_Brotherhood",
+          "longDescription": "04_-_The_Brotherhood",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "5bc2370aa1b44b11b32b46b541684e8a",
+          "title": "The_Man_in_the_Iron_Suitde",
+          "content": {
+            "dateAdded": "2021-09-06T16:39:30+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598932885.sd.mp4?s=1e50822d3e1f97c4c8655bb294d6c4682a1cf316&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234329110_800x450.png",
+          "episodeNumber": 5,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "05_-_The_Man_in_the_Iron_Suit",
+          "longDescription": "05_-_The_Man_in_the_Iron_Suit",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "83159771c6a54bed987c36b93309a79e",
+          "title": "06_-_The_Hot_Seat",
+          "content": {
+            "dateAdded": "2021-09-06T16:39:32+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598933831.sd.mp4?s=b73248879544b8774c3d5de8ce1a10a3deb9b19b&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234329110_800x450.png",
+          "episodeNumber": 6,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "06_-_The_Hot_Seat",
+          "longDescription": "06_-_The_Hot_Seat"
+        },
+        {
+          "id": "d00dfb0f19ae4e3f971271ef2189fdf9",
+          "title": "07_-_No_News_Is_Good_News",
+          "content": {
+            "dateAdded": "2021-09-06T16:39:34+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598934710.sd.mp4?s=340adf3a9deca4cfc200431a7ce793e17e6d6e35&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234329110_800x450.png",
+          "episodeNumber": 7,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "07_-_No_News_Is_Good_News",
+          "longDescription": "07_-_No_News_Is_Good_News",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "5412930745d34ee5a360c1766674b8fe",
+          "title": "08_-_Night_of_the_Archer",
+          "content": {
+            "dateAdded": "2021-09-06T16:39:36+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598935499.sd.mp4?s=e2358ca1464c2798258461bf3aebcf87e1528d6c&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234329110_800x450.png",
+          "episodeNumber": 8,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "08_-_Night_of_the_Archer",
+          "longDescription": "08_-_Night_of_the_Archer",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "8d6f68f081f248019a93499a83284c2e",
+          "title": "09_-_Rumble_in_Old_Detroit",
+          "content": {
+            "dateAdded": "2021-09-06T16:39:38+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598936133.sd.mp4?s=32f3e33b13ff6abc28c68b81dc3f80fd93716fa0&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234329110_800x450.png",
+          "episodeNumber": 9,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "09_-_Rumble_in_Old_Detroit",
+          "longDescription": "09_-_Rumble_in_Old_Detroit",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "12e567a097fc4050bc7f5d53f850cc44",
+          "title": "10_-_A_Robot_s_Revenge",
+          "content": {
+            "dateAdded": "2021-09-06T16:39:40+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598936798.sd.mp4?s=237699b255905685f72fe338ed980e7e860f5167&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234329110_800x450.png",
+          "episodeNumber": 10,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "10_-_A_Robot_s_Revenge",
+          "longDescription": "10_-_A_Robot_s_Revenge"
+        },
+        {
+          "id": "4abbdf51daf14497a1a54f213d28cca5",
+          "title": "11_-_Into_the_Wilderness",
+          "content": {
+            "dateAdded": "2021-09-06T16:39:42+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598937564.sd.mp4?s=ab47bd4e8581c41586f75861be3ff52cb3ae2ed4&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234329110_800x450.png",
+          "episodeNumber": 11,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "11_-_Into_the_Wilderness",
+          "longDescription": "11_-_Into_the_Wilderness",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        }
+      ],
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1234329110_800x450.png",
+      "releaseDate": "2021-09-06",
+      "shortDescription": "RoboCop (T.A.S)",
+      "longDescription": "RoboCop (T.A.S)",
+      "tags": [
+        "80S-CARTOONS"
+      ]
+    },
+    {
+      "id": "d0780f32f70e48da848bb80a4f92ba99",
+      "title": "Action Man",
+      "episodes": [
+        {
+          "id": "9af498b7fd094130bf64badbf608282d",
+          "title": "1. Action Man Explosive Situation",
+          "content": {
+            "dateAdded": "2021-09-06T17:14:00+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598925291.sd.mp4?s=a2fa110461f1fd1c390e41d0db4174bb54566431&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 1,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "1. Action Man Explosive Situation",
+          "longDescription": "1. Action Man Explosive Situation",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "e684e5426bf1438f823809b40fcc706b",
+          "title": "2. Action Man Fountain of Youth",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:03+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598925602.sd.mp4?s=c39f0867b51d8adac825d9b9c05f7db9456f3111&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 2,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "2. Action Man Fountain of Youth",
+          "longDescription": "2. Action Man Fountain of Youth",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "b9d1c34c95fe43c99ac1d3b1d3d094e6",
+          "title": "3. Action Man Cybersoldier",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:07+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598925776.sd.mp4?s=461f24ded58123c0093f729a3da0e608bf6b7c3d&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 3,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "3. Action Man Cybersoldier",
+          "longDescription": "3. Action Man Cybersoldier",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "4e4746b6208f4004aa5252e93b454635",
+          "title": "4. Action Man You Can-t Go Home Again",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:08+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598925903.sd.mp4?s=3ff4592586bbc2d08c18a7bffff0060289af56e5&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 4,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "4. Action Man You Can-t Go Home Again",
+          "longDescription": "4. Action Man You Can-t Go Home Again",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "4c4eb8ab5dbe44c6ae2f1b0b952ea34e",
+          "title": "5. Action Man Ancient History",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:11+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598926022.sd.mp4?s=777a7988c58c500ddcd93d046808239b3ab07577&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 5,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "5. Action Man Ancient History",
+          "longDescription": "5. Action Man Ancient History"
+        },
+        {
+          "id": "4a3f800e66cd4e29bbe651886d4de990",
+          "title": "6. Action Man The Red Plague",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:13+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598926189.sd.mp4?s=862696faa5c2a5a3c30e9214a425c7f7deba4ebc&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 6,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "6. Action Man The Red Plague",
+          "longDescription": "6. Action Man The Red Plague",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "84813fbe32fa40018f5e355d24d5d605",
+          "title": "\"7. Action Man Peril at Perigee",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:14+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598926328.sd.mp4?s=e78124de21e778db48d3e169c500c0be55461b7d&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 7,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "\"7. Action Man Peril at Perigee",
+          "longDescription": "\"7. Action Man Peril at Perigee",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "80b0d946c0e64e5db098a51993449336",
+          "title": "8. Action Man Rogue Moons",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:16+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598926479.sd.mp4?s=e7d7c14194e03d3a331e0d093c25783bec3f2d35&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 8,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "8. Action Man Rogue Moons",
+          "longDescription": "8. Action Man Rogue Moons"
+        },
+        {
+          "id": "c80856e74fc045c78eec27773183f042",
+          "title": "9. Action Man Hands Down",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:18+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598926670.sd.mp4?s=fccda0d0bf346cd6b7c736a1d1acef298ef9dfc2&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 9,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "9. Action Man Hands Down",
+          "longDescription": "9. Action Man Hands Down",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "c91eb2dfeb1f4362a67217418c5304aa",
+          "title": "10. Action Man We Come in Peaceew episode9",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:19+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598926902.sd.mp4?s=973fbd3e2cdaa3041b03569028c9c0554c9d2c1f&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 10,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "10. Action Man We Come in Peace",
+          "longDescription": "10. Action Man We Come in Peace",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "4d691776ae52414c89e20c482262d9a8",
+          "title": "New11. Action Man R.A.I.D episode10",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:21+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598927129.sd.mp4?s=6098c1ba0a3ae001635463e7c89eb73fc85f466b&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 11,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "11. Action Man R.A.I.D",
+          "longDescription": "11. Action Man R.A.I.D",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "1ea1cc8b713e45a5a2050ae564a8491c",
+          "title": "12. Action Man Skynap",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:22+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598927261.sd.mp4?s=634ffbf75465e658189ce4f93412f50c0ac4ef92&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 12,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "12. Action Man Skynap",
+          "longDescription": "12. Action Man Skynap",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "606eb64000894617ac88847afbef4fea",
+          "title": "13. Action Man The Outside Edge",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:24+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598927401.sd.mp4?s=4e736e1f5ca597f8eb9a11707447208414651219&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 13,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "13. Action Man The Outside Edge",
+          "longDescription": "13. Action Man The Outside Edge",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "3ae3b68b1409437fa9f77bd156bac808",
+          "title": "14. Action Man The X Factor",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:26+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598927625.sd.mp4?s=17658491370f031f777ce632db85eee7221997ae&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 14,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "14. Action Man The X Factor",
+          "longDescription": "14. Action Man The X Factor",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "0dc4304686674850995723ba7913f6be",
+          "title": "15. Action Man Ice Age",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:28+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598927762.sd.mp4?s=55b4ae6a2ad5c64a2550e4e8bb0c87335f479712&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 15,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "15. Action Man Ice Age",
+          "longDescription": "15. Action Man Ice Age",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "c7ffafc77bff4f8cb8b09fb24fddeb9e",
+          "title": "16. Action Man Soul of Evil",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:29+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598927991.sd.mp4?s=bf52c71de9789e6b8e08005667d1d43a03f636d0&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 16,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "16. Action Man Soul of Evil",
+          "longDescription": "16. Action Man Soul of Evil",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "67c897dbf59249de87d047259d0b756e",
+          "title": "17. Action Man Deja Vu",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:33+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598928160.sd.mp4?s=e1bfe910305a5904ff49342c0c78cd0026fbfa22&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 17,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "17. Action Man Deja Vu",
+          "longDescription": "17. Action Man Deja Vu",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "09ce0ca08e364330b5da9c5fee093fe6",
+          "title": "18. Action Man Satellite Down",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:36+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598928330.sd.mp4?s=4dc92eb61d292a5264f910d12c6474a82a8f1259&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 18,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "18. Action Man Satellite Down",
+          "longDescription": "18. Action Man Satellite Down",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "5155158f8c5f4101a43f9c8a0996a560",
+          "title": "19. Action Man Space Walk",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:40+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598928611.sd.mp4?s=4e1f31f08b472d43606cc760e2e7e6c834b12145&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 19,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "19. Action Man Space Walk",
+          "longDescription": "19. Action Man Space Walk",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "880bdad334024b9ab3987441f0ebcf48",
+          "title": "20. Action Man The Most Dangerous Prey",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:43+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598928817.sd.mp4?s=1e6bde7c48b76f47a67b0b44a259bf549edae196&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 20,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "20. Action Man The Most Dangerous Prey",
+          "longDescription": "20. Action Man The Most Dangerous Prey",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "4af7a85fd122435d9cbe292e0c138952",
+          "title": "21. Action Man Points of Danger",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:44+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598928966.sd.mp4?s=58fa9452752a4e4475b32f2801ecc0f765eec35f&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 21,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "21. Action Man Points of Danger",
+          "longDescription": "21. Action Man Points of Danger",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "f2d38e27105e4acfa2323ff794611cdd",
+          "title": "22.Action Man Crack of Doom",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:46+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598929175.sd.mp4?s=27b99264897f9b881959b1af666b0f50b8cb2eb9&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 22,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "22. Action Man Crack of Doom",
+          "longDescription": "22. Action Man Crack of Doom",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "97747575dfe44480a2978aebc9639a45",
+          "title": "23. Action Man Space Wars",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:48+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598929313.sd.mp4?s=ad1b076c21d30f08dc8333867ef64fd57a4d00ca&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 23,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "23. Action Man Space Wars",
+          "longDescription": "23. Action Man Space Wars",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "f6465bbebcd249f0b95abf3a765d7d02",
+          "title": "24. Action Man Past Performance",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:51+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598929435.sd.mp4?s=69c128cd7dcc632a9168d70ac7bc2f85593b37eb&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 24,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "24. Action Man Past Performance",
+          "longDescription": "24. Action Man Past Performance",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "cbc6e8f5ceb045e19438c3595f08261c",
+          "title": "25. Action Man A Time for Action Part 1",
+          "content": {
+            "dateAdded": "2021-09-06T17:15:52+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598929693.sd.mp4?s=ffa331429e70bb0b1504ba6d6abf9767a3870441&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 25,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "25. Action Man A Time for Action Part 1",
+          "longDescription": "25. Action Man A Time for Action Part 1",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "03431d8b81f84533b8ad52c07f32957e",
+          "title": "26. Action Man A Time for Action Part 2",
+          "content": {
+            "dateAdded": "2021-09-06T17:23:31+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/598929877.sd.mp4?s=4c75320a35f46c07e414ef6000499aae67fb11ad&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+          "episodeNumber": 26,
+          "releaseDate": "2021-09-06",
+          "shortDescription": "26. Action Man A Time for Action Part 2",
+          "longDescription": "26. Action Man A Time for Action Part 2",
+          "rating": {
+            "rating": "TVPG",
+            "ratingSource": "MPAA"
+          }
+        }
+      ],
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
+      "releaseDate": "2021-09-06",
+      "shortDescription": "Action Man",
+      "longDescription": "Action Man",
+      "tags": [
+        "80'S-CARTOONS"
+      ]
+    },
+    {
+      "id": "f27d0dc0dd3f4d4fb6666d532d0a7953",
+      "title": "Hello Kitty Tells Fairy Tales",
+      "episodes": [
+        {
+          "id": "2d07fb580d0740a687601106946b1768",
+          "title": "Hello Kitty Tells Fairy Tales",
+          "content": {
+            "dateAdded": "2021-09-07T07:12:26+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/599467232.sd.mp4?s=ab0b61fbc60168f2d99da6a92f867aab7f1bd429&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 3240,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00",
+              "00:28:00",
+              "00:35:00",
+              "00:42:00",
+              "00:49:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235004867_800x450.png",
+          "episodeNumber": 1,
+          "releaseDate": "2021-09-07",
+          "shortDescription": "Hello Kitty Tells Fairy Tales",
+          "longDescription": "Hello Kitty Tells Fairy Tales",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "ad23eccf18cd406da90d9e140424d9fb",
+          "title": "\"Hello Kitty Saves the Day\"",
+          "content": {
+            "dateAdded": "2021-09-07T07:12:31+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/599466789.sd.mp4?s=c0b0ad0eebdee7cca470915ad03d8405c7b87eb6&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 3360,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00",
+              "00:28:00",
+              "00:35:00",
+              "00:42:00",
+              "00:49:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235004867_800x450.png",
+          "episodeNumber": 2,
+          "releaseDate": "2021-09-07",
+          "shortDescription": "\"Hello Kitty Saves the Day\"",
+          "longDescription": "\"Hello Kitty Saves the Day\"",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "ed1dbd71cd114cbead2812c739ff5184",
+          "title": "\"Hello Kitty Plays Pretend -\"",
+          "content": {
+            "dateAdded": "2021-09-07T07:12:34+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/599466249.sd.mp4?s=0b53f017c8bad18286e5c74aa5d552c000bebc80&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 3180,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00",
+              "00:28:00",
+              "00:35:00",
+              "00:42:00",
+              "00:49:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235004867_800x450.png",
+          "episodeNumber": 3,
+          "releaseDate": "2021-09-07",
+          "shortDescription": "\"Hello Kitty Plays Pretend -\"",
+          "longDescription": "\"Hello Kitty Plays Pretend -\"",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "19ce2313519a4721888b61d134ea9b3c",
+          "title": "\"Hello Kitty Has Fun on Halloween\"",
+          "content": {
+            "dateAdded": "2021-09-07T07:12:36+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/599466052.sd.mp4?s=8df54482e3f873347bff02032c8237fa60fd60d9&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 2580,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00",
+              "00:28:00",
+              "00:35:00",
+              "00:42:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235004867_800x450.png",
+          "episodeNumber": 4,
+          "releaseDate": "2021-09-07",
+          "shortDescription": "\"Hello Kitty Has Fun on Halloween\"",
+          "longDescription": "\"Hello Kitty Has Fun on Halloween\"",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "02edda6f754c4d65b84747d17cc915f4",
+          "title": "\"Hello Kitty Goes to the Movies",
+          "content": {
+            "dateAdded": "2021-09-07T07:12:38+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/599465480.sd.mp4?s=d6a7067dd217864d5257fb555ebac74d53027aed&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 3360,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00",
+              "00:28:00",
+              "00:35:00",
+              "00:42:00",
+              "00:49:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235004867_800x450.png",
+          "episodeNumber": 5,
+          "releaseDate": "2021-09-07",
+          "shortDescription": "\"Hello Kitty Goes to the Movies",
+          "longDescription": "\"Hello Kitty Goes to the Movies",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "0e536dc8ce2a48eeaa5be3129b0abc74",
+          "title": "\"Hello Kitty Becomes a Princess",
+          "content": {
+            "dateAdded": "2021-09-07T07:18:17+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/599464678.sd.mp4?s=7c975d0ef57a6cb6917dfc0294150084896d5ce2&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 3360,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00",
+              "00:28:00",
+              "00:35:00",
+              "00:42:00",
+              "00:49:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235004867_800x450.png",
+          "episodeNumber": 6,
+          "releaseDate": "2021-09-07",
+          "shortDescription": "\"Hello Kitty Becomes a Princess",
+          "longDescription": "\"Hello Kitty Becomes a Princess",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        }
+      ],
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1235004867_800x450.png",
+      "releaseDate": "2021-09-07",
+      "shortDescription": "Hello Kitty Tells Fairy Tales",
+      "longDescription": "Hello Kitty Tells Fairy Tales",
+      "tags": [
+        "80'S-CARTOONS"
       ]
     }
   ],
@@ -14405,48 +16101,6 @@
       }
     },
     {
-      "id": "510059795",
-      "title": "HELLO KITTYPT-1",
-      "content": {
-        "dateAdded": "2021-02-09T04:22:57-05:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/510059795.hd.mp4?s=3319e5d17857fa01d11c22627a677277dc78f430&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 3372,
-        "adBreaks": [
-          "00:05:00",
-          "00:10:00",
-          "00:15:00",
-          "00:20:00",
-          "00:25:00",
-          "00:30:00",
-          "00:35:00",
-          "00:40:00",
-          "00:45:00",
-          "00:50:00",
-          "00:55:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1055878705_800x450.png",
-      "shortDescription": "HELLO KITTYPT-1",
-      "releaseDate": "2021-02-08",
-      "longDescription": "HELLO KITTYPT-1",
-      "tags": [
-        "80S-CARTOONS"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "UNRATED",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
       "id": "510059447",
       "title": "Camp Candy - Christmas in July and When it RainsIt Snows",
       "content": {
@@ -15629,44 +17283,6 @@
       "longDescription": "HE-MAN-2002.mp4",
       "tags": [
         "special"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "UNRATED",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "528486794",
-      "title": "HELLOKITTY-PT2.mp4",
-      "content": {
-        "dateAdded": "2021-03-28T18:29:58-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/528486794.hd.mp4?s=6064ab672912e4b83c353b4ccef45f073b674cbe&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 3370,
-        "adBreaks": [
-          "00:08:00",
-          "00:16:00",
-          "00:24:00",
-          "00:32:00",
-          "00:40:00",
-          "00:48:00",
-          "00:56:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1093877651_800x450.png",
-      "shortDescription": "HELLOKITTY-PT2.mp4",
-      "releaseDate": "2021-03-24",
-      "longDescription": "HELLOKITTY-PT2.mp4",
-      "tags": [
-        "80S-CARTOONS"
       ],
       "genres": [
         "special"
