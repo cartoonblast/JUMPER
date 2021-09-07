@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-09-07T07:23:02+00:00",
+  "lastUpdated": "2021-09-07T05:25:24+00:00",
   "providerName": "OLK",
   "language": "en-US",
   "movies": [
@@ -3437,7 +3437,6 @@
       "shortDescription": "ALICE IN WONDERLAND",
       "longDescription": "ALICE IN WONDERLAND",
       "tags": [
-        "ALICE-IN-WONDERLAND",
         "80S-CARTOONS"
       ]
     },
@@ -4674,7 +4673,6 @@
       "shortDescription": "WIND IN THE WILLOWS",
       "longDescription": "WIND IN THE WILLOWS",
       "tags": [
-        "WIND-IN-THE-WILLOWS",
         "80S-CARTOONS"
       ]
     },
@@ -5082,7 +5080,6 @@
       "shortDescription": "POWER TEAM",
       "longDescription": "POWER TEAM",
       "tags": [
-        "POWER-TEAM",
         "80S-CARTOONS"
       ]
     },
@@ -7561,7 +7558,7 @@
       "genres": [
         "adventure"
       ],
-      "thumbnail": "",
+      "thumbnail": "https://i.vimeocdn.com/video/942895758_800x450.png",
       "releaseDate": "2021-09-06",
       "shortDescription": "Mighty Mouse The New Adventures",
       "longDescription": "Mighty Mouse The New Adventures",
@@ -7900,6 +7897,11 @@
                 "quality": "HD",
                 "videoType": "MP4"
               }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
             ]
           },
           "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
@@ -7951,6 +7953,11 @@
                 "quality": "HD",
                 "videoType": "MP4"
               }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
             ]
           },
           "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
@@ -8246,6 +8253,11 @@
                 "quality": "HD",
                 "videoType": "MP4"
               }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
             ]
           },
           "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
@@ -8269,6 +8281,11 @@
                 "quality": "HD",
                 "videoType": "MP4"
               }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
             ]
           },
           "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
@@ -8292,6 +8309,11 @@
                 "quality": "HD",
                 "videoType": "MP4"
               }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
             ]
           },
           "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
@@ -8315,6 +8337,11 @@
                 "quality": "HD",
                 "videoType": "MP4"
               }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
             ]
           },
           "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
@@ -8338,6 +8365,11 @@
                 "quality": "HD",
                 "videoType": "MP4"
               }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
             ]
           },
           "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
@@ -8361,6 +8393,11 @@
                 "quality": "HD",
                 "videoType": "MP4"
               }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
             ]
           },
           "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
@@ -8384,6 +8421,11 @@
                 "quality": "HD",
                 "videoType": "MP4"
               }
+            ],
+            "duration": 1260,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00"
             ]
           },
           "thumbnail": "https://i.vimeocdn.com/video/1234325001_800x450.png",
