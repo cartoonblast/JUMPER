@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-09-10T11:40:06+00:00",
+  "lastUpdated": "2021-09-10T11:50:54+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -3609,7 +3609,11 @@
       "longDescription": "Ghost Story -TV 1972- 01x11 - Touch Of Madness.mp4",
       "tags": [
         "Ghost-Story"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590808450",
@@ -3651,7 +3655,7 @@
         "duration": 1404
       },
       "genres": [
-        ""
+        "horror"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221742588_800x450.png",
       "releaseDate": "2021-08-23",
@@ -3660,7 +3664,11 @@
       "tags": [
         "",
         "BRADBURY-THEATER"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590848403",
@@ -3677,7 +3685,6 @@
         "duration": 1541
       },
       "genres": [
-        "",
         "horror"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221742534_800x450.png",
@@ -3708,7 +3715,7 @@
         "duration": 1389
       },
       "genres": [
-        ""
+        "horror"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221742328_800x450.png",
       "releaseDate": "2021-08-23",
@@ -3737,7 +3744,7 @@
         "duration": 1449
       },
       "genres": [
-        ""
+        "horror"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221741440_800x450.png",
       "releaseDate": "2021-08-23",
@@ -3762,7 +3769,7 @@
         "duration": 1424
       },
       "genres": [
-        ""
+        "horror"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221741371_800x450.png",
       "releaseDate": "2021-08-23",
@@ -3787,7 +3794,7 @@
         "duration": 1512
       },
       "genres": [
-        ""
+        "horror"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221740598_800x450.png",
       "releaseDate": "2021-08-23",
@@ -3812,7 +3819,7 @@
         "duration": 1680
       },
       "genres": [
-        ""
+        "horror"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221739967_800x450.png",
       "releaseDate": "2021-08-23",
@@ -3841,7 +3848,7 @@
         "duration": 1441
       },
       "genres": [
-        ""
+        "horror"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221739842_800x450.png",
       "releaseDate": "2021-08-23",
@@ -3870,7 +3877,7 @@
         "duration": 1392
       },
       "genres": [
-        ""
+        "horror"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221739525_800x450.png",
       "releaseDate": "2021-08-23",
@@ -3899,7 +3906,7 @@
         "duration": 1564
       },
       "genres": [
-        ""
+        "horror"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221739550_800x450.png",
       "releaseDate": "2021-08-23",
@@ -3928,7 +3935,7 @@
         "duration": 1394
       },
       "genres": [
-        ""
+        "horror"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221739281_800x450.png",
       "releaseDate": "2021-08-23",
@@ -3957,7 +3964,6 @@
         "duration": 1440
       },
       "genres": [
-        "",
         "horror"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221739381_800x450.png",
@@ -3988,7 +3994,6 @@
         "duration": 1551
       },
       "genres": [
-        "",
         "horror"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221738611_800x450.png",
@@ -4019,7 +4024,6 @@
         "duration": 1392
       },
       "genres": [
-        "",
         "horror"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1237087000_800x450.png",
@@ -4050,7 +4054,6 @@
         "duration": 1429
       },
       "genres": [
-        "",
         "horror"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221738304_800x450.png",
