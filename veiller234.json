@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-08-24T12:01:36+00:00",
+  "lastUpdated": "2021-09-10T11:40:06+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -55,7 +55,11 @@
       "longDescription": "The Veil FOOD ON THE TABLE -Ep 3- Boris Karloff",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "461472368",
@@ -80,7 +84,11 @@
       "longDescription": "The Veil GENESIS -Ep 6- Boris Karloff",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "461472688",
@@ -130,7 +138,11 @@
       "longDescription": "The Veil JACK THE RIPPER -Ep 10- Boris Karloff",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "461473524",
@@ -155,7 +167,11 @@
       "longDescription": "The Veil SUMMER HEAT -Ep 7- Boris Karloff",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "461474044",
@@ -180,7 +196,11 @@
       "longDescription": "The Veil THE CRYSTAL BALL -Ep 5- Boris Karloff",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "461474423",
@@ -205,7 +225,11 @@
       "longDescription": "The Veil THE DOCTORS -Ep 4- Boris Karloff",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "461474921",
@@ -230,7 +254,11 @@
       "longDescription": "The Veil THE RETURN OF MADAME VERNOY -Ep 8- Boris Karloff",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "461475460",
@@ -255,7 +283,11 @@
       "longDescription": "The Veil VISION OF CRIME -Ep 1- Boris Karloff",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "461475758",
@@ -280,7 +312,11 @@
       "longDescription": "The Veil WHATEVER HAPPENED TO PEGGY -Ep 11- Boris Karloff",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465318486",
@@ -305,7 +341,11 @@
       "longDescription": "S1E01 The Twisted Image",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465319313",
@@ -330,7 +370,11 @@
       "longDescription": "S1E02 Child's Play",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465319589",
@@ -355,7 +399,11 @@
       "longDescription": "S1E03 Worse Than Murder",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465320058",
@@ -380,7 +428,11 @@
       "longDescription": "S1E04 The Mark of the Hand",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465320513",
@@ -405,7 +457,11 @@
       "longDescription": "S1E05 Rose's Last Summer",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465320828",
@@ -430,7 +486,11 @@
       "longDescription": "S1E06 The Guilty Men",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465321240",
@@ -455,7 +515,11 @@
       "longDescription": "S1E07 The Purple Room",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465321637",
@@ -480,7 +544,11 @@
       "longDescription": "S1E08 The Watcher",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465322056",
@@ -505,7 +573,11 @@
       "longDescription": "S1E09 Girl With a Secret",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465322486",
@@ -530,7 +602,11 @@
       "longDescription": "S1E10 The Prediction",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465322932",
@@ -555,7 +631,11 @@
       "longDescription": "S1E11 The Fatal Impulse",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465323510",
@@ -580,7 +660,11 @@
       "longDescription": "S1E12 The Big Blackout",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465323919",
@@ -605,7 +689,11 @@
       "longDescription": "S1E13 Knock Three-One-Two",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465324468",
@@ -630,7 +718,11 @@
       "longDescription": "S1E14 Man in the Middle",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465324949",
@@ -655,7 +747,11 @@
       "longDescription": "S1E17 The Poisoner",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465325538",
@@ -680,7 +776,11 @@
       "longDescription": "S1E18 Man in the Cage",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465325984",
@@ -705,7 +805,11 @@
       "longDescription": "S1E19 Choose a Victim",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465326397",
@@ -730,7 +834,11 @@
       "longDescription": "S1E21 The Merriweather File",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465326804",
@@ -755,7 +863,11 @@
       "longDescription": "S1E22 The Fingers of Fear",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465327255",
@@ -805,7 +917,11 @@
       "longDescription": "S1E24 The Ordeal of Dr. Cordell",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465328020",
@@ -830,7 +946,11 @@
       "longDescription": "S1E26 Papa Benjamin",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465328460",
@@ -855,7 +975,11 @@
       "longDescription": "S1E27 Late Date",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465328960",
@@ -880,7 +1004,11 @@
       "longDescription": "S1E28 Yours Truly Jack the Ripper",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465329495",
@@ -930,7 +1058,11 @@
       "longDescription": "S1E30 Parasite Mansion",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465330436",
@@ -955,7 +1087,11 @@
       "longDescription": "S1E31 A Good Imagination",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465331020",
@@ -980,7 +1116,11 @@
       "longDescription": "S1E32 Mr. George",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465331368",
@@ -1005,7 +1145,11 @@
       "longDescription": "S1E33 Terror in Teakwood",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "465331863",
@@ -1030,7 +1174,11 @@
       "longDescription": "S1E36 Pigeons From Hell",
       "tags": [
         "thriller"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "470394801",
@@ -1055,7 +1203,11 @@
       "longDescription": "s01e02_Night-of-April-14th-720p",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "470395427",
@@ -1080,7 +1232,11 @@
       "longDescription": "s01e06_Epilogue-720p",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "470396647",
@@ -1105,7 +1261,11 @@
       "longDescription": "s01e09_The-Dead-Part-of-the-House-720p",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "470397275",
@@ -1130,7 +1290,11 @@
       "longDescription": "s01e10_The-Vision-720p",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "470398001",
@@ -1155,7 +1319,11 @@
       "longDescription": "s01e11_The-Devils-Laughter-720p",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "470399759",
@@ -1180,7 +1348,11 @@
       "longDescription": "s01e15_The-Aerialist-720p",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "470401322",
@@ -1205,7 +1377,11 @@
       "longDescription": "s02e23_VanishingPoint-720p",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "470401853",
@@ -1230,7 +1406,11 @@
       "longDescription": "s02e24_TheMask-720p",
       "tags": [
         "mystery"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452629574",
@@ -1280,7 +1460,11 @@
       "longDescription": "S01E02 - Don't Look Behind You",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452636876",
@@ -1305,7 +1489,11 @@
       "longDescription": "S01E03 - Night Of The Owl",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452639134",
@@ -1330,7 +1518,11 @@
       "longDescription": "S01E04 - I Saw The Whole Thing (H)",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452641218",
@@ -1355,7 +1547,11 @@
       "longDescription": "S01E05 - Captive Audience",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452643157",
@@ -1380,7 +1576,11 @@
       "longDescription": "S01E06 - Final Vow",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452644828",
@@ -1405,7 +1605,11 @@
       "longDescription": "S01E07 - Annabel",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452646774",
@@ -1430,7 +1634,11 @@
       "longDescription": "S01E08 - House Guest",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452648766",
@@ -1455,7 +1663,11 @@
       "longDescription": "S01E09 - The Black Curtain",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452650615",
@@ -1480,7 +1692,11 @@
       "longDescription": "S01E10 - Day Of Reckoning",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452652518",
@@ -1505,7 +1721,11 @@
       "longDescription": "S01E11 - Ride The Nightmare",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452655141",
@@ -1530,7 +1750,11 @@
       "longDescription": "S01E12 - Hangover",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452657743",
@@ -1555,7 +1779,11 @@
       "longDescription": "S01E13 - Bonfire",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452659365",
@@ -1580,7 +1808,11 @@
       "longDescription": "S01E14 - The Tender Poisoner",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452660332",
@@ -1605,7 +1837,11 @@
       "longDescription": "S01E15 - The Thirty-First Of February",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452662411",
@@ -1630,7 +1866,11 @@
       "longDescription": "S01E16 - What Really Happened",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452665029",
@@ -1655,7 +1895,11 @@
       "longDescription": "S01E17 - Forecast Low Clouds, Coastal Fog",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452667668",
@@ -1680,7 +1924,11 @@
       "longDescription": "S01E18 - A Tangled Web",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452670504",
@@ -1730,7 +1978,11 @@
       "longDescription": "S01E20 - The Paragon",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452674595",
@@ -1780,7 +2032,11 @@
       "longDescription": "S01E22 - Diagnosis Danger",
       "tags": [
         "drama"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "452678169",
@@ -2652,7 +2908,11 @@
       "longDescription": "Far-Out Theater-09",
       "tags": [
         "FAR-OUT-THEATER"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "581440662",
@@ -2677,7 +2937,11 @@
       "longDescription": "BOY AND HIS DOG",
       "tags": [
         "MOVIE-OF-THE-WEEK"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "581442183",
@@ -2838,12 +3102,16 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221669543_800x450.png",
-      "releaseDate": "2021-08-22T22:55:41-04:00",
+      "releaseDate": "2021-08-22",
       "shortDescription": "Ghost Story -TV 1972- 01x01 - The Dead We Leave Behind.mp4",
       "longDescription": "Ghost Story -TV 1972- 01x01 - The Dead We Leave Behind.mp4",
       "tags": [
         "Ghost-Story"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590806999",
@@ -2863,7 +3131,7 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221670079_800x450.png",
-      "releaseDate": "2021-08-22T22:56:18-04:00",
+      "releaseDate": "2021-08-22",
       "shortDescription": "Ghost Story -TV 1972- 01x02 - The Concrete Captain.mp4",
       "longDescription": "Ghost Story -TV 1972- 01x02 - The Concrete Captain.mp4",
       "tags": [
@@ -2888,12 +3156,16 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221732920_800x450.png",
-      "releaseDate": "2021-08-23T00:59:20-04:00",
+      "releaseDate": "2021-08-23",
       "shortDescription": "Circle Of Fear -TV 1973- 01x21 - The Ghost Of Potter-s Field.mp4",
       "longDescription": "Circle Of Fear -TV 1973- 01x21 - The Ghost Of Potter-s Field.mp4",
       "tags": [
         "Ghost-Story"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590807177",
@@ -2913,12 +3185,16 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221670127_800x450.png",
-      "releaseDate": "2021-08-22T22:56:55-04:00",
+      "releaseDate": "2021-08-22",
       "shortDescription": "Ghost Story -TV 1972- 01x03 - At The Cradle Foot.mp4",
       "longDescription": "Ghost Story -TV 1972- 01x03 - At The Cradle Foot.mp4",
       "tags": [
         "Ghost-Story"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590842522",
@@ -2938,12 +3214,16 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221732212_800x450.png",
-      "releaseDate": "2021-08-23T00:58:11-04:00",
+      "releaseDate": "2021-08-23",
       "shortDescription": "Circle Of Fear -TV 1973- 01x19 - Graveyard Shift.mp4",
       "longDescription": "Circle Of Fear -TV 1973- 01x19 - Graveyard Shift.mp4",
       "tags": [
         "Ghost-Story"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590842671",
@@ -2963,12 +3243,16 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221732555_800x450.png",
-      "releaseDate": "2021-08-23T00:58:44-04:00",
+      "releaseDate": "2021-08-23",
       "shortDescription": "Circle Of Fear -TV 1973- 01x20 - Spare Parts.mp4",
       "longDescription": "Circle Of Fear -TV 1973- 01x20 - Spare Parts.mp4",
       "tags": [
         "Ghost-Story"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590808619",
@@ -2988,12 +3272,16 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221673072_800x450.png",
-      "releaseDate": "2021-08-22T23:02:03-04:00",
+      "releaseDate": "2021-08-22",
       "shortDescription": "Ghost Story -TV 1972- 01x13 - Time Of Terror.mp4",
       "longDescription": "Ghost Story -TV 1972- 01x13 - Time Of Terror.mp4",
       "tags": [
         "Ghost-Story"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590807392",
@@ -3013,12 +3301,16 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221670611_800x450.png",
-      "releaseDate": "2021-08-22T22:57:34-04:00",
+      "releaseDate": "2021-08-22",
       "shortDescription": "Ghost Story -TV 1972- 01x04 - Bad Connection.mp4",
       "longDescription": "Ghost Story -TV 1972- 01x04 - Bad Connection.mp4",
       "tags": [
         "Ghost-Story"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590842336",
@@ -3038,12 +3330,16 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221732103_800x450.png",
-      "releaseDate": "2021-08-23T00:57:35-04:00",
+      "releaseDate": "2021-08-23",
       "shortDescription": "Circle Of Fear -TV 1973- 01x18 - Legion Of Demons.mp4",
       "longDescription": "Circle Of Fear -TV 1973- 01x18 - Legion Of Demons.mp4",
       "tags": [
         "Ghost-Story"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590842162",
@@ -3063,12 +3359,16 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221731730_800x450.png",
-      "releaseDate": "2021-08-23T00:56:54-04:00",
+      "releaseDate": "2021-08-23",
       "shortDescription": "Circle Of Fear -TV 1973- 01x17 - Doorway To Death.mp4",
       "longDescription": "Circle Of Fear -TV 1973- 01x17 - Doorway To Death.mp4",
       "tags": [
         "Ghost-Story"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590841994",
@@ -3088,12 +3388,16 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221731384_800x450.png",
-      "releaseDate": "2021-08-23T00:56:18-04:00",
+      "releaseDate": "2021-08-23",
       "shortDescription": "Circle Of Fear -TV 1973- 01x16 - Earth- Air- Fire And Water.mp4",
       "longDescription": "Circle Of Fear -TV 1973- 01x16 - Earth- Air- Fire And Water.mp4",
       "tags": [
         "Ghost-Story"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590841838",
@@ -3113,12 +3417,16 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221731019_800x450.png",
-      "releaseDate": "2021-08-23T00:55:43-04:00",
+      "releaseDate": "2021-08-23",
       "shortDescription": "Circle Of Fear -TV 1973- 01x15 - Dark Vengeance.mp4",
       "longDescription": "Circle Of Fear -TV 1973- 01x15 - Dark Vengeance.mp4",
       "tags": [
         "Ghost-Story"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590807755",
@@ -3138,7 +3446,7 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221671094_800x450.png",
-      "releaseDate": "2021-08-22T22:58:54-04:00",
+      "releaseDate": "2021-08-22",
       "shortDescription": "Ghost Story -TV 1972- 01x08 - House Of Evil.mp4",
       "longDescription": "Ghost Story -TV 1972- 01x08 - House Of Evil.mp4",
       "tags": [
@@ -3163,7 +3471,7 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221671002_800x450.png",
-      "releaseDate": "2021-08-22T22:58:14-04:00",
+      "releaseDate": "2021-08-22",
       "shortDescription": "Ghost Story -TV 1972- 01x06 - Alter-Ego.mp4",
       "longDescription": "Ghost Story -TV 1972- 01x06 - Alter-Ego.mp4",
       "tags": [
@@ -3188,7 +3496,7 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221730839_800x450.png",
-      "releaseDate": "2021-08-23T00:55:07-04:00",
+      "releaseDate": "2021-08-23",
       "shortDescription": "Circle Of Fear -TV 1973- 01x14 - Death-s Head.mp4",
       "longDescription": "Circle Of Fear -TV 1973- 01x14 - Death-s Head.mp4",
       "tags": [
@@ -3213,12 +3521,16 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221669336_800x450.png",
-      "releaseDate": "2021-08-22T22:55:03-04:00",
+      "releaseDate": "2021-08-22",
       "shortDescription": "Circle Of Fear -TV 1973- 01x22 - The Phantom Of Herald Square.mp4",
       "longDescription": "Circle Of Fear -TV 1973- 01x22 - The Phantom Of Herald Square.mp4",
       "tags": [
         "Ghost-Story"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590807911",
@@ -3238,12 +3550,16 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221671645_800x450.png",
-      "releaseDate": "2021-08-22T22:59:30-04:00",
+      "releaseDate": "2021-08-22",
       "shortDescription": "Ghost Story -TV 1972- 01x09 - Cry Of The Cat.mp4",
       "longDescription": "Ghost Story -TV 1972- 01x09 - Cry Of The Cat.mp4",
       "tags": [
         "Ghost-Story"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590808131",
@@ -3263,7 +3579,7 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221671750_800x450.png",
-      "releaseDate": "2021-08-22T23:00:13-04:00",
+      "releaseDate": "2021-08-22",
       "shortDescription": "Ghost Story -TV 1972- 01x10 - Elegy For A Vampire.mp4",
       "longDescription": "Ghost Story -TV 1972- 01x10 - Elegy For A Vampire.mp4",
       "tags": [
@@ -3288,7 +3604,7 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221672194_800x450.png",
-      "releaseDate": "2021-08-22T23:00:49-04:00",
+      "releaseDate": "2021-08-22",
       "shortDescription": "Ghost Story -TV 1972- 01x11 - Touch Of Madness.mp4",
       "longDescription": "Ghost Story -TV 1972- 01x11 - Touch Of Madness.mp4",
       "tags": [
@@ -3313,12 +3629,643 @@
         "miniseries"
       ],
       "thumbnail": "https://i.vimeocdn.com/video/1221672643_800x450.png",
-      "releaseDate": "2021-08-22T23:01:27-04:00",
+      "releaseDate": "2021-08-22",
       "shortDescription": "Ghost Story -TV 1972- 01x12 - Creatures Of The Canyon.mp4",
       "longDescription": "Ghost Story -TV 1972- 01x12 - Creatures Of The Canyon.mp4",
       "tags": [
         "Ghost-Story"
       ]
+    },
+    {
+      "id": "590848480",
+      "title": "Ray Bradbury Theater Usher II.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590848480.sd.mp4?s=2a02bb7741158c23fcbd08f40a58ec0fea65efcb&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1404
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221742588_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater Usher II.mp4",
+      "longDescription": "Ray Bradbury Theater Usher II.mp4",
+      "tags": [
+        "",
+        "BRADBURY-THEATER"
+      ]
+    },
+    {
+      "id": "590848403",
+      "title": "Ray Bradbury Theater Tyrannosaurus Rex.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590848403.sd.mp4?s=fd4d4075aa51e1d583a68bc97039a71d811fdfb7&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1541
+      },
+      "genres": [
+        "",
+        "horror"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221742534_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater Tyrannosaurus Rex.mp4",
+      "longDescription": "Ray Bradbury Theater Tyrannosaurus Rex.mp4",
+      "tags": [
+        "",
+        "BRADBURY-THEATER"
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "590848219",
+      "title": "Ray Bradbury Theater Touch Of Petulance.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590848219.sd.mp4?s=77b77e87ca54c32427188a4373d4c90cf69ee2ec&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1389
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221742328_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater Touch Of Petulance.mp4",
+      "longDescription": "Ray Bradbury Theater Touch Of Petulance.mp4",
+      "tags": [
+        "BRADBURY-THEATER"
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "590847812",
+      "title": "Ray Bradbury Theater The Wind.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590847812.sd.mp4?s=5df7514dd0cb02e3d150355204c24917b04da9e8&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1449
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221741440_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater The Wind.mp4",
+      "longDescription": "Ray Bradbury Theater The Wind.mp4",
+      "tags": [
+        "BRADBURY-THEATER"
+      ]
+    },
+    {
+      "id": "590847747",
+      "title": "Ray Bradbury Theater The Veldt.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590847747.sd.mp4?s=ba51ded429715ae7443cf0f61ddcbe2399d3a40b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1424
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221741371_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater The Veldt.mp4",
+      "longDescription": "Ray Bradbury Theater The Veldt.mp4",
+      "tags": [
+        "BRADBURY-THEATER"
+      ]
+    },
+    {
+      "id": "590847331",
+      "title": "Ray Bradbury Theater The Small Assassin.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590847331.sd.mp4?s=89184e71ffe166fbc31cd488074a313d41698765&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1512
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221740598_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater The Small Assassin.mp4",
+      "longDescription": "Ray Bradbury Theater The Small Assassin.mp4",
+      "tags": [
+        "BRADBURY-THEATER"
+      ]
+    },
+    {
+      "id": "590847027",
+      "title": "Ray Bradbury Theater The Playground.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590847027.sd.mp4?s=4b46343282ea9c20419585cdaa5175d3dfc0937d&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1680
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221739967_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater The Playground.mp4",
+      "longDescription": "Ray Bradbury Theater The Playground.mp4",
+      "tags": [
+        "BRADBURY-THEATER"
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "590846979",
+      "title": "Ray Bradbury Theater The Pedestrian.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590846979.sd.mp4?s=ecf103eae4c506f263493f5290e6e0277fc9242b&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1441
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221739842_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater The Pedestrian.mp4",
+      "longDescription": "Ray Bradbury Theater The Pedestrian.mp4",
+      "tags": [
+        ""
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "590846824",
+      "title": "Ray Bradbury Theater The Murderer.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590846824.sd.mp4?s=d18ef591a6f13a63111840399a0e21b466cc637d&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1392
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221739525_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater The Murderer.mp4",
+      "longDescription": "Ray Bradbury Theater The Murderer.mp4",
+      "tags": [
+        ""
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "590846669",
+      "title": "Ray Bradbury Theater The Man Upstairs.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590846669.sd.mp4?s=c5a2a49866b8a8dbb55c5f82c6e0160552213ad5&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1564
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221739550_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater The Man Upstairs.mp4",
+      "longDescription": "Ray Bradbury Theater The Man Upstairs.mp4",
+      "tags": [
+        ""
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "590846610",
+      "title": "Ray Bradbury Theater The Long Years.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590846610.sd.mp4?s=d87b1efc4f26b782a89154e2e7733f214fdfc00f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1394
+      },
+      "genres": [
+        ""
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221739281_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater The Long Years.mp4",
+      "longDescription": "Ray Bradbury Theater The Long Years.mp4",
+      "tags": [
+        ""
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "590846500",
+      "title": "Ray Bradbury Theater The Lake.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590846500.sd.mp4?s=4117f7b9d2aa9c9cf9679af7d1f825f3315585ba&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1440
+      },
+      "genres": [
+        "",
+        "horror"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221739381_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater The Lake.mp4",
+      "longDescription": "Ray Bradbury Theater The Lake.mp4",
+      "tags": [
+        "",
+        "BRADBURY-THEATER"
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "590846170",
+      "title": "Ray Bradbury Theater The Emissary.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590846170.sd.mp4?s=b1f94aff0d23308aee8c33c7761a21e5fc83c5bc&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1551
+      },
+      "genres": [
+        "",
+        "horror"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221738611_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater The Emissary.mp4",
+      "longDescription": "Ray Bradbury Theater The Emissary.mp4",
+      "tags": [
+        "",
+        "BRADBURY-THEATER"
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "590846050",
+      "title": "Ray Bradbury Theater The Earthmen.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590846050.sd.mp4?s=05e7820e5949c9770c0fde3182e7f8d8c862e944&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1392
+      },
+      "genres": [
+        "",
+        "horror"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1237087000_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater The Earthmen.mp4",
+      "longDescription": "Ray Bradbury Theater The Earthmen.mp4",
+      "tags": [
+        "",
+        "BRADBURY-THEATER"
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "590845958",
+      "title": "Ray Bradbury Theater The Dwarf.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590845958.sd.mp4?s=8959d1de2ea699c41886a661b953ce416adc786f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1429
+      },
+      "genres": [
+        "",
+        "horror"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221738304_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater The Dwarf.mp4",
+      "longDescription": "Ray Bradbury Theater The Dwarf.mp4",
+      "tags": [
+        "",
+        "BRADBURY-THEATER"
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "590845718",
+      "title": "Ray Bradbury Theater The Crowd.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590845718.sd.mp4?s=f1f68c493f1f0386f887e3163d75a8416ceeb269&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1647
+      },
+      "genres": [
+        "horror"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221737822_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater The Crowd.mp4",
+      "longDescription": "Ray Bradbury Theater The Crowd.mp4",
+      "tags": [
+        ""
+      ]
+    },
+    {
+      "id": "590845634",
+      "title": "Ray Bradbury Theater The Coffin.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590845634.sd.mp4?s=1acf91910bbf7b3c4ef5eb7919450addac3b7326&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1554
+      },
+      "genres": [
+        "horror"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221737680_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater The Coffin.mp4",
+      "longDescription": "Ray Bradbury Theater The Coffin.mp4",
+      "tags": [
+        "BRADBURY-THEATER"
+      ]
+    },
+    {
+      "id": "590845505",
+      "title": "Ray Bradbury Theater The Black Ferris.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590845505.sd.mp4?s=e31e19af1f3788ab202872d1d318f9908618a3b9&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1391
+      },
+      "genres": [
+        "horror"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221737273_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater The Black Ferris.mp4",
+      "longDescription": "Ray Bradbury Theater The Black Ferris.mp4",
+      "tags": [
+        "BRADBURY-THEATER"
+      ]
+    },
+    {
+      "id": "590845180",
+      "title": "Ray Bradbury Theater Marionettes- Inc.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590845180.sd.mp4?s=42de07598c8f162890682436c008cb3920b5793f&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1711
+      },
+      "genres": [
+        "horror"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221736659_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater Marionettes- Inc.mp4",
+      "longDescription": "Ray Bradbury Theater Marionettes- Inc.mp4",
+      "tags": [
+        "BRADBURY-THEATER"
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "590844989",
+      "title": "Ray Bradbury Theater Hail And Farewell.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590844989.sd.mp4?s=7f08736289cecb5d45db130ec48eabc95544936d&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1410
+      },
+      "genres": [
+        "horror"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1237085853_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater Hail And Farewell.mp4",
+      "longDescription": "Ray Bradbury Theater Hail And Farewell.mp4",
+      "tags": [
+        "BRADBURY-THEATER"
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "590844780",
+      "title": "Ray Bradbury Theater Exorcism.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590844780.sd.mp4?s=fc8faba6a804d411a3116d84c500577460f8cc2a&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1393,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "horror"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1237086460_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater Exorcism.mp4",
+      "longDescription": "Ray Bradbury Theater Exorcism.mp4",
+      "tags": [
+        "BRADBURY-THEATER"
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "590844910",
+      "title": "Ray Bradbury Theater Gotcha.mp4",
+      "content": {
+        "dateAdded": "2021-09-06T18:22:50-04:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/590844910.sd.mp4?s=54dd29b6d95516c78ed4936c7e52e4dde80a2524&profile_id=165",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1503,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00"
+        ]
+      },
+      "genres": [
+        "horror"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1221736117_800x450.png",
+      "releaseDate": "2021-08-23",
+      "shortDescription": "Ray Bradbury Theater Gotcha.mp4",
+      "longDescription": "Ray Bradbury Theater Gotcha.mp4",
+      "tags": [
+        ""
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     }
   ],
   "playlists": [
