@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-09-14T10:00:39+00:00",
+  "lastUpdated": "2021-09-20T05:47:00+00:00",
   "providerName": "OLK",
   "language": "en-US",
   "movies": [
@@ -2752,405 +2752,6 @@
       ],
       "rating": {
         "rating": "G",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "bdcf5c4d04af4edbbb8be2a48d2d84a3",
-      "title": "The Super Mario Bros. Super Show- - Season 1 -1989",
-      "content": {
-        "dateAdded": "2021-09-14T21:48:49+00:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/604525872.sd.mp4?s=d3c65c5514246f2b19ffab912dcc5a9d464ac73e&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 31560,
-        "adBreaks": [
-          "00:07:00",
-          "00:14:00",
-          "00:21:00",
-          "00:28:00",
-          "00:35:00",
-          "00:42:00",
-          "00:49:00",
-          "00:56:00",
-          "01:03:00",
-          "01:10:00",
-          "01:17:00",
-          "01:24:00",
-          "01:31:00",
-          "01:38:00",
-          "01:45:00",
-          "01:52:00",
-          "01:59:00",
-          "02:06:00",
-          "02:13:00",
-          "02:20:00",
-          "02:27:00",
-          "02:34:00",
-          "02:41:00",
-          "02:48:00",
-          "02:55:00",
-          "03:02:00",
-          "03:09:00",
-          "03:16:00",
-          "03:23:00",
-          "03:30:00",
-          "03:37:00",
-          "03:44:00",
-          "03:51:00",
-          "03:58:00",
-          "04:05:00",
-          "04:12:00",
-          "04:19:00",
-          "04:26:00",
-          "04:33:00",
-          "04:40:00",
-          "04:47:00",
-          "04:54:00",
-          "05:01:00",
-          "05:08:00",
-          "05:15:00",
-          "05:22:00",
-          "05:29:00",
-          "05:36:00",
-          "05:43:00",
-          "05:50:00",
-          "05:57:00",
-          "06:04:00",
-          "06:11:00",
-          "06:18:00",
-          "06:25:00",
-          "06:32:00",
-          "06:39:00",
-          "06:46:00",
-          "06:53:00",
-          "07:00:00",
-          "07:07:00",
-          "07:14:00",
-          "07:21:00",
-          "07:28:00",
-          "07:35:00",
-          "07:42:00",
-          "07:49:00",
-          "07:56:00",
-          "08:03:00",
-          "08:10:00",
-          "08:17:00",
-          "08:24:00",
-          "08:31:00",
-          "08:38:00",
-          "08:45:00"
-        ]
-      },
-      "genres": [
-        "adventure"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/1240896095_800x450.png",
-      "releaseDate": "2021-09-14",
-      "shortDescription": "The Super Mario Bros. Super Show- - Season 1 -1989",
-      "longDescription": "The Super Mario Bros. Super Show- - Season 1 -1989",
-      "tags": [
-        "80S-CARTOONS"
-      ],
-      "rating": {
-        "rating": "TVG",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "3ad3d997277d4b768ce80ac5f46517ea",
-      "title": "The Super Mario Bros. Super Show- - Season 2 -1989",
-      "content": {
-        "dateAdded": "2021-09-14T21:51:33+00:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/604529395.sd.mp4?s=1cd6fcaeab64159ce63262c53a97a7cc1d9c1487&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 32700,
-        "adBreaks": [
-          "00:07:00",
-          "00:14:00",
-          "00:21:00",
-          "00:28:00",
-          "00:35:00",
-          "00:42:00",
-          "00:49:00",
-          "00:56:00",
-          "01:03:00",
-          "01:10:00",
-          "01:17:00",
-          "01:24:00",
-          "01:31:00",
-          "01:38:00",
-          "01:45:00",
-          "01:52:00",
-          "01:59:00",
-          "02:06:00",
-          "02:13:00",
-          "02:20:00",
-          "02:27:00",
-          "02:34:00",
-          "02:41:00",
-          "02:48:00",
-          "02:55:00",
-          "03:02:00",
-          "03:09:00",
-          "03:16:00",
-          "03:23:00",
-          "03:30:00",
-          "03:37:00",
-          "03:44:00",
-          "03:51:00",
-          "03:58:00",
-          "04:05:00",
-          "04:12:00",
-          "04:19:00",
-          "04:26:00",
-          "04:33:00",
-          "04:40:00",
-          "04:47:00",
-          "04:54:00",
-          "05:01:00",
-          "05:08:00",
-          "05:15:00",
-          "05:22:00",
-          "05:29:00",
-          "05:36:00",
-          "05:43:00",
-          "05:50:00",
-          "05:57:00",
-          "06:04:00",
-          "06:11:00",
-          "06:18:00",
-          "06:25:00",
-          "06:32:00",
-          "06:39:00",
-          "06:46:00",
-          "06:53:00",
-          "07:00:00",
-          "07:07:00",
-          "07:14:00",
-          "07:21:00",
-          "07:28:00",
-          "07:35:00",
-          "07:42:00",
-          "07:49:00",
-          "07:56:00",
-          "08:03:00",
-          "08:10:00",
-          "08:17:00",
-          "08:24:00",
-          "08:31:00",
-          "08:38:00",
-          "08:45:00",
-          "08:52:00",
-          "08:59:00"
-        ]
-      },
-      "genres": [
-        "adventure"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/1240900819_800x450.png",
-      "releaseDate": "2021-09-14",
-      "shortDescription": "The Super Mario Bros. Super Show- - Season 2 -1989",
-      "longDescription": "The Super Mario Bros. Super Show- - Season 2 -1989",
-      "tags": [
-        "80S-CARTOONS"
-      ],
-      "rating": {
-        "rating": "TVG",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "bc71a67146a5441099c3481208bf2e3b",
-      "title": "The Legend of Zelda -1989-",
-      "content": {
-        "dateAdded": "2021-09-14T21:53:47+00:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/604524477.sd.mp4?s=fe06debcb637c6ec351e0c152333bfb05b640ba2&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 13200,
-        "adBreaks": [
-          "00:07:00",
-          "00:14:00",
-          "00:21:00",
-          "00:28:00",
-          "00:35:00",
-          "00:42:00",
-          "00:49:00",
-          "00:56:00",
-          "01:03:00",
-          "01:10:00",
-          "01:17:00",
-          "01:24:00",
-          "01:31:00",
-          "01:38:00",
-          "01:45:00",
-          "01:52:00",
-          "01:59:00",
-          "02:06:00",
-          "02:13:00",
-          "02:20:00",
-          "02:27:00",
-          "02:34:00",
-          "02:41:00",
-          "02:48:00",
-          "02:55:00",
-          "03:02:00",
-          "03:09:00",
-          "03:16:00",
-          "03:23:00",
-          "03:30:00",
-          "03:37:00"
-        ]
-      },
-      "genres": [
-        "adventure"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/1240891432_800x450.png",
-      "releaseDate": "2021-09-14",
-      "shortDescription": "The Legend of Zelda -1989-",
-      "longDescription": "The Legend of Zelda -1989-",
-      "tags": [
-        "80S-CARTOONS"
-      ],
-      "rating": {
-        "rating": "TVG",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "730fb4f6e84c419fb9e5a40e04ef9627",
-      "title": "The Adventures of Super Mario Bros. 3 -1990",
-      "content": {
-        "dateAdded": "2021-09-14T21:55:26+00:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/604522732.sd.mp4?s=cf42c778c04c4d1f2bfd444c47e32419c6c66ae2&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 18240,
-        "adBreaks": [
-          "00:07:00",
-          "00:14:00",
-          "00:21:00",
-          "00:28:00",
-          "00:35:00",
-          "00:42:00",
-          "00:49:00",
-          "00:56:00",
-          "01:03:00",
-          "01:10:00",
-          "01:17:00",
-          "01:24:00",
-          "01:31:00",
-          "01:38:00",
-          "01:45:00",
-          "01:52:00",
-          "01:59:00",
-          "02:06:00",
-          "02:13:00",
-          "02:20:00",
-          "02:27:00",
-          "02:34:00",
-          "02:41:00",
-          "02:48:00",
-          "02:55:00",
-          "03:02:00",
-          "03:09:00",
-          "03:16:00",
-          "03:23:00",
-          "03:30:00",
-          "03:37:00",
-          "03:44:00",
-          "03:51:00",
-          "03:58:00",
-          "04:05:00",
-          "04:12:00",
-          "04:19:00",
-          "04:26:00",
-          "04:33:00",
-          "04:40:00",
-          "04:47:00",
-          "04:54:00",
-          "05:01:00"
-        ]
-      },
-      "genres": [
-        "adventure"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/1240889949_800x450.png",
-      "releaseDate": "2021-09-14",
-      "shortDescription": "The Adventures of Super Mario Bros. 3 -1990",
-      "longDescription": "The Adventures of Super Mario Bros. 3 -1990",
-      "tags": [
-        "80S-CARTOONS"
-      ],
-      "rating": {
-        "rating": "TVG",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "f7e6b246e1874a8d99ddefcc252aead1",
-      "title": "Super Mario World -1991",
-      "content": {
-        "dateAdded": "2021-09-14T21:55:30+00:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/604521880.sd.mp4?s=a58eb2bee6b0a181813fabd95db38871e8c82a3c&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 7800,
-        "adBreaks": [
-          "00:07:00",
-          "00:14:00",
-          "00:21:00",
-          "00:28:00",
-          "00:35:00",
-          "00:42:00",
-          "00:49:00",
-          "00:56:00",
-          "01:03:00",
-          "01:10:00",
-          "01:17:00",
-          "01:24:00",
-          "01:31:00",
-          "01:38:00",
-          "01:45:00",
-          "01:52:00",
-          "01:59:00",
-          "02:06:00"
-        ]
-      },
-      "genres": [
-        "adventure"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/1240887550_800x450.png",
-      "releaseDate": "2021-09-14",
-      "shortDescription": "Super Mario World -1991",
-      "longDescription": "Super Mario World -1991",
-      "tags": [
-        "80S-CARTOONS"
-      ],
-      "rating": {
-        "rating": "TVG",
         "ratingSource": "MPAA"
       }
     }
@@ -9228,6 +8829,1317 @@
       "longDescription": "Hello Kitty Tells Fairy Tales",
       "tags": [
         "80'S-CARTOONS"
+      ]
+    },
+    {
+      "id": "b038ed1914e249f4b66ff1b5c4381c54",
+      "title": "The Super Mario Bros. Super Show",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "id": "9eb00accfeed42b4a2942e9c87f7e3d6",
+              "title": "The Super Mario Bros. Super Show- - Season 1 -1989",
+              "content": {
+                "dateAdded": "2021-09-16T17:20:59+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/604525872.sd.mp4?s=d3c65c5514246f2b19ffab912dcc5a9d464ac73e&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 31560,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00",
+                  "02:55:00",
+                  "03:02:00",
+                  "03:09:00",
+                  "03:16:00",
+                  "03:23:00",
+                  "03:30:00",
+                  "03:37:00",
+                  "03:44:00",
+                  "03:51:00",
+                  "03:58:00",
+                  "04:05:00",
+                  "04:12:00",
+                  "04:19:00",
+                  "04:26:00",
+                  "04:33:00",
+                  "04:40:00",
+                  "04:47:00",
+                  "04:54:00",
+                  "05:01:00",
+                  "05:08:00",
+                  "05:15:00",
+                  "05:22:00",
+                  "05:29:00",
+                  "05:36:00",
+                  "05:43:00",
+                  "05:50:00",
+                  "05:57:00",
+                  "06:04:00",
+                  "06:11:00",
+                  "06:18:00",
+                  "06:25:00",
+                  "06:32:00",
+                  "06:39:00",
+                  "06:46:00",
+                  "06:53:00",
+                  "07:00:00",
+                  "07:07:00",
+                  "07:14:00",
+                  "07:21:00",
+                  "07:28:00",
+                  "07:35:00",
+                  "07:42:00",
+                  "07:49:00",
+                  "07:56:00",
+                  "08:03:00",
+                  "08:10:00",
+                  "08:17:00",
+                  "08:24:00",
+                  "08:31:00",
+                  "08:38:00",
+                  "08:45:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1240896095_800x450.png",
+              "episodeNumber": 1,
+              "releaseDate": "2021-09-16",
+              "shortDescription": "The Super Mario Bros. Super Show- - Season 1 -1989",
+              "longDescription": "The Super Mario Bros. Super Show- - Season 1 -1989",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            }
+          ],
+          "thumbnail": "https://i.vimeocdn.com/video/1240896095_800x450.png"
+        },
+        {
+          "seasonNumber": 2,
+          "episodes": [
+            {
+              "id": "ddb014cb73804d07a717cdb16ce6144c",
+              "title": "The Super Mario Bros. Super Show- - Season 2 -1989",
+              "content": {
+                "dateAdded": "2021-09-16T17:21:17+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/604529395.sd.mp4?s=1cd6fcaeab64159ce63262c53a97a7cc1d9c1487&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 32700,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00",
+                  "02:55:00",
+                  "03:02:00",
+                  "03:09:00",
+                  "03:16:00",
+                  "03:23:00",
+                  "03:30:00",
+                  "03:37:00",
+                  "03:44:00",
+                  "03:51:00",
+                  "03:58:00",
+                  "04:05:00",
+                  "04:12:00",
+                  "04:19:00",
+                  "04:26:00",
+                  "04:33:00",
+                  "04:40:00",
+                  "04:47:00",
+                  "04:54:00",
+                  "05:01:00",
+                  "05:08:00",
+                  "05:15:00",
+                  "05:22:00",
+                  "05:29:00",
+                  "05:36:00",
+                  "05:43:00",
+                  "05:50:00",
+                  "05:57:00",
+                  "06:04:00",
+                  "06:11:00",
+                  "06:18:00",
+                  "06:25:00",
+                  "06:32:00",
+                  "06:39:00",
+                  "06:46:00",
+                  "06:53:00",
+                  "07:00:00",
+                  "07:07:00",
+                  "07:14:00",
+                  "07:21:00",
+                  "07:28:00",
+                  "07:35:00",
+                  "07:42:00",
+                  "07:49:00",
+                  "07:56:00",
+                  "08:03:00",
+                  "08:10:00",
+                  "08:17:00",
+                  "08:24:00",
+                  "08:31:00",
+                  "08:38:00",
+                  "08:45:00",
+                  "08:52:00",
+                  "08:59:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1240900819_800x450.png",
+              "episodeNumber": 1,
+              "releaseDate": "2021-09-16",
+              "shortDescription": "The Super Mario Bros. Super Show- - Season 2 -1989",
+              "longDescription": "The Super Mario Bros. Super Show- - Season 2 -1989",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            }
+          ],
+          "thumbnail": "https://i.vimeocdn.com/video/1240896095_800x450.png"
+        },
+        {
+          "seasonNumber": 3,
+          "episodes": [
+            {
+              "id": "d12ddf8ce3b54c46b50393233e6c9bbd",
+              "title": "The Legend of Zelda -1989",
+              "content": {
+                "dateAdded": "2021-09-16T17:21:21+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/604524477.sd.mp4?s=fe06debcb637c6ec351e0c152333bfb05b640ba2&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 13140,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00",
+                  "02:55:00",
+                  "03:02:00",
+                  "03:09:00",
+                  "03:16:00",
+                  "03:23:00",
+                  "03:30:00",
+                  "03:37:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1240891432_800x450.png",
+              "episodeNumber": 1,
+              "releaseDate": "2021-09-16",
+              "shortDescription": "The Legend of Zelda -1989",
+              "longDescription": "The Legend of Zelda -1989",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            }
+          ],
+          "thumbnail": "https://i.vimeocdn.com/video/1240891432_800x450.png"
+        },
+        {
+          "seasonNumber": 4,
+          "episodes": [
+            {
+              "id": "e583f6ee6da34ba6a0b606815ef9b9c5",
+              "title": "The Adventures of Super Mario Bros. 3 -1990",
+              "content": {
+                "dateAdded": "2021-09-16T17:31:11+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/604522732.sd.mp4?s=cf42c778c04c4d1f2bfd444c47e32419c6c66ae2&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 18240,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00",
+                  "02:55:00",
+                  "03:02:00",
+                  "03:09:00",
+                  "03:16:00",
+                  "03:23:00",
+                  "03:30:00",
+                  "03:37:00",
+                  "03:44:00",
+                  "03:51:00",
+                  "03:58:00",
+                  "04:05:00",
+                  "04:12:00",
+                  "04:19:00",
+                  "04:26:00",
+                  "04:33:00",
+                  "04:40:00",
+                  "04:47:00",
+                  "04:54:00",
+                  "05:01:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1240889949_800x450.png",
+              "episodeNumber": 1,
+              "releaseDate": "2021-09-16",
+              "shortDescription": "The Adventures of Super Mario Bros. 3 -1990",
+              "longDescription": "The Adventures of Super Mario Bros. 3 -1990",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            }
+          ],
+          "thumbnail": "https://i.vimeocdn.com/video/1240889949_800x450.png"
+        },
+        {
+          "seasonNumber": 5,
+          "episodes": [
+            {
+              "id": "5cecdf30759246e68ea7bea7716e243d",
+              "title": "Super Mario World -1991",
+              "content": {
+                "dateAdded": "2021-09-16T17:32:33+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/604521880.sd.mp4?s=a58eb2bee6b0a181813fabd95db38871e8c82a3c&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 7800,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1240887550_800x450.png",
+              "episodeNumber": 1,
+              "releaseDate": "2021-09-16",
+              "shortDescription": "Super Mario World -1991",
+              "longDescription": "Super Mario World -1991",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            }
+          ],
+          "thumbnail": "https://i.vimeocdn.com/video/1240887550_800x450.png"
+        }
+      ],
+      "genres": [
+        "adventure"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1240896095_800x450.png",
+      "releaseDate": "2021-09-16",
+      "shortDescription": "The Super Mario Bros. Super Show",
+      "longDescription": "The Super Mario Bros. Super Show",
+      "tags": [
+        "80S-CARTOONS"
+      ]
+    },
+    {
+      "id": "38f29a8e4c5f4da09578bc945832b33d",
+      "title": "Rainbow Brite",
+      "episodes": [
+        {
+          "id": "84bad6210462483688bc4dcc04ccc415",
+          "title": "Rainbow Brite The Beginning of Rainbow Land Part 1",
+          "content": {
+            "dateAdded": "2021-09-20T14:27:28+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/602763906.sd.mp4?s=bbe4dc3f00875783ae4bc565d6ec8588ea08cace&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1320,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235035034-f592a409d42d7028ed0cdd21824513eafdd5ee0e307e5c27b07f492a1bb67f29-d_800x450.png",
+          "episodeNumber": 1,
+          "releaseDate": "2021-09-20",
+          "shortDescription": "Rainbow Brite The Beginning of Rainbow Land Part 1",
+          "longDescription": "Rainbow Brite The Beginning of Rainbow Land Part 1",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "a6604733e588462898b4875a0e8e4d0c",
+          "title": "Rainbow Brite - Beginning of Rainbowland -Part 2",
+          "content": {
+            "dateAdded": "2021-09-20T14:27:45+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/599490019.sd.mp4?s=ad66c1207a669ff3ded44f12cd567fa2f0f2229e&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1320,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235035034-f592a409d42d7028ed0cdd21824513eafdd5ee0e307e5c27b07f492a1bb67f29-d_800x450.png",
+          "episodeNumber": 2,
+          "releaseDate": "2021-09-20",
+          "shortDescription": "Rainbow Brite - Beginning of Rainbowland -Part 2",
+          "longDescription": "Rainbow Brite - Beginning of Rainbowland -Part 2",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "5a3280ddae7e41408490beedac7a2c70",
+          "title": "Rainbow Brite - A Horse of a Different Color",
+          "content": {
+            "dateAdded": "2021-09-20T14:27:51+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/599489762.sd.mp4?s=e92259609ba8a53fb1c3ae42f9077e86617658d2&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1320,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235035034-f592a409d42d7028ed0cdd21824513eafdd5ee0e307e5c27b07f492a1bb67f29-d_800x450.png",
+          "episodeNumber": 3,
+          "releaseDate": "2021-09-20",
+          "shortDescription": "Rainbow Brite - A Horse of a Different Color",
+          "longDescription": "Rainbow Brite - A Horse of a Different Color",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "c0fe18f8bcb2480ebf42a966f8ddd502",
+          "title": "Rainbow Brite - Chasing Rainbows",
+          "content": {
+            "dateAdded": "2021-09-20T14:27:53+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/599490162.sd.mp4?s=aa059c7dcd0bd24027a30d29afc912a4fbd6f833&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1320,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235035034-f592a409d42d7028ed0cdd21824513eafdd5ee0e307e5c27b07f492a1bb67f29-d_800x450.png",
+          "episodeNumber": 4,
+          "releaseDate": "2021-09-20",
+          "shortDescription": "Rainbow Brite - Chasing Rainbows",
+          "longDescription": "Rainbow Brite - Chasing Rainbows",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "3582f917ef4543ae8d9ce70ca4c929e4",
+          "title": "Rainbow Brite - Invasion of Rainbowland",
+          "content": {
+            "dateAdded": "2021-09-20T14:27:55+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/599490399.sd.mp4?s=2cc3d4079a24a84e563f73bb87711fcc57b4d0b1&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1320,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235035034-f592a409d42d7028ed0cdd21824513eafdd5ee0e307e5c27b07f492a1bb67f29-d_800x450.png",
+          "episodeNumber": 5,
+          "releaseDate": "2021-09-20",
+          "shortDescription": "Rainbow Brite - Invasion of Rainbowland",
+          "longDescription": "Rainbow Brite - Invasion of Rainbowland",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "d1c6c719ca67490eba73b38b2a2d7e6f",
+          "title": "Rainbow Brite - Peril in The Pits",
+          "content": {
+            "dateAdded": "2021-09-20T14:27:57+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/599491210.sd.mp4?s=e1ad5d8ef47ab8c3fb34a7ae333c1aa1083184db&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1320,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235035034-f592a409d42d7028ed0cdd21824513eafdd5ee0e307e5c27b07f492a1bb67f29-d_800x450.png",
+          "episodeNumber": 6,
+          "releaseDate": "2021-09-20",
+          "shortDescription": "Rainbow Brite - Peril in The Pits",
+          "longDescription": "Rainbow Brite - Peril in The Pits",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "825d7a7b7c3c48ca9d7a8562e67bfa9a",
+          "title": "Rainbow Brite - Mighty Monstromurk Menace -Part 1",
+          "content": {
+            "dateAdded": "2021-09-20T14:27:59+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/599490513.sd.mp4?s=e4ad782461dc611bac3bb74b7ccf1b65d1412e18&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1320,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235035034-f592a409d42d7028ed0cdd21824513eafdd5ee0e307e5c27b07f492a1bb67f29-d_800x450.png",
+          "episodeNumber": 7,
+          "releaseDate": "2021-09-20",
+          "shortDescription": "Rainbow Brite - Mighty Monstromurk Menace -Part 1",
+          "longDescription": "Rainbow Brite - Mighty Monstromurk Menace -Part 1",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "12ccb7a180bb4c31ad53b9a3a7ce296e",
+          "title": "Rainbow Brite - Mighty Monstromurk Menace -Part 2",
+          "content": {
+            "dateAdded": "2021-09-20T14:28:01+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/599490759.sd.mp4?s=4457d87ebd2df2976adbc3d403a9f451745acf7e&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1320,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235035034-f592a409d42d7028ed0cdd21824513eafdd5ee0e307e5c27b07f492a1bb67f29-d_800x450.png",
+          "episodeNumber": 8,
+          "releaseDate": "2021-09-20",
+          "shortDescription": "Rainbow Brite - Mighty Monstromurk Menace -Part 2",
+          "longDescription": "Rainbow Brite - Mighty Monstromurk Menace -Part 2",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "7e772dc50ba94d2ea10058b5605339e1",
+          "title": "Rainbow Brite - Mom",
+          "content": {
+            "dateAdded": "2021-09-20T14:28:03+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/599490868.sd.mp4?s=e12cc8b35ffb23fd1837e9f0d95152764f59ecf7&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1320,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235035034-f592a409d42d7028ed0cdd21824513eafdd5ee0e307e5c27b07f492a1bb67f29-d_800x450.png",
+          "episodeNumber": 9,
+          "releaseDate": "2021-09-20",
+          "shortDescription": "Rainbow Brite - Mom",
+          "longDescription": "Rainbow Brite - Mom"
+        },
+        {
+          "id": "5bb42f4705b54ca58c61ecbd4ff11da2",
+          "title": "Rainbow Brite - Murky-s Comet",
+          "content": {
+            "dateAdded": "2021-09-20T14:28:05+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/599491116.sd.mp4?s=0c0eda891ba6c2088222f72befa31156c6768193&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1320,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235035034-f592a409d42d7028ed0cdd21824513eafdd5ee0e307e5c27b07f492a1bb67f29-d_800x450.png",
+          "episodeNumber": 10,
+          "releaseDate": "2021-09-20",
+          "shortDescription": "Rainbow Brite - Murky-s Comet",
+          "longDescription": "Rainbow Brite - Murky-s Comet",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "f6975122cea145dabdf5f09625b0eafd",
+          "title": "Rainbow Brite - Queen of the Sprites",
+          "content": {
+            "dateAdded": "2021-09-20T14:28:07+00:00",
+            "videos": [
+              {
+                "url": "Rainbow Brite - Murky-s Comet",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1320,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235035034-f592a409d42d7028ed0cdd21824513eafdd5ee0e307e5c27b07f492a1bb67f29-d_800x450.png",
+          "episodeNumber": 11,
+          "releaseDate": "2021-09-20",
+          "shortDescription": "Rainbow Brite - Queen of the Sprites",
+          "longDescription": "Rainbow Brite - Queen of the Sprites"
+        },
+        {
+          "id": "ad868b1890a64ff19ca5a2be9f04f1b1",
+          "title": "Rainbow Brite - Rainbow Night",
+          "content": {
+            "dateAdded": "2021-09-20T14:28:10+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/599491619.sd.mp4?s=478feaffe85f6ffefe7a8ff606b89d29fdfc5105&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1320,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235035034-f592a409d42d7028ed0cdd21824513eafdd5ee0e307e5c27b07f492a1bb67f29-d_800x450.png",
+          "episodeNumber": 12,
+          "releaseDate": "2021-09-20",
+          "shortDescription": "Rainbow Brite - Rainbow Night",
+          "longDescription": "Rainbow Brite - Rainbow Night",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "347d4ce1ee6e40d9abe0e4d50f6dd559",
+          "title": "Rainbow Brite Star Sprinkled",
+          "content": {
+            "dateAdded": "2021-09-20T16:41:42+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/602761664.sd.mp4?s=bcc44f79b658596b8bfafe3eb7bbd0632d7945de&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1320,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1235035034-f592a409d42d7028ed0cdd21824513eafdd5ee0e307e5c27b07f492a1bb67f29-d_800x450.png",
+          "episodeNumber": 13,
+          "releaseDate": "2021-09-20",
+          "shortDescription": "Rainbow Brite Star Sprinkled",
+          "longDescription": "Rainbow Brite Star Sprinkled",
+          "rating": {
+            "rating": "TVG",
+            "ratingSource": "MPAA"
+          }
+        }
+      ],
+      "genres": [
+        "adventure"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1235035034-f592a409d42d7028ed0cdd21824513eafdd5ee0e307e5c27b07f492a1bb67f29-d_800x450.png",
+      "releaseDate": "2021-09-20",
+      "shortDescription": "Rainbow Brite",
+      "longDescription": "Rainbow Brite",
+      "tags": [
+        "80S-CARTOONS"
+      ]
+    },
+    {
+      "id": "4915de86298e4b789be61012ceb52522",
+      "title": "Camp Candy",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "id": "9b408dffb6fb4eef91515263e73f6a32",
+              "title": "Camp Candy - Christmas in July and When it RainsIt Snows",
+              "content": {
+                "dateAdded": "2021-09-20T16:51:35+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/510059447.sd.mp4?s=7bed412d177fdc2470ca3adaba4cf6b5f7807c63&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2640,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1158127860-3c6f4a991d39fe82aa2cf908997c1c4730dd7bd063130e387483315ad8050c1e-d_800x450.png",
+              "episodeNumber": 1,
+              "releaseDate": "2021-09-20",
+              "shortDescription": "Camp Candy - Christmas in July and When it RainsIt Snows",
+              "longDescription": "Camp Candy - Christmas in July and When it RainsIt Snows",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "d2fe8e9186924f80bed8b73265bd9746",
+              "title": "Camp Candy - Dr. Tongues Amazing Adventures- Saturday Night Polka Fever- and Bobby Bittman",
+              "content": {
+                "dateAdded": "2021-09-20T16:51:38+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/560249732.sd.mp4?s=b8e3e11f6fde8f95af535f86abec3cd48a576c51&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2640,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1158127860-3c6f4a991d39fe82aa2cf908997c1c4730dd7bd063130e387483315ad8050c1e-d_800x450.png",
+              "episodeNumber": 2,
+              "releaseDate": "2021-09-20",
+              "shortDescription": "Camp Candy - Dr. Tongues Amazing Adventures- Saturday Night Polka Fever- and Bobby Bittman",
+              "longDescription": "Camp Candy - Dr. Tongues Amazing Adventures- Saturday Night Polka Fever- and Bobby Bittman",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "7b3ce94b07d84aa2bb216f2a478c4c74",
+              "title": "Camp Candy - The Last Word- Bird is the Word and Rick Van Winkle",
+              "content": {
+                "dateAdded": "2021-09-20T16:51:40+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/560249979.sd.mp4?s=7549a3118a939756cf672c8e24a5f244d34f630a&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2640,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1158127860-3c6f4a991d39fe82aa2cf908997c1c4730dd7bd063130e387483315ad8050c1e-d_800x450.png",
+              "episodeNumber": 3,
+              "releaseDate": "2021-09-20",
+              "shortDescription": "Camp Candy - The Last Word- Bird is the Word and Rick Van Winkle",
+              "longDescription": "Camp Candy - The Last Word- Bird is the Word and Rick Van Winkle",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            }
+          ],
+          "thumbnail": "https://i.vimeocdn.com/video/1158127860-3c6f4a991d39fe82aa2cf908997c1c4730dd7bd063130e387483315ad8050c1e-d_800x450.png"
+        }
+      ],
+      "genres": [
+        "adventure"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1158127860-3c6f4a991d39fe82aa2cf908997c1c4730dd7bd063130e387483315ad8050c1e-d_800x450.png",
+      "releaseDate": "2021-09-20",
+      "shortDescription": "Camp Candy",
+      "longDescription": "Camp Candy",
+      "tags": [
+        "90S-CARTOONS"
+      ]
+    },
+    {
+      "id": "046274e0d68b4f38940b5636232875ac",
+      "title": "Saban-s Adventures of The Little Mermaid",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "id": "be15ee8e74ba46aab337c84f5fd9d0a5",
+              "title": "Saban-s Adventures of The Little Mermaid Premiere",
+              "content": {
+                "dateAdded": "2021-09-20T17:21:02+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/594806767.sd.mp4?s=dc15de6543951359ead5787f26180dbe9d7e84ce&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1440,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1228449588-aff63506c8bb67491c42cc6b922bc862565934c453bf9d1acc8125449b740d6d-d_800x450.png",
+              "episodeNumber": 1,
+              "releaseDate": "2021-09-20",
+              "shortDescription": "Saban-s Adventures of The Little Mermaid Premiere",
+              "longDescription": "Saban-s Adventures of The Little Mermaid Premiere",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "2161d01f3f9d4b6cb398f56c6445c14c",
+              "title": "Saban-s Adventures of The Little Mermaid Ep 2",
+              "content": {
+                "dateAdded": "2021-09-20T17:21:06+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/594804852.sd.mp4?s=e494e43c9ada87556ba3ea56910ebdb8b9903062&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1200,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1228449588-aff63506c8bb67491c42cc6b922bc862565934c453bf9d1acc8125449b740d6d-d_800x450.png",
+              "episodeNumber": 2,
+              "releaseDate": "2021-09-20",
+              "shortDescription": "Saban-s Adventures of The Little Mermaid Ep 2",
+              "longDescription": "Saban-s Adventures of The Little Mermaid Ep 2",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "9a8e76c0402a453a8fa4c782d78dd98d",
+              "title": "Saban-s Adventures of The Little Mermaid Ep 3",
+              "content": {
+                "dateAdded": "2021-09-20T17:21:08+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/594804950.sd.mp4?s=ee1d66f06cd21175b79b8184f77b90553898e916&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1260,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1228449588-aff63506c8bb67491c42cc6b922bc862565934c453bf9d1acc8125449b740d6d-d_800x450.png",
+              "episodeNumber": 3,
+              "releaseDate": "2021-09-20",
+              "shortDescription": "Saban-s Adventures of The Little Mermaid Ep 3",
+              "longDescription": "Saban-s Adventures of The Little Mermaid Ep 3",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "8ea0d4c097f2428cbccf450599a89324",
+              "title": "Saban-s Adventures of The Little Mermaid Ep 4",
+              "content": {
+                "dateAdded": "2021-09-20T17:21:10+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/594805104.sd.mp4?s=88b321bb9b930ee4517b3d925d301d56ead328ec&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1440,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1228449588-aff63506c8bb67491c42cc6b922bc862565934c453bf9d1acc8125449b740d6d-d_800x450.png",
+              "episodeNumber": 4,
+              "releaseDate": "2021-09-20",
+              "shortDescription": "Saban-s Adventures of The Little Mermaid Ep 4",
+              "longDescription": "Saban-s Adventures of The Little Mermaid Ep 4",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "baac399e324f43398c2435b7e8935a92",
+              "title": "Saban-s Adventures of The Little Mermaid Ep 5",
+              "content": {
+                "dateAdded": "2021-09-20T17:21:12+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/594805246.sd.mp4?s=d923defdcf0b44a289253d78c26ef1cee07b9729&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1260,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1228449588-aff63506c8bb67491c42cc6b922bc862565934c453bf9d1acc8125449b740d6d-d_800x450.png",
+              "episodeNumber": 5,
+              "releaseDate": "2021-09-20",
+              "shortDescription": "Saban-s Adventures of The Little Mermaid Ep 5",
+              "longDescription": "Saban-s Adventures of The Little Mermaid Ep 5",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "5400a71aecd840f2b41f7ed497f80441",
+              "title": "Saban-s Adventures of The Little Mermaid Ep 6",
+              "content": {
+                "dateAdded": "2021-09-20T17:21:14+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/594805361.sd.mp4?s=98aef87418e9796b731a627f06dfd2ed7ed3a7f2&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1260,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1228449588-aff63506c8bb67491c42cc6b922bc862565934c453bf9d1acc8125449b740d6d-d_800x450.png",
+              "episodeNumber": 6,
+              "releaseDate": "2021-09-20",
+              "shortDescription": "Saban-s Adventures of The Little Mermaid Ep 6",
+              "longDescription": "Saban-s Adventures of The Little Mermaid Ep 6",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "3c3be3b1c9d84ca3ae44ad032d2dbffe",
+              "title": "Saban-s Adventures of The Little Mermaid Ep 7",
+              "content": {
+                "dateAdded": "2021-09-20T17:21:16+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/594805473.sd.mp4?s=56856cbcabfc46ef1a99d07c0267bf3034c103c6&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1260,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1228449588-aff63506c8bb67491c42cc6b922bc862565934c453bf9d1acc8125449b740d6d-d_800x450.png",
+              "episodeNumber": 7,
+              "releaseDate": "2021-09-20",
+              "shortDescription": "Saban-s Adventures of The Little Mermaid Ep 7",
+              "longDescription": "Saban-s Adventures of The Little Mermaid Ep 7",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "b04fe2204bcd4f3b8e131c20df9e4e3b",
+              "title": "Saban-s Adventures of The Little Mermaid Ep 8",
+              "content": {
+                "dateAdded": "2021-09-20T17:21:17+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/594805601.sd.mp4?s=674dca0724fbf27e2515f550ef1ce5e1c9f4c29e&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1260,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1228449588-aff63506c8bb67491c42cc6b922bc862565934c453bf9d1acc8125449b740d6d-d_800x450.png",
+              "episodeNumber": 8,
+              "releaseDate": "2021-09-20",
+              "shortDescription": "Saban-s Adventures of The Little Mermaid Ep 8",
+              "longDescription": "Saban-s Adventures of The Little Mermaid Ep 8",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "a6e57f6b0bbe4c998b3e385fd769d415",
+              "title": "Saban-s Adventures of The Little Mermaid Ep 9",
+              "content": {
+                "dateAdded": "2021-09-20T17:21:19+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/594805806.sd.mp4?s=a60cf1435613ee83ea21b0cfe2884ea36f6e7c9e&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1260,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1228449588-aff63506c8bb67491c42cc6b922bc862565934c453bf9d1acc8125449b740d6d-d_800x450.png",
+              "episodeNumber": 9,
+              "releaseDate": "2021-09-20",
+              "shortDescription": "Saban-s Adventures of The Little Mermaid Ep 9",
+              "longDescription": "Saban-s Adventures of The Little Mermaid Ep 9",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "75d461dd8f0a44809471bae53b30f2a9",
+              "title": "Saban-s Adventures of The Little Mermaid Ep 10",
+              "content": {
+                "dateAdded": "2021-09-20T17:21:21+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/594806053.sd.mp4?s=979140efdc49338cb9e6feff12fc1b42fcd089fe&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1260,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1228449588-aff63506c8bb67491c42cc6b922bc862565934c453bf9d1acc8125449b740d6d-d_800x450.png",
+              "episodeNumber": 10,
+              "releaseDate": "2021-09-20",
+              "shortDescription": "Saban-s Adventures of The Little Mermaid Ep 10",
+              "longDescription": "Saban-s Adventures of The Little Mermaid Ep 10",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "92ab4e5036b541359f50a27285cfec29",
+              "title": "Saban-s Adventures of The Little Mermaid Ep 11",
+              "content": {
+                "dateAdded": "2021-09-20T17:21:22+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/594806379.sd.mp4?s=73cb44db1b9da5f7f37bc6d01f1d2dbc461456bf&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1200,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1228449588-aff63506c8bb67491c42cc6b922bc862565934c453bf9d1acc8125449b740d6d-d_800x450.png",
+              "episodeNumber": 11,
+              "releaseDate": "2021-09-20",
+              "shortDescription": "Saban-s Adventures of The Little Mermaid Ep 11",
+              "longDescription": "Saban-s Adventures of The Little Mermaid Ep 11",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "e55e740f712942a9ac6bbf328fbdfa15",
+              "title": "Saban-s Adventures of The Little Mermaid Ep 12",
+              "content": {
+                "dateAdded": "2021-09-20T17:21:24+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/594806492.sd.mp4?s=934c51ca2fbf2eeeb62c8a153946bae21ace832b&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1200,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1228449588-aff63506c8bb67491c42cc6b922bc862565934c453bf9d1acc8125449b740d6d-d_800x450.png",
+              "episodeNumber": 12,
+              "releaseDate": "2021-09-20",
+              "shortDescription": "Saban-s Adventures of The Little Mermaid Ep 12",
+              "longDescription": "Saban-s Adventures of The Little Mermaid Ep 12",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "e71c277563894894b3a0c2ea0b736e8f",
+              "title": "Saban-s Adventures of The Little Mermaid Ep 13",
+              "content": {
+                "dateAdded": "2021-09-20T17:21:27+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/594806591.sd.mp4?s=1e971568c0f633eba004c3b2010a19739d182479&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 1260,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00"
+                ]
+              },
+              "thumbnail": "https://i.vimeocdn.com/video/1228449588-aff63506c8bb67491c42cc6b922bc862565934c453bf9d1acc8125449b740d6d-d_800x450.png",
+              "episodeNumber": 13,
+              "releaseDate": "2021-09-20",
+              "shortDescription": "Saban-s Adventures of The Little Mermaid Ep 13",
+              "longDescription": "Saban-s Adventures of The Little Mermaid Ep 13",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            }
+          ],
+          "thumbnail": "https://i.vimeocdn.com/video/1228449588-aff63506c8bb67491c42cc6b922bc862565934c453bf9d1acc8125449b740d6d-d_800x450.png"
+        }
+      ],
+      "genres": [
+        "adventure"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1228449588-aff63506c8bb67491c42cc6b922bc862565934c453bf9d1acc8125449b740d6d-d_800x450.png",
+      "releaseDate": "2021-09-20",
+      "shortDescription": "Saban-s Adventures of The Little Mermaid",
+      "longDescription": "Saban-s Adventures of The Little Mermaid",
+      "tags": [
+        "90S-CARTOONS"
       ]
     }
   ],
