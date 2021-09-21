@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-09-14T02:45:06+00:00",
+  "lastUpdated": "2021-09-21T02:16:06+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -2704,7 +2704,7 @@
       "shortDescription": "LAST MAN ON EARTH",
       "longDescription": "LAST MAN ON EARTH",
       "tags": [
-        "MOVIE-OF-WEEK"
+        "MOVIE-OF-THE-WEEK"
       ],
       "rating": {
         "rating": "TVY14",
@@ -2733,7 +2733,7 @@
       "shortDescription": "LADYBUG,LADYBUG..",
       "longDescription": "LADYBUG,LADYBUG..",
       "tags": [
-        "MOVIE-OF-WEEK"
+        "MOVIE-OF-THE-WEEK"
       ],
       "rating": {
         "rating": "TVY14",
@@ -4088,7 +4088,11 @@
       "longDescription": "Ray Bradbury Theater The Black Ferris.mp4",
       "tags": [
         "BRADBURY-THEATER"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590845180",
@@ -4113,7 +4117,11 @@
       "longDescription": "Ray Bradbury Theater Marionettes- Inc.mp4",
       "tags": [
         "BRADBURY-THEATER"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590844989",
@@ -4138,7 +4146,11 @@
       "longDescription": "Ray Bradbury Theater Hail And Farewell.mp4",
       "tags": [
         "BRADBURY-THEATER"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590844780",
