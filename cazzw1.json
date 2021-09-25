@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-09-25T02:29:20+00:00",
+  "lastUpdated": "2021-09-25T02:36:26+00:00",
   "providerName": "OLK",
   "language": "en-US",
   "movies": [
@@ -10358,6 +10358,13 @@
               "title": "Mega Man Season 1 Episode 5",
               "content": {
                 "dateAdded": "2021-09-22T14:09:03+00:00",
+                "videos": [
+                  {
+                    "url": "https://player.vimeo.com/external/594934919.sd.mp4?s=46a75aab81d58b8297e43fdd0118f24ec46af0c3&profile_id=165",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
                 "duration": 1440,
                 "adBreaks": [
                   "00:07:00",
