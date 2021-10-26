@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-10-26T09:52:20+00:00",
+  "lastUpdated": "2021-10-26T10:03:02+00:00",
   "providerName": "jaxx",
   "language": "en-US",
   "liveFeeds": [
@@ -766,6 +766,9 @@
       "brandedThumbnail": "https://i.vimeocdn.com/video/1065310615-ee1f75a1e24ce753d0941cc7202ab24c21e700395f12d0323321d5cbb8d06adc-d_800x450.png",
       "shortDescription": "cartoon blast live",
       "longDescription": "cartoon blast live",
+      "tags": [
+        "live-stream"
+      ],
       "rating": {
         "rating": "TVG",
         "ratingSource": "MPAA"
