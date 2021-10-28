@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-10-28T10:12:43+00:00",
+  "lastUpdated": "2021-10-28T05:10:57+00:00",
   "providerName": "OLK",
   "language": "en-US",
   "movies": [
@@ -2841,38 +2841,6 @@
         "rating": "TVG",
         "ratingSource": "MPAA"
       }
-    }
-  ],
-  "liveFeeds": [
-    {
-      "id": "48ac907611a04e7d857a1a0f40207497",
-      "title": "CARTOON BLAST LIVE",
-      "content": {
-        "dateAdded": "2021-10-27T20:35:41+00:00",
-        "videos": [
-          {
-            "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/4b20d2fefc00435f9713f3d14201bbcf/manifest.m3u8?p=79&h=2874a9bb99116e44f497f8625caf5e86",
-            "quality": "HD",
-            "videoType": "HLS"
-          }
-        ],
-        "duration": 1200,
-        "validityPeriodEnd": "2022-03-01T20:38:20+00:00"
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1269538252-8f1e947799d3f8fe64353ae40d7e5e3933333d46e348c948a_800x450.png",
-      "brandedThumbnail": "https://i.vimeocdn.com/video/1269538252-8f1e947799d3f8fe64353ae40d7e5e3933333d46e348c948a_800x450.png",
-      "shortDescription": "CARTOON BLAST",
-      "longDescription": "CARTOON BLAST LIVE FEED",
-      "tags": [
-        "LIVE-STREAM"
-      ],
-      "rating": {
-        "rating": "TVPG",
-        "ratingSource": "MPAA"
-      },
-      "genres": [
-        "action"
-      ]
     }
   ],
   "series": [
