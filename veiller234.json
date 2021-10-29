@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-09-21T02:16:06+00:00",
+  "lastUpdated": "2021-10-29T03:33:13+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -3838,7 +3838,11 @@
       "longDescription": "Ray Bradbury Theater The Pedestrian.mp4",
       "tags": [
         "BRADBURY-THEATER"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590846824",
@@ -3863,7 +3867,11 @@
       "longDescription": "Ray Bradbury Theater The Murderer.mp4",
       "tags": [
         "BRADBURY-THEATER"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590846669",
@@ -3888,7 +3896,11 @@
       "longDescription": "Ray Bradbury Theater The Man Upstairs.mp4",
       "tags": [
         "BRADBURY-THEATER"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590846610",
@@ -3963,7 +3975,11 @@
       "longDescription": "Ray Bradbury Theater The Emissary.mp4",
       "tags": [
         "BRADBURY-THEATER"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590846050",
@@ -3988,7 +4004,11 @@
       "longDescription": "Ray Bradbury Theater The Earthmen.mp4",
       "tags": [
         "BRADBURY-THEATER"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590845958",
@@ -4013,7 +4033,11 @@
       "longDescription": "Ray Bradbury Theater The Dwarf.mp4",
       "tags": [
         "BRADBURY-THEATER"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590845718",
@@ -4038,7 +4062,11 @@
       "longDescription": "Ray Bradbury Theater The Crowd.mp4",
       "tags": [
         "BRADBURY-THEATER"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590845634",
@@ -4176,7 +4204,11 @@
       "tags": [
         "horror",
         "BRADBURY-THEATER"
-      ]
+      ],
+      "rating": {
+        "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "590844910",
@@ -4201,7 +4233,11 @@
       "longDescription": "Ray Bradbury Theater Gotcha.mp4",
       "tags": [
         "BRADBURY-THEATER"
-      ]
+      ],
+      "rating": {
+        "rating": "TVMA",
+        "ratingSource": "MPAA"
+      }
     },
     {
       "id": "7e1ed193d66843c2bc573686eec682a0",
@@ -4286,6 +4322,35 @@
       ],
       "rating": {
         "rating": "TVPG",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "f5df1095217e42d59eced31af7e5083d",
+      "title": "Far-Out Theater 16",
+      "content": {
+        "dateAdded": "2021-10-29T15:26:52+00:00",
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/639493932.hd.mp4?s=0158607525d3a39d585133102cd4175f2e8ceeda&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 6000
+      },
+      "genres": [
+        "horror"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1286026243-11636512059825a3cbb6e3f6cf7a186069ed3bc606ddff564_800x450.png",
+      "releaseDate": "2021-10-29",
+      "shortDescription": "Far-Out Theater 16",
+      "longDescription": "Far-Out Theater 16",
+      "tags": [
+        "FAR-OUT-THEATER"
+      ],
+      "rating": {
+        "rating": "TVMA",
         "ratingSource": "MPAA"
       }
     }
