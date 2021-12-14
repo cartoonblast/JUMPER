@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-12-13T10:50:57+00:00",
+  "lastUpdated": "2021-12-14T06:42:20+00:00",
   "providerName": "OLK",
   "language": "en-US",
   "movies": [
@@ -9040,7 +9040,7 @@
                   "08:45:00"
                 ]
               },
-              "thumbnail": "https://i.vimeocdn.com/video/1240896095_800x450.png",
+              "thumbnail": "https://i.vimeocdn.com/video/1265210375-27656c0063d50ccf32cf45dda719046187b5447cfc1d3c135_800x450.png",
               "episodeNumber": 1,
               "releaseDate": "2021-09-16",
               "shortDescription": "The Super Mario Bros. Super Show- - Season 1 -1989",
@@ -9149,7 +9149,7 @@
                   "08:59:00"
                 ]
               },
-              "thumbnail": "https://i.vimeocdn.com/video/1240900819_800x450.png",
+              "thumbnail": "https://i.vimeocdn.com/video/1265210375-27656c0063d50ccf32cf45dda719046187b5447cfc1d3c135_800x450.png",
               "episodeNumber": 1,
               "releaseDate": "2021-09-16",
               "shortDescription": "The Super Mario Bros. Super Show- - Season 2 -1989",
@@ -9160,7 +9160,7 @@
               }
             }
           ],
-          "thumbnail": "https://i.vimeocdn.com/video/1240896095_800x450.png"
+          "thumbnail": "https://i.vimeocdn.com/video/1265210375-27656c0063d50ccf32cf45dda719046187b5447cfc1d3c135_800x450.png"
         },
         {
           "seasonNumber": 3,
@@ -9212,7 +9212,7 @@
                   "03:37:00"
                 ]
               },
-              "thumbnail": "https://i.vimeocdn.com/video/1240891432_800x450.png",
+              "thumbnail": "https://i.vimeocdn.com/video/1265210375-27656c0063d50ccf32cf45dda719046187b5447cfc1d3c135_800x450.png",
               "episodeNumber": 1,
               "releaseDate": "2021-09-16",
               "shortDescription": "The Legend of Zelda -1989",
@@ -9223,7 +9223,7 @@
               }
             }
           ],
-          "thumbnail": "https://i.vimeocdn.com/video/1240891432_800x450.png"
+          "thumbnail": "https://i.vimeocdn.com/video/1265210375-27656c0063d50ccf32cf45dda719046187b5447cfc1d3c135_800x450.png"
         },
         {
           "seasonNumber": 4,
@@ -9287,7 +9287,7 @@
                   "05:01:00"
                 ]
               },
-              "thumbnail": "https://i.vimeocdn.com/video/1240889949_800x450.png",
+              "thumbnail": "https://i.vimeocdn.com/video/1265210375-27656c0063d50ccf32cf45dda719046187b5447cfc1d3c135_800x450.png",
               "episodeNumber": 1,
               "releaseDate": "2021-09-16",
               "shortDescription": "The Adventures of Super Mario Bros. 3 -1990",
@@ -9298,7 +9298,7 @@
               }
             }
           ],
-          "thumbnail": "https://i.vimeocdn.com/video/1240889949_800x450.png"
+          "thumbnail": "https://i.vimeocdn.com/video/1265210375-27656c0063d50ccf32cf45dda719046187b5447cfc1d3c135_800x450.png"
         },
         {
           "seasonNumber": 5,
@@ -13898,47 +13898,325 @@
       "tags": [
         "animated"
       ]
+    },
+    {
+      "id": "28d105f5902346729266697b83f5355e",
+      "title": "Voltes V",
+      "episodes": [
+        {
+          "id": "1c178a6cfabf49a2966f3b3c6b390dac",
+          "title": "Voltes V 1",
+          "content": {
+            "dateAdded": "2021-12-14T06:21:26+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/656162894.sd.mp4?s=a13a1960ca9bbf1bf5858b1dab793f859de1b804&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1440,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1324704559-3e5f3f73f2edbef7da66665cd3385d48baf0e9ad1c548df00f738c4873465e57-d_800x450.png",
+          "episodeNumber": 1,
+          "releaseDate": "2021-12-14",
+          "shortDescription": "Voltes V 1",
+          "longDescription": "Voltes V 1"
+        },
+        {
+          "id": "b50e24b6554c47079760d901a297e201",
+          "title": "Voltes V 2",
+          "content": {
+            "dateAdded": "2021-12-14T06:21:30+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/656163101.sd.mp4?s=d57ffb3c7ea3ecd2c114b9db540afd4419af6029&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1440,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1324704559-3e5f3f73f2edbef7da66665cd3385d48baf0e9ad1c548df00f738c4873465e57-d_800x450.png",
+          "episodeNumber": 2,
+          "releaseDate": "2021-12-14",
+          "shortDescription": "Voltes V 2",
+          "longDescription": "Voltes V 2"
+        },
+        {
+          "id": "adec1bd8f7e3402cb66da8e042872afc",
+          "title": "Voltes V 3",
+          "content": {
+            "dateAdded": "2021-12-14T06:21:32+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/656163353.sd.mp4?s=e622b5e176785024787e8af7b3a8c740681b36cf&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1440,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1324704559-3e5f3f73f2edbef7da66665cd3385d48baf0e9ad1c548df00f738c4873465e57-d_800x450.png",
+          "episodeNumber": 3,
+          "releaseDate": "2021-12-14",
+          "shortDescription": "Voltes V 3",
+          "longDescription": "Voltes V 3"
+        },
+        {
+          "id": "db4e689b3384452b9f3c6f615ef0c875",
+          "title": "Voltes V 4",
+          "content": {
+            "dateAdded": "2021-12-14T06:21:34+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/656163571.sd.mp4?s=8c1ca1fbd55759f687d4cbb2a24224c4a324f03d&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1440,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1324704559-3e5f3f73f2edbef7da66665cd3385d48baf0e9ad1c548df00f738c4873465e57-d_800x450.png",
+          "episodeNumber": 4,
+          "releaseDate": "2021-12-14",
+          "shortDescription": "Voltes V 4",
+          "longDescription": "Voltes V 4"
+        },
+        {
+          "id": "b9c14890a5734d0c97424f8320a9c713",
+          "title": "Voltes V 5",
+          "content": {
+            "dateAdded": "2021-12-14T06:21:36+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/656163783.sd.mp4?s=0e13fff9c267e70dd737fce70aed225a48227dba&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1440,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1324704559-3e5f3f73f2edbef7da66665cd3385d48baf0e9ad1c548df00f738c4873465e57-d_800x450.png",
+          "episodeNumber": 5,
+          "releaseDate": "2021-12-14",
+          "shortDescription": "Voltes V 5",
+          "longDescription": "Voltes V 5"
+        },
+        {
+          "id": "abd5cd804a8f4571b0c63b8b4dd2497b",
+          "title": "Voltes V 6",
+          "content": {
+            "dateAdded": "2021-12-14T06:21:38+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/656163990.sd.mp4?s=97c53ebc632222908b1170a5bcd266847473ffa0&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1440,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1324704559-3e5f3f73f2edbef7da66665cd3385d48baf0e9ad1c548df00f738c4873465e57-d_800x450.png",
+          "episodeNumber": 6,
+          "releaseDate": "2021-12-14",
+          "shortDescription": "Voltes V 6",
+          "longDescription": "Voltes V 6"
+        },
+        {
+          "id": "0f0ab202e6d14062a65034ca0c82a149",
+          "title": "Voltes V 7",
+          "content": {
+            "dateAdded": "2021-12-14T06:21:40+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/656164241.sd.mp4?s=e4d382c575a5b44dbf002ea368819cd15acff0ee&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1440,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1324704559-3e5f3f73f2edbef7da66665cd3385d48baf0e9ad1c548df00f738c4873465e57-d_800x450.png",
+          "episodeNumber": 7,
+          "releaseDate": "2021-12-14",
+          "shortDescription": "Voltes V 7",
+          "longDescription": "Voltes V 7"
+        },
+        {
+          "id": "cce0772d1d8b4edda6eae3feb84797d5",
+          "title": "Voltes V 8",
+          "content": {
+            "dateAdded": "2021-12-14T06:21:42+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/656164506.sd.mp4?s=341be9c7bd1f83972e1e2d32b664d386701c6b34&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1440,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1324704559-3e5f3f73f2edbef7da66665cd3385d48baf0e9ad1c548df00f738c4873465e57-d_800x450.png",
+          "episodeNumber": 8,
+          "releaseDate": "2021-12-14",
+          "shortDescription": "Voltes V 8",
+          "longDescription": "Voltes V 8"
+        },
+        {
+          "id": "d885333559c2478da23fc2618ab0a310",
+          "title": "Voltes V 9",
+          "content": {
+            "dateAdded": "2021-12-14T06:21:44+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/656164772.sd.mp4?s=aaa989e4f24609644323469697005c931e6b3d9c&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1440,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1324704559-3e5f3f73f2edbef7da66665cd3385d48baf0e9ad1c548df00f738c4873465e57-d_800x450.png",
+          "episodeNumber": 9,
+          "releaseDate": "2021-12-14",
+          "shortDescription": "Voltes V 9",
+          "longDescription": "Voltes V 9"
+        },
+        {
+          "id": "cae79a4fa5fa4d13a7abeefc66bd3244",
+          "title": "Voltes V 10",
+          "content": {
+            "dateAdded": "2021-12-14T06:21:46+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/656164968.sd.mp4?s=4e18781bf4ee50fa3d4768e798ece4974ec0b79b&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1440,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1324704559-3e5f3f73f2edbef7da66665cd3385d48baf0e9ad1c548df00f738c4873465e57-d_800x450.png",
+          "episodeNumber": 10,
+          "releaseDate": "2021-12-14",
+          "shortDescription": "Voltes V 10",
+          "longDescription": "Voltes V 10"
+        },
+        {
+          "id": "8be88477f9ce4d8891d8e7d51a90dc42",
+          "title": "Voltes V 11",
+          "content": {
+            "dateAdded": "2021-12-14T06:21:47+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/656165202.sd.mp4?s=1efdd4b1f021004e26a24ecf2855553f0040ab48&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1440,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1324704559-3e5f3f73f2edbef7da66665cd3385d48baf0e9ad1c548df00f738c4873465e57-d_800x450.png",
+          "episodeNumber": 11,
+          "releaseDate": "2021-12-14",
+          "shortDescription": "Voltes V 11",
+          "longDescription": "Voltes V 11"
+        },
+        {
+          "id": "d5afd183126e4fae92d490156a2ab398",
+          "title": "Voltes V 12",
+          "content": {
+            "dateAdded": "2021-12-14T06:21:50+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/656165458.sd.mp4?s=011e1e890b41bea8966bfb00cebc427fdc9e0e98&profile_id=165",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1440,
+            "adBreaks": [
+              "00:07:00",
+              "00:14:00",
+              "00:21:00"
+            ]
+          },
+          "thumbnail": "https://i.vimeocdn.com/video/1324704559-3e5f3f73f2edbef7da66665cd3385d48baf0e9ad1c548df00f738c4873465e57-d_800x450.png",
+          "episodeNumber": 12,
+          "releaseDate": "2021-12-14",
+          "shortDescription": "Voltes V 12",
+          "longDescription": "Voltes V 12"
+        }
+      ],
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://i.vimeocdn.com/video/1324704559-3e5f3f73f2edbef7da66665cd3385d48baf0e9ad1c548df00f738c4873465e57-d_800x450.png",
+      "releaseDate": "2021-12-14",
+      "shortDescription": "Voltes V",
+      "longDescription": "Voltes V",
+      "tags": [
+        "anime"
+      ]
     }
   ],
   "shortFormVideos": [
-    {
-      "id": "510138331",
-      "title": "NEW ARCHIE PT-1",
-      "content": {
-        "dateAdded": "2021-03-06T11:32:42-05:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/510138331.hd.mp4?s=4fa044731f7750c39eb9bcd8434ade7ac9099c32&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 2700,
-        "adBreaks": [
-          "00:06:00",
-          "00:12:00",
-          "00:18:00",
-          "00:24:00",
-          "00:30:00",
-          "00:36:00",
-          "00:42:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1056060437_800x450.png",
-      "shortDescription": "NEW ARCHIE PT-1",
-      "releaseDate": "2021-02-09",
-      "longDescription": "NEW ARCHIE PT-1",
-      "tags": [
-        "80S-CARTOONS"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "TVG",
-        "ratingSource": "MPAA"
-      }
-    },
     {
       "id": "492811539",
       "title": "ACTIONHOUR 1.4",
@@ -13967,7 +14245,7 @@
           "01:24:00"
         ]
       },
-      "thumbnail": "https://i.vimeocdn.com/video/1022307844_800x450.png",
+      "thumbnail": "https://i.vimeocdn.com/video/997998964-f14394e0d1ca0277ceddf033d25ef2fab105e98c41bdc96a8cf6783e99d1c051-d_800x450.png",
       "shortDescription": "ACTIONHOUR 1.4",
       "releaseDate": "2020-12-19",
       "longDescription": "ACTIONHOUR 1.4",
@@ -14646,7 +14924,7 @@
           "01:20:00"
         ]
       },
-      "thumbnail": "https://i.vimeocdn.com/video/997998964_800x450.png",
+      "thumbnail": "https://i.vimeocdn.com/video/997998964-f14394e0d1ca0277ceddf033d25ef2fab105e98c41bdc96a8cf6783e99d1c051-d_800x450.png",
       "shortDescription": "CARTOON BLAST ACTION HOUR 1.1",
       "releaseDate": "2020-11-19",
       "longDescription": "CARTOON BLAST ACTION HOUR 1.1",
@@ -14685,7 +14963,7 @@
           "01:20:00"
         ]
       },
-      "thumbnail": "https://i.vimeocdn.com/video/999227320_800x450.png",
+      "thumbnail": "https://i.vimeocdn.com/video/997998964-f14394e0d1ca0277ceddf033d25ef2fab105e98c41bdc96a8cf6783e99d1c051-d_800x450.png",
       "shortDescription": "CARTOON BLAST ACTION HOUR 1.2",
       "releaseDate": "2020-11-20",
       "longDescription": "CARTOON BLAST ACTION HOUR 1.2",
@@ -14900,322 +15178,6 @@
       }
     },
     {
-      "id": "497341855",
-      "title": "Star Wars DROIDS -1985",
-      "content": {
-        "dateAdded": "2021-01-08T23:23:38-05:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/497341855.sd.mp4?s=eea2412c74d2dc334985d02ff204c4218a8f306c&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 19971,
-        "adBreaks": [
-          "00:06:00",
-          "00:12:00",
-          "00:18:00",
-          "00:24:00",
-          "00:30:00",
-          "00:36:00",
-          "00:42:00",
-          "00:48:00",
-          "00:54:00",
-          "01:00:00",
-          "01:06:00",
-          "01:12:00",
-          "01:18:00",
-          "01:24:00",
-          "01:30:00",
-          "01:36:00",
-          "01:42:00",
-          "01:48:00",
-          "01:54:00",
-          "02:00:00",
-          "02:06:00",
-          "02:12:00",
-          "02:18:00",
-          "02:24:00",
-          "02:30:00",
-          "02:36:00",
-          "02:42:00",
-          "02:48:00",
-          "02:54:00",
-          "03:00:00",
-          "03:06:00",
-          "03:12:00",
-          "03:18:00",
-          "03:24:00",
-          "03:30:00",
-          "03:36:00",
-          "03:42:00",
-          "03:48:00",
-          "03:54:00",
-          "04:00:00",
-          "04:06:00",
-          "04:12:00",
-          "04:18:00",
-          "04:24:00",
-          "04:30:00",
-          "04:36:00",
-          "04:42:00",
-          "04:48:00",
-          "04:54:00",
-          "05:00:00",
-          "05:06:00",
-          "05:12:00",
-          "05:18:00",
-          "05:24:00",
-          "05:30:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1030329784_800x450.png",
-      "shortDescription": "Star Wars DROIDS -1985",
-      "releaseDate": "2021-01-05",
-      "longDescription": "Star Wars DROIDS -1985",
-      "tags": [
-        "80S-CARTOONS"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "UNRATED",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "497338547",
-      "title": "Star Wars - Ewoks",
-      "content": {
-        "dateAdded": "2021-01-08T23:23:38-05:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/497338547.sd.mp4?s=57b669663f7f80fe30bf9c8515b64829c308fd74&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 24533,
-        "adBreaks": [
-          "00:05:00",
-          "00:10:00",
-          "00:15:00",
-          "00:20:00",
-          "00:25:00",
-          "00:30:00",
-          "00:35:00",
-          "00:40:00",
-          "00:45:00",
-          "00:50:00",
-          "00:55:00",
-          "01:00:00",
-          "01:05:00",
-          "01:10:00",
-          "01:15:00",
-          "01:20:00",
-          "01:25:00",
-          "01:30:00",
-          "01:35:00",
-          "01:40:00",
-          "01:45:00",
-          "01:50:00",
-          "01:55:00",
-          "02:00:00",
-          "02:05:00",
-          "02:10:00",
-          "02:15:00",
-          "02:20:00",
-          "02:25:00",
-          "02:30:00",
-          "02:35:00",
-          "02:40:00",
-          "02:45:00",
-          "02:50:00",
-          "02:55:00",
-          "03:00:00",
-          "03:05:00",
-          "03:10:00",
-          "03:15:00",
-          "03:20:00",
-          "03:25:00",
-          "03:30:00",
-          "03:35:00",
-          "03:40:00",
-          "03:45:00",
-          "03:50:00",
-          "03:55:00",
-          "04:00:00",
-          "04:05:00",
-          "04:10:00",
-          "04:15:00",
-          "04:20:00",
-          "04:25:00",
-          "04:30:00",
-          "04:35:00",
-          "04:40:00",
-          "04:45:00",
-          "04:50:00",
-          "04:55:00",
-          "05:00:00",
-          "05:05:00",
-          "05:10:00",
-          "05:15:00",
-          "05:20:00",
-          "05:25:00",
-          "05:30:00",
-          "05:35:00",
-          "05:40:00",
-          "05:45:00",
-          "05:50:00",
-          "05:55:00",
-          "06:00:00",
-          "06:05:00",
-          "06:10:00",
-          "06:15:00",
-          "06:20:00",
-          "06:25:00",
-          "06:30:00",
-          "06:35:00",
-          "06:40:00",
-          "06:45:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1029230763_800x450.png",
-      "shortDescription": "Star Wars - Ewoks",
-      "releaseDate": "2021-01-05",
-      "longDescription": "Star Wars - Ewoks",
-      "tags": [
-        "80S-CARTOONS"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "UNRATED",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "497338358",
-      "title": "The Velveteen Rabbit",
-      "content": {
-        "dateAdded": "2021-01-08T23:23:38-05:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/497338358.sd.mp4?s=fb4ec2f316feeb73bf3e24c36a63b86bfee2d984&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 1488,
-        "adBreaks": [
-          "00:05:00",
-          "00:10:00",
-          "00:15:00",
-          "00:20:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1029225080_800x450.png",
-      "shortDescription": "The Velveteen Rabbit",
-      "releaseDate": "2021-01-05",
-      "longDescription": "The Velveteen Rabbit",
-      "tags": [
-        "80S-CARTOONS"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "UNRATED",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "503707733",
-      "title": "SHAZAM PT.1",
-      "content": {
-        "dateAdded": "2021-01-23T07:02:46-05:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/503707733.sd.mp4?s=77771e83b971a35aa6dcc355f30e26b273d30a78&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 9459,
-        "adBreaks": [
-          "00:03:00",
-          "00:06:00",
-          "00:09:00",
-          "00:12:00",
-          "00:15:00",
-          "00:18:00",
-          "00:21:00",
-          "00:24:00",
-          "00:27:00",
-          "00:30:00",
-          "00:33:00",
-          "00:36:00",
-          "00:39:00",
-          "00:42:00",
-          "00:45:00",
-          "00:48:00",
-          "00:51:00",
-          "00:54:00",
-          "00:57:00",
-          "01:00:00",
-          "01:03:00",
-          "01:06:00",
-          "01:09:00",
-          "01:12:00",
-          "01:15:00",
-          "01:18:00",
-          "01:21:00",
-          "01:24:00",
-          "01:27:00",
-          "01:30:00",
-          "01:33:00",
-          "01:36:00",
-          "01:39:00",
-          "01:42:00",
-          "01:45:00",
-          "01:48:00",
-          "01:51:00",
-          "01:54:00",
-          "01:57:00",
-          "02:00:00",
-          "02:03:00",
-          "02:06:00",
-          "02:09:00",
-          "02:12:00",
-          "02:15:00",
-          "02:18:00",
-          "02:21:00",
-          "02:24:00",
-          "02:27:00",
-          "02:30:00",
-          "02:33:00",
-          "02:36:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1042101816_800x450.png",
-      "shortDescription": "SHAZAM PT.1",
-      "releaseDate": "2021-01-22",
-      "longDescription": "SHAZAM PT.1",
-      "tags": [
-        "80S-CARTOONS"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "UNRATED",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
       "id": "503241328",
       "title": "ACTIONHOUR1.5",
       "content": {
@@ -15253,7 +15215,7 @@
           "01:28:00"
         ]
       },
-      "thumbnail": "https://i.vimeocdn.com/video/1042329576_800x450.png",
+      "thumbnail": "https://i.vimeocdn.com/video/997998964-f14394e0d1ca0277ceddf033d25ef2fab105e98c41bdc96a8cf6783e99d1c051-d_800x450.png",
       "shortDescription": "ACTIONHOUR1.5",
       "releaseDate": "2021-01-21",
       "longDescription": "ACTIONHOUR1.5",
@@ -15314,62 +15276,13 @@
           "01:27:00"
         ]
       },
-      "thumbnail": "https://i.vimeocdn.com/video/1042328372_800x450.png",
+      "thumbnail": "https://i.vimeocdn.com/video/997998964-f14394e0d1ca0277ceddf033d25ef2fab105e98c41bdc96a8cf6783e99d1c051-d_800x450.png",
       "shortDescription": "ACTIONHOUR 1.4",
       "releaseDate": "2021-01-17",
       "longDescription": "ACTIONHOUR 1.4",
       "tags": [
         "action",
         "ACTION-HOUR"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "UNRATED",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "508191060",
-      "title": "Here Come the Littles -1985-",
-      "content": {
-        "dateAdded": "2021-02-05T19:37:07-05:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/508191060.sd.mp4?s=3164214993ca8ecd1528d8f36b2ef6a45f22aafe&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 4354,
-        "adBreaks": [
-          "00:04:00",
-          "00:08:00",
-          "00:12:00",
-          "00:16:00",
-          "00:20:00",
-          "00:24:00",
-          "00:28:00",
-          "00:32:00",
-          "00:36:00",
-          "00:40:00",
-          "00:44:00",
-          "00:48:00",
-          "00:52:00",
-          "00:56:00",
-          "01:00:00",
-          "01:04:00",
-          "01:08:00",
-          "01:12:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1051795499_800x450.png",
-      "shortDescription": "Here Come the Littles -1985-",
-      "releaseDate": "2021-02-03",
-      "longDescription": "Here Come the Littles -1985-",
-      "tags": [
-        "80S-CARTOONS"
       ],
       "genres": [
         "special"
@@ -15412,47 +15325,6 @@
       "shortDescription": "CARTOON BLAST LOONEY TUNES-pt2",
       "releaseDate": "2021-02-02",
       "longDescription": "CARTOON BLAST LOONEY TUNES-pt2",
-      "tags": [
-        "special"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "UNRATED",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "507749289",
-      "title": "HULK",
-      "content": {
-        "dateAdded": "2021-02-05T19:37:07-05:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/507749289.hd.mp4?s=f8ed314f6ae1d50094319d73077c8de741acecdd&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 3150,
-        "adBreaks": [
-          "00:05:00",
-          "00:10:00",
-          "00:15:00",
-          "00:20:00",
-          "00:25:00",
-          "00:30:00",
-          "00:35:00",
-          "00:40:00",
-          "00:45:00",
-          "00:50:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1050901371_800x450.png",
-      "shortDescription": "HULK",
-      "releaseDate": "2021-02-02",
-      "longDescription": "HULK",
       "tags": [
         "special"
       ],
@@ -15904,372 +15776,6 @@
       }
     },
     {
-      "id": "511422929",
-      "title": "Heathcliff The Movie",
-      "content": {
-        "dateAdded": "2021-02-12T23:48:48-05:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/511422929.sd.mp4?s=c142dfbff32198489a585b2faae352fce5de6300&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 4363,
-        "adBreaks": [
-          "00:04:00",
-          "00:08:00",
-          "00:12:00",
-          "00:16:00",
-          "00:20:00",
-          "00:24:00",
-          "00:28:00",
-          "00:32:00",
-          "00:36:00",
-          "00:40:00",
-          "00:44:00",
-          "00:48:00",
-          "00:52:00",
-          "00:56:00",
-          "01:00:00",
-          "01:04:00",
-          "01:08:00",
-          "01:12:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1058629252_800x450.png",
-      "shortDescription": "Heathcliff The Movie",
-      "releaseDate": "2021-02-11",
-      "longDescription": "Heathcliff The Movie",
-      "tags": [
-        "80S-CARTOONS"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "UNRATED",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "511419916",
-      "title": "Phantom 2040 - 1x01-05",
-      "content": {
-        "dateAdded": "2021-02-12T23:48:48-05:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/511419916.sd.mp4?s=f68d94da4e0c47c2066bdb6c0dc320deb2f7a389&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 5798,
-        "adBreaks": [
-          "00:04:00",
-          "00:08:00",
-          "00:12:00",
-          "00:16:00",
-          "00:20:00",
-          "00:24:00",
-          "00:28:00",
-          "00:32:00",
-          "00:36:00",
-          "00:40:00",
-          "00:44:00",
-          "00:48:00",
-          "00:52:00",
-          "00:56:00",
-          "01:00:00",
-          "01:04:00",
-          "01:08:00",
-          "01:12:00",
-          "01:16:00",
-          "01:20:00",
-          "01:24:00",
-          "01:28:00",
-          "01:32:00",
-          "01:36:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1058626269_800x450.png",
-      "shortDescription": "Phantom 2040 - 1x01-05",
-      "releaseDate": "2021-02-11",
-      "longDescription": "Phantom 2040 - 1x01-05",
-      "tags": [
-        "90S-CARTOONS"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "UNRATED",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "511417932",
-      "title": "Mortal Kombat Defenders of the Realm",
-      "content": {
-        "dateAdded": "2021-02-12T23:48:48-05:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/511417932.sd.mp4?s=94f48a4b78f4f0b660f27b91f13bf512a585b523&profile_id=165",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 15657,
-        "adBreaks": [
-          "00:04:00",
-          "00:08:00",
-          "00:12:00",
-          "00:16:00",
-          "00:20:00",
-          "00:24:00",
-          "00:28:00",
-          "00:32:00",
-          "00:36:00",
-          "00:40:00",
-          "00:44:00",
-          "00:48:00",
-          "00:52:00",
-          "00:56:00",
-          "01:00:00",
-          "01:04:00",
-          "01:08:00",
-          "01:12:00",
-          "01:16:00",
-          "01:20:00",
-          "01:24:00",
-          "01:28:00",
-          "01:32:00",
-          "01:36:00",
-          "01:40:00",
-          "01:44:00",
-          "01:48:00",
-          "01:52:00",
-          "01:56:00",
-          "02:00:00",
-          "02:04:00",
-          "02:08:00",
-          "02:12:00",
-          "02:16:00",
-          "02:20:00",
-          "02:24:00",
-          "02:28:00",
-          "02:32:00",
-          "02:36:00",
-          "02:40:00",
-          "02:44:00",
-          "02:48:00",
-          "02:52:00",
-          "02:56:00",
-          "03:00:00",
-          "03:04:00",
-          "03:08:00",
-          "03:12:00",
-          "03:16:00",
-          "03:20:00",
-          "03:24:00",
-          "03:28:00",
-          "03:32:00",
-          "03:36:00",
-          "03:40:00",
-          "03:44:00",
-          "03:48:00",
-          "03:52:00",
-          "03:56:00",
-          "04:00:00",
-          "04:04:00",
-          "04:08:00",
-          "04:12:00",
-          "04:16:00",
-          "04:20:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1058620617_800x450.png",
-      "shortDescription": "Mortal Kombat Defenders of the Realm",
-      "releaseDate": "2021-02-11",
-      "longDescription": "Mortal Kombat Defenders of the Realm",
-      "tags": [
-        "90S-CARTOONS"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "UNRATED",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "514535782",
-      "title": "GIANTATOR",
-      "content": {
-        "dateAdded": "2021-02-19T23:39:02-05:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/514535782.hd.mp4?s=3d81dd7e4b3691f90070bf33e3922e8cb14e96a0&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 4430,
-        "adBreaks": [
-          "00:03:00",
-          "00:06:00",
-          "00:09:00",
-          "00:12:00",
-          "00:15:00",
-          "00:18:00",
-          "00:21:00",
-          "00:24:00",
-          "00:27:00",
-          "00:30:00",
-          "00:33:00",
-          "00:36:00",
-          "00:39:00",
-          "00:42:00",
-          "00:45:00",
-          "00:48:00",
-          "00:51:00",
-          "00:54:00",
-          "00:57:00",
-          "01:00:00",
-          "01:03:00",
-          "01:06:00",
-          "01:09:00",
-          "01:12:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1065359323_800x450.png",
-      "shortDescription": "GIANTATOR",
-      "releaseDate": "2021-02-19",
-      "longDescription": "GIANTATOR",
-      "tags": [
-        "special"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "UNRATED",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "514533254",
-      "title": "BigGuy and Rusty",
-      "content": {
-        "dateAdded": "2021-02-19T23:39:02-05:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/514533254.hd.mp4?s=213b54a2e0b56b2e5a6c0c683aa53367685e9a24&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 3860,
-        "adBreaks": [
-          "00:03:00",
-          "00:06:00",
-          "00:09:00",
-          "00:12:00",
-          "00:15:00",
-          "00:18:00",
-          "00:21:00",
-          "00:24:00",
-          "00:27:00",
-          "00:30:00",
-          "00:33:00",
-          "00:36:00",
-          "00:39:00",
-          "00:42:00",
-          "00:45:00",
-          "00:48:00",
-          "00:51:00",
-          "00:54:00",
-          "00:57:00",
-          "01:00:00",
-          "01:03:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1065310615_800x450.png",
-      "shortDescription": "BigGuy and Rusty",
-      "releaseDate": "2021-02-19",
-      "longDescription": "BigGuy and Rusty",
-      "tags": [
-        "90S-CARTOONS"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "UNRATED",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "514490784",
-      "title": "WISH-KID",
-      "content": {
-        "dateAdded": "2021-02-19T23:39:02-05:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/514490784.hd.mp4?s=4962928c9ba830c72882324a5eb25f5403389ae6&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 5157,
-        "adBreaks": [
-          "00:03:00",
-          "00:06:00",
-          "00:09:00",
-          "00:12:00",
-          "00:15:00",
-          "00:18:00",
-          "00:21:00",
-          "00:24:00",
-          "00:27:00",
-          "00:30:00",
-          "00:33:00",
-          "00:36:00",
-          "00:39:00",
-          "00:42:00",
-          "00:45:00",
-          "00:48:00",
-          "00:51:00",
-          "00:54:00",
-          "00:57:00",
-          "01:00:00",
-          "01:03:00",
-          "01:06:00",
-          "01:09:00",
-          "01:12:00",
-          "01:15:00",
-          "01:18:00",
-          "01:21:00",
-          "01:24:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1065359950_800x450.png",
-      "shortDescription": "WISH-KID",
-      "releaseDate": "2021-02-19",
-      "longDescription": "WISH-KID",
-      "tags": [
-        "80S-CARTOONS"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "UNRATED",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
       "id": "514488684",
       "title": "Action Hour 1.6",
       "content": {
@@ -16428,7 +15934,7 @@
           "00:44:00"
         ]
       },
-      "thumbnail": "https://i.vimeocdn.com/video/1071438380_800x450.png",
+      "thumbnail": "https://i.vimeocdn.com/video/997998964-f14394e0d1ca0277ceddf033d25ef2fab105e98c41bdc96a8cf6783e99d1c051-d_800x450.png",
       "shortDescription": "Action Hour 1.7",
       "releaseDate": "2021-02-25",
       "longDescription": "Action Hour 1.7",
@@ -16521,68 +16027,6 @@
       "shortDescription": "cartoon blast- anime fairy tales-2.mp4",
       "releaseDate": "2021-03-21",
       "longDescription": "cartoon blast- anime fairy tales-2.mp4",
-      "tags": [
-        "special"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "UNRATED",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "526999375",
-      "title": "MIGHTY-THOR.mp4",
-      "content": {
-        "dateAdded": "2021-03-21T18:56:47-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/526999375.hd.mp4?s=66d0a12ce11f4283bd5649a62ebd8c7cc37fbea4&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 9513,
-        "adBreaks": [
-          "00:05:00",
-          "00:10:00",
-          "00:15:00",
-          "00:20:00",
-          "00:25:00",
-          "00:30:00",
-          "00:35:00",
-          "00:40:00",
-          "00:45:00",
-          "00:50:00",
-          "00:55:00",
-          "01:00:00",
-          "01:05:00",
-          "01:10:00",
-          "01:15:00",
-          "01:20:00",
-          "01:25:00",
-          "01:30:00",
-          "01:35:00",
-          "01:40:00",
-          "01:45:00",
-          "01:50:00",
-          "01:55:00",
-          "02:00:00",
-          "02:05:00",
-          "02:10:00",
-          "02:15:00",
-          "02:20:00",
-          "02:25:00",
-          "02:30:00",
-          "02:35:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1090998191_800x450.png",
-      "shortDescription": "MIGHTY-THOR.mp4",
-      "releaseDate": "2021-03-21",
-      "longDescription": "MIGHTY-THOR.mp4",
       "tags": [
         "special"
       ],
@@ -17770,44 +17214,6 @@
       }
     },
     {
-      "id": "538952014",
-      "title": "cybersix-calamity.mp4",
-      "content": {
-        "dateAdded": "2021-04-21T17:35:06-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/538952014.hd.mp4?s=883745c5d9d065cf36caffcb223e7406559fffdd&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 2672,
-        "adBreaks": [
-          "00:06:00",
-          "00:12:00",
-          "00:18:00",
-          "00:24:00",
-          "00:30:00",
-          "00:36:00",
-          "00:42:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1117605823_800x450.png",
-      "shortDescription": "cybersix-calamity.mp4",
-      "releaseDate": "2021-04-19",
-      "longDescription": "cybersix-calamity.mp4",
-      "tags": [
-        "90S-CARTOONS"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "UNRATED",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
       "id": "540067839",
       "title": "Saturday Blast Mix-13",
       "content": {
@@ -18607,7 +18013,7 @@
           "00:45:00"
         ]
       },
-      "thumbnail": "https://i.vimeocdn.com/video/1132322950_800x450.png",
+      "thumbnail": "https://i.vimeocdn.com/video/997998964-f14394e0d1ca0277ceddf033d25ef2fab105e98c41bdc96a8cf6783e99d1c051-d_800x450.png",
       "shortDescription": "ACTION HOUR 2.3.mp4",
       "releaseDate": "2021-05-07",
       "longDescription": "ACTION HOUR 2.3.mp4",
@@ -18678,7 +18084,7 @@
         "special"
       ],
       "rating": {
-        "rating": "UNRATED",
+        "rating": "PG",
         "ratingSource": "MPAA"
       }
     },
@@ -18707,7 +18113,7 @@
           "00:45:00"
         ]
       },
-      "thumbnail": "https://i.vimeocdn.com/video/1170437363_800x450.png",
+      "thumbnail": "https://i.vimeocdn.com/video/1178426285-366946422293e1a3c8975fd89ea115a244a763beeeb18c52c191aec5f7f10ee2-d_800x450.png",
       "shortDescription": "Action-Hour 2.4",
       "releaseDate": "2021-06-22",
       "longDescription": "Action-Hour 2.4",
@@ -18718,7 +18124,7 @@
         "special"
       ],
       "rating": {
-        "rating": "UNRATED",
+        "rating": "PG",
         "ratingSource": "MPAA"
       }
     },
@@ -18747,7 +18153,7 @@
           "00:45:00"
         ]
       },
-      "thumbnail": "https://i.vimeocdn.com/video/1170385340_800x450.png",
+      "thumbnail": "https://i.vimeocdn.com/video/997998964-f14394e0d1ca0277ceddf033d25ef2fab105e98c41bdc96a8cf6783e99d1c051-d_800x450.png",
       "shortDescription": "Action-Hour-2.2",
       "releaseDate": "2021-06-22",
       "longDescription": "Action-Hour-2.2",
@@ -18758,7 +18164,7 @@
         "special"
       ],
       "rating": {
-        "rating": "UNRATED",
+        "rating": "TVPG",
         "ratingSource": "MPAA"
       }
     },
@@ -18787,7 +18193,7 @@
           "00:45:00"
         ]
       },
-      "thumbnail": "https://i.vimeocdn.com/video/1170437742_800x450.png",
+      "thumbnail": "https://i.vimeocdn.com/video/997998964-f14394e0d1ca0277ceddf033d25ef2fab105e98c41bdc96a8cf6783e99d1c051-d_800x450.png",
       "shortDescription": "action hour 2.5.mp4",
       "releaseDate": "2021-06-22",
       "longDescription": "action hour 2.5.mp4",
@@ -18917,10 +18323,11 @@
       "releaseDate": "2021-06-28",
       "longDescription": "Robin hood-Anime-01",
       "tags": [
-        "special"
+        "special",
+        "anime"
       ],
       "genres": [
-        "special"
+        "anime"
       ],
       "rating": {
         "rating": "TVG",
@@ -18979,101 +18386,6 @@
       "shortDescription": "Moondreamers-Full",
       "releaseDate": "2021-06-28",
       "longDescription": "Moondreamers-Full",
-      "tags": [
-        "special"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "TVG",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "568710710",
-      "title": "Dino-Riders-1",
-      "content": {
-        "dateAdded": "2021-06-28T22:49:04-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/568710710.hd.mp4?s=b57b8f166b51191a35264ebcfc4c3ece1325ddc8&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 5072,
-        "adBreaks": [
-          "00:05:00",
-          "00:10:00",
-          "00:15:00",
-          "00:20:00",
-          "00:25:00",
-          "00:30:00",
-          "00:35:00",
-          "00:40:00",
-          "00:45:00",
-          "00:50:00",
-          "00:55:00",
-          "01:00:00",
-          "01:05:00",
-          "01:10:00",
-          "01:15:00",
-          "01:20:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1176150030_800x450.png",
-      "shortDescription": "Dino-Riders-1",
-      "releaseDate": "2021-06-28",
-      "longDescription": "Dino-Riders-1",
-      "tags": [
-        "special"
-      ],
-      "genres": [
-        "special"
-      ],
-      "rating": {
-        "rating": "TVG",
-        "ratingSource": "MPAA"
-      }
-    },
-    {
-      "id": "568710616",
-      "title": "Monster-V- Tech-02",
-      "content": {
-        "dateAdded": "2021-06-28T22:49:04-04:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/external/568710616.hd.mp4?s=b5050755f5a332e4199a268107b67cecaef4af0a&profile_id=174",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 5211,
-        "adBreaks": [
-          "00:05:00",
-          "00:10:00",
-          "00:15:00",
-          "00:20:00",
-          "00:25:00",
-          "00:30:00",
-          "00:35:00",
-          "00:40:00",
-          "00:45:00",
-          "00:50:00",
-          "00:55:00",
-          "01:00:00",
-          "01:05:00",
-          "01:10:00",
-          "01:15:00",
-          "01:20:00",
-          "01:25:00"
-        ]
-      },
-      "thumbnail": "https://i.vimeocdn.com/video/1176149112_800x450.png",
-      "shortDescription": "Monster-V- Tech-02",
-      "releaseDate": "2021-06-28",
-      "longDescription": "Monster-V- Tech-02",
       "tags": [
         "special"
       ],
@@ -19237,12 +18549,11 @@
           "02:25:00"
         ]
       },
-      "thumbnail": "https://i.vimeocdn.com/video/1178420905_800x450.png",
+      "thumbnail": "https://i.vimeocdn.com/video/1178426285-366946422293e1a3c8975fd89ea115a244a763beeeb18c52c191aec5f7f10ee2-d_800x450.png",
       "shortDescription": "Cartoon Overload-Comp-01",
       "releaseDate": "2021-07-01",
       "longDescription": "Cartoon Overload-Comp-01",
       "tags": [
-        "special",
         "CARTOON-OVERLOAD"
       ],
       "genres": [
@@ -19297,12 +18608,11 @@
           "02:48:00"
         ]
       },
-      "thumbnail": "https://i.vimeocdn.com/video/1178426285_800x450.png",
+      "thumbnail": "https://i.vimeocdn.com/video/1178426285-366946422293e1a3c8975fd89ea115a244a763beeeb18c52c191aec5f7f10ee2-d_800x450.png",
       "shortDescription": "Cartoon Overload-Comp-02",
       "releaseDate": "2021-07-01",
       "longDescription": "Cartoon Overload-Comp-02",
       "tags": [
-        "special",
         "CARTOON-OVERLOAD"
       ],
       "genres": [
@@ -19347,12 +18657,11 @@
           "01:48:00"
         ]
       },
-      "thumbnail": "https://i.vimeocdn.com/video/1181733637_800x450.png",
+      "thumbnail": "https://i.vimeocdn.com/video/1178426285-366946422293e1a3c8975fd89ea115a244a763beeeb18c52c191aec5f7f10ee2-d_800x450.png",
       "shortDescription": "Cartoon Overload-3",
       "releaseDate": "2021-07-05",
       "longDescription": "Cartoon Overload-3",
       "tags": [
-        "special",
         "CARTOON-OVERLOAD"
       ],
       "genres": [
@@ -19406,12 +18715,11 @@
           "02:42:00"
         ]
       },
-      "thumbnail": "https://i.vimeocdn.com/video/1183471380_800x450.png",
+      "thumbnail": "https://i.vimeocdn.com/video/1178426285-366946422293e1a3c8975fd89ea115a244a763beeeb18c52c191aec5f7f10ee2-d_800x450.png",
       "shortDescription": "Cartoon Overload-04",
       "releaseDate": "2021-07-07",
       "longDescription": "Cartoon Overload-04",
       "tags": [
-        "special",
         "CARTOON-OVERLOAD"
       ],
       "genres": [
@@ -19751,12 +19059,11 @@
           "02:24:00"
         ]
       },
-      "thumbnail": "https://i.vimeocdn.com/video/1197065092_800x450.png",
+      "thumbnail": "https://i.vimeocdn.com/video/1178426285-366946422293e1a3c8975fd89ea115a244a763beeeb18c52c191aec5f7f10ee2-d_800x450.png",
       "shortDescription": "Cartoon Overload-Comp-05",
       "releaseDate": "2021-07-23",
       "longDescription": "Cartoon Overload-Comp-05",
       "tags": [
-        "special",
         "CARTOON-OVERLOAD"
       ],
       "genres": [
