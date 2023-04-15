@@ -1,38 +1,7 @@
 {
-  "lastUpdated": "2023-03-13T02:39:56+00:00",
+  "lastUpdated": "2023-04-15T11:02:32+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
-  "movies": [
-    {
-      "id": "dde028e4ca7a41aebcb8659b1935b933",
-      "title": "PROMO CARTOON BLAST-action hour",
-      "content": {
-        "dateAdded": "2023-03-13T14:27:23+00:00",
-        "videos": [
-          {
-            "url": "https://player.vimeo.com/progressive_redirect/playback/530552299/container/1a03c975-413d-40a2-afb3-370a54a57e16/44b3d9fa?expires=1678818447&loc=external&signature=92f34c7cb661d73f1b03c35bfa415e850bfa534d1b2817691ea109fc94c6bc6d",
-            "quality": "HD",
-            "videoType": "MP4"
-          }
-        ],
-        "duration": 62
-      },
-      "genres": [
-        "special"
-      ],
-      "thumbnail": "https://i.vimeocdn.com/video/1098152078-ced0272aad0eb28f04a4bf7a817d43d139defbffda979664f1d25a744964b531-d_800x450",
-      "releaseDate": "2023-03-13",
-      "shortDescription": "PROMO",
-      "longDescription": "CARTOON BLAST PROMO-ACTION HOUR",
-      "tags": [
-        "special"
-      ],
-      "rating": {
-        "rating": "G",
-        "ratingSource": "MPAA"
-      }
-    }
-  ],
   "liveFeeds": [
     {
       "id": "28cbe6040b304c53861263032df96848",
