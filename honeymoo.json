@@ -1,0 +1,177 @@
+{
+  "lastUpdated": "2023-04-17T06:46:26+00:00",
+  "providerName": "BRICKCITY STUDIO",
+  "language": "en-US",
+  "movies": [
+    {
+      "id": "421572075",
+      "title": "Honeymooners -39classic-part1",
+      "content": {
+        "dateAdded": "2020-10-05T08:36:54-04:00",
+        "videos": [
+          {
+            "url": "https://ia803404.us.archive.org/31/items/TheHoneymoonersTheClassic39Episodes19551956InHDpart5/The%20Honeymooners%20-%20The%20Classic%2039%20Episodes%20%281955-1956%29%20in%20HD%20%28part%201.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 10877,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00",
+          "00:28:00",
+          "00:35:00",
+          "00:42:00",
+          "00:49:00",
+          "00:56:00",
+          "01:03:00",
+          "01:10:00",
+          "01:17:00",
+          "01:24:00",
+          "01:31:00",
+          "01:38:00",
+          "01:45:00",
+          "01:52:00",
+          "01:59:00",
+          "02:06:00",
+          "02:13:00",
+          "02:20:00",
+          "02:27:00",
+          "02:34:00",
+          "02:41:00",
+          "02:48:00",
+          "02:55:00"
+        ]
+      },
+      "genres": [
+        "sitcom"
+      ],
+      "thumbnail": "https://cartoonblast.github.io/JUMPER/thehoneymoonersthumb.png",
+      "releaseDate": "2020-05-22",
+      "shortDescription": "Honeymooners -part1",
+      "longDescription": "Long description of the content",
+      "tags": [
+        "sitcom"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "428272701",
+      "title": "Honeymooners -39classic-part-2",
+      "content": {
+        "dateAdded": "2020-10-05T08:36:54-04:00",
+        "videos": [
+          {
+            "url": "https://ia903404.us.archive.org/31/items/TheHoneymoonersTheClassic39Episodes19551956InHDpart5/The%20Honeymooners%20-%20The%20Classic%2039%20Episodes%20%281955-1956%29%20in%20HD%20%28part%202.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 10933,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00",
+          "00:28:00",
+          "00:35:00",
+          "00:42:00",
+          "00:49:00",
+          "00:56:00",
+          "01:03:00",
+          "01:10:00",
+          "01:17:00",
+          "01:24:00",
+          "01:31:00",
+          "01:38:00",
+          "01:45:00",
+          "01:52:00",
+          "01:59:00",
+          "02:06:00",
+          "02:13:00",
+          "02:20:00",
+          "02:27:00",
+          "02:34:00",
+          "02:41:00",
+          "02:48:00",
+          "02:55:00",
+          "03:02:00"
+        ]
+      },
+      "genres": [
+        "sitcom"
+      ],
+      "thumbnail": "https://cartoonblast.github.io/JUMPER/thehoneymoonersthumb.png",
+      "releaseDate": "2020-06-11",
+      "shortDescription": "Honeymooners-part 2",
+      "longDescription": "Long description of the content",
+      "tags": [
+        "sitcom"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    },
+    {
+      "id": "428273245",
+      "title": "Honeymooners -39classic-part-3",
+      "content": {
+        "dateAdded": "2020-10-05T08:36:54-04:00",
+        "videos": [
+          {
+            "url": "https://ia803404.us.archive.org/31/items/TheHoneymoonersTheClassic39Episodes19551956InHDpart5/The%20Honeymooners%20-%20The%20Classic%2039%20Episodes%20%281955-1956%29%20in%20HD%20%28part%203.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 10927,
+        "adBreaks": [
+          "00:07:00",
+          "00:14:00",
+          "00:21:00",
+          "00:28:00",
+          "00:35:00",
+          "00:42:00",
+          "00:49:00",
+          "00:56:00",
+          "01:03:00",
+          "01:10:00",
+          "01:17:00",
+          "01:24:00",
+          "01:31:00",
+          "01:38:00",
+          "01:45:00",
+          "01:52:00",
+          "01:59:00",
+          "02:06:00",
+          "02:13:00",
+          "02:20:00",
+          "02:27:00",
+          "02:34:00",
+          "02:41:00",
+          "02:48:00",
+          "02:55:00",
+          "03:02:00"
+        ]
+      },
+      "genres": [
+        "sitcom"
+      ],
+      "thumbnail": "https://cartoonblast.github.io/JUMPER/thehoneymoonersthumb.png",
+      "releaseDate": "2020-06-11",
+      "shortDescription": "Honeymooners part-3",
+      "longDescription": "Long description of the content",
+      "tags": [
+        "sitcom"
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    }
+  ]
+}
