@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2023-04-17T06:46:26+00:00",
+  "lastUpdated": "2023-04-17T06:48:47+00:00",
   "providerName": "BRICKCITY STUDIO",
   "language": "en-US",
   "movies": [
@@ -55,7 +55,7 @@
         "sitcom"
       ],
       "rating": {
-        "rating": "UNRATED",
+        "rating": "TVG",
         "ratingSource": "MPAA"
       }
     },
@@ -112,7 +112,7 @@
         "sitcom"
       ],
       "rating": {
-        "rating": "UNRATED",
+        "rating": "TVG",
         "ratingSource": "MPAA"
       }
     },
@@ -169,7 +169,7 @@
         "sitcom"
       ],
       "rating": {
-        "rating": "UNRATED",
+        "rating": "TVG",
         "ratingSource": "MPAA"
       }
     }
