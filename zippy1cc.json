@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2023-04-15T11:02:32+00:00",
+  "lastUpdated": "2023-10-25T05:30:34+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -626,6 +626,37 @@
       "brandedThumbnail": "https://i.imgur.com/tKnzixC.png",
       "shortDescription": "live stream",
       "longDescription": "cartoon blast live stream",
+      "tags": [
+        "animated"
+      ],
+      "rating": {
+        "rating": "G",
+        "ratingSource": "MPAA"
+      },
+      "genres": [
+        "animated",
+        "special"
+      ]
+    },
+    {
+      "id": "82733205f8c44c5a8b974b0517b9483d",
+      "title": "CARTOON BLAST RADIO",
+      "content": {
+        "dateAdded": "2023-10-25T17:14:56+00:00",
+        "videos": [
+          {
+            "url": "https://stream.zeno.fm/8kouhtoyh3pvv",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ],
+        "duration": 324000,
+        "validityPeriodEnd": "2024-04-30T17:31:36+00:00"
+      },
+      "thumbnail": "https://i.imgur.com/tKnzixC.png",
+      "brandedThumbnail": "https://i.imgur.com/tKnzixC.png",
+      "shortDescription": "live radio that play various cartoon intros and soundtracks",
+      "longDescription": "'Cartoon Blast Radio'- various cartoon intros and soundtracks",
       "tags": [
         "animated"
       ],
