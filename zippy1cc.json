@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2023-10-29T03:05:59+00:00",
+  "lastUpdated": "2023-11-14T07:45:36+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
     {
       "id": "28cbe6040b304c53861263032df96848",
-      "title": "CARTOON BLAST-LIVE",
+      "title": "CARTOON BLAST MOVIES",
       "content": {
         "dateAdded": "2023-03-07T21:01:47+00:00",
         "videos": [
@@ -622,10 +622,10 @@
           "100:30:00"
         ]
       },
-      "thumbnail": "https://i.imgur.com/tKnzixC.png",
-      "brandedThumbnail": "https://i.imgur.com/tKnzixC.png",
+      "thumbnail": "https://cartoonblast.github.io/JUMPER/CB-MOVIE-POSTER.png",
+      "brandedThumbnail": "https://cartoonblast.github.io/JUMPER/CB-MOVIE-POSTER.png",
       "shortDescription": "live stream",
-      "longDescription": "cartoon blast live stream",
+      "longDescription": "cartoon blast movie- live stream",
       "tags": [
         "animated"
       ],
@@ -653,7 +653,7 @@
         "duration": 324000,
         "validityPeriodEnd": "2024-04-30T17:31:36+00:00"
       },
-      "thumbnail": "https://cartoonblast.github.io/JUMPER/CARTOON%20BLAST%20RADIO.png",
+      "thumbnail": "https://i.imgur.com/tKnzixC.png",
       "brandedThumbnail": "https://i.imgur.com/tKnzixC.png",
       "shortDescription": "live radio that play various cartoon intros and soundtracks",
       "longDescription": "'Cartoon Blast Radio'- various cartoon intros and soundtracks",
@@ -667,6 +667,35 @@
       "genres": [
         "animated",
         "special"
+      ]
+    },
+    {
+      "id": "0caed95b36a144b2a73ea39f6bd8c6d9",
+      "title": "CARTOON BLAST-LIVE",
+      "content": {
+        "dateAdded": "2023-11-14T19:34:32+00:00",
+        "videos": [
+          {
+            "url": "https://media.streambrothers.com:19360/8214/8214.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ],
+        "duration": 356400
+      },
+      "thumbnail": "https://i.imgur.com/tKnzixC.png",
+      "brandedThumbnail": "https://i.imgur.com/tKnzixC.png",
+      "shortDescription": "24/7 CLASSIC CARTOONS CHANNEL",
+      "longDescription": "24/7 CLASSIC CARTOON CHANNEL",
+      "tags": [
+        "animated"
+      ],
+      "rating": {
+        "rating": "TVG",
+        "ratingSource": "MPAA"
+      },
+      "genres": [
+        "animated"
       ]
     }
   ]
