@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2023-11-14T08:30:08+00:00",
+  "lastUpdated": "2024-01-25T11:46:32+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -695,6 +695,88 @@
         "ratingSource": "MPAA"
       },
       "genres": [
+        "animated"
+      ]
+    }
+  ],
+  "series": [
+    {
+      "id": "d14e6493a8d447eda79f45f3b557afa7",
+      "title": "SATURDAY BLAST",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "id": "d2fd87dd454a43e487efa31f838b0b06",
+              "title": "SATURDAY BLAST -1",
+              "content": {
+                "dateAdded": "2024-01-25T11:33:08+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801602.us.archive.org/16/items/saturday-morining-cartoons-saturday-blast-1/Saturday%20Blast%20Mix%2011-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 13533,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00",
+                  "02:55:00",
+                  "03:02:00",
+                  "03:09:00",
+                  "03:16:00",
+                  "03:23:00",
+                  "03:30:00",
+                  "03:37:00",
+                  "03:44:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/5bf2f0287bb57e908e467183c688479fe7c207d9/Saturday_blast_morning_cartoons-logo-2023_.jpg",
+              "episodeNumber": 1,
+              "releaseDate": "2024-01-25",
+              "shortDescription": "SATURDAY BLAST 1",
+              "longDescription": "SATURDAY BLAST MORNING BLOCK- JAN-26 2024",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            }
+          ],
+          "thumbnail": ""
+        }
+      ],
+      "genres": [
+        "animated"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/5bf2f0287bb57e908e467183c688479fe7c207d9/Saturday_blast_morning_cartoons-logo-2023_.jpg",
+      "releaseDate": "2024-01-25",
+      "shortDescription": "MIX OF CLASSIC SATURDAY MORNING CARTOONS",
+      "longDescription": "MIX  OF CLASSIC SATURDAY MORNING CARTOONS.",
+      "tags": [
         "animated"
       ]
     }
