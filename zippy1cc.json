@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-01-25T03:49:06+00:00",
+  "lastUpdated": "2024-01-27T03:53:40+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -948,6 +948,162 @@
       "tags": [
         "animated"
       ]
+    },
+    {
+      "id": "158ce3ca48604490acb95a45052a3bed",
+      "title": "CARTOON OVERLOAD",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "id": "42a5c59883a8497f93a791ffc460522c",
+              "title": "CARTOON OVERLOAD -01",
+              "content": {
+                "dateAdded": "2024-01-27T15:41:03+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia601300.us.archive.org/17/items/cartoon-overload-04/Cartoon%20Overload-Comp-01.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 8760,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/CARTOON%20OVERLOAD-COVER-BG3-ROKU.png",
+              "episodeNumber": 1,
+              "releaseDate": "2024-01-27",
+              "shortDescription": "VARIOUS CARTOON SHORTS",
+              "longDescription": "VARIOUS CARTOON SHORTS",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "bfaf4faf359746af9fb3182bb952b55b",
+              "title": "CARTOON OVERLOAD -02",
+              "content": {
+                "dateAdded": "2024-01-27T15:44:41+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801300.us.archive.org/17/items/cartoon-overload-04/Cartoon%20Overload-Comp-02.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 10177,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/CARTOON%20OVERLOAD-COVER-BG3-ROKU.png",
+              "episodeNumber": 2,
+              "releaseDate": "2024-01-27",
+              "shortDescription": "VARIOUS CARTOONS SHORTS",
+              "longDescription": "VARIOUS CARTOONS SHORTS",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "cc53b208b78648ad8ea961cab16dac3d",
+              "title": "CARTOON OVERLOAD",
+              "content": {
+                "dateAdded": "2024-01-27T15:50:11+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801300.us.archive.org/17/items/cartoon-overload-04/Cartoon%20Overload-3.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 6596,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/CARTOON%20OVERLOAD-COVER-BG3-ROKU.png",
+              "episodeNumber": 3,
+              "releaseDate": "2024-01-27",
+              "shortDescription": "VARIOUS CARTOON SHORTS",
+              "longDescription": "VARIOUS CARTOON SHORTS",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            }
+          ],
+          "thumbnail": ""
+        }
+      ],
+      "genres": [
+        "animated"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/CARTOON%20OVERLOAD-COVER-BG3-ROKU.png",
+      "releaseDate": "2024-01-27",
+      "shortDescription": "CARTOON SHORTS PROGRAMMING BLOCK",
+      "longDescription": "CARTOON SHORTS PROGRAMMING"
     }
   ]
 }
