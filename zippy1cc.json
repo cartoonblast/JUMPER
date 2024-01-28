@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-01-27T03:53:40+00:00",
+  "lastUpdated": "2024-01-28T04:06:02+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -1104,6 +1104,205 @@
       "releaseDate": "2024-01-27",
       "shortDescription": "CARTOON SHORTS PROGRAMMING BLOCK",
       "longDescription": "CARTOON SHORTS PROGRAMMING"
+    },
+    {
+      "id": "f58510e221d74d28a9dc4f9ae3fdec8a",
+      "title": "ANIME BLAST GO!",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "id": "29eaca0d451a4e75b241597a4d291cf6",
+              "title": "ANIME BLAST GO!- 01",
+              "content": {
+                "dateAdded": "2024-01-28T03:42:13+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801300.us.archive.org/0/items/anime-blast-go-2/Anime%20Blast%20Go.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 9103,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/ANIME_BLAST_GO_COOL_SLEEK_STYLIZED_VECTOR_LOG%20(1).png",
+              "episodeNumber": 1,
+              "releaseDate": "2024-01-28",
+              "shortDescription": "RETRO ANIME PROGRAMMING BLOCK",
+              "longDescription": "ANIME BLOCK:",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "f88b52b428ff4b0889777e94d79efdfa",
+              "title": "ANIME BLAST GO! -02",
+              "content": {
+                "dateAdded": "2024-01-28T03:56:48+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia601300.us.archive.org/0/items/anime-blast-go-2/Anime%20Blast%20Go%20%232.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 9865,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/ANIME_BLAST_GO_COOL_SLEEK_STYLIZED_VECTOR_LOG%20(1).png",
+              "episodeNumber": 2,
+              "releaseDate": "2024-01-28",
+              "shortDescription": "RETRO ANIME PROGRAMMING BLOCK",
+              "longDescription": "ANIME BLOCK",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "9881dff6643d4f51a940de565af3cb16",
+              "title": "ANIME BLAST GO! -03",
+              "content": {
+                "dateAdded": "2024-01-28T04:00:10+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801300.us.archive.org/0/items/anime-blast-go-2/%7B80s%20anime%7D%20Anime%20Blast%20Go%21%20-%233.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 7092,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/ANIME_BLAST_GO_COOL_SLEEK_STYLIZED_VECTOR_LOG%20(1).png",
+              "episodeNumber": 3,
+              "releaseDate": "2024-01-28",
+              "shortDescription": "RETRO ANIME PROGRAMMING BLOCK",
+              "longDescription": "ANIME BLOCK",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "24a06dc0448447cdb8681a2a9be765d4",
+              "title": "ANIME BLAST GO! -04",
+              "content": {
+                "dateAdded": "2024-01-28T04:03:08+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801300.us.archive.org/0/items/anime-blast-go-2/%5BRETRO%20ANIME%5D%20ANIME%20BLAST%20GO%20%234.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 7085,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/ANIME_BLAST_GO_COOL_SLEEK_STYLIZED_VECTOR_LOG%20(1).png",
+              "episodeNumber": 4,
+              "releaseDate": "2024-01-28",
+              "shortDescription": "ANIME BLOCK",
+              "longDescription": "RETRO ANIME BLOCK",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            }
+          ],
+          "thumbnail": ""
+        }
+      ],
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/ANIME_BLAST_GO_COOL_SLEEK_STYLIZED_VECTOR_LOG%20(1).png",
+      "releaseDate": "2024-01-28",
+      "shortDescription": "RETRO ANIME PROGRAMMING BLOCK",
+      "longDescription": "RETRO ANIME PROGRAMMING BLOCK\r\n\r\nGOSHOGUN\r\nBLUE COMET SPT LAYZNER\r\nBrave Exkaiser\r\nGIANT ROBO\r\nMANY MORE!!"
     }
   ]
 }
