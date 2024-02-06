@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-02-03T03:01:14+00:00",
+  "lastUpdated": "2024-02-06T04:39:14+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -1442,6 +1442,217 @@
       "releaseDate": "2024-01-28",
       "shortDescription": "RETRO ANIME PROGRAMMING BLOCK",
       "longDescription": "RETRO ANIME PROGRAMMING BLOCK\r\n\r\nGOSHOGUN\r\nBLUE COMET SPT LAYZNER\r\nBrave Exkaiser\r\nGIANT ROBO\r\nMANY MORE!!"
+    },
+    {
+      "id": "d1641ad63353455da311d77443dd1170",
+      "title": "MIDNITE HOUR",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "id": "638fc1924c8c4f1889efa5caa413f25a",
+              "title": "MIDNITE HOUR -1",
+              "content": {
+                "dateAdded": "2024-02-06T15:11:21+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia601308.us.archive.org/28/items/midnite-hour-01-2024/Midnite-Hour-01-2024.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 11522,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00",
+                  "02:55:00",
+                  "03:02:00",
+                  "03:09:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
+              "episodeNumber": 1,
+              "releaseDate": "2024-02-06",
+              "shortDescription": "MATURE ANIME MOVIE PROGRAMMING BLOCK",
+              "longDescription": "ANIME MOVIES:\r\n\r\nSPACE WARRIOR\r\nDIRTY PAIR-EDEN",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "1f5cbdf1c44b4c0eb7a7b7b5cf3a953f",
+              "title": "MIDNITE HOUR-2",
+              "content": {
+                "dateAdded": "2024-02-06T15:49:01+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia601308.us.archive.org/28/items/midnite-hour-01-2024/Midnite-Hour-02.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 7800,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
+              "episodeNumber": 2,
+              "releaseDate": "2024-02-06",
+              "shortDescription": "MATURE ANIME MOVIE PROGRAMMING BLOCK",
+              "longDescription": "MIDNIGHT EYE\r\nGUN SMITH CATS",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "01be9a7d3a9d4496be837817d7974e93",
+              "title": "MIDNITE HOUR -3",
+              "content": {
+                "dateAdded": "2024-02-06T16:27:39+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia601308.us.archive.org/28/items/midnite-hour-01-2024/Midnite-Hour-03.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 9940,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
+              "episodeNumber": 3,
+              "releaseDate": "2024-02-06",
+              "shortDescription": "MATURE ANIME MOVIE PROGRAMMING BLOCK",
+              "longDescription": "MOVIES SPOTLIGHT:\r\n\r\nVAMPIRE D\r\n\r\nPROJECT AKO 1",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "2a5f78c03c4744ffafbc9c519e2291a5",
+              "title": "MIDNITE HOUR -4",
+              "content": {
+                "dateAdded": "2024-02-06T16:32:07+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801308.us.archive.org/28/items/midnite-hour-01-2024/Midnite%20Hour%204.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 6480,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
+              "episodeNumber": 4,
+              "releaseDate": "2024-02-06",
+              "shortDescription": "MATURE ANIME MOVIES PROGRAMMING BLOCK",
+              "longDescription": "MEMORIES  1",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            }
+          ],
+          "thumbnail": ""
+        }
+      ],
+      "genres": [
+        "anime"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
+      "releaseDate": "2024-02-06",
+      "shortDescription": "MATURE ANIME PROGRAMMING BLOCK",
+      "longDescription": "RATED MATURE ANIME PROGRAMMING BLOCK",
+      "credits": [
+        {
+          "name": "New name(1)"
+        }
+      ]
     }
   ]
 }
