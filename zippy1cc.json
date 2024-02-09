@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-02-06T04:39:14+00:00",
+  "lastUpdated": "2024-02-09T04:58:09+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -1496,7 +1496,7 @@
               "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
               "episodeNumber": 1,
               "releaseDate": "2024-02-06",
-              "shortDescription": "MATURE ANIME MOVIE PROGRAMMING BLOCK",
+              "shortDescription": "MATURE ANIME MOVIE PROGRAMMING BLOCK- MOVIE SPOTLIGHT : SPACE WARRIOR AND DIRTY PAIR EDEN",
               "longDescription": "ANIME MOVIES:\r\n\r\nSPACE WARRIOR\r\nDIRTY PAIR-EDEN",
               "rating": {
                 "rating": "TV14",
@@ -1540,7 +1540,7 @@
               "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
               "episodeNumber": 2,
               "releaseDate": "2024-02-06",
-              "shortDescription": "MATURE ANIME MOVIE PROGRAMMING BLOCK",
+              "shortDescription": "MATURE ANIME MOVIE PROGRAMMING BLOCK- MOVE SPOTLIGHT -MIDNIGHT EYE AND GUN SMITH CATS",
               "longDescription": "MIDNIGHT EYE\r\nGUN SMITH CATS",
               "rating": {
                 "rating": "TV14",
@@ -1589,7 +1589,7 @@
               "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
               "episodeNumber": 3,
               "releaseDate": "2024-02-06",
-              "shortDescription": "MATURE ANIME MOVIE PROGRAMMING BLOCK",
+              "shortDescription": "MATURE ANIME MOVIE PROGRAMMING BLOCK- MOVIES SPOTLIGHT:",
               "longDescription": "MOVIES SPOTLIGHT:\r\n\r\nVAMPIRE D\r\n\r\nPROJECT AKO 1",
               "rating": {
                 "rating": "TV14",
@@ -1630,7 +1630,7 @@
               "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
               "episodeNumber": 4,
               "releaseDate": "2024-02-06",
-              "shortDescription": "MATURE ANIME MOVIES PROGRAMMING BLOCK",
+              "shortDescription": "MATURE ANIME MOVIES PROGRAMMING BLOCK - MOVIE SPOTLIGHT : MEMORIES MOVIE",
               "longDescription": "MEMORIES  1",
               "rating": {
                 "rating": "TV14",
@@ -1653,6 +1653,89 @@
           "name": "New name(1)"
         }
       ]
+    },
+    {
+      "id": "f75bdd31e3ab418f9a4155a3ed68d85e",
+      "title": "FAR-OUT THEATER",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "id": "4956736abee4495b9bf1c7ec2984ded1",
+              "title": "FAR-OUT THEATER #1",
+              "content": {
+                "dateAdded": "2024-02-09T16:49:17+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out%20Theater-01-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2693,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 1,
+              "releaseDate": "2024-02-09",
+              "shortDescription": "RAY BRADBURY AND TALES FROM THE DARKSIDE",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "fc2dd03caf9c4ee78d2cd0900d7ff4eb",
+              "title": "FAR-OUT THEATER #2",
+              "content": {
+                "dateAdded": "2024-02-09T16:50:48+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out%20Theater-02-2.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2696,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 2,
+              "releaseDate": "2024-02-09",
+              "shortDescription": "TALES FROM THE DARKSIDE AND RAY BRADBURY THEATER",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            }
+          ],
+          "thumbnail": ""
+        }
+      ],
+      "genres": [
+        "horror"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+      "releaseDate": "2024-02-09",
+      "shortDescription": "BCS NETWORK'S  FAROUT THEATER -LIVE ACTION CLASSIC HORROR AND SCI FI TV AND MOVIES PROGRAMMING BLOCK.",
+      "longDescription": "Long description of the content"
     }
   ]
 }
