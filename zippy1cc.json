@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-02-09T04:58:09+00:00",
+  "lastUpdated": "2024-02-09T08:31:41+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -1724,6 +1724,258 @@
                 "rating": "TV14",
                 "ratingSource": "MPAA"
               }
+            },
+            {
+              "id": "2b41575af39c4a7092f741dacd4b6ed9",
+              "title": "FAR-OUT THEATER #3",
+              "content": {
+                "dateAdded": "2024-02-09T19:39:21+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out%20Theater-03-3.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2689,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 3,
+              "releaseDate": "2024-02-09",
+              "shortDescription": "TALES FROM THE DARKSIDE AND RAY BRADBURY THEATER",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "c458cdd06ffb4f30b13a2b6d363546fe",
+              "title": "FAR-OUT THEATER #4",
+              "content": {
+                "dateAdded": "2024-02-09T19:40:13+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out%20Theater-04-4.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2685,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 4,
+              "releaseDate": "2024-02-09",
+              "shortDescription": "TALES FROM THE DARKSIDE AND RAY BRADBURY THEATER",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "325893e195ff40c7980405c3d9cba72e",
+              "title": "FAR-OUT THEATER #5",
+              "content": {
+                "dateAdded": "2024-02-09T19:40:45+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out%20Theater-05-5.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 2691,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 5,
+              "releaseDate": "2024-02-09",
+              "shortDescription": "TALES FROM THE DARKSIDE AND RAY BRADBURY THEATER",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "6bc568c7282e40b9bf7569895e53fce5",
+              "title": "FAR-OUT THEATER #6",
+              "content": {
+                "dateAdded": "2024-02-09T19:41:25+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out%20Theater-06-6.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 4021,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 6,
+              "releaseDate": "2024-02-09",
+              "shortDescription": "TALES FROM THE DARKSIDE AND RAY BRADBURY THEATER",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVY14",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "470788ab4fd54a669ecbaa40dc5fd6a9",
+              "title": "FAR-OUT THEATER #7",
+              "content": {
+                "dateAdded": "2024-02-09T19:42:08+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out%20Theater-07-1%281%29.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 6681,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 7,
+              "releaseDate": "2024-02-09",
+              "shortDescription": "TALES FROM THE DARKSIDE AND RAY BRADBURY THEATER",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "f276a5313d024a1089a1cf9aab537ea2",
+              "title": "FAR-OUT THEATER # 8",
+              "content": {
+                "dateAdded": "2024-02-09T19:42:51+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out%20Theater-08-Redo-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 6990,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 8,
+              "releaseDate": "2024-02-09",
+              "shortDescription": "TALES FROM THE DARKSIDE AND RAY BRADBURY THEATER",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "dfc76ae8d86846eb84c7d19960b8e7b9",
+              "title": "FAR-OUT THEATER # 9",
+              "content": {
+                "dateAdded": "2024-02-09T19:43:37+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out%20Theater-11-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 5179,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 9,
+              "releaseDate": "2024-02-09",
+              "shortDescription": "TALES FROM THE DARKSIDE AND RAY BRADBURY THEATER",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
             }
           ],
           "thumbnail": ""
@@ -1735,6 +1987,179 @@
       "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
       "releaseDate": "2024-02-09",
       "shortDescription": "BCS NETWORK'S  FAROUT THEATER -LIVE ACTION CLASSIC HORROR AND SCI FI TV AND MOVIES PROGRAMMING BLOCK.",
+      "longDescription": "Long description of the content"
+    },
+    {
+      "id": "2c80a1a202854a0498724535caa77ab0",
+      "title": "THE HONEYMOONERS",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "id": "1d1cf2ac8f1c4959a30374a16204a719",
+              "title": "HONEYMOONERS PART 1",
+              "content": {
+                "dateAdded": "2024-02-09T20:23:45+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia803404.us.archive.org/31/items/TheHoneymoonersTheClassic39Episodes19551956InHDpart5/The%20Honeymooners%20-%20The%20Classic%2039%20Episodes%20%281955-1956%29%20in%20HD%20%28part%201.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 10877,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00",
+                  "02:55:00"
+                ]
+              },
+              "thumbnail": "https://cartoonblast.github.io/JUMPER/thehoneymoonersthumb.png",
+              "episodeNumber": 1,
+              "releaseDate": "2024-02-09",
+              "shortDescription": "HONEYMOONERS PART1",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "G",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "da6ea224a24d4dc8a5aeb55d335e80aa",
+              "title": "THE HONEYMOONERS PART 2",
+              "content": {
+                "dateAdded": "2024-02-09T20:26:22+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia903404.us.archive.org/31/items/TheHoneymoonersTheClassic39Episodes19551956InHDpart5/The%20Honeymooners%20-%20The%20Classic%2039%20Episodes%20%281955-1956%29%20in%20HD%20%28part%202.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 10933,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00",
+                  "02:55:00"
+                ]
+              },
+              "thumbnail": "https://cartoonblast.github.io/JUMPER/thehoneymoonersthumb.png",
+              "episodeNumber": 2,
+              "releaseDate": "2024-02-09",
+              "shortDescription": "THE HONEYMOONERS PART 2",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "35ed9aa948bf406d984fa8ae219183a7",
+              "title": "THE HONEYMOONERS PART(3)",
+              "content": {
+                "dateAdded": "2024-02-09T20:26:33+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia803404.us.archive.org/31/items/TheHoneymoonersTheClassic39Episodes19551956InHDpart5/The%20Honeymooners%20-%20The%20Classic%2039%20Episodes%20%281955-1956%29%20in%20HD%20%28part%203.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 10928,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00",
+                  "02:55:00",
+                  "03:02:00"
+                ]
+              },
+              "thumbnail": "https://cartoonblast.github.io/JUMPER/thehoneymoonersthumb.png",
+              "episodeNumber": 3,
+              "releaseDate": "2024-02-09",
+              "shortDescription": "HONEYMOONERS PART 3",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            }
+          ],
+          "thumbnail": ""
+        }
+      ],
+      "genres": [
+        "sitcom"
+      ],
+      "thumbnail": "https://cartoonblast.github.io/JUMPER/thehoneymoonersthumb.png",
+      "releaseDate": "2024-02-09",
+      "shortDescription": "THE HONEYMOONERS CLASSIC",
       "longDescription": "Long description of the content"
     }
   ]
