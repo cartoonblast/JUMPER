@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-02-10T08:19:03+00:00",
+  "lastUpdated": "2024-02-13T11:51:16+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -1135,6 +1135,152 @@
                 "rating": "TVY14",
                 "ratingSource": "MPAA"
               }
+            },
+            {
+              "id": "181ec629041f40b5a0cb55ec34a88665",
+              "title": "SATURDAY BLAST 8",
+              "content": {
+                "dateAdded": "2024-02-13T11:29:57+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia601602.us.archive.org/16/items/saturday-morining-cartoons-saturday-blast-1/Saturday%20Blast%20Mix-18-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 10298,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/5bf2f0287bb57e908e467183c688479fe7c207d9/Saturday_blast_morning_cartoons-logo-2023_.jpg",
+              "episodeNumber": 8,
+              "releaseDate": "2024-02-13",
+              "shortDescription": "SATURDAY BLAST",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "1d41824f1b3f4b2ebe66c0898a6e7f31",
+              "title": "SATURDAY BLAST 9",
+              "content": {
+                "dateAdded": "2024-02-13T11:32:58+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801602.us.archive.org/16/items/saturday-morining-cartoons-saturday-blast-1/Saturday%20Blast%20Mix-18Prt2-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 4233,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/5bf2f0287bb57e908e467183c688479fe7c207d9/Saturday_blast_morning_cartoons-logo-2023_.jpg",
+              "episodeNumber": 9,
+              "releaseDate": "2024-02-13",
+              "shortDescription": "Short description of the content",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "7cf4a75293354a7f80a911293043f8df",
+              "title": "SATURDAY BLAST 10",
+              "content": {
+                "dateAdded": "2024-02-13T11:33:05+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia601602.us.archive.org/16/items/saturday-morining-cartoons-saturday-blast-1/Saturday%20Blast-19-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 14320,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00",
+                  "02:55:00",
+                  "03:02:00",
+                  "03:09:00",
+                  "03:16:00",
+                  "03:23:00",
+                  "03:30:00",
+                  "03:37:00",
+                  "03:44:00",
+                  "03:51:00",
+                  "03:58:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/5bf2f0287bb57e908e467183c688479fe7c207d9/Saturday_blast_morning_cartoons-logo-2023_.jpg",
+              "episodeNumber": 10,
+              "releaseDate": "2024-02-13",
+              "shortDescription": "Short description of the content",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
             }
           ],
           "thumbnail": ""
@@ -2151,6 +2297,120 @@
                 "rating": "TV14",
                 "ratingSource": "MPAA"
               }
+            },
+            {
+              "id": "6154e423d07845a1bcaf91efdd89c7da",
+              "title": "FAR-OUT THEATER # 10",
+              "content": {
+                "dateAdded": "2024-02-13T11:40:14+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out%20Theater-10-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 5352,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 10,
+              "releaseDate": "2024-02-13",
+              "shortDescription": "TALES FROM THE DARKSIDE",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "e3a37f3f0777491ba29a919d72df14e1",
+              "title": "FAR-OUT THEATER # 11",
+              "content": {
+                "dateAdded": "2024-02-13T11:40:33+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out%20Theater-12-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 5359,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 11,
+              "releaseDate": "2024-02-13",
+              "shortDescription": "TALES OF THE DARKSIDE",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "58d5de8c3c584289aa6de5df7922909e",
+              "title": "FAR-OUT THEATER # 12",
+              "content": {
+                "dateAdded": "2024-02-13T11:48:56+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out%20Theater-13-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 5179,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 12,
+              "releaseDate": "2024-02-13",
+              "shortDescription": "TALES FROM THE DARKSIDE",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
             }
           ],
           "thumbnail": ""
@@ -2749,6 +3009,126 @@
               "longDescription": "Long description of the content",
               "rating": {
                 "rating": "TVY14",
+                "ratingSource": "MPAA"
+              }
+            }
+          ],
+          "thumbnail": ""
+        },
+        {
+          "seasonNumber": 3,
+          "episodes": [
+            {
+              "id": "cee67bddab424fe1b9f065a5fa3fd475",
+              "title": "Far-Out Theater-Movie Of The Week-01",
+              "content": {
+                "dateAdded": "2024-02-11T16:36:11+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia601304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out%20Theater-Movie%20Of%20The%20Week-01-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 4976,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 1,
+              "releaseDate": "2024-02-11",
+              "shortDescription": "MOVIE- PREVIEW : LADY BUG, LADY BUG",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "929197de19684280884a0aed7bfb5529",
+              "title": "Far-Out Theater-Movie Of The Week-02",
+              "content": {
+                "dateAdded": "2024-02-11T16:43:07+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia601304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out%20Theater-Movie%20Of%20The%20Week-02-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 5245,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 2,
+              "releaseDate": "2024-02-11",
+              "shortDescription": "MOVIE PREVIEW : THE LAST MAN ON EARTH",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "574d80e2f75748d5954943a3d9fb6f91",
+              "title": "Far-Out Theater-Movie Of The Week-03",
+              "content": {
+                "dateAdded": "2024-02-11T16:48:42+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out%20Theater-%20Movie%20Of%20The%20Week%2003-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 5466,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 3,
+              "releaseDate": "2024-02-11",
+              "shortDescription": "BOY AND HIS DOG",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
                 "ratingSource": "MPAA"
               }
             }
