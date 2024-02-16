@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-02-15T06:20:54+00:00",
+  "lastUpdated": "2024-02-16T11:01:33+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -1910,7 +1910,7 @@
               "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
               "episodeNumber": 3,
               "releaseDate": "2024-02-06",
-              "shortDescription": "MATURE ANIME MOVIE PROGRAMMING BLOCK- MOVIES SPOTLIGHT:",
+              "shortDescription": "MATURE ANIME MOVIE PROGRAMMING BLOCK- MOVIES SPOTLIGHT: PROJECT AKO 1 , VAMPIRE D",
               "longDescription": "MOVIES SPOTLIGHT:\r\n\r\nVAMPIRE D\r\n\r\nPROJECT AKO 1",
               "rating": {
                 "rating": "TV14",
@@ -3227,6 +3227,81 @@
                 "rating": "TV14",
                 "ratingSource": "MPAA"
               }
+            },
+            {
+              "id": "a840ca6b12d847d5acd8d43843014b3f",
+              "title": "WEEKEND CREEP-A-THON - 1",
+              "content": {
+                "dateAdded": "2024-02-16T10:29:57+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out-Creepathon-%2001.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 23876,
+                "adBreaks": [
+                  "00:08:00",
+                  "00:16:00",
+                  "00:24:00",
+                  "00:32:00",
+                  "00:40:00",
+                  "00:48:00",
+                  "00:56:00",
+                  "01:04:00",
+                  "01:12:00",
+                  "01:20:00",
+                  "01:28:00",
+                  "01:36:00",
+                  "01:44:00",
+                  "01:52:00",
+                  "02:00:00",
+                  "02:08:00",
+                  "02:16:00",
+                  "02:24:00",
+                  "02:32:00",
+                  "02:40:00",
+                  "02:48:00",
+                  "02:56:00",
+                  "03:04:00",
+                  "03:12:00",
+                  "03:20:00",
+                  "03:28:00",
+                  "03:36:00",
+                  "03:44:00",
+                  "03:52:00",
+                  "04:00:00",
+                  "04:08:00",
+                  "04:16:00",
+                  "04:24:00",
+                  "04:32:00",
+                  "04:40:00",
+                  "04:48:00",
+                  "04:56:00",
+                  "05:04:00",
+                  "05:12:00",
+                  "05:20:00",
+                  "05:28:00",
+                  "05:36:00",
+                  "05:44:00",
+                  "05:52:00",
+                  "06:00:00",
+                  "06:08:00",
+                  "06:16:00",
+                  "06:24:00",
+                  "06:32:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 4,
+              "releaseDate": "2024-02-16",
+              "shortDescription": "CREEP-A-THON MOVIE: HORROR EXPRESS ,THE CREEP SHOW,  DAY OF THE DEAD , CRITTERS",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVY14",
+                "ratingSource": "MPAA"
+              }
             }
           ],
           "thumbnail": ""
@@ -3411,6 +3486,178 @@
       "thumbnail": "https://cartoonblast.github.io/JUMPER/thehoneymoonersthumb.png",
       "releaseDate": "2024-02-09",
       "shortDescription": "THE HONEYMOONERS CLASSIC",
+      "longDescription": "Long description of the content"
+    },
+    {
+      "id": "6bca8f7958b14f6f8479acd2ac926dc4",
+      "title": "CARTOON BLAST MOVIES V.O.D",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "id": "cbbf43bf365a40ee9fbdd84a505d4065",
+              "title": "BATMAN MASK OF THE PHANTASM, TITAN A.E.",
+              "content": {
+                "dateAdded": "2024-02-16T10:43:13+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia802804.us.archive.org/27/items/mh-the-inhumanoids-movie/Cb-Movie-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 10536,
+                "adBreaks": [
+                  "00:10:00",
+                  "00:20:00",
+                  "00:30:00",
+                  "00:40:00",
+                  "00:50:00",
+                  "01:00:00",
+                  "01:10:00",
+                  "01:20:00",
+                  "01:30:00",
+                  "01:40:00",
+                  "01:50:00",
+                  "02:00:00",
+                  "02:10:00",
+                  "02:20:00",
+                  "02:30:00",
+                  "02:40:00",
+                  "02:50:00"
+                ]
+              },
+              "thumbnail": "https://cartoonblast.github.io/JUMPER/CB-MOVIE-POSTER.png",
+              "episodeNumber": 1,
+              "releaseDate": "2024-02-16",
+              "shortDescription": "MOVIE - BATMAN MASK OF THE PHANTASM , TITAN A. E.",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "ab3c3ecbec7f4fa4963613378c9e818b",
+              "title": "JEM AND THE HOLOGRAM: THE ANIMATED MOVIE",
+              "content": {
+                "dateAdded": "2024-02-16T10:48:17+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia902804.us.archive.org/27/items/mh-the-inhumanoids-movie/MH-%20JEM%20AND%20THE%20HOLOGRAMS%20-THE%20MOVIE.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 5589,
+                "adBreaks": [
+                  "00:10:00",
+                  "00:20:00",
+                  "00:30:00",
+                  "00:40:00",
+                  "00:50:00",
+                  "01:00:00",
+                  "01:10:00",
+                  "01:20:00",
+                  "01:30:00"
+                ]
+              },
+              "thumbnail": "https://cartoonblast.github.io/JUMPER/CB-MOVIE-POSTER.png",
+              "episodeNumber": 2,
+              "releaseDate": "2024-02-16",
+              "shortDescription": "MOVIE: JEM AND THE HOLOGRAM: THE ANIMATED MOVIE",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "PG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "63c89c4f5b4140369fa114558b13895a",
+              "title": "INHAMUNOIDS THE ANIMATED MOVIE",
+              "content": {
+                "dateAdded": "2024-02-16T10:55:46+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia802804.us.archive.org/27/items/mh-the-inhumanoids-movie/MH-THE%20INHUMANOIDS%20MOVIE.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 5330,
+                "adBreaks": [
+                  "00:10:00",
+                  "00:20:00",
+                  "00:30:00",
+                  "00:40:00",
+                  "00:50:00",
+                  "01:00:00",
+                  "01:10:00",
+                  "01:20:00"
+                ]
+              },
+              "thumbnail": "https://cartoonblast.github.io/JUMPER/CB-MOVIE-POSTER.png",
+              "episodeNumber": 3,
+              "releaseDate": "2024-02-16",
+              "shortDescription": "INHAMUNOIDS THE ANIMATED MOVIE",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "a8f800fe10a4422dbccab99ddcf2e7ec",
+              "title": "THUNDERCATS HO! MOVIE",
+              "content": {
+                "dateAdded": "2024-02-16T10:59:09+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia902804.us.archive.org/27/items/mh-the-inhumanoids-movie/MH-thundercats-%20ho%21-movie.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 6642,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00"
+                ]
+              },
+              "thumbnail": "https://cartoonblast.github.io/JUMPER/CB-MOVIE-POSTER.png",
+              "episodeNumber": 4,
+              "releaseDate": "2024-02-16",
+              "shortDescription": "THUNDERCATS HO! MOVIE",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            }
+          ],
+          "thumbnail": ""
+        }
+      ],
+      "genres": [
+        "animated"
+      ],
+      "thumbnail": "https://cartoonblast.github.io/JUMPER/CB-MOVIE-POSTER.png",
+      "releaseDate": "2024-02-16",
+      "shortDescription": "CARTOON V.O.D MOVIES",
       "longDescription": "Long description of the content"
     }
   ]
