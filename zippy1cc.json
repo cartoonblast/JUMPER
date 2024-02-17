@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-02-16T11:01:33+00:00",
+  "lastUpdated": "2024-02-16T10:57:32+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -3645,6 +3645,85 @@
               "longDescription": "Long description of the content",
               "rating": {
                 "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "c93ec9a1eedc42d688033111c0b8e3c0",
+              "title": "RALPH S SERIES",
+              "content": {
+                "dateAdded": "2024-02-16T22:52:10+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia902804.us.archive.org/27/items/mh-the-inhumanoids-movie/Cb-Movie-2.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 5154,
+                "adBreaks": [
+                  "00:08:00",
+                  "00:16:00",
+                  "00:24:00",
+                  "00:32:00",
+                  "00:40:00",
+                  "00:48:00",
+                  "00:56:00",
+                  "01:04:00",
+                  "01:12:00",
+                  "01:20:00"
+                ]
+              },
+              "thumbnail": "https://cartoonblast.github.io/JUMPER/CB-MOVIE-POSTER.png",
+              "episodeNumber": 5,
+              "releaseDate": "2024-02-16",
+              "shortDescription": "RALPH S MOVIES SERIES",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "100a17bafa434fedb4a8c3f7d4abfd66",
+              "title": "BUGS AND ROAD RUNNER MOVIE + DAFFY DUCK QUACKBUSTERS",
+              "content": {
+                "dateAdded": "2024-02-16T22:54:59+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia902804.us.archive.org/27/items/mh-the-inhumanoids-movie/Cb-Movie-3.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 10602,
+                "adBreaks": [
+                  "00:10:00",
+                  "00:20:00",
+                  "00:30:00",
+                  "00:40:00",
+                  "00:50:00",
+                  "01:00:00",
+                  "01:10:00",
+                  "01:20:00",
+                  "01:30:00",
+                  "01:40:00",
+                  "01:50:00",
+                  "02:00:00",
+                  "02:10:00",
+                  "02:20:00",
+                  "02:30:00",
+                  "02:40:00",
+                  "02:50:00"
+                ]
+              },
+              "thumbnail": "https://cartoonblast.github.io/JUMPER/CB-MOVIE-POSTER.png",
+              "episodeNumber": 6,
+              "releaseDate": "2024-02-16",
+              "shortDescription": "BUGS AND ROAD RUNNER MOVIE + DAFFY DUCK QUACKBUSTERS",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVG",
                 "ratingSource": "MPAA"
               }
             }
