@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-02-23T09:24:07+00:00",
+  "lastUpdated": "2024-02-24T04:16:02+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -1215,7 +1215,7 @@
               "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/5bf2f0287bb57e908e467183c688479fe7c207d9/Saturday_blast_morning_cartoons-logo-2023_.jpg",
               "episodeNumber": 9,
               "releaseDate": "2024-02-13",
-              "shortDescription": "Short description of the content",
+              "shortDescription": "SATURDAY BLAST 9",
               "longDescription": "Long description of the content",
               "rating": {
                 "rating": "TVY7",
@@ -1275,7 +1275,140 @@
               "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/5bf2f0287bb57e908e467183c688479fe7c207d9/Saturday_blast_morning_cartoons-logo-2023_.jpg",
               "episodeNumber": 10,
               "releaseDate": "2024-02-13",
-              "shortDescription": "Short description of the content",
+              "shortDescription": "SATURDAY BLAST 10",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "699abf6299064084b5e3b3fe920d3a9d",
+              "title": "SATURDAY BLAST 11",
+              "content": {
+                "dateAdded": "2024-02-24T04:09:35+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801602.us.archive.org/16/items/saturday-morining-cartoons-saturday-blast-1/Saturday%20Blast%20Mix-20-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 26432,
+                "adBreaks": [
+                  "00:10:00",
+                  "00:20:00",
+                  "00:30:00",
+                  "00:40:00",
+                  "00:50:00",
+                  "01:00:00",
+                  "01:10:00",
+                  "01:20:00",
+                  "01:30:00",
+                  "01:40:00",
+                  "01:50:00",
+                  "02:00:00",
+                  "02:10:00",
+                  "02:20:00",
+                  "02:30:00",
+                  "02:40:00",
+                  "02:50:00",
+                  "03:00:00",
+                  "03:10:00",
+                  "03:20:00",
+                  "03:30:00",
+                  "03:40:00",
+                  "03:50:00",
+                  "04:00:00",
+                  "04:10:00",
+                  "04:20:00",
+                  "04:30:00",
+                  "04:40:00",
+                  "04:50:00",
+                  "05:00:00",
+                  "05:10:00",
+                  "05:20:00",
+                  "05:30:00",
+                  "05:40:00",
+                  "05:50:00",
+                  "06:00:00",
+                  "06:10:00",
+                  "06:20:00",
+                  "06:30:00",
+                  "06:40:00",
+                  "06:50:00",
+                  "07:00:00",
+                  "07:10:00",
+                  "07:20:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/5bf2f0287bb57e908e467183c688479fe7c207d9/Saturday_blast_morning_cartoons-logo-2023_.jpg",
+              "episodeNumber": 11,
+              "releaseDate": "2024-02-24",
+              "shortDescription": "SATURDAY BLAST 11",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "055a88a6f7e942a39ac4eee02351e5ec",
+              "title": "SATURDAY BLAST 12",
+              "content": {
+                "dateAdded": "2024-02-24T04:14:06+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia601602.us.archive.org/16/items/saturday-morining-cartoons-saturday-blast-1/Saturday%20Blast%20Mix21-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 22665,
+                "adBreaks": [
+                  "00:10:00",
+                  "00:20:00",
+                  "00:30:00",
+                  "00:40:00",
+                  "00:50:00",
+                  "01:00:00",
+                  "01:10:00",
+                  "01:20:00",
+                  "01:30:00",
+                  "01:40:00",
+                  "01:50:00",
+                  "02:00:00",
+                  "02:10:00",
+                  "02:20:00",
+                  "02:30:00",
+                  "02:40:00",
+                  "02:50:00",
+                  "03:00:00",
+                  "03:10:00",
+                  "03:20:00",
+                  "03:30:00",
+                  "03:40:00",
+                  "03:50:00",
+                  "04:00:00",
+                  "04:10:00",
+                  "04:20:00",
+                  "04:30:00",
+                  "04:40:00",
+                  "04:50:00",
+                  "05:00:00",
+                  "05:10:00",
+                  "05:20:00",
+                  "05:30:00",
+                  "05:40:00",
+                  "05:50:00",
+                  "06:00:00",
+                  "06:10:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/5bf2f0287bb57e908e467183c688479fe7c207d9/Saturday_blast_morning_cartoons-logo-2023_.jpg",
+              "episodeNumber": 12,
+              "releaseDate": "2024-02-24",
+              "shortDescription": "SATURDAY BLAST MIX 12",
               "longDescription": "Long description of the content",
               "rating": {
                 "rating": "TVY7",
@@ -1514,7 +1647,7 @@
             },
             {
               "id": "cc53b208b78648ad8ea961cab16dac3d",
-              "title": "CARTOON OVERLOAD",
+              "title": "CARTOON OVERLOAD -3",
               "content": {
                 "dateAdded": "2024-01-27T15:50:11+00:00",
                 "videos": [
@@ -1548,6 +1681,55 @@
               "releaseDate": "2024-01-27",
               "shortDescription": "VARIOUS CARTOON SHORTS",
               "longDescription": "VARIOUS CARTOON SHORTS",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "36a2bdcd95a647ac82a3d76080d73fd4",
+              "title": "CARTOON OVERLOAD - 4",
+              "content": {
+                "dateAdded": "2024-02-24T04:02:45+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia601300.us.archive.org/17/items/cartoon-overload-04/Cartoon%20Overload-04.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 9979,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/CARTOON%20OVERLOAD-COVER-BG3-ROKU.png",
+              "episodeNumber": 4,
+              "releaseDate": "2024-02-24",
+              "shortDescription": "VARIOUS CARTOON SHORTS",
+              "longDescription": "Long description of the content",
               "rating": {
                 "rating": "TVY7",
                 "ratingSource": "MPAA"
@@ -2051,6 +2233,55 @@
               "longDescription": "Long description of the content",
               "rating": {
                 "rating": "UNRATED",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "b977ab9007f34fc29e80d8cf42575fc2",
+              "title": "MIDNITE HOUR - 7",
+              "content": {
+                "dateAdded": "2024-02-24T03:56:03+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia601308.us.archive.org/28/items/midnite-hour-01-2024/Midnite-Hour%20-07.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 11110,
+                "adBreaks": [
+                  "00:08:00",
+                  "00:16:00",
+                  "00:24:00",
+                  "00:32:00",
+                  "00:40:00",
+                  "00:48:00",
+                  "00:56:00",
+                  "01:04:00",
+                  "01:12:00",
+                  "01:20:00",
+                  "01:28:00",
+                  "01:36:00",
+                  "01:44:00",
+                  "01:52:00",
+                  "02:00:00",
+                  "02:08:00",
+                  "02:16:00",
+                  "02:24:00",
+                  "02:32:00",
+                  "02:40:00",
+                  "02:48:00",
+                  "02:56:00",
+                  "03:04:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
+              "episodeNumber": 7,
+              "releaseDate": "2024-02-24",
+              "shortDescription": "MOVIE SPOTLIGHT: 8TH MAN AFTER , RED HAWK WEAPON OF DEATH",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVMA",
                 "ratingSource": "MPAA"
               }
             }
