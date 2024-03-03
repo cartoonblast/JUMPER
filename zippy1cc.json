@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-03-03T12:29:31+00:00",
+  "lastUpdated": "2024-03-03T12:35:33+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -18,7 +18,7 @@
         "duration": 324000,
         "validityPeriodEnd": "2024-04-30T17:31:36+00:00"
       },
-      "thumbnail": "https://i.imgur.com/tKnzixC.png",
+      "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/CARTOON%20BLAST%20RADIO.png",
       "brandedThumbnail": "https://i.imgur.com/tKnzixC.png",
       "shortDescription": "live radio that play various cartoon intros and soundtracks",
       "longDescription": "'Cartoon Blast Radio'- various cartoon intros and soundtracks",
