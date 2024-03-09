@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-03-03T12:35:33+00:00",
+  "lastUpdated": "2024-03-08T09:54:47+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -774,6 +774,121 @@
               "episodeNumber": 12,
               "releaseDate": "2024-02-24",
               "shortDescription": "SATURDAY BLAST MIX 12",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "4cb9e3cbb97b42c48479ff36632d0a85",
+              "title": "SATURDAY BLAST 13",
+              "content": {
+                "dateAdded": "2024-03-08T21:25:13+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801602.us.archive.org/16/items/saturday-morining-cartoons-saturday-blast-1/Saturday%20Blast%20Mix%2022-Redo-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 21876,
+                "adBreaks": [
+                  "00:10:00",
+                  "00:20:00",
+                  "00:30:00",
+                  "00:40:00",
+                  "00:50:00",
+                  "01:00:00",
+                  "01:10:00",
+                  "01:20:00",
+                  "01:30:00",
+                  "01:40:00",
+                  "01:50:00",
+                  "02:00:00",
+                  "02:10:00",
+                  "02:20:00",
+                  "02:30:00",
+                  "02:40:00",
+                  "02:50:00",
+                  "03:00:00",
+                  "03:10:00",
+                  "03:20:00",
+                  "03:30:00",
+                  "03:40:00",
+                  "03:50:00",
+                  "04:00:00",
+                  "04:10:00",
+                  "04:20:00",
+                  "04:30:00",
+                  "04:40:00",
+                  "04:50:00",
+                  "05:00:00",
+                  "05:10:00",
+                  "05:20:00",
+                  "05:30:00",
+                  "05:40:00",
+                  "05:50:00",
+                  "06:00:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/5bf2f0287bb57e908e467183c688479fe7c207d9/Saturday_blast_morning_cartoons-logo-2023_.jpg",
+              "episodeNumber": 13,
+              "releaseDate": "2024-03-08",
+              "shortDescription": "SATURDAY BLAST 13",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "2fd74ccbccfd4dbdb4bf233730040065",
+              "title": "SATURDAY BLAST 14",
+              "content": {
+                "dateAdded": "2024-03-08T21:31:18+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia601602.us.archive.org/16/items/saturday-morining-cartoons-saturday-blast-1/Saturday%20Blast%20Mix-23-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 16561,
+                "adBreaks": [
+                  "00:10:00",
+                  "00:20:00",
+                  "00:30:00",
+                  "00:40:00",
+                  "00:50:00",
+                  "01:00:00",
+                  "01:10:00",
+                  "01:20:00",
+                  "01:30:00",
+                  "01:40:00",
+                  "01:50:00",
+                  "02:00:00",
+                  "02:10:00",
+                  "02:20:00",
+                  "02:30:00",
+                  "02:40:00",
+                  "02:50:00",
+                  "03:00:00",
+                  "03:10:00",
+                  "03:20:00",
+                  "03:30:00",
+                  "03:40:00",
+                  "03:50:00",
+                  "04:00:00",
+                  "04:10:00",
+                  "04:20:00",
+                  "04:30:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/5bf2f0287bb57e908e467183c688479fe7c207d9/Saturday_blast_morning_cartoons-logo-2023_.jpg",
+              "episodeNumber": 14,
+              "releaseDate": "2024-03-08",
+              "shortDescription": "SATURDAY BLAST 14",
               "longDescription": "Long description of the content",
               "rating": {
                 "rating": "TVY7",
@@ -1647,6 +1762,50 @@
               "longDescription": "Long description of the content",
               "rating": {
                 "rating": "TVMA",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "05c468109cfe4971893363efd15788b2",
+              "title": "MIDNITE HOUR-8",
+              "content": {
+                "dateAdded": "2024-03-08T21:49:14+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia601308.us.archive.org/28/items/midnite-hour-01-2024/MH-8-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 10811,
+                "adBreaks": [
+                  "00:10:00",
+                  "00:20:00",
+                  "00:30:00",
+                  "00:40:00",
+                  "00:50:00",
+                  "01:00:00",
+                  "01:10:00",
+                  "01:20:00",
+                  "01:30:00",
+                  "01:40:00",
+                  "01:50:00",
+                  "02:00:00",
+                  "02:10:00",
+                  "02:20:00",
+                  "02:30:00",
+                  "02:40:00",
+                  "02:50:00",
+                  "03:00:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
+              "episodeNumber": 8,
+              "releaseDate": "2024-03-08",
+              "shortDescription": "MOVIE SPOTLIGHT : LILY CAT , FIST OF THE NORTHSTAR",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "UNRATED",
                 "ratingSource": "MPAA"
               }
             }
@@ -2992,6 +3151,67 @@
                 "rating": "TV14",
                 "ratingSource": "MPAA"
               }
+            },
+            {
+              "id": "543547c80abf454fb74f08aba34a1609",
+              "title": "WEEKEND CREEP-A-THON 3",
+              "content": {
+                "dateAdded": "2024-03-08T21:37:35+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out-Creepathon-%203.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 21459,
+                "adBreaks": [
+                  "00:10:00",
+                  "00:20:00",
+                  "00:30:00",
+                  "00:40:00",
+                  "00:50:00",
+                  "01:00:00",
+                  "01:10:00",
+                  "01:20:00",
+                  "01:30:00",
+                  "01:40:00",
+                  "01:50:00",
+                  "02:00:00",
+                  "02:10:00",
+                  "02:20:00",
+                  "02:30:00",
+                  "02:40:00",
+                  "02:50:00",
+                  "03:00:00",
+                  "03:10:00",
+                  "03:20:00",
+                  "03:30:00",
+                  "03:40:00",
+                  "03:50:00",
+                  "04:00:00",
+                  "04:10:00",
+                  "04:20:00",
+                  "04:30:00",
+                  "04:40:00",
+                  "04:50:00",
+                  "05:00:00",
+                  "05:10:00",
+                  "05:20:00",
+                  "05:30:00",
+                  "05:40:00",
+                  "05:50:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 6,
+              "releaseDate": "2024-03-08",
+              "shortDescription": "MOVIE SPOTLIGHT: INVASION OF THE BODY SNATCHERS, CHILDREN OF THE DAMNED, DR TERROR, NIGHT OF THE CREEPS",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
             }
           ],
           "thumbnail": ""
@@ -3427,6 +3647,161 @@
       "thumbnail": "https://cartoonblast.github.io/JUMPER/CB-MOVIE-POSTER.png",
       "releaseDate": "2024-02-16",
       "shortDescription": "CARTOON V.O.D MOVIES",
+      "longDescription": "Long description of the content"
+    },
+    {
+      "id": "f83fa5c2453e4a988d3c65c376ff0b0c",
+      "title": "ULTIMATE ACTION",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "id": "e601aa2d277b4f4f9686b949bc11af20",
+              "title": "ULTIMATE ACTION",
+              "content": {
+                "dateAdded": "2024-03-08T21:03:10+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia800201.us.archive.org/19/items/ultimate-action-01/Ultimate%20Action-01.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 12120,
+                "adBreaks": [
+                  "00:10:00",
+                  "00:20:00",
+                  "00:30:00",
+                  "00:40:00",
+                  "00:50:00",
+                  "01:00:00",
+                  "01:10:00",
+                  "01:20:00",
+                  "01:30:00",
+                  "01:40:00",
+                  "01:50:00",
+                  "02:00:00",
+                  "02:10:00",
+                  "02:20:00",
+                  "02:30:00",
+                  "02:40:00",
+                  "02:50:00",
+                  "03:00:00",
+                  "03:10:00",
+                  "03:20:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/roku-ult-action.jpg",
+              "episodeNumber": 1,
+              "releaseDate": "2024-03-08",
+              "shortDescription": "TODAY PROGRAM : ESCAPE FROM NY, THE RUNNING MAN",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "6963233fcc99424ca68d92297e018d0d",
+              "title": "ULTIMATE ACTION 2",
+              "content": {
+                "dateAdded": "2024-03-08T21:10:50+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia800201.us.archive.org/19/items/ultimate-action-01/Ult%20Act-02.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 10932,
+                "adBreaks": [
+                  "00:10:00",
+                  "00:20:00",
+                  "00:30:00",
+                  "00:40:00",
+                  "00:50:00",
+                  "01:00:00",
+                  "01:10:00",
+                  "01:20:00",
+                  "01:30:00",
+                  "01:40:00",
+                  "01:50:00",
+                  "02:00:00",
+                  "02:10:00",
+                  "02:20:00",
+                  "02:30:00",
+                  "02:40:00",
+                  "02:50:00",
+                  "03:00:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/roku-ult-action.jpg",
+              "episodeNumber": 2,
+              "releaseDate": "2024-03-08",
+              "shortDescription": "TODAY PROGRAM : DEAD HEAT , DARKMAN",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "cf25ed6ab7d147968413913649903883",
+              "title": "ULTIMATE ACTION 3",
+              "content": {
+                "dateAdded": "2024-03-08T21:16:43+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia600201.us.archive.org/19/items/ultimate-action-01/Ult%20Act-03.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 12001,
+                "adBreaks": [
+                  "00:10:00",
+                  "00:20:00",
+                  "00:30:00",
+                  "00:40:00",
+                  "00:50:00",
+                  "01:00:00",
+                  "01:10:00",
+                  "01:20:00",
+                  "01:30:00",
+                  "01:40:00",
+                  "01:50:00",
+                  "02:00:00",
+                  "02:10:00",
+                  "02:20:00",
+                  "02:30:00",
+                  "02:40:00",
+                  "02:50:00",
+                  "03:00:00",
+                  "03:10:00",
+                  "03:20:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/roku-ult-action.jpg",
+              "episodeNumber": 3,
+              "releaseDate": "2024-03-08",
+              "shortDescription": "TODAY PROGRAM: MAXIMUM OVERDRIVE , LEVIATHAN",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            }
+          ],
+          "thumbnail": ""
+        }
+      ],
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/roku-ult-action.jpg",
+      "releaseDate": "2024-03-08",
+      "shortDescription": "LIVE ACTION TV SHOWS AND MOVIES PROGRAMMING BLOCK",
       "longDescription": "Long description of the content"
     }
   ]
