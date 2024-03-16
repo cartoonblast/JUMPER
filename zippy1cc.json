@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-03-08T09:54:47+00:00",
+  "lastUpdated": "2024-03-16T05:50:30+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -32,35 +32,6 @@
       "genres": [
         "animated",
         "special"
-      ]
-    },
-    {
-      "id": "0caed95b36a144b2a73ea39f6bd8c6d9",
-      "title": "CARTOON BLAST-LIVE",
-      "content": {
-        "dateAdded": "2023-11-14T19:34:32+00:00",
-        "videos": [
-          {
-            "url": "https://media.streambrothers.com:1936/8230/8230/playlist.m3u8",
-            "quality": "HD",
-            "videoType": "HLS"
-          }
-        ],
-        "duration": 356400
-      },
-      "thumbnail": "https://i.imgur.com/tKnzixC.png",
-      "brandedThumbnail": "https://i.imgur.com/tKnzixC.png",
-      "shortDescription": "24/7 CLASSIC CARTOONS CHANNEL",
-      "longDescription": "24/7 CLASSIC CARTOON CHANNEL",
-      "tags": [
-        "animated"
-      ],
-      "rating": {
-        "rating": "TVG",
-        "ratingSource": "MPAA"
-      },
-      "genres": [
-        "animated"
       ]
     }
   ],
@@ -889,6 +860,66 @@
               "episodeNumber": 14,
               "releaseDate": "2024-03-08",
               "shortDescription": "SATURDAY BLAST 14",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "7c179dd150254418bd1f3bd3073a4d00",
+              "title": "SATURDAY BLAST 15",
+              "content": {
+                "dateAdded": "2024-03-16T05:49:06+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801602.us.archive.org/16/items/saturday-morining-cartoons-saturday-blast-1/Saturday%20Blast%20Mix-24-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 20779,
+                "adBreaks": [
+                  "00:10:00",
+                  "00:20:00",
+                  "00:30:00",
+                  "00:40:00",
+                  "00:50:00",
+                  "01:00:00",
+                  "01:10:00",
+                  "01:20:00",
+                  "01:30:00",
+                  "01:40:00",
+                  "01:50:00",
+                  "02:00:00",
+                  "02:10:00",
+                  "02:20:00",
+                  "02:30:00",
+                  "02:40:00",
+                  "02:50:00",
+                  "03:00:00",
+                  "03:10:00",
+                  "03:20:00",
+                  "03:30:00",
+                  "03:40:00",
+                  "03:50:00",
+                  "04:00:00",
+                  "04:10:00",
+                  "04:20:00",
+                  "04:30:00",
+                  "04:40:00",
+                  "04:50:00",
+                  "05:00:00",
+                  "05:10:00",
+                  "05:20:00",
+                  "05:30:00",
+                  "05:40:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/5bf2f0287bb57e908e467183c688479fe7c207d9/Saturday_blast_morning_cartoons-logo-2023_.jpg",
+              "episodeNumber": 15,
+              "releaseDate": "2024-03-16",
+              "shortDescription": "Short description of the content",
               "longDescription": "Long description of the content",
               "rating": {
                 "rating": "TVY7",
@@ -3212,6 +3243,66 @@
                 "rating": "TV14",
                 "ratingSource": "MPAA"
               }
+            },
+            {
+              "id": "fc7c0f80b61e4305a1958d90a509d5e1",
+              "title": "WEEKEND CREEP-A-THON",
+              "content": {
+                "dateAdded": "2024-03-16T05:30:17+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out-Creepathon-%2004.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 20695,
+                "adBreaks": [
+                  "00:10:00",
+                  "00:20:00",
+                  "00:30:00",
+                  "00:40:00",
+                  "00:50:00",
+                  "01:00:00",
+                  "01:10:00",
+                  "01:20:00",
+                  "01:30:00",
+                  "01:40:00",
+                  "01:50:00",
+                  "02:00:00",
+                  "02:10:00",
+                  "02:20:00",
+                  "02:30:00",
+                  "02:40:00",
+                  "02:50:00",
+                  "03:00:00",
+                  "03:10:00",
+                  "03:20:00",
+                  "03:30:00",
+                  "03:40:00",
+                  "03:50:00",
+                  "04:00:00",
+                  "04:10:00",
+                  "04:20:00",
+                  "04:30:00",
+                  "04:40:00",
+                  "04:50:00",
+                  "05:00:00",
+                  "05:10:00",
+                  "05:20:00",
+                  "05:30:00",
+                  "05:40:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 7,
+              "releaseDate": "2024-03-16",
+              "shortDescription": "WEEKEND MOVIE SPOTLIGHT : HOUSE ON THE HAUNTED HILL , GARDEN OF TERROR, THEM!, GRAVEYARD SHIFT",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
             }
           ],
           "thumbnail": ""
@@ -3789,6 +3880,51 @@
               "longDescription": "Long description of the content",
               "rating": {
                 "rating": "TV14",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "ab45b92a9a594989b3d9ae533b9b49e5",
+              "title": "ULTIMATE ACTION 4",
+              "content": {
+                "dateAdded": "2024-03-16T05:34:39+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia800201.us.archive.org/19/items/ultimate-action-01/Ult-Action%204.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 11452,
+                "adBreaks": [
+                  "00:10:00",
+                  "00:20:00",
+                  "00:30:00",
+                  "00:40:00",
+                  "00:50:00",
+                  "01:00:00",
+                  "01:10:00",
+                  "01:20:00",
+                  "01:30:00",
+                  "01:40:00",
+                  "01:50:00",
+                  "02:00:00",
+                  "02:10:00",
+                  "02:20:00",
+                  "02:30:00",
+                  "02:40:00",
+                  "02:50:00",
+                  "03:00:00",
+                  "03:10:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/roku-ult-action.jpg",
+              "episodeNumber": 4,
+              "releaseDate": "2024-03-16",
+              "shortDescription": "MOVIE SPOTLIGHT: THE PUNISHER, ENTER THE NINJA",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVY14",
                 "ratingSource": "MPAA"
               }
             }
