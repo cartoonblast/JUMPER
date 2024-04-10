@@ -21,12 +21,12 @@
       "id": "6e0cfe9fa11c42329acd5f802d257294",
       "title": "BCS NETWORK LIVE",
       "content": {
-        "dateAdded": "2024-04-09T22:20:16+00:00",
+        "dateAdded": "2024-04-09T06:20:16+00:00",
         "videos": [
           {
             "url": "https://media.streambrothers.com:1936/8170/8170/playlist.m3u8",
             "quality": "HD",
-            "videoType": "MP4"
+            "videoType": "HLS"
           }
         ],
         "duration": 28800,
@@ -47,11 +47,6 @@
   "categories": [
     {
       "name": "LIVE FEED",
-      "query": "LIVEFEED",
-      "order": "most_recent"
-    },
-    {
-      "name": "LIVEFEED",
       "query": "LIVEFEED",
       "order": "most_recent"
     }
