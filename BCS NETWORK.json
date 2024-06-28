@@ -1,0 +1,41 @@
+{
+  "lastUpdated": "2024-04-10T05:50:19+00:00",
+  "providerName": "BCS NETWORK",
+  "language": "en-US",
+  "shortFormVideos": [
+    {
+      "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/s-l1200.jpg",
+      "shortDescription": "GRUV ENTERTAINMENT SPECIAL OFFERS",
+      "releaseDate": "2024-06-27",
+      "longDescription": "Long description of the content",
+      "tags": [
+        "advertisement"
+      ],
+      "rating": {
+        "rating": "G",
+        "ratingSource": "MPAA"
+      },
+      "id": "6218d3d267294758895703e48c8694cf",
+      "title": "GRUV",
+      "content": {
+        "dateAdded": "2024-06-27T19:33:40+00:00",
+        "videos": [
+          {
+            "url": "https://ia801303.us.archive.org/1/items/ads-roku-1/G-ONEghot.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 1920,
+        "language": "en-US"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "name": "advertisement- SUPPORT CHANNEL",
+      "query": "advertisement",
+      "order": "most_recent"
+    }
+  ]
+}
