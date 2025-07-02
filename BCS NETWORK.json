@@ -29,6 +29,33 @@
         "duration": 1920,
         "language": "en-US"
       }
+    },
+    {
+      "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/refs/heads/master/GAMEFLY-NEW.jpg",
+      "shortDescription": "GAMEFLY 30 DAY TRIAL FREE",
+      "releaseDate": "2025-06-30",
+      "longDescription": "Long description of the content",
+      "tags": [
+        "advertisement"
+      ],
+      "rating": {
+        "rating": "G",
+        "ratingSource": "MPAA"
+      },
+      "id": "1ec9d00ba46049998db602a0046435c3",
+      "title": "GAMEFLY AD-GAMELOCK 30 DAY TRIAL",
+      "content": {
+        "dateAdded": "2025-06-30T12:47:13+00:00",
+        "videos": [
+          {
+            "url": "https://ia801303.us.archive.org/1/items/ads-roku-1/PROMO-GAMEFLY-AD-JUNE.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 71,
+        "language": "en-US"
+      }
     }
   ],
   "categories": [
