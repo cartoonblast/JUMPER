@@ -47,7 +47,7 @@
               "id": "d2fd87dd454a43e487efa31f838b0b06",
               "title": "SATURDAY BLAST -1",
               "content": {
-                "dateAdded": "2024-01-24T20:33:08+00:00",
+                "dateAdded": "2024-01-24T15:33:08+00:00",
                 "videos": [
                   {
                     "url": "https://ia801602.us.archive.org/16/items/saturday-morining-cartoons-saturday-blast-1/Saturday%20Blast%20Mix%2011-1.mp4",
@@ -936,7 +936,7 @@
               "id": "fc3cfd28f6c241899bb1702c03900669",
               "title": "SEASON 2 PREVIEW",
               "content": {
-                "dateAdded": "2024-02-10T00:16:25+00:00",
+                "dateAdded": "2024-02-09T19:16:25+00:00",
                 "videos": [
                   {
                     "url": "https://ia601602.us.archive.org/16/items/saturday-morining-cartoons-saturday-blast-1/%F0%9F%94%B4247%20CARTOON%20BLAST%20-%20SATURDAY%20MORNINGS%20ACTION%20CARTOONS-%20%F0%9F%94%B4Live%20Stream.mp4",
@@ -1113,6 +1113,63 @@
               "longDescription": "SATURDAY MORNING CARTOONS MIX",
               "rating": {
                 "rating": "PG",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "21ee8c0a73e04c78b8f4efaf81a0fc09",
+              "title": "SATURDAY BLAST 60'S MIX-1",
+              "content": {
+                "dateAdded": "2025-07-27T17:54:35+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia801602.us.archive.org/16/items/saturday-morining-cartoons-saturday-blast-1/6o%27S-MIX.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 12604,
+                "language": "en-US",
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00",
+                  "02:55:00",
+                  "03:02:00",
+                  "03:09:00",
+                  "03:16:00",
+                  "03:23:00",
+                  "03:30:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/5bf2f0287bb57e908e467183c688479fe7c207d9/Saturday_blast_morning_cartoons-logo-2023_.jpg",
+              "episodeNumber": 3,
+              "releaseDate": "2025-07-27",
+              "shortDescription": "CARTOON FROM THE 60'S MIX",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "G",
                 "ratingSource": "MPAA"
               }
             }
@@ -1942,7 +1999,7 @@
               "id": "4956736abee4495b9bf1c7ec2984ded1",
               "title": "FAR-OUT THEATER #1",
               "content": {
-                "dateAdded": "2024-02-09T16:49:17+00:00",
+                "dateAdded": "2024-02-09T01:49:17+00:00",
                 "videos": [
                   {
                     "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out%20Theater-01-1.mp4",
@@ -1951,6 +2008,7 @@
                   }
                 ],
                 "duration": 2693,
+                "language": "en-US",
                 "adBreaks": [
                   "00:07:00",
                   "00:14:00",
@@ -1966,7 +2024,7 @@
               "shortDescription": "TALE FROM THE DARKSIDE",
               "longDescription": "Long description of the content",
               "rating": {
-                "rating": "TV14",
+                "rating": "",
                 "ratingSource": "MPAA"
               }
             },
@@ -2377,7 +2435,7 @@
               "id": "5328dc33616a4f7bac7754144065c905",
               "title": "24/7 - LIVE FAR-OUT THEATER- PREVIEW 1",
               "content": {
-                "dateAdded": "2024-02-10T19:44:42+00:00",
+                "dateAdded": "2024-02-10T09:44:42+00:00",
                 "videos": [
                   {
                     "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/%F0%9F%94%B4247%20LIVE%20-%20FAR-OUT%20THEATER%20PRESENT%20SUSPENSE%20%20-PREVIEWi.mp4",
@@ -2385,7 +2443,8 @@
                     "videoType": "MP4"
                   }
                 ],
-                "duration": 42898,
+                "duration": 3298,
+                "language": "en-US",
                 "adBreaks": [
                   "00:07:00",
                   "00:14:00",
@@ -2497,7 +2556,7 @@
               "shortDescription": "PREVIEW-LIVE COMING SOON",
               "longDescription": "Long description of the content",
               "rating": {
-                "rating": "TVY14",
+                "rating": "",
                 "ratingSource": "MPAA"
               }
             },
@@ -2966,6 +3025,23 @@
                 "rating": "TVY14",
                 "ratingSource": "MPAA"
               }
+            },
+            {
+              "id": "ef6556a09f804e9ba39b959195ff6610",
+              "title": "Content title",
+              "content": {
+                "dateAdded": "2025-07-27T17:37:12+00:00",
+                "language": "en-US"
+              },
+              "thumbnail": "https://",
+              "episodeNumber": 6,
+              "releaseDate": "2025-07-27",
+              "shortDescription": "Short description of the content",
+              "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "",
+                "ratingSource": "MPAA"
+              }
             }
           ]
         },
@@ -2976,7 +3052,7 @@
               "id": "cee67bddab424fe1b9f065a5fa3fd475",
               "title": "Far-Out Theater-Movie Of The Week-01",
               "content": {
-                "dateAdded": "2024-02-11T16:36:11+00:00",
+                "dateAdded": "2024-02-11T01:36:11+00:00",
                 "videos": [
                   {
                     "url": "https://ia601304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out%20Theater-Movie%20Of%20The%20Week-01-1.mp4",
@@ -2985,6 +3061,7 @@
                   }
                 ],
                 "duration": 4976,
+                "language": "en-US",
                 "adBreaks": [
                   "00:07:00",
                   "00:14:00",
@@ -3005,7 +3082,7 @@
               "shortDescription": "MOVIE- PREVIEW : LADY BUG, LADY BUG",
               "longDescription": "Long description of the content",
               "rating": {
-                "rating": "TV14",
+                "rating": "",
                 "ratingSource": "MPAA"
               }
             },
@@ -3320,7 +3397,7 @@
               "id": "fc7c0f80b61e4305a1958d90a509d5e1",
               "title": "WEEKEND CREEP-A-THON",
               "content": {
-                "dateAdded": "2024-03-16T05:30:17+00:00",
+                "dateAdded": "2024-03-16T01:30:17+00:00",
                 "videos": [
                   {
                     "url": "https://ia801304.us.archive.org/33/items/far-out-theater-08-redo-1/Far-Out-Creepathon-%2004.mp4",
@@ -3329,6 +3406,7 @@
                   }
                 ],
                 "duration": 20695,
+                "language": "en-US",
                 "adBreaks": [
                   "00:10:00",
                   "00:20:00",
@@ -3372,7 +3450,106 @@
               "shortDescription": "WEEKEND MOVIE SPOTLIGHT : HOUSE ON THE HAUNTED HILL , GARDEN OF TERROR, THEM!, GRAVEYARD SHIFT",
               "longDescription": "Long description of the content",
               "rating": {
-                "rating": "TV14",
+                "rating": "",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "66215236be4e42b3a742a2a842885b45",
+              "title": "FAR-OUT THEATER-MOVIE- SPECIAL",
+              "content": {
+                "dateAdded": "2025-07-27T09:38:03+00:00",
+                "videos": [
+                  {
+                    "url": "https://ia601304.us.archive.org/33/items/far-out-theater-08-redo-1/creepathon-special%201.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 30599,
+                "language": "en-US",
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00",
+                  "02:55:00",
+                  "03:02:00",
+                  "03:09:00",
+                  "03:16:00",
+                  "03:23:00",
+                  "03:30:00",
+                  "03:37:00",
+                  "03:44:00",
+                  "03:51:00",
+                  "03:58:00",
+                  "04:05:00",
+                  "04:12:00",
+                  "04:19:00",
+                  "04:26:00",
+                  "04:33:00",
+                  "04:40:00",
+                  "04:47:00",
+                  "04:54:00",
+                  "05:01:00",
+                  "05:08:00",
+                  "05:15:00",
+                  "05:22:00",
+                  "05:29:00",
+                  "05:36:00",
+                  "05:43:00",
+                  "05:50:00",
+                  "05:57:00",
+                  "06:04:00",
+                  "06:11:00",
+                  "06:18:00",
+                  "06:25:00",
+                  "06:32:00",
+                  "06:39:00",
+                  "06:46:00",
+                  "06:53:00",
+                  "07:00:00",
+                  "07:07:00",
+                  "07:14:00",
+                  "07:21:00",
+                  "07:28:00",
+                  "07:35:00",
+                  "07:42:00",
+                  "07:49:00",
+                  "07:56:00",
+                  "08:03:00",
+                  "08:10:00",
+                  "08:17:00",
+                  "08:24:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
+              "episodeNumber": 8,
+              "releaseDate": "2025-07-27",
+              "shortDescription": "CREEPATHON SPECIAL",
+              "longDescription": "HORROR,SCFI MOVIE MIX",
+              "rating": {
+                "rating": "PG-13",
                 "ratingSource": "MPAA"
               }
             }
@@ -3385,7 +3562,10 @@
       "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/farout-logo-roku.png",
       "releaseDate": "2024-02-09",
       "shortDescription": "BCS NETWORK'S  FAROUT THEATER -LIVE ACTION CLASSIC HORROR AND SCI FI TV AND MOVIES PROGRAMMING BLOCK.",
-      "longDescription": "Long description of the content"
+      "longDescription": "Long description of the content",
+      "tags": [
+        "FAR OUT THEATER"
+      ]
     },
     {
       "id": "2c80a1a202854a0498724535caa77ab0",
@@ -4013,6 +4193,16 @@
     {
       "name": "SATURDAY BLAST",
       "order": "manual"
+    },
+    {
+      "name": "FAR OUT THEATER",
+      "query": "FAR OUT THEATER",
+      "order": "most_recent"
+    }
+  ],
+  "playlists": [
+    {
+      "name": "FAR-OUT THEATER"
     }
   ]
 }
