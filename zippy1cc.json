@@ -4196,8 +4196,7 @@
     },
     {
       "name": "FAR OUT THEATER",
-      "query": "FAR OUT THEATER",
-      "order": "most_recent"
+      "order": "manual"
     }
   ],
   "playlists": [
