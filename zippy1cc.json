@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-03-16T05:50:30+00:00",
+  "lastUpdated": "2025-08-16T06:25:51+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -18,7 +18,7 @@
         "duration": 324000,
         "validityPeriodEnd": "2024-04-30T17:31:36+00:00"
       },
-      "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/CARTOON%20BLAST%20RADIO.png",
+      "thumbnail": "https://i.imgur.com/tKnzixC.png",
       "brandedThumbnail": "https://i.imgur.com/tKnzixC.png",
       "shortDescription": "live radio that play various cartoon intros and soundtracks",
       "longDescription": "'Cartoon Blast Radio'- various cartoon intros and soundtracks",
@@ -27,6 +27,36 @@
       ],
       "rating": {
         "rating": "G",
+        "ratingSource": "MPAA"
+      },
+      "genres": [
+        "animated",
+        "special"
+      ]
+    },
+    {
+      "id": "8c2b1abb3b1e4002808843d085bd0d3e",
+      "title": "CARTOON BLAST-PLAYLIST",
+      "content": {
+        "dateAdded": "2025-08-16T18:16:59+00:00",
+        "videos": [
+          {
+            "url": "https://live20.bozztv.com/giatvplayout7/giatv-209384/tracks-v1a1/mono.ts.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ],
+        "duration": 324000
+      },
+      "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/5bf2f0287bb57e908e467183c688479fe7c207d9/Saturday_blast_morning_cartoons-logo-2023_.jpg",
+      "brandedThumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/5bf2f0287bb57e908e467183c688479fe7c207d9/Saturday_blast_morning_cartoons-logo-2023_.jpg",
+      "shortDescription": "RANDOM CARTOONS-PLAYLIST",
+      "longDescription": "CARTOONS- PLAYING RANDOM SHOWS",
+      "tags": [
+        "animated"
+      ],
+      "rating": {
+        "rating": "PG",
         "ratingSource": "MPAA"
       },
       "genres": [
