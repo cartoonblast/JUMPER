@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:EVENT
+
+#EXTINF:0,
+https://ia801303.us.archive.org/1/items/ads-roku-1/AUDIO%20BOOKS-ADS.mp4
+
+#EXTINF:0,
+https://ia801303.us.archive.org/1/items/ads-roku-1/G-ONEghot.mp4
+
+#EXTINF:0,
+https://ia801303.us.archive.org/1/items/ads-roku-1/nord%20vpn-2.mp4
