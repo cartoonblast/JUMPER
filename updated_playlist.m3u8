@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="audiobooks" tvg-name="Audio Books Ad" tvg-logo="https://via.placeholder.com/150" group-title="Ads", Audio Books Ad
+https://ia801303.us.archive.org/1/items/ads-roku-1/AUDIO%20BOOKS-ADS.mp4
+
+#EXTINF:-1 tvg-id="goneghot" tvg-name="G-One Ghot" tvg-logo="https://via.placeholder.com/150" group-title="Ads", G-One Ghot
+https://ia801303.us.archive.org/1/items/ads-roku-1/G-ONEghot.mp4
+
+#EXTINF:-1 tvg-id="nordvpn" tvg-name="NordVPN Ad" tvg-logo="https://via.placeholder.com/150" group-title="Ads", NordVPN Ad
+https://ia801303.us.archive.org/1/items/ads-roku-1/nord%20vpn-2.mp4
+
+#EXTINF:-1 tvg-id="cartoon1" tvg-name="Cartoon Overload 04" tvg-logo="https://via.placeholder.com/150" group-title="Cartoons", Cartoon Overload 04
+https://ia801300.us.archive.org/17/items/cartoon-overload-04/Cartoon%20Overload-04.mp4
+
+#EXTINF:-1 tvg-id="cartoon2" tvg-name="Cartoon Overload 3" tvg-logo="https://via.placeholder.com/150" group-title="Cartoons", Cartoon Overload 3
+https://ia801300.us.archive.org/17/items/cartoon-overload-04/Cartoon%20Overload-3.mp4
+
+#EXTINF:-1 tvg-id="cartoon3" tvg-name="Cartoon Overload Compilation 01" tvg-logo="https://via.placeholder.com/150" group-title="Cartoons", Cartoon Overload Compilation 01
+https://ia601300.us.archive.org/17/items/cartoon-overload-04/Cartoon%20Overload-Comp-01.mp4
+
+#EXTINF:-1 tvg-id="cartoon4" tvg-name="Cartoon Overload Compilation 02" tvg-logo="https://via.placeholder.com/150" group-title="Cartoons", Cartoon Overload Compilation 02
+https://ia801300.us.archive.org/17/items/cartoon-overload-04/Cartoon%20Overload-Comp-02.mp4
+
+#EXTINF:-1 tvg-id="cartoon5" tvg-name="De D-Kartoon 1" tvg-logo="https://via.placeholder.com/150" group-title="Cartoons", De D-Kartoon 1
+https://ia801300.us.archive.org/17/items/cartoon-overload-04/De%20D-kartoon1.mp4
+
+#EXTINF:-1 tvg-id="cartoon6" tvg-name="De D-Kartoon 2" tvg-logo="https://via.placeholder.com/150" group-title="Cartoons", De D-Kartoon 2
+https://ia801300.us.archive.org/17/items/cartoon-overload-04/DeD-kartoon2.mp4
+
+#EXTINF:-1 tvg-id="cartoon7" tvg-name="PB Cartoon Mix 1" tvg-logo="https://via.placeholder.com/150" group-title="Cartoons", PB Cartoon Mix 1
+https://ia801300.us.archive.org/17/items/cartoon-overload-04/Pb-Cartoon-Mix1.mp4
