@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-16T06:25:51+00:00",
+  "lastUpdated": "2025-08-29T12:15:36+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -18,7 +18,7 @@
         "duration": 324000,
         "validityPeriodEnd": "2024-04-30T17:31:36+00:00"
       },
-      "thumbnail": "https://i.imgur.com/tKnzixC.png",
+      "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/refs/heads/master/CARTOON%20BLAST%20RADIO.png",
       "brandedThumbnail": "https://i.imgur.com/tKnzixC.png",
       "shortDescription": "live radio that play various cartoon intros and soundtracks",
       "longDescription": "'Cartoon Blast Radio'- various cartoon intros and soundtracks",
@@ -62,6 +62,35 @@
       "genres": [
         "animated",
         "special"
+      ]
+    },
+    {
+      "id": "45806198d0ed4d3ab56421125d011be4",
+      "title": "THE MIDNITE HOUR",
+      "content": {
+        "dateAdded": "2025-08-28T23:45:14+00:00",
+        "videos": [
+          {
+            "url": "https://live20.bozztv.com/giatvplayout7/giatv-210481/tracks-v1a1/mono.ts.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ],
+        "duration": 356400
+      },
+      "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/refs/heads/master/MH-LOGO-2024.png",
+      "brandedThumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/ANIME_BLAST_GO_COOL_SLEEK_STYLIZED_VECTOR_LOG%20(1).png",
+      "shortDescription": "24/7 MATURE SCI FI- ANIME PROGRAMMING BLOCK",
+      "longDescription": "RETRO ANIME,SCI FI LIVE ACTION",
+      "tags": [
+        "anime"
+      ],
+      "rating": {
+        "rating": "PG13",
+        "ratingSource": "MPAA"
+      },
+      "genres": [
+        "anime"
       ]
     }
   ],
