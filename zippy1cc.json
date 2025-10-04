@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-29T12:15:36+00:00",
+  "lastUpdated": "2025-10-04T05:35:13+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -91,6 +91,33 @@
       },
       "genres": [
         "anime"
+      ]
+    },
+    {
+      "id": "dba16661ca1440e98ff11739a5106184",
+      "title": "FAROUT THEATER",
+      "content": {
+        "dateAdded": "2025-10-04T17:17:30+00:00",
+        "videos": [
+          {
+            "url": "https://live20.bozztv.com/giatvplayout7/giatv-210616/tracks-v1a1/mono.ts.m3u8",
+            "quality": "HD",
+            "videoType": "HLS"
+          }
+        ],
+        "duration": 356400,
+        "validityPeriodEnd": "2026-10-25T17:35:24+00:00"
+      },
+      "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/refs/heads/master/farout-logo-roku.png",
+      "brandedThumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/refs/heads/master/farout-logo-roku.png",
+      "shortDescription": "RETRO SCI FI, HORROR MOVIES AND TV",
+      "longDescription": "RETRO TV NETWORK",
+      "rating": {
+        "rating": "PG13",
+        "ratingSource": "MPAA"
+      },
+      "genres": [
+        "horror"
       ]
     }
   ],
