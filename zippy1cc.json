@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-04T05:35:13+00:00",
+  "lastUpdated": "2025-12-18T10:35:38+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -1007,6 +1007,97 @@
               "releaseDate": "2024-03-16",
               "shortDescription": "Short description of the content",
               "longDescription": "Long description of the content",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "8e7f9b9855e947f2bd7c69279d337131",
+              "title": "CHRISTMAS BLAST PART 1",
+              "content": {
+                "dateAdded": "2025-12-18T10:13:47+00:00",
+                "videos": [
+                  {
+                    "url": "https://dn710001.ca.archive.org/0/items/saturday-morining-cartoons-saturday-blast-1/chr1stmas%20spec1al-2024.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 15040
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/5bf2f0287bb57e908e467183c688479fe7c207d9/Saturday_blast_morning_cartoons-logo-2023_.jpg",
+              "episodeNumber": 16,
+              "releaseDate": "2025-12-18",
+              "shortDescription": "CARTOON BLAST CHRISTMAS SPECIAL",
+              "longDescription": "4 HOURS OF YOUR FAVORITE CHRISTMAS CARTOONS.",
+              "rating": {
+                "rating": "TVY7",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "23aafae6a3104fe7bf731d96535b1f55",
+              "title": "CHRISTMAS BLAST PART 2",
+              "content": {
+                "dateAdded": "2025-12-18T10:21:39+00:00",
+                "videos": [
+                  {
+                    "url": "https://dn710001.ca.archive.org/0/items/saturday-morining-cartoons-saturday-blast-1/chr1stmas%20spec1al-2024-pt2.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 19860,
+                "adBreaks": [
+                  "00:08:00",
+                  "00:16:00",
+                  "00:24:00",
+                  "00:32:00",
+                  "00:40:00",
+                  "00:48:00",
+                  "00:56:00",
+                  "01:04:00",
+                  "01:12:00",
+                  "01:20:00",
+                  "01:28:00",
+                  "01:36:00",
+                  "01:44:00",
+                  "01:52:00",
+                  "02:00:00",
+                  "02:08:00",
+                  "02:16:00",
+                  "02:24:00",
+                  "02:32:00",
+                  "02:40:00",
+                  "02:48:00",
+                  "02:56:00",
+                  "03:04:00",
+                  "03:12:00",
+                  "03:20:00",
+                  "03:28:00",
+                  "03:36:00",
+                  "03:44:00",
+                  "03:52:00",
+                  "04:00:00",
+                  "04:08:00",
+                  "04:16:00",
+                  "04:24:00",
+                  "04:32:00",
+                  "04:40:00",
+                  "04:48:00",
+                  "04:56:00",
+                  "05:04:00",
+                  "05:12:00",
+                  "05:20:00",
+                  "05:28:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/5bf2f0287bb57e908e467183c688479fe7c207d9/Saturday_blast_morning_cartoons-logo-2023_.jpg",
+              "episodeNumber": 17,
+              "releaseDate": "2025-12-18",
+              "shortDescription": "CHRISTMAS CARTOONS",
+              "longDescription": "4 HOURS OF YOUR FAVORITE CHRISTMAS CARTOONS.",
               "rating": {
                 "rating": "TVY7",
                 "ratingSource": "MPAA"
