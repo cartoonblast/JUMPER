@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-18T10:35:38+00:00",
+  "lastUpdated": "2026-01-03T02:31:52+00:00",
   "providerName": "brickcitystudio",
   "language": "en-US",
   "liveFeeds": [
@@ -2014,6 +2014,333 @@
               "longDescription": "Long description of the content",
               "rating": {
                 "rating": "UNRATED",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "e073dc8fd0074d6f94aa4940bfc87902",
+              "title": "MIDNITE HOUR 9",
+              "content": {
+                "dateAdded": "2026-01-03T02:08:29+00:00",
+                "videos": [
+                  {
+                    "url": "https://dn710109.ca.archive.org/0/items/midnite-hour-01-2024/Midnitehour-9-1.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 11873,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00",
+                  "02:55:00",
+                  "03:02:00",
+                  "03:09:00",
+                  "03:16:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
+              "episodeNumber": 9,
+              "releaseDate": "2026-01-03",
+              "shortDescription": "RETRO ANIME BLOCK",
+              "longDescription": "RETRO ANIME BLOCK",
+              "rating": {
+                "rating": "TVMA",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "0242876aabfa4dc39c2fecb47bee400f",
+              "title": "MIDNITE HOUR 10",
+              "content": {
+                "dateAdded": "2026-01-03T02:08:47+00:00",
+                "videos": [
+                  {
+                    "url": "https://dn710109.ca.archive.org/0/items/midnite-hour-01-2024/mid-nite%20hour-10.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 11078,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00",
+                  "02:55:00",
+                  "03:02:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
+              "episodeNumber": 10,
+              "releaseDate": "2026-01-03",
+              "shortDescription": "RETRO ANIME BLOCK",
+              "longDescription": "RETRO ANIME BLOCK",
+              "rating": {
+                "rating": "TVMA",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "cc82b710ab284d7c9ef752832e5c8612",
+              "title": "MIDNITE HOUR 11",
+              "content": {
+                "dateAdded": "2026-01-03T02:09:06+00:00",
+                "videos": [
+                  {
+                    "url": "https://dn710109.ca.archive.org/0/items/midnite-hour-01-2024/MID-NITE%20HOUR%2012.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 16245,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00",
+                  "02:55:00",
+                  "03:02:00",
+                  "03:09:00",
+                  "03:16:00",
+                  "03:23:00",
+                  "03:30:00",
+                  "03:37:00",
+                  "03:44:00",
+                  "03:51:00",
+                  "03:58:00",
+                  "04:05:00",
+                  "04:12:00",
+                  "04:19:00",
+                  "04:26:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
+              "episodeNumber": 11,
+              "releaseDate": "2026-01-03",
+              "shortDescription": "RETRO ANIME BLOCK",
+              "longDescription": "RETRO ANIME BLOCK",
+              "rating": {
+                "rating": "TVMA",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "821dd5b7610a497e90db1ae1967a231b",
+              "title": "MIDNITE HOUR 12",
+              "content": {
+                "dateAdded": "2026-01-03T02:22:18+00:00",
+                "videos": [
+                  {
+                    "url": "https://dn710109.ca.archive.org/0/items/midnite-hour-01-2024/MID-NITE%20HOUR%2013.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 7762,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
+              "episodeNumber": 12,
+              "releaseDate": "2026-01-03",
+              "shortDescription": "RETRO ANIME BLOCK",
+              "longDescription": "RETRO ANIME BLOCK",
+              "rating": {
+                "rating": "TVMA",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "64d158ace54e4d5fb13ab5d9c5e29809",
+              "title": "MIDNITE HOUR 13",
+              "content": {
+                "dateAdded": "2026-01-03T02:22:24+00:00",
+                "videos": [
+                  {
+                    "url": "https://dn710109.ca.archive.org/0/items/midnite-hour-01-2024/MID-NITE%20HOUR%2014.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 10449,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
+              "episodeNumber": 13,
+              "releaseDate": "2026-01-03",
+              "shortDescription": "RETRO ANIME BLOCK",
+              "longDescription": "RETRO ANIME BLOCK",
+              "rating": {
+                "rating": "TVMA",
+                "ratingSource": "MPAA"
+              }
+            },
+            {
+              "id": "fd037bf4bb7a49449ee9e4efe4c8c73a",
+              "title": "MIDNITE HOUR 14",
+              "content": {
+                "dateAdded": "2026-01-03T02:22:38+00:00",
+                "videos": [
+                  {
+                    "url": "https://dn710109.ca.archive.org/0/items/midnite-hour-01-2024/MID-NITE%20HOUR%2015.mp4",
+                    "quality": "HD",
+                    "videoType": "MP4"
+                  }
+                ],
+                "duration": 15674,
+                "adBreaks": [
+                  "00:07:00",
+                  "00:14:00",
+                  "00:21:00",
+                  "00:28:00",
+                  "00:35:00",
+                  "00:42:00",
+                  "00:49:00",
+                  "00:56:00",
+                  "01:03:00",
+                  "01:10:00",
+                  "01:17:00",
+                  "01:24:00",
+                  "01:31:00",
+                  "01:38:00",
+                  "01:45:00",
+                  "01:52:00",
+                  "01:59:00",
+                  "02:06:00",
+                  "02:13:00",
+                  "02:20:00",
+                  "02:27:00",
+                  "02:34:00",
+                  "02:41:00",
+                  "02:48:00",
+                  "02:55:00",
+                  "03:02:00",
+                  "03:09:00",
+                  "03:16:00",
+                  "03:23:00",
+                  "03:30:00",
+                  "03:37:00",
+                  "03:44:00",
+                  "03:51:00",
+                  "03:58:00",
+                  "04:05:00",
+                  "04:12:00",
+                  "04:19:00"
+                ]
+              },
+              "thumbnail": "https://raw.githubusercontent.com/cartoonblast/JUMPER/master/MH-LOGO-2024.png",
+              "episodeNumber": 14,
+              "releaseDate": "2026-01-03",
+              "shortDescription": "RETRO ANIME BLOCK",
+              "longDescription": "RERTO ANIME BLOCK",
+              "rating": {
+                "rating": "TVMA",
                 "ratingSource": "MPAA"
               }
             }
